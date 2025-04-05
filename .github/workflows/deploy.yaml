@@ -28,13 +28,11 @@ jobs:
       - name: build
         env:
           BASE_PATH: "/${{ github.event.repository.name }}"
-        run: pnpm run build
-
-      - name: Upload Artifacts
-        uses: actions/upload-pages-artifact@v3
-        with:
-          # this should match the `pages` option in your adapter-static options
-          path: "build/"
+        run: |
+          echo "Starting build with base path: $BASE_PATH"
+          pnpm run build --verbose
+          echo "Build complete, checking output directory:"
+          ls -la build/
 
   deploy:
     needs: build_site
