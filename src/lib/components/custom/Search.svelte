@@ -72,10 +72,11 @@
 		}
 	}
 
-	function handleItemClick(word: string) {
-		goto(`/?word=${word}`);
+    function handleItemClick(word: string) {
+        const basePath = import.meta.env.BASE_URL;
+        goto(`${basePath}?word=${word}`);
 		searchTerm = "";
-	}
+    }
 </script>
 
 <Card class="w-full">
