@@ -1,4 +1,8 @@
+import { browser } from "$app/environment";
+
 export async function load({ url }) {
-	let word = url.searchParams.get("word");
-	return { word };
+	if (browser) {
+		let word = url.searchParams.get("word");
+		return { word };
+	}
 }
