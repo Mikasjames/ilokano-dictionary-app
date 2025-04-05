@@ -1,4 +1,3 @@
-import { dev } from "$app/environment";
 import adapter from "@sveltejs/adapter-static";
 import { vitePreprocess } from "@sveltejs/vite-plugin-svelte";
 
@@ -13,7 +12,7 @@ const config = {
 			fallback: "404.html" // Required for SPAs on GitHub Pages
 		}),
 		paths: {
-			base: dev ? "" : process.env.BASE_PATH
+			base: process.argv.includes("dev") ? "" : process.env.BASE_PATH
 		}
 		// adapter-auto only supports some environments, see https://svelte.dev/docs/kit/adapter-auto for a list.
 		// If your environment is not supported, or you settled on a specific environment, switch out the adapter.
