@@ -73,7 +73,7 @@
 	}
 
 	function handleItemClick(word: string) {
-		goto(`/${word}`);
+		goto(`/?word=${word}`);
 		searchTerm = "";
 	}
 </script>
