@@ -30,7 +30,7 @@ jobs:
           BASE_PATH: "/${{ github.event.repository.name }}"
         run: |
           echo "Starting build with base path: $BASE_PATH"
-          pnpm run build --verbose
+          pnpm run build
           echo "Build complete, checking output directory:"
           ls -la build/
 
