@@ -11,11 +11,11 @@
 	import { getPartsOfSpeech } from "$lib/utils";
 	import type { Definition } from "$lib/types/types";
 
-	export let word: string | null;
+	export let word: string | null | undefined;
 
 	let definitions: Definition[];
 
-	async function loadWord(word: string | null) {
+	async function loadWord(word: string | null | undefined) {
 		if (!word) {
 			definitions = [];
 			return;
