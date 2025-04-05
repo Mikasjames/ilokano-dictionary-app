@@ -3,8 +3,6 @@ import { vitePreprocess } from "@sveltejs/vite-plugin-svelte";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	// Consult https://svelte.dev/docs/kit/integrations
-	// for more information about preprocessors
 	preprocess: vitePreprocess(),
 
 	kit: {
@@ -12,11 +10,8 @@ const config = {
 			fallback: "404.html" // Required for SPAs on GitHub Pages
 		}),
 		paths: {
-			base: process.argv.includes("dev") ? "" : process.env.BASE_PATH
+			base: process.argv.includes("dev") ? "" : process.env.BASE_PATH || ""
 		}
-		// adapter-auto only supports some environments, see https://svelte.dev/docs/kit/adapter-auto for a list.
-		// If your environment is not supported, or you settled on a specific environment, switch out the adapter.
-		// See https://svelte.dev/docs/kit/adapters for more information about adapters.
 	}
 };
 
