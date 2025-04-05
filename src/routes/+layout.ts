@@ -1,7 +1,5 @@
 import { browser } from "$app/environment";
-
-export const prerender = true;
-
+export const trailingSlash = "always";
 export const load = async () => {
 	if (browser && "serviceWorker" in navigator) {
 		navigator.serviceWorker
