@@ -6,6 +6,7 @@
 		CardDescription,
 		CardContent
 	} from "$lib/components/ui/card";
+	import { toast } from "svelte-sonner";
 	import * as Command from "$lib/components/ui/command/index.js";
 	import { browser } from "$app/environment";
 	import { Loader2 } from "lucide-svelte";
@@ -45,6 +46,7 @@
 			noResultsFound = results.length === 0;
 		} catch (error) {
 			console.error("Error loading dictionary:", error);
+			toast.error("Error loading data. Please try again.");
 			results = [];
 			error = "Error loading dictionary. Please try again.";
 		} finally {
