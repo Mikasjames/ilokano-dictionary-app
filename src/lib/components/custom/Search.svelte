@@ -12,11 +12,11 @@
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
 
-	let searchTerm = "";
-	let results: [string, Definition[]][] = [];
-	let isLoading = false;
-	let noResultsFound = false;
-	let error: string | null = null;
+	let searchTerm = $state("");
+	let results: [string, Definition[]][] = $state([]);
+	let isLoading = $state(false);
+	let noResultsFound = $state(false);
+	let error: string | null = $state(null);
 
 	async function search() {
 		if (!browser || !searchTerm.trim()) return;
@@ -28,7 +28,6 @@
 		try {
 			const letter = searchTerm.charAt(0).toUpperCase();
 
-			// Handle case where user enters non-alphabetic character
 			if (!/[A-Z]/.test(letter)) {
 				error = "Please enter a word that starts with a letter";
 				results = [];
@@ -39,7 +38,6 @@
 			const dict = await import(`$lib/${letter}.json`);
 			const def: Record<string, Definition[]> = dict.default;
 
-			// Filter for words that start with the search term
 			results = Object.entries(def).filter(([word]) =>
 				word.toLowerCase().startsWith(searchTerm.toLowerCase())
 			);
@@ -54,29 +52,28 @@
 		}
 	}
 
-	// Use a debounced approach to avoid too many searches while typing
 	let searchTimeout: ReturnType<typeof setTimeout>;
 
-	$: {
+	$effect(() => {
 		clearTimeout(searchTimeout);
 		if (searchTerm.trim()) {
 			isLoading = true;
 			searchTimeout = setTimeout(() => {
 				search();
-			}, 300); // 300ms debounce
+			}, 300);
 		} else {
 			results = [];
 			isLoading = false;
 			noResultsFound = false;
 			error = null;
 		}
-	}
+	});
 
-    function handleItemClick(word: string) {
-        const basePath = import.meta.env.BASE_URL;
-        goto(`${basePath}?word=${word}`);
+	function handleItemClick(word: string) {
+		const basePath = import.meta.env.BASE_URL;
+		goto(`${basePath}?word=${word}`);
 		searchTerm = "";
-    }
+	}
 </script>
 
 <Card class="w-full">

@@ -11,9 +11,9 @@
 	import { getPartsOfSpeech } from "$lib/utils";
 	import type { Definition } from "$lib/types/types";
 
-	export let word: string | null | undefined;
+	let { word }: { word: string | null | undefined } = $props();
 
-	let definitions: Definition[];
+	let definitions: Definition[] = $state([]);
 
 	async function loadWord(word: string | null | undefined) {
 		if (!word) {
@@ -25,17 +25,12 @@
 		const dict = await import(`$lib/${letter}.json`);
 		const def: Record<string, Definition[]> = dict.default;
 
-		console.log(word);
-		console.log(dict[word]);
-		console.log(dict);
-		console.log(Object.keys(dict));
-
 		definitions = def[word];
 	}
 
-	$: {
+	$effect(() => {
 		loadWord(word);
-	}
+	});
 </script>
 
 <div class="space-y-4">
