@@ -1,10 +1,11 @@
 <script>
-	import Search from "$lib/components/custom/Search.svelte";
-	let { children } = $props();
+	import { Toaster } from "$lib/components/ui/sonner";
+	import { ModeWatcher } from "mode-watcher";
 	import "../app.css";
+
+	let { children } = $props();
 </script>
 
-<div class="max-w-3xl mx-auto p-4 space-y-4">
-	<Search />
-	{@render children()}
-</div>
+<ModeWatcher />
+<Toaster position="top-right" />
+{@render children()}

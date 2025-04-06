@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { Button } from "$lib/components/ui/button";
 	import {
 		Card,
 		CardHeader,
@@ -7,17 +6,22 @@
 		CardDescription,
 		CardContent
 	} from "$lib/components/ui/card";
+	import Sun from "lucide-svelte/icons/sun";
+	import Moon from "lucide-svelte/icons/moon";
+	import { toggleMode } from "mode-watcher";
+	import { Button } from "$lib/components/ui/button/index.js";
+	import { toast } from "svelte-sonner";
 	import * as Command from "$lib/components/ui/command/index.js";
 	import { browser } from "$app/environment";
 	import { Loader2 } from "lucide-svelte";
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
 
-	let searchTerm = "";
-	let results: [string, Definition[]][] = [];
-	let isLoading = false;
-	let noResultsFound = false;
-	let error: string | null = null;
+	let searchTerm = $state("");
+	let results: [string, Definition[]][] = $state([]);
+	let isLoading = $state(false);
+	let noResultsFound = $state(false);
+	let error: string | null = $state(null);
 
 	async function search() {
 		if (!browser || !searchTerm.trim()) return;
@@ -29,7 +33,6 @@
 		try {
 			const letter = searchTerm.charAt(0).toUpperCase();
 
-			// Handle case where user enters non-alphabetic character
 			if (!/[A-Z]/.test(letter)) {
 				error = "Please enter a word that starts with a letter";
 				results = [];
@@ -40,7 +43,6 @@
 			const dict = await import(`$lib/${letter}.json`);
 			const def: Record<string, Definition[]> = dict.default;
 
-			// Filter for words that start with the search term
 			results = Object.entries(def).filter(([word]) =>
 				word.toLowerCase().startsWith(searchTerm.toLowerCase())
 			);
@@ -48,6 +50,7 @@
 			noResultsFound = results.length === 0;
 		} catch (error) {
 			console.error("Error loading dictionary:", error);
+			toast.error("Error loading data. Please try again.");
 			results = [];
 			error = "Error loading dictionary. Please try again.";
 		} finally {
@@ -55,16 +58,16 @@
 		}
 	}
 
-	// Use a debounced approach to avoid too many searches while typing
 	let searchTimeout: ReturnType<typeof setTimeout>;
 
-	$: {
+	function performSearch(word: string) {
+		searchTerm = word;
 		clearTimeout(searchTimeout);
 		if (searchTerm.trim()) {
 			isLoading = true;
 			searchTimeout = setTimeout(() => {
 				search();
-			}, 300); // 300ms debounce
+			}, 300);
 		} else {
 			results = [];
 			isLoading = false;
@@ -74,8 +77,10 @@
 	}
 
 	function handleItemClick(word: string) {
-		goto(`/${word}`);
+		const basePath = import.meta.env.BASE_URL;
+		goto(`${basePath}?word=${word}`);
 		searchTerm = "";
+		results = [];
 	}
 </script>
 
@@ -83,6 +88,17 @@
 	<CardHeader>
 		<CardTitle class="text-2xl font-bold text-center">Word Wise</CardTitle>
 		<CardDescription class="text-center">Your comprehensive digital dictionary</CardDescription>
+		<div class="absolute top-6 right-6 flex items-center space-x-2">
+			<Button on:click={toggleMode} variant="outline" size="icon">
+				<Sun
+					class="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0"
+				/>
+				<Moon
+					class="absolute h-[1.2rem] w-[1.2rem] rotate-90 scale-0 transition-all dark:rotate-0 dark:scale-100"
+				/>
+				<span class="sr-only">Toggle theme</span>
+			</Button>
+		</div>
 	</CardHeader>
 	<CardContent>
 		<div class="flex w-full items-center space-x-2 mb-4">
@@ -90,7 +106,7 @@
 				<div class="flex items-center px-3">
 					<Command.Input
 						placeholder="Type a word to search..."
-						bind:value={searchTerm}
+						bind:value={() => searchTerm, performSearch}
 						class="flex-1"
 					/>
 					{#if isLoading}

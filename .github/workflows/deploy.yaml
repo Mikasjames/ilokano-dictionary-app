@@ -1,0 +1,81 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: "deploy"
+
+jobs:
+  build_site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v3
+        with:
+          version: 8
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Debug environment
+        run: |
+          echo "Repository name: ${{ github.event.repository.name }}"
+          echo "Base path will be: /${{ github.event.repository.name }}"
+          echo "Current directory: $(pwd)"
+          echo "Directory contents:"
+          ls -la
+
+      - name: build
+        env:
+          BASE_PATH: "/${{ github.event.repository.name }}"
+        run: |
+          echo "Starting build with base path: $BASE_PATH"
+          pnpm run build || { echo "Build failed"; exit 1; }
+          echo "Build complete, checking output directory:"
+          ls -la build/
+          echo "Contents of build directory:"
+          find build -type f | sort
+
+      - name: Check build directory
+        run: |
+          if [ ! -d "build" ]; then
+            echo "Error: build directory does not exist!"
+            exit 1
+          fi
+          if [ -z "$(ls -A build)" ]; then
+            echo "Error: build directory is empty!"
+            exit 1
+          fi
+          echo "Build directory exists and contains files:"
+          ls -la build/
+
+      - name: Upload Artifacts
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "build/"
+          name: "github-pages"
+
+  deploy:
+    needs: build_site
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
