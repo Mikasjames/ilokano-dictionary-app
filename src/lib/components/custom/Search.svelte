@@ -54,7 +54,8 @@
 
 	let searchTimeout: ReturnType<typeof setTimeout>;
 
-	$effect(() => {
+	function performSearch(word: string) {
+		searchTerm = word;
 		clearTimeout(searchTimeout);
 		if (searchTerm.trim()) {
 			isLoading = true;
@@ -67,12 +68,13 @@
 			noResultsFound = false;
 			error = null;
 		}
-	});
+	}
 
 	function handleItemClick(word: string) {
 		const basePath = import.meta.env.BASE_URL;
 		goto(`${basePath}?word=${word}`);
 		searchTerm = "";
+		results = [];
 	}
 </script>
 
@@ -87,7 +89,7 @@
 				<div class="flex items-center px-3">
 					<Command.Input
 						placeholder="Type a word to search..."
-						bind:value={searchTerm}
+						bind:value={() => searchTerm, performSearch}
 						class="flex-1"
 					/>
 					{#if isLoading}
