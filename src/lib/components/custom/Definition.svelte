@@ -21,7 +21,10 @@
 			return;
 		}
 
-		const letter = word.charAt(0).toUpperCase();
+		let letter = word.charAt(0).toUpperCase();
+		if (letter === "-") {
+			letter = word.charAt(1).toUpperCase();
+		}
 		const dict = await import(`$lib/${letter}.json`);
 		const def: Record<string, Definition[]> = dict.default;
 

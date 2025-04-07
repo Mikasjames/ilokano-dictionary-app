@@ -43,8 +43,10 @@
 			const dict = await import(`$lib/${letter}.json`);
 			const def: Record<string, Definition[]> = dict.default;
 
-			results = Object.entries(def).filter(([word]) =>
-				word.toLowerCase().startsWith(searchTerm.toLowerCase())
+			results = Object.entries(def).filter(
+				([word]) =>
+					word.toLowerCase().startsWith(searchTerm.toLowerCase()) ||
+					word.toLowerCase().startsWith("-")
 			);
 
 			noResultsFound = results.length === 0;
