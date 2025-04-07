@@ -1,0 +1,2181 @@
+
+{"-M": [
+    {
+      "definition": "var. of MO after a vowel."
+    }
+  ],
+  "MAAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "idiot.",
+      "eng_example": "Don’t be an idiot.",
+      "ilok_example": "Dika agbalin nga maag."
+    }
+  ],
+  "MAAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "result, effect.",
+      "common_forms": [
+        "MAMAAY"
+      ]
+    }
+  ],
+  "MABAGBAGI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "genitals.",
+      "origin": "cf. BAGI",
+      "variations": [
+        "BAGI"
+      ]
+    }
+  ],
+  "MABLO": [
+    {
+      "origin": "MA-+ BULLO."
+    }
+  ],
+  "MABOLO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a fruit-bearing tree (Diospyros discolor). 2. its fruit."
+    }
+  ],
+  "MABTAK": [
+    {
+      "origin": "MA- + BETTAK."
+    }
+  ],
+  "MADAMDAMA": [
+    {
+      "definition": "see under DAMA."
+    }
+  ],
+  "MADI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. not to like or want (to do something), to refuse (to do something).",
+      "eng_example": "The bird refuses to eat, 2. not to like or want (someone or something), to refuse (someone or something).",
+      "ilok_example": "Madi mangan diay billit."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to refuse (to do something), to back out (from doing something).",
+      "conjugation": "/AG-/",
+      "variations": [
+        "ADI"
+      ],
+      "cross_reference": "also INDIAK, MANDIAK"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "not appropriate, not proper, not nice, not good, not decent.",
+      "eng_example": "That action is not decent.",
+      "ilok_example": "Madi dayta nga aramid."
+    }
+  ],
+  "MADRE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nun.",
+      "origin": "madrε; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become a nun.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MAESTRA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a female teacher.",
+      "origin": "maεstra, mεstra; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become a female teacher.",
+      "conjugation": "/AG-/",
+      "antonyms": [
+        "MAESTRO"
+      ]
+    }
+  ],
+  "MAESTRO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a male teacher. 2. master.",
+      "origin": "maεstro, mεstro; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become a male teacher.",
+      "conjugation": "/AG-/",
+      "antonyms": [
+        "MAESTRA"
+      ]
+    }
+  ],
+  "MAGA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "dry (as clothes, the ground, but not leaves).",
+      "conjugation": "/NA-/",
+      "cross_reference": "GANGO"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become dry, to become waterless.",
+      "eng_example": "Their well became dry.",
+      "ilok_example": "Namagaan diay bubon da.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "MAGASIN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. magazine: a publication. 2. magazine: a chamber attached to a pistol or rifle from which the cartridges are fed.",
+      "origin": "f. Eng."
+    }
+  ],
+  "MAGMAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "very dry.",
+      "conjugation": "/NA--AN/"
+    }
+  ],
+  "MAGNA": [
+    {
+      "origin": "M-+ PAGNA."
+    }
+  ],
+  "MAHABLANKO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of sweet.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MAIKAMANO": [
+    {
+      "definition": "inter. at what position in a sequence?"
+    }
+  ],
+  "MAINGEL": [
+    {
+      "definition": "see under INGEL."
+    }
+  ],
+  "MAIPANGGEP": [
+    {
+      "definition": "see under PANGGEP."
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "1. concerning, regarding, about.",
+      "eng_example": "This news is about you. 2. on account of, on behalf of, in the interest of.",
+      "ilok_example": "Maipanggep kenka daytoy damag."
+    }
+  ],
+  "MAIPUON": [
+    {
+      "definition": "prep. on account (of), because (of).",
+      "origin": "cf. PUON"
+    }
+  ],
+  "MAIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "corn, maize.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MAKAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "anything that can be eaten, an eatable thing.",
+      "eng_example": "The trees in their orchard bear fruits that can be eaten.",
+      "ilok_example": "Agbunga iti makan dagiti mula iti minuyongan da.",
+      "origin": "cf. KAAN"
+    }
+  ],
+  "MAKAPUNO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a variety of coconut. 2. its fruit."
+    }
+  ],
+  "MAKASTREK": [
+    {
+      "origin": "MAKA-+ SERREK."
+    }
+  ],
+  "MAKINA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. machine, engine. 2. a sewing machine.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MAKINARIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "machinery.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MAKOY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to feel weak, feeble, languid.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MAKTANG": [
+    {
+      "origin": "MA-+ KETTANG."
+    }
+  ],
+  "MAKUPA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the Malay apple (Eugenia javanica)."
+    }
+  ],
+  "MALADAGA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "infant, a baby under seven years of age."
+    }
+  ],
+  "MALAMAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be splattered all over with mud, food, etc.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "MALANGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be dazed, stunned, stupefied.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "MALMALANGA"
+      ]
+    }
+  ],
+  "MALARIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "malaria.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have malaria.",
+      "conjugation": "/AG-, -EN/"
+    }
+  ],
+  "MALAS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. to be unlucky, to have bad luck. 2. causing bad luck, being the jinx.",
+      "eng_example": "Your companion causes bad luck.",
+      "ilok_example": "Namalas ta kaduam.",
+      "conjugation": "/(NA-)/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become unlucky, to have bad luck.",
+      "conjugation": "/-EN/"
+    }
+  ],
+  "MALASADO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "soft-boiled, parboiled, half-cooked (as an egg).",
+      "origin": "f. Sp."
+    }
+  ],
+  "MALDIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to print, imprint, impress, mark, stamp on.",
+      "eng_example": "He imprinted my name on his book.",
+      "ilok_example": "Immaldit na ti nagan ko diay libro na.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "MALETA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "suitcase.",
+      "origin": "malεta; f. Sp."
+    }
+  ],
+  "MALMES": [
+    {
+      "origin": "MA- + LEMMES."
+    }
+  ],
+  "MALO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a wooden mallet used especially for beating clothes that are being washed."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to beat, flog, club, pound with a big and heavy piece of wood.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "MALPAAN": [
+    {
+      "origin": "M-AN + PALPA."
+    }
+  ],
+  "MALPAS": [
+    {
+      "origin": "MA-+ LEPPAS."
+    }
+  ],
+  "MALPAY": [
+    {
+      "origin": "MA-+ LEPPAY."
+    }
+  ],
+  "MALPES": [
+    {
+      "origin": "MA-+ LEPPES."
+    }
+  ],
+  "MALTAT": [
+    {
+      "origin": "MA-+ LETTAT."
+    }
+  ],
+  "MALUKONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bowl."
+    }
+  ],
+  "MAMA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a chewing preparation made of betel leaf, lime and betel nut."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to chew this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to chew (this or something similar).",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "MAMAAY": [
+    {
+      "definition": "see MAAY."
+    }
+  ],
+  "MAMADIGO": [
+    {
+      "origin": "MANG-+ PADIGO."
+    }
+  ],
+  "MAMAGBAGA": [
+    {
+      "origin": "MANG-+ BAGBAGA."
+    }
+  ],
+  "MAMAKIR": [
+    {
+      "origin": "MANG- + BAKIR."
+    }
+  ],
+  "MAMALON": [
+    {
+      "origin": "MANG-+ BALON."
+    }
+  ],
+  "MAMAMATAY": [
+    {
+      "definition": "see under PATAY."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "killer."
+    }
+  ],
+  "MAMAYO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a general feeling of weakness of the body with no apparent cause."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have this.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MAMEG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to press or crush down.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be pressed or crushed down.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "MAMELOKO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "children’s drawers.",
+      "origin": "mamεloko; f. Sp."
+    }
+  ],
+  "MAMIN-ANO": [
+    {
+      "origin": "M-+ PAMIN-ANO."
+    }
+  ],
+  "MAMISOS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "worth a peso.",
+      "origin": "cf. PISOS"
+    }
+  ],
+  "MAMLES": [
+    {
+      "origin": "MANG-+ PELLES."
+    }
+  ],
+  "MAMMADLES": [
+    {
+      "definition": "see under PADLES."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a person who predicts future events in any way, a prophet."
+    }
+  ],
+  "MAMMALTOT": [
+    {
+      "definition": "see under PALTOT."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "midwife.",
+      "synonyms": [
+        "MANGNGILOT"
+      ]
+    }
+  ],
+  "MAMMARTEK": [
+    {
+      "definition": "see under BARTEK."
+    }
+  ],
+  "MAMMIGAT": [
+    {
+      "origin": "M-+ PAMMIGAT."
+    }
+  ],
+  "MAMMUKIS": [
+    {
+      "origin": "MANG-+ PUKIS."
+    }
+  ],
+  "MAMMULLO": [
+    {
+      "definition": "see under BULLO."
+    }
+  ],
+  "MAMON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of soft bread."
+    }
+  ],
+  "MAN": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "1. please, I entreat you.",
+      "eng_example": "Please hand me my pencil. 2. an emphatic word.",
+      "ilok_example": "Iyawat mo man ta lapis ko."
+    }
+  ],
+  "SAAN": [
+    {
+      "definition": "MAN, an answer affirming a negative question, the positive answer to a negative question."
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "no.",
+      "variations": [
+        "HAAN"
+      ]
+    }
+  ],
+  "MANALAPI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "worth fifty centavos or half a peso.",
+      "origin": "cf. SALAPI"
+    }
+  ],
+  "MANANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. an older sister. 2. any older woman.",
+      "origin": "f. Sp.",
+      "antonyms": [
+        "MANONG"
+      ]
+    }
+  ],
+  "MANANGAASI": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "merciful, compassionate, charitable, gracious.",
+      "eng_example": "God is merciful.",
+      "ilok_example": "Manangaasi ni Apo Dios.",
+      "origin": "= MANANG-+ KAASI"
+    }
+  ],
+  "MANAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "beriberi."
+    }
+  ],
+  "MANDALA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a big heap of bundles of harvested rice."
+    }
+  ],
+  "MANDIAK": [
+    {
+      "definition": "var. of INDIAK."
+    }
+  ],
+  "MANEHO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "driver (of a car, a cart, etc.).",
+      "origin": "manεho; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to drive a car, a cart, etc.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to drive, be the driver of (a car, a cart, etc.).",
+      "eng_example": "It was he who drove our car.",
+      "ilok_example": "Isu ti nagmaneho iti kotse mi.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "MANEN": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "again, once more."
+    }
+  ],
+  "MANI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "peanut."
+    }
+  ],
+  "MANIPUD": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "from (a place or time), since."
+    }
+  ],
+  "MANMANO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. very few, very little.",
+      "eng_example": "Very few unmarried girls came. 2. infrequent; very seldom.",
+      "ilok_example": "Manmano ti balasang nga immay."
+    }
+  ],
+  "MANNAIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "seamster, tailor, seamstress.",
+      "origin": "cf. DAIT",
+      "synonyms": [
+        "SASTRE, MODISTA"
+      ]
+    }
+  ],
+  "MANO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "in certain games, to throw one’s flattened metal, stone, coin, etc. to determine one’s place in the order of playing.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "in certain games, to throw flattened metals, stones, coins, etc. to determine the order in which the players are to play.",
+      "conjugation": "/AG-+ -INN-+ R2/ with pl. subject",
+      "synonyms": [
+        "KANO"
+      ]
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "first in the order of playing. inter. how many, how much.",
+      "eng_example": "How many children do you have now?",
+      "ilok_example": "Mano ti anak mon?"
+    }
+  ],
+  "MANOK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chicken."
+    }
+  ],
+  "MANONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. an older brother. 2. an older man.",
+      "origin": "f. Sp.",
+      "antonyms": [
+        "MANANG"
+      ]
+    }
+  ],
+  "MANSA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stain.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stain.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "MANSANAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "apple.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MANSANILYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a kind of plant of the aster family, with scented leaves and daisy-like flowers; the dried leaves, flowers and buds are used in medicine; camomile or chamomile. 2. its flower."
+    }
+  ],
+  "MANSO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to beat, club, cudgel.",
+      "conjugation": "/AG-, MANG-:-EN/",
+      "synonyms": [
+        "MALO"
+      ]
+    }
+  ],
+  "MANTIKA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lard, cooking oil.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce lard or cooking oil.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MANTIKILIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "margarine.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MANTO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mantle, cloak.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MANUBELA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "steering wheel.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MANUGANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "son-in-law, daughter-in-law, the spouse of one’s daughter or son."
+    }
+  ],
+  "MANGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be uncertain, undecided, hesitant, doubtful, unsure, perplexed.",
+      "eng_example": "Why are you hesitant?",
+      "ilok_example": "Apay nga agmangamanga ka?",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "MANGAMANGA"
+      ]
+    }
+  ],
+  "MANGALDAW": [
+    {
+      "origin": "M-+ PANGALDAW."
+    }
+  ],
+  "MANGAN": [
+    {
+      "origin": "M- + PANGAN, MANG- + KAAN."
+    }
+  ],
+  "MANGGA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. mango tree. 2. its fruit."
+    }
+  ],
+  "MANGGAGAMA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "scorpion."
+    }
+  ],
+  "MANGGAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sleeve of a garment.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MANGGED": [
+    {
+      "part_of_speech": "n.",
+      "definition": "laborer, worker.",
+      "synonyms": [
+        "TRABAHADOR"
+      ],
+      "common_forms": [
+        "MANGMANGGED"
+      ]
+    }
+  ],
+  "MANGLIWENGLIWENG": [
+    {
+      "definition": "see under LIWENG."
+    }
+  ],
+  "MANGMANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "an inflammation at the corner of the lips."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be afflicted with this.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MANGMANGGED": [
+    {
+      "definition": "see MANGGED."
+    }
+  ],
+  "MANGNIBINIBI": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "exceptional, extremely strong or great."
+    }
+  ],
+  "MANGNGALAP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a fisherman.",
+      "origin": "MANG-+ KALAP"
+    }
+  ],
+  "MANGNGANUP": [
+    {
+      "definition": "see under ANUP."
+    }
+  ],
+  "MANGNGEG": [
+    {
+      "origin": "MA- + DENGNGEG."
+    }
+  ],
+  "MANGRABII": [
+    {
+      "origin": "M-+ PANGRABII."
+    }
+  ],
+  "MANGUBOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of large bird with black plumage."
+    }
+  ],
+  "MANG-US": [
+    {
+      "origin": "M-+ PANG-US."
+    }
+  ],
+  "MAPLENG": [
+    {
+      "origin": "MA-+ PELLENG."
+    }
+  ],
+  "MARABUTIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a newborn baby, a tiny mouse."
+    }
+  ],
+  "MARASABA": [
+    {
+      "definition": "var. of MARSABA."
+    }
+  ],
+  "MARBA": [
+    {
+      "origin": "MA-+ REBBA."
+    }
+  ],
+  "MARGAAY": [
+    {
+      "origin": "MA-+ REGGAAY."
+    }
+  ],
+  "MARIGRIGAT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "poor, destitute, impoverished.",
+      "eng_example": "The parents of my parents were poor.",
+      "ilok_example": "Marigrigat ti tao dagiti naganak kaniak.",
+      "origin": "cf. RIGAT"
+    }
+  ],
+  "MARIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "color, hue.",
+      "eng_example": "The color of her dress is green.",
+      "ilok_example": "Berde ti maris ti kawes na.",
+      "synonyms": [
+        "KOLOR"
+      ]
+    }
+  ],
+  "MARISMARIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be iridescent, to display a variety of colors.",
+      "eng_example": "Her dress is iridescent.",
+      "ilok_example": "Agmarismaris diay bado na.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MARKA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mark, brand, sign.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a mark or brand on, to mark, brand.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to imprint on as mark, brand, etc.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "MARMOL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "marble.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MARSABA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "ripe and yellow: said of a tamarind fruit.",
+      "variations": [
+        "MARASABA"
+      ]
+    }
+  ],
+  "MARSO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "March.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MARTES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "Tuesday.",
+      "origin": "martεs; f. Sp."
+    }
+  ],
+  "MARTILIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hammer.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit with, or as if with, a hammer.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use to hit with like a hammer.",
+      "conjugation": "/MANGI- : I-/"
+    }
+  ],
+  "MARTIR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "martyr.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MARUNGGAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. the horse-radish tree (Moringa oleifera). 2. its fruit."
+    }
+  ],
+  "MASA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to knead (dough, clay, etc.).",
+      "conjugation": "/MANG-:-EN/",
+      "origin": "f. Sp."
+    }
+  ],
+  "MASAHE": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to rub, massage. --syn, ILOT 1.",
+      "conjugation": "/MANG-:-EN/",
+      "origin": "masahε; f. Sp."
+    }
+  ],
+  "MASAKBAYAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the future.",
+      "eng_example": "The future of your husband is bright.",
+      "ilok_example": "Naraniag ti masakbayan ta asawam.",
+      "origin": "cf. SAKBAY"
+    }
+  ],
+  "MASAKIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a sick person, a patient.",
+      "eng_example": "I don’t know the name of the patient.",
+      "ilok_example": "Diak ammo ti nagan diay masakit.",
+      "origin": "cf. SAKIT"
+    }
+  ],
+  "MASAKSAKIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "sickly, in poor health.",
+      "eng_example": "My mother is sickly.",
+      "ilok_example": "Masaksakit ni nanang ko.",
+      "origin": "cf. SAKIT"
+    }
+  ],
+  "MASDAAW": [
+    {
+      "origin": "MA-+ SEDDAAW."
+    }
+  ],
+  "MASETAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "potted ornamental plant.",
+      "eng_example": "The potted ornamental plants were of different varieties.",
+      "ilok_example": "Nadumaduma dagiti masetas.",
+      "origin": "masεtas; f. Sp."
+    }
+  ],
+  "MASETERA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pot for ornamental plants.",
+      "origin": "masεtεra; f. Sp."
+    }
+  ],
+  "MASINGGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "machine gun.",
+      "origin": "f. Eng."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to shoot or kill with a machine gun.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "MASNGAAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to squat, sit down on one’s hams and heels.",
+      "eng_example": "Don’t squat.",
+      "ilok_example": "Dika nga agmasngad.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MASO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mallet.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MASPAK": [
+    {
+      "origin": "MA- + SEP-AK."
+    }
+  ],
+  "MATA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. eye: organ of sight. 2. pit on a pineapple, bamboo, timber, etc. 3. core of a boil."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to open one’s eyes.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to open (an eye).",
+      "eng_example": "Open your left eye.",
+      "ilok_example": "Imatam ta kattigid nga matam.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "MATAMATA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stare at.",
+      "eng_example": "Why are you staring at me?",
+      "ilok_example": "Apay nga matamataen nak?",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "MULAGAT"
+      ]
+    }
+  ],
+  "MATAY": [
+    {
+      "origin": "M- + PATAY."
+    }
+  ],
+  "MATERIALES": [
+    {
+      "definition": "n.pl. materials.",
+      "origin": "matεrialεs; f. Sp."
+    }
+  ],
+  "MATIANAN": [
+    {
+      "origin": "ATIAN + MA--AN."
+    }
+  ],
+  "MATMAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to look closely at, examine carefully.",
+      "eng_example": "Examine carefully that picture.",
+      "ilok_example": "Matmatam dayta retrato.",
+      "conjugation": "/MANG-:-AN/",
+      "cross_reference": "PAMATMAT"
+    }
+  ],
+  "MATRIKULA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "matriculation fee.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to matriculate, to pay one’s matriculation fee.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MATRIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "uterus, womb.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "AANAKAN"
+      ]
+    }
+  ],
+  "MATTIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "crazy, lunatic, insane."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become crazy, lunatic, insane.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MATMATTIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lunatic tendency.",
+      "eng_example": "Your friend has lunatic tendencies.",
+      "ilok_example": "Adda matmattit dayta gayyem mo."
+    }
+  ],
+  "MATUON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "noon, midday.",
+      "common_forms": [
+        "AGMATUON"
+      ]
+    }
+  ],
+  "MAYA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be in heat, to be sexually aroused.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MAYAMAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "gentle, quiet, placid, calm, serene.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "MAYANA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of shrub with reddish leaves."
+    }
+  ],
+  "MAYAT": [
+    {
+      "definition": "see under KAYAT."
+    }
+  ],
+  "MAYEKMEK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "fine, powdery.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "MAYENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stare blankly.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become enraptured, engrossed, absorbed with something.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "MAYENGMENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "safe, secure, snug, cozy.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "MAYO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "May.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MAYOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mayor.",
+      "origin": "f. Eng.",
+      "synonyms": [
+        "ALKALDE"
+      ],
+      "variations": [
+        "MEYOR"
+      ]
+    }
+  ],
+  "MAYSA": [
+    {
+      "definition": "num. one; 1.",
+      "synonyms": [
+        "UNO, UNA PAY, besides, in addition. UNAY, especially (since)"
+      ],
+      "variations": [
+        "-YSA, -SA, -SAN"
+      ]
+    }
+  ],
+  "MAYMAYSA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "one only."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stay or be alone.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MAYYET": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "slow, sluggish.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "MEDIAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sock, stocking.",
+      "origin": "mεdias; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wear a sock, stocking.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a sock or stocking on (a foot or someone’s foot).",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "MEDIKO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "medical doctor.",
+      "origin": "mεdiko; f, Sp.",
+      "synonyms": [
+        "DOKTOR"
+      ]
+    }
+  ],
+  "MEDIO": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "somewhat, in a slight degree.",
+      "eng_example": "Now we somewhat develop some sense but it is already too late.",
+      "ilok_example": "Ita, medio agnakem tayo ngem naladaw unayen.",
+      "origin": "mεdio; f. Sp."
+    }
+  ],
+  "MEDIOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "major in the army.",
+      "origin": "mεdior; f. Eng."
+    }
+  ],
+  "MEDMED": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to check, restrain, curb, hold back.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "frugal, sparing, moderate, temperate.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "MEHIKO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "Mexico.",
+      "origin": "mεhiko; f. Sp."
+    }
+  ],
+  "MEHIKANO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "Mexican.",
+      "origin": "mεhikano; f. Sp."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a native or citizen of Mexico."
+    }
+  ],
+  "MEKMEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to grind or pound into powder.",
+      "eng_example": "Pound that rice into powder.",
+      "ilok_example": "Mekmekem dayta bagas.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "MELMEL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fill the mouth of (with food).",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use to fill (the mouth), to cram with.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "MELON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "melon, water melon.",
+      "origin": "mεlon; f. Eng.",
+      "synonyms": [
+        "SANDIA"
+      ]
+    }
+  ],
+  "MEMORIA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to memorize something.",
+      "conjugation": "/AG-/",
+      "origin": "mεmoria; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to memorize.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "MENSAHE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "message.",
+      "origin": "mεnsahε; f. Sp."
+    }
+  ],
+  "MENSAHERO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "messenger.",
+      "origin": "mεnsahεro; f. Sp."
+    }
+  ],
+  "MERIENDA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "snack, refreshments.",
+      "origin": "mεriεnda; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take a snack or refreshments.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MERKADO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "market.",
+      "origin": "mεrkado; f. Sp.",
+      "synonyms": [
+        "TIANGGI, TIENDAAN"
+      ]
+    }
+  ],
+  "MERKUROKROM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mercurochrome.",
+      "origin": "mεrkurokrom; f. Eng."
+    }
+  ],
+  "MERMER": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to throw something at the eyes of.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have something thrown into the eyes.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "MESMES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to grasp firmly, to seize tightly.",
+      "eng_example": "Don’t grasp me firmly.",
+      "ilok_example": "Saan nak nga mesmesan.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "MESTISA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the female child of a mixed or miscegenetic marriage, a female half-breed. --ant, MESTISO.",
+      "origin": "mεstisa; f. Sp."
+    }
+  ],
+  "MESTISO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the male child of a mixed or miscegenetic marriage, a male half-breed.",
+      "origin": "mεstiso; f. Sp.",
+      "antonyms": [
+        "MESTISA"
+      ]
+    }
+  ],
+  "METRO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "meter.",
+      "origin": "mεtro; f. Sp."
+    }
+  ],
+  "MEYOR": [
+    {
+      "definition": "var. of MAYOR.",
+      "origin": "mεyor"
+    }
+  ],
+  "MI": [
+    {
+      "definition": "pron. our (excl.): the enclitic possessive of DAKAMI. pron. by us (excl.), we (actor): the agent of DAKAMI."
+    }
+  ],
+  "MIEMBRO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "member of an organization, association, union, etc.",
+      "synonyms": [
+        "KAMENG"
+      ]
+    }
+  ],
+  "MIERKOLES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "Wednesday.",
+      "origin": "miεrkolεs; f. Sp."
+    }
+  ],
+  "MIKI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "wheat noodle."
+    }
+  ],
+  "MIKKI": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "fastidious, finicky.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "MIKKIMIKKI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be fastidious, finicky.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MIKROBIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "microbe, germ, virus.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MIKROPONO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "microphone.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MILAGRO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "miracle, mystery, enigma.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to perform a miracle.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MILAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dirty spot usually on the face."
+    }
+  ],
+  "MILATMILAT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "dirty, filthy, besmirched."
+    }
+  ],
+  "MILIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mile.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MILION": [
+    {
+      "definition": "num. million. --syn, RIWRIW.",
+      "origin": "f. Sp.",
+      "common_forms": [
+        "MILYON"
+      ]
+    }
+  ],
+  "MILIONARIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "millionaire.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MILMIL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "covered around the mouth with grease or food.",
+      "conjugation": "/(NA-)/"
+    }
+  ],
+  "MINAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mine.",
+      "eng_example": "They have a gold mine.",
+      "ilok_example": "Adda minas ti balitok da.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MINATAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a dead person, corpse.",
+      "origin": "cf. PATAY"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to watch the dead.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MINUYONGAN": [
+    {
+      "definition": "see under MUYONG."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "garden, orchard."
+    }
+  ],
+  "MINGMING": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to look at or examine closely.",
+      "eng_example": "Look closely at your mother’s face.",
+      "ilok_example": "Mingmingam nga nalaing ta rupa ni nanang mo.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "MIRAOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be tormented, to suffer (from hunger, etc.).",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "MIRMIRAOT"
+      ]
+    }
+  ],
+  "MIRMIRAOT": [
+    {
+      "definition": "see MIRAOT."
+    }
+  ],
+  "MISA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mass, church service.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to celebrate a mass.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to attend a mass or a church service.",
+      "conjugation": "/MAKI-/",
+      "cross_reference": "PAMISA"
+    }
+  ],
+  "MISMIS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "not being able to eat due to lack of appetite, shyness, etc.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "MISMO": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "specifically, for sure.",
+      "eng_example": "It was specifically inside the town where they saw you.",
+      "ilok_example": "Idiay mismo uneg ti ili ti nakakitaan da kenka.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MISTERIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mystery, miracle, wonder, phenomenon.",
+      "origin": "mistεrio; f. Sp.",
+      "synonyms": [
+        "DATDATLAG"
+      ]
+    }
+  ],
+  "MISUOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pout, look sullen, frown.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pout at, frown at.",
+      "eng_example": "Don’t pout at me for I am ill-tempered.",
+      "ilok_example": "Saan nak man nga misuotan ta napudot ti ulok.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "MITING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "meeting, conference.",
+      "origin": "f. Eng."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to attend a meeting.",
+      "conjugation": "/MAKI-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to call to a meeting.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have a meeting.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "MO": [
+    {
+      "definition": "pron. your (sg.), of yours (sg.): the enclitic possessive of SIKA.",
+      "variations": [
+        "-M (after a vowel). pron. by you (sg.), you (as actor): the agent of SIKA",
+        "-M (after a vowel). the enclitic possessive and the agent, and KANYAM or"
+      ]
+    }
+  ],
+  "MODA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fashion, style, mode.",
+      "eng_example": "Their clothes are of the newest style.",
+      "ilok_example": "Kabaruanan nga moda dagita kawes da.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MODELO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "model, type.",
+      "origin": "modεlo; f. Sp."
+    }
+  ],
+  "MOHON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a boundary post usually made of concrete.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MONTURA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "saddle, especially horse saddle",
+      "origin": "f. Sp."
+    }
+  ],
+  "MONUMENTO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "monument.",
+      "origin": "monumεnto; f. Sp."
+    }
+  ],
+  "MORADO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "violet in color.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MORO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "Moor, a Moslem.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MOTORSIKLO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "motorcycle.",
+      "origin": "f. Sp."
+    }
+  ],
+  "MUDIS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "placed near the edge or border of something.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "MUDMUD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to press down on a surface with the hands.",
+      "eng_example": "Don’t press down with your hands on the floor.",
+      "ilok_example": "Saan mo nga imudmud dayta ulo ti aso dita datar.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "MUDTOY": [
+    {
+      "definition": "short for IYEG MO DITOY, bring it here, give it to me."
+    }
+  ],
+  "MUGING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "forehead."
+    }
+  ],
+  "MUGNA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "deity especially of the pagans."
+    }
+  ],
+  "MUKAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "gum of the eyes."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to discharge gum: said of the eyes.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove gum from one’s eyes.",
+      "conjugation": "/AGI-/"
+    }
+  ],
+  "MUKMOK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "food crumb."
+    }
+  ],
+  "MUKOD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "heel."
+    }
+  ],
+  "MULA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "plant."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to plant.",
+      "eng_example": "Plant plenty of bananas.",
+      "ilok_example": "Agmula ka ti adu nga saba.",
+      "conjugation": "/AG-, AGI-, MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to plant something on.",
+      "eng_example": "Don’t plant bananas on our yard.",
+      "ilok_example": "Dika nga mulaan ti saba ta inaladan mi.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "MULAGAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to open the eyes widely; to stare, glare.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stare or glare at.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to open (the eyes) widely.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "MULDOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "down; soft, fine feathers, as on young birds; soft, fine hair or hairy growth."
+    }
+  ],
+  "MULENGLENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stare abstractly or absentmindedly.",
+      "eng_example": "Don’t stare absent-mindedly so that you can finish your work.",
+      "ilok_example": "Dika nga agmulengleng tapno malpas mo ta trabahom.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MULI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to grind (wheat, coffee, cocoa beans, etc.).",
+      "eng_example": "Grind those cacao beans and we will make some chocolate.",
+      "ilok_example": "Muliem dayta kakaw ta agaramid tayo ti tsokolate.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "MULIMOL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a feeble-minded person, an imbecile."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be like a feeble-minded person, as to stare vacantly.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MULIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "smirch, dirt."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to smirch, soil, sully, make dirty.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "MULMOL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold something in the mouth without sucking.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold in the mouth without sucking.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "MULUMOG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to rinse the mouth, to gargle.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MUNAMON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of small marine fish often used in the preparation of BUGGOONG."
+    }
+  ],
+  "MUNAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to decrease the effect of (wine or liquor).",
+      "eng_example": "The effect of the fermented coconut juice which I drank has not decreased.",
+      "ilok_example": "Saan pay nga nagmunaw ta ininum ko nga tuba.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become relieved of one’s drunkenness.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "MUNO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "stupid.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "MUNGAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nipple, teat."
+    }
+  ],
+  "MURAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stretch the body or limbs in order to shake off one’s drowsiness: said of a person who just woke up.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "MURMURAY"
+      ]
+    }
+  ],
+  "MURDONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tip, top, end (of a branch, a string, a finger, etc.)."
+    }
+  ],
+  "MURENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dirt, grime, filth."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "dirty, grimy.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "NAGMURENGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dirty clothes set aside for washing. see under MURENG.",
+      "common_forms": [
+        "or MURENG"
+      ]
+    }
+  ],
+  "MURKAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "food crumb that falls out of the plate to the table or the floor."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to allow food crumbs to fall out of one’s plate.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MURMURAY": [
+    {
+      "definition": "see MURAY."
+    }
+  ],
+  "MUSANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "wild cat."
+    }
+  ],
+  "MUSIIG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to grin by stretching out the lips open baring the teeth.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MUSIKERO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "musician.",
+      "origin": "musikεro; f. Sp.",
+      "synonyms": [
+        "MUSIKO"
+      ]
+    }
+  ],
+  "MUSIKO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "musician.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "MUSIKERO"
+      ]
+    }
+  ],
+  "MUSKITERO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mosquito net.",
+      "origin": "muskitεro; f. Sp.",
+      "synonyms": [
+        "KULAMBO"
+      ]
+    }
+  ],
+  "MUSMOS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tobacco refuse."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "stupid."
+    }
+  ],
+  "MUTAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lisp.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MUTIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "an object with magical powers, an amulet, a charm."
+    }
+  ],
+  "MUTING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "clitoris.",
+      "synonyms": [
+        "TILDI"
+      ]
+    }
+  ],
+  "MUTIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the Philippine squirrel."
+    }
+  ],
+  "MUTON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pulley."
+    }
+  ],
+  "MUTTALAT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "wide-eyed."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to meet or be exposed to one’s gaze or view.",
+      "eng_example": "The money met my gaze when I was walking along the street.",
+      "ilok_example": "Naimuttalat daydiay kuarta itay magmagnaak diay kalsada.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "MUTTALENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "agape."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be agape.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "MUYMUY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather every bit of.",
+      "eng_example": "Gather every bit of your rice (in your plate).",
+      "ilok_example": "Muymuyem ta inapoy mo.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "MUYONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "garden plant, cultivated plant."
+    }
+  ]}

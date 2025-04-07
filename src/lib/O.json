@@ -1,0 +1,160 @@
+
+{"OBISPO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bishop.",
+      "origin": "f. Sp."
+    }
+  ],
+  "ONSE": [
+    {
+      "definition": "num. eleven; 11.",
+      "origin": "onsε; f. Sp.",
+      "synonyms": [
+        "SANGAPULO KET MAYSA"
+      ]
+    }
+  ],
+  "OPERA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to operate on.",
+      "eng_example": "The doctor will operate on your appendix.",
+      "ilok_example": "Operaen diay doktor ta apendisitis mo.",
+      "conjugation": "/MANG-:-EN/",
+      "origin": "opεra; f. Sp."
+    }
+  ],
+  "OPERASION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "operation.",
+      "origin": "opεrasion; f. Sp."
+    }
+  ],
+  "OPISIAL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "&",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "official."
+    }
+  ],
+  "OPORTUNIDAD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "opportunity, chance.",
+      "origin": "f. Sp."
+    }
+  ],
+  "OPOSISION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "opposition.",
+      "origin": "f. Sp."
+    }
+  ],
+  "ORASION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "Angelus.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to ring the bell to announce the time for the Angelus.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "ORDINARIO": [
+    {
+      "origin": "f. Sp."
+    }
+  ],
+  "OREGANO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "an aromatic green herb cultivated for spice and medicine (Coleus amboinicus).",
+      "origin": "origano; f. Sp."
+    }
+  ],
+  "ORGANISASION": [
+    {
+      "origin": "f. Sp."
+    }
+  ],
+  "OSO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bear.",
+      "origin": "f. Sp."
+    }
+  ],
+  "OSPITAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hospital.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to confine in a hospital.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be confined in a hospital.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "OTEL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hotel.",
+      "origin": "otεl; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stay in a hotel.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to stay in a hotel at one’s expense.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "OTO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "automobile, car.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "KOTSE"
+      ]
+    }
+  ],
+  "OTOMOBIL": [
+    {
+      "definition": "var. of OTO.",
+      "origin": "f. Sp."
+    }
+  ],
+  "OTSO": [
+    {
+      "definition": "num. eight; 8.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "WALO"
+      ]
+    }
+  ],
+  "OY": [
+    {
+      "part_of_speech": "interj.",
+      "definition": "hey: an exclamation used to attract attention, express surprise, etc., or in asking a question."
+    }
+  ]}

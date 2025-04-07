@@ -1,0 +1,2534 @@
+{"IBAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to incline, bend, sway.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "IBAR-IBAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to totter, stagger, sway, wobble as in walking.",
+      "eng_example": "The drunk person is tottering.",
+      "ilok_example": "Agibar-ibar diay nabartek.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "IBBAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stop holding onto something with the hand or hands.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to release one’s hold of, to let go, fall, drop, etc. by releasing one’s hold of.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "IBBUNG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "spoiled: said of eggs."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become spoiled as an egg or as like an egg.",
+      "eng_example": "All the eggs of their hen became spoiled.",
+      "ilok_example": "Nagibbung amin nga itlog ti manok da.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "IBIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cry, weep, whimper.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "SANGIT"
+      ]
+    }
+  ],
+  "IBLENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to have diarrhea, to have loose bowel movement.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "see TAKKI, BURIS"
+      ]
+    }
+  ],
+  "IBO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "awn, especially that of rice."
+    }
+  ],
+  "IBTUR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to tolerate, endure, bear, suffer, withstand.",
+      "eng_example": "Bear its pain.",
+      "ilok_example": "Ibturem ti sakit na.",
+      "conjugation": "/MANG-:-EN, -AN/"
+    }
+  ],
+  "IBUS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to consume completely, to dispose of completely, to finish; to eat all.",
+      "eng_example": "He ate all the sidedish.",
+      "ilok_example": "Inibus na diay sida.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be completely consumed or disposed of; to be completely eaten.",
+      "eng_example": "The sidedish was completely consumed.",
+      "ilok_example": "Naibus ti sida.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "IDA": [
+    {
+      "definition": "pron. they, them (in passive sentences): the enclitic nominative of ISUDA.",
+      "cross_reference": "DA"
+    }
+  ],
+  "IDAD": [
+    {
+      "definition": "var. of EDAD."
+    }
+  ],
+  "IDDA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lie down, recline.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to lie down, be prostrate; to lay down in horizontal position, to lay prostrate.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "KAIDDA": [
+    {
+      "definition": "n, that with whom one sleeps, that sleeping by the side of oneself."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sleep with, to sleep by the side of",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sleep side by side, to sleep together.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "IDDAL": [
+    {
+      "definition": "var. of IKDAL."
+    }
+  ],
+  "IDDEP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put off, extinguish (light).",
+      "eng_example": "Who put off my light?",
+      "ilok_example": "Sino ti nangiddep ti silaw ko?",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be put off, extinguished.",
+      "conjugation": "/MA-/",
+      "variations": [
+        "DEDDEP"
+      ]
+    }
+  ],
+  "IDEA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "idea.",
+      "origin": "idεa; f. Sp."
+    }
+  ],
+  "IDI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to give up, leave off; to stop from doing.",
+      "eng_example": "He stopped drinking (alcoholic beverages).",
+      "ilok_example": "Inidian na ti panaginum.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "in the distant or remote past, formerly, then.",
+      "eng_example": "My father then was a policeman. prep. last, the past (night, morning, etc.): forms prepositional phrases expressing past time.",
+      "ilok_example": "Pulis idi daydi tatang ko."
+    }
+  ],
+  "IDIAY": [
+    {
+      "definition": "dem. there, yonder.",
+      "variations": [
+        "DIAY, DIDIAY. prep. to, in, at, from, toward, away from",
+        "DIAY. form of DAYDIAY postposed to a noun expressing emphasis"
+      ]
+    }
+  ],
+  "IDINTO": [
+    {
+      "definition": "TA, whereas (past).",
+      "cross_reference": "ITA TA"
+    }
+  ],
+  "IDNA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be quiet, calm, still, tranquil.",
+      "eng_example": "I cannot keep calm on account of my worry.",
+      "ilok_example": "Diak nga makaidna ti danag ko.",
+      "conjugation": "/MAKA-/"
+    }
+  ],
+  "IDOLO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "idol, hero.",
+      "origin": "f. Sp."
+    }
+  ],
+  "IDOS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to spoon; to take up with or as with a spoon.",
+      "eng_example": "Take some of the sidedish with a spoon.",
+      "ilok_example": "Idosem dayta sida.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "SANGKAIDOS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "one spoonful."
+    }
+  ],
+  "IDTA": [
+    {
+      "definition": "var. of DITA."
+    }
+  ],
+  "IDTOY": [
+    {
+      "definition": "var. of DITOY."
+    }
+  ],
+  "IGAD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "coconut grater."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to grate coconut meat.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to grate (coconut meat or something else).",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "IGAM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "weapon, arms.",
+      "synonyms": [
+        "ARMAS"
+      ]
+    }
+  ],
+  "IGAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "eel."
+    }
+  ],
+  "IGGAM": [
+    {
+      "definition": "var. of IGGEM before 1"
+    }
+  ],
+  "-AN": [
+    {
+      "definition": ". . ."
+    },
+    {
+      "definition": "to be designated, appointed.",
+      "conjugation": "/ to have the ears or comb cut off. adj. with ears or comb cut off. /"
+    },
+    {
+      "definition": "/ to come upon accidentally."
+    }
+  ],
+  "IGGAN": [
+    {
+      "definition": "var. of IGGEM before 1"
+    }
+  ],
+  "IGGEM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold on.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold, grasp or clutch (someone or something).",
+      "eng_example": "He held my hand.",
+      "ilok_example": "Iniggaman na ti imak.",
+      "conjugation": "/MANG-:-AN/",
+      "origin": "IGGAMAN, IGGANAN"
+    }
+  ],
+  "IGGES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "worm."
+    }
+  ],
+  "IGID": [
+    {
+      "part_of_speech": "n.",
+      "definition": "edge, brink, side."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go to the edge, brink or side (of).",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to defecate.",
+      "conjugation": "/-UM-/",
+      "synonyms": [
+        "TAKKI"
+      ]
+    }
+  ],
+  "IGLESIA": [
+    {
+      "definition": "FILIPINA INDEPENDIENTE, the Philippine Independent Church, also known as the Aglipayan Church.",
+      "cross_reference": "NI KRISTO (CHURCH OF CHRIST), 1. a church founded in the Philippines. 2. (often shortened to IGLESIA) a member of this church"
+    }
+  ],
+  "AGLIPAY": [
+    {
+      "definition": "."
+    }
+  ],
+  "IGOROT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a general name for the natives of the Mountain Province."
+    }
+  ],
+  "IGPIL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to carry under the armpit.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "IGUP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sip, suck; to draw liquid into the mouth by sucking and",
+      "conjugation": "/-UM-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "by letting the liquid flow into it.",
+      "eng_example": "Sip some broth.",
+      "ilok_example": "Umigup ka ti digo.",
+      "conjugation": "/or"
+    }
+  ],
+  "IHONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "son: familiar term."
+    }
+  ],
+  "IIL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to whimper or whine importunately or annoyingly.",
+      "eng_example": "Why are you whining?",
+      "ilok_example": "Apay nga umaniil ka?",
+      "conjugation": "/AG-, -UM-/"
+    }
+  ],
+  "IIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "midrib of coconut or buri leaf."
+    }
+  ],
+  "IKA-": [
+    {
+      "definition": "a verbalizing affix occurring with adjective roots which expresses the meaning: in the manner or with the characteristic indicated by the root."
+    }
+  ],
+  "IKAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to eat something surreptitiously or secretly.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to eat surreptitiously or secretly.",
+      "eng_example": "He ate surreptitiously all the sidedish which I hid.",
+      "ilok_example": "Inikab na amin nga sida nga indulin ko.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "IKAMEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mat made of the leaves of the buri palm or any similar material."
+    }
+  ],
+  "IKAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fish, usually salt water fish.",
+      "cross_reference": "LAMES"
+    }
+  ],
+  "IKDAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fishbone, or something similar to it, caught in the alimentary canal in the region of the throat."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have a fishbone or something similar caught in the alimentary canal in the region of the throat.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "IKET": [
+    {
+      "part_of_speech": "n.",
+      "definition": "any net used for catching fish, shrimps, etc."
+    }
+  ],
+  "IKING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "edge of a board, book, etc."
+    }
+  ],
+  "IKIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "aunt.",
+      "synonyms": [
+        "TIA"
+      ]
+    }
+  ],
+  "IKK-": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be given, granted, bestowed, conferred (something).",
+      "conjugation": "/-An/",
+      "variations": [
+        "of ITDAN (?). Ikkan nak man ti kanek. Please give me something to eat"
+      ]
+    }
+  ],
+  "IKKAN": [
+    {
+      "definition": "see IKK-."
+    }
+  ],
+  "IKKAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove, take away.",
+      "eng_example": "He will remove the door of their house.",
+      "ilok_example": "Ikkaten na diay ridaw ti balay da.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be removed, taken away.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to resign from (a position, a job, etc.).",
+      "eng_example": "Mary resigned as teacher.",
+      "ilok_example": "Nagikkat nga maestra ni Maria.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be removed from (a position. a job, etc.).",
+      "eng_example": "Mary was removed as teacher.",
+      "ilok_example": "Maikkat nga maestra ni Maria.",
+      "conjugation": "/MA- /"
+    }
+  ],
+  "IKKIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shriek, scream.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "see RIAW"
+      ]
+    }
+  ],
+  "IKUB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "inside, within.",
+      "eng_example": "They are inside the studio.",
+      "ilok_example": "Adda da iti ikub ti estudio."
+    }
+  ],
+  "IKUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold or keep in one’s possession; to have, possess.",
+      "eng_example": "It is bad to hold in one’s possession what one does not own.",
+      "ilok_example": "Dakes nga ikutan ti saan mo nga kukua.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "ILAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to lie and rub the body on the floor lazily.",
+      "eng_example": "All he did was to lie and rub his body on the floor lazily. 2. to lie prostrate due to pain, exhaustion, etc.",
+      "ilok_example": "Nagil-ilad la ti inaramid na.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lie and rub the body on the floor lazily with, to be wearing (it) when lying and rubbing the body on the floor lazily.",
+      "eng_example": "Don’t lie and rub your body lazily on the floor with your new clothes.",
+      "ilok_example": "Saan mo nga iyilad dayta baro nga badom.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "ILALA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to value, treasure; to cherish, esteem; to take care of dearly; to hold and keep with affection; to appreciate.",
+      "eng_example": "You treasure what I gave you.",
+      "ilok_example": "Ilalaem ti inted ko kenka.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "interj.",
+      "definition": "alas!, what a pity!, it’s a pity!",
+      "variations": [
+        "KAILALA PAY"
+      ]
+    }
+  ],
+  "ILANG-ILANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a tree that bears fragrant flowers. 2. a flower of this tree."
+    }
+  ],
+  "ILEM": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "jealous; suspicious.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be jealous, suspicious.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "IMON"
+      ]
+    }
+  ],
+  "ILET": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "tight, narrow.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "KITING"
+      ],
+      "antonyms": [
+        "LAWA"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become like this.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "ILI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. town. 2. country."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go to town.",
+      "conjugation": "/-UM-/",
+      "variations": [
+        "PAILI"
+      ]
+    }
+  ],
+  "KAILIAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. coming from the same town, townmate. 2. coming from the same country. see under ILI."
+    }
+  ],
+  "PAGILIAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. town, township. 2. country. see under ILI."
+    }
+  ],
+  "UMILI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pl. the inhabitants of a town or country; townspeople. see under ILI."
+    }
+  ],
+  "INILIN-ILI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "every town, each town."
+    }
+  ],
+  "ILIW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be homesick (for someone or something), to be nostalgic, to be lonesome for.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "ILO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to wipe the anus after defecating.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wipe the anus (of someone) after defecating.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "ILOKANO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. one of the Philippine languages spoken principally in Northern Luzon. 2. a speaker, especially a native speaker, of this language.",
+      "variations": [
+        "ILOKO, ILUKANO, ILUKO"
+      ]
+    }
+  ],
+  "ILOKO": [
+    {
+      "definition": "var. of ILOKANO."
+    }
+  ],
+  "ILOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to rub, massage.",
+      "conjugation": "/AG-, MANG-:-EN/",
+      "synonyms": [
+        "MASAHE 2. to set (broken bones) by massaging. 3. to deliver a baby by massaging and pushing"
+      ]
+    }
+  ],
+  "MANGNGILOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. one who sets broken bones or treats muscle sprains by massaging.",
+      "synonyms": [
+        "MAMMULLO. 2. a woman who delivers babies by massaging and pushing; a midwife",
+        "MAMMALTOT see under ILOT"
+      ]
+    }
+  ],
+  "ILUKANO": [
+    {
+      "definition": "var. of ILOKANO."
+    }
+  ],
+  "ILUKO": [
+    {
+      "definition": "var. of ILOKANO."
+    }
+  ],
+  "IM-": [
+    {
+      "definition": "var, of IN-occurring before P or B."
+    }
+  ],
+  "-IM-": [
+    {
+      "definition": "var. of -IMM-before a consonant."
+    }
+  ],
+  "IMA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. arm. 2. hand. 3. something like or corresponding to an arm. see IM-IMA."
+    }
+  ],
+  "IMAS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "delicious, tasty, savory, appetizing.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become like this.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to enjoy, relish.",
+      "eng_example": "He enjoys staying in the forest.",
+      "ilok_example": "Imasen ti aggian idiay bakir.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "IMATANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "attention, mind, sight.",
+      "eng_example": "He won’t remove his sight from Mary.",
+      "ilok_example": "Dina isina ti imatang na ken ni Maria."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pay attention to, watch, see, witness, observe.",
+      "eng_example": "Pay attention to the one speaking.",
+      "ilok_example": "Imatangam diay agsarsarita.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "IMATON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to watch, see; to attend, e.g. a show.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "IMBAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "good: 1. kind. 2. skillful, competent, efficient. 3. pleasing, gratifying, enjoyable. 4. well, no longer sick. 5. proper, becoming, right.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "SAYAAT"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become any of these.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "IMBAL": [
+    {
+      "definition": "pt. of UMBAL."
+    }
+  ],
+  "IMBES": [
+    {
+      "definition": "prep, instead of.",
+      "origin": "imbεs; f. Sp."
+    }
+  ],
+  "IMBESTIGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to investigate, look into.",
+      "conjugation": "/AG-, MANG-:-EN/",
+      "origin": "imbεstiga; f. Sp."
+    }
+  ],
+  "IMBESTIGASION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "investigation."
+    }
+  ],
+  "IMBITAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to invite.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "ANGAY"
+      ],
+      "variations": [
+        "IMBITA"
+      ]
+    }
+  ],
+  "IMBITASION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "invitation. --cf.",
+      "ilok_example": "IMBITAR.",
+      "origin": "f. Sp."
+    }
+  ],
+  "IMENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "safe, secure.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "IM-IMA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to thwart, frustrate, bring to naught, cause to fail.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be thwarted, frustrated, brought to naught, caused to fail.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "IMING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. beard. 2. moustache. 3. whiskers.",
+      "synonyms": [
+        "BARBAS"
+      ]
+    }
+  ],
+  "IMIS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "affected, prudish, fastidious, squeamish, finicky.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "IMLAY": [
+    {
+      "definition": "pt. of UMLAY."
+    }
+  ],
+  "IMLEK": [
+    {
+      "definition": "pt. of UMLEK."
+    }
+  ],
+  "-IMM-": [
+    {
+      "definition": "pt. of -UM-.",
+      "variations": [
+        "-IM- (before a consonant)"
+      ]
+    }
+  ],
+  "-IMM--AN": [
+    {
+      "definition": "an adjectival affix meaning: to be truly in the state or condition described by the stem.",
+      "eng_example": "You are truly a man and yet you are cowardly.",
+      "ilok_example": "Limmalakian ka ket natakrot ka."
+    }
+  ],
+  "IMNA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "elegant, handsome, comely, graceful.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "IMNAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "muse.",
+      "synonyms": [
+        "SANIATA"
+      ]
+    }
+  ],
+  "IMNO": [
+    {
+      "definition": "pt. of UMNO."
+    }
+  ],
+  "IMOKO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a small knife."
+    }
+  ],
+  "IMON": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "jealous, envious.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be jealous, envious.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "IMPEKSION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "infection.",
+      "origin": "impεksion; f. Eng."
+    }
+  ],
+  "IMPES": [
+    {
+      "definition": "pt. of UMPES."
+    }
+  ],
+  "IMPIERNO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hell, purgatory.",
+      "origin": "impiεrno; f. Sp."
+    }
+  ],
+  "IMPIS": [
+    {
+      "definition": "var. of INGPIS."
+    }
+  ],
+  "IMPLUENSIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "influence.",
+      "origin": "impluεnsia; f. Sp."
+    }
+  ],
+  "IMPORMASION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "information.",
+      "origin": "f. Sp."
+    }
+  ],
+  "IMPUSUAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "hearty, cordial; sincere, whole-hearted.",
+      "eng_example": "He gave him his wholehearted support.",
+      "ilok_example": "Inted na kanyana ti naimpusuan nga tulong na.",
+      "conjugation": "/AN-/",
+      "origin": "cf. PUSO"
+    }
+  ],
+  "IMRES": [
+    {
+      "definition": "pt. of UMRES."
+    }
+  ],
+  "IMUT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "selfish, stingy, miserly. --syn KIRMUT.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "IN-": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go, proceed.",
+      "synonyms": [
+        "PAPAN. pt. of 1,2I-"
+      ],
+      "variations": [
+        "INN- (before pronoun -AK)"
+      ]
+    }
+  ],
+  "-IN-": [
+    {
+      "definition": "pt. of -EN. a nominalizing affix identical to the pt. form of -EN; the meaning is: one that has undergone the action or process expressed by the verb stem. an adverbial affix meaning: every, each.",
+      "eng_example": "Every year his wife gives birth to a child. (+ R1), an adjective affix meaning: to tend to be what the stem describes.",
+      "ilok_example": "Tinawen nga aganak diay baket na."
+    },
+    {
+      "part_of_speech": "interj.",
+      "definition": "an exclamation expressing mild displeasure or impatience; usually preceded by AY.",
+      "ilok_example": "Ay ina, nagbuntog kan! Oh my, you are so slow! ÍNA,"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a girl, one’s young daughter: used affectionately. ÍNA,"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a title of respect for an older woman."
+    }
+  ],
+  "IN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mother.",
+      "synonyms": [
+        "INANG, NANANG"
+      ],
+      "common_forms": [
+        "Á"
+      ]
+    }
+  ],
+  "AGINA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pl. a mother and one of her children.",
+      "plural_form": "pl. AGIINA"
+    }
+  ],
+  "AGIINA": [
+    {
+      "definition": "pl. of AGINA: a mother and two or more of her children."
+    }
+  ],
+  "INA": [
+    {
+      "definition": "TI BUNYAG, godmother."
+    }
+  ],
+  "INAKA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "pitiful, deplorable.",
+      "common_forms": [
+        "NAKAIN-INAKA"
+      ]
+    }
+  ],
+  "INAKBAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to diffuse, spread, e.g. odors, smoke, etc.",
+      "eng_example": "The smell of the sidedish is spreading here.",
+      "ilok_example": "Aginakbay ti angot ti sida ditoy.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "INALADAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fenced portion of a yard or lot.",
+      "origin": "= ALAD + -IN-+ -AN"
+    }
+  ],
+  "-IN--AN": [
+    {
+      "definition": "pt. of 1"
+    }
+  ],
+  "INANA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to rest, to cease from action or motion.",
+      "eng_example": "Let’s rest for I am already tired.",
+      "ilok_example": "Aginana tayo pay ta nabannogakon.",
+      "conjugation": "/AD-/"
+    }
+  ],
+  "INANAK": [
+    {
+      "definition": "see under ANAK."
+    }
+  ],
+  "INANAMA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hope, confidence, trust."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hope, trust, rely on, have confidence in.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "NAMNAMA"
+      ]
+    }
+  ],
+  "INANG": [
+    {
+      "definition": "syn. of INA: usually used as a term of address."
+    }
+  ],
+  "INAPOY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cooked, boiled or steamed rice.",
+      "origin": "= -IN-+ APOY",
+      "variations": [
+        "INNAPOY"
+      ]
+    }
+  ],
+  "INASAR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "roast pig. --syn, LITSON n.",
+      "origin": "cf. ASAR"
+    }
+  ],
+  "INASITGAN": [
+    {
+      "origin": "ASIDEG + -IN--AN."
+    }
+  ],
+  "INAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stretch oneself.",
+      "conjugation": "/AG-/",
+      "cross_reference": "UNNAT"
+    }
+  ],
+  "INAUDI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a younger brother or sister. 2. youngest child.",
+      "origin": "cf. UDI",
+      "synonyms": [
+        "KMAUDIANAN, BURIDEK, KIMMOT"
+      ]
+    }
+  ],
+  "INAUNA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. elder brother or sister. 2. eldest child; first-born child.",
+      "origin": "cf. UNA"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "eldest child."
+    }
+  ],
+  "INAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be at the early period of conception characterized by vomiting and",
+      "conjugation": "/AG-, MANG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "capricious desire to eat certain foods; to conceive, become pregnant.",
+      "conjugation": "/or"
+    }
+  ],
+  "INAWGURASION": [
+    {
+      "definition": "inauguration.",
+      "origin": "f. Sp."
+    }
+  ],
+  "INAYAD": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "slow and gentle; careful, deliberate.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "IN-INAYAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to move or do something slowly, gently and carefully.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do slowly, gently and carefully.",
+      "eng_example": "Carry my suitcase slowly, gently and carefully for there is something breakable inside it.",
+      "ilok_example": "In-inayaden yo nga bagkaten dayta maletak ta adda mabuong.",
+      "conjugation": "/AG-:-EN/"
+    }
+  ],
+  "INDAKLAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "great, eminent, illustrious.",
+      "conjugation": "/NA-/",
+      "origin": "cf. DAKKEL"
+    }
+  ],
+  "INDAYON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cradle, hammock."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to use a swing or cradle for recreation. 2. to swing, sway.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put in a cradle or hammock, to rock in a cradle or hammock.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "INDENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to listen to, heed; to hearken.",
+      "eng_example": "Listen to my words.",
+      "ilok_example": "Indengam ti saok.",
+      "conjugation": "/MANG-:-AN/",
+      "synonyms": [
+        "DENGNGEG"
+      ]
+    }
+  ],
+  "INDEPENDIENTE": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "independent.",
+      "origin": "indεpendiεntε; f. Sp."
+    }
+  ],
+  "INDIAK": [
+    {
+      "definition": "I don’t want to, I refuse (to do it).",
+      "variations": [
+        "MANDIAK"
+      ],
+      "cross_reference": "MADI"
+    }
+  ],
+  "INDUSTRIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "industry.",
+      "origin": "f. Sp."
+    }
+  ],
+  "INHENIERIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "engineering.",
+      "origin": "inhεniεria; f. Sp."
+    }
+  ],
+  "INHENIERO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "engineer.",
+      "origin": "inhεniεro; f. Sp."
+    }
+  ],
+  "INIIN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shake or be unstable due to the uneven distribution of its weight or contents: said of containers.",
+      "eng_example": "Compress the contents of that box so that it won’t shake.",
+      "ilok_example": "Pekpekem dayta kahon tapno saan nga aginiin.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "IN-INUT": [
+    {
+      "definition": "see under INUT."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be like this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to do little by little, every now and then, a little at a time, 2. to use or consume economically, a little at a time, little by little.",
+      "eng_example": "Eat that sidedish economically for there is no more.",
+      "ilok_example": "In-inuten yo dayta sida ta awanen.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "INIRUBAN": [
+    {
+      "definition": "see under IRUB."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "the rice resulting from such action."
+    }
+  ],
+  "INIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the sun."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "sunny.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to shine, to have the sun shining.",
+      "eng_example": "Do you think the sun will shine tomorrow?",
+      "ilok_example": "Aginit ngata inton bigat?",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be exposed to the sun, to be hit or burned by the sun.",
+      "eng_example": "Let’s go under the tree so that we will not be hit by the sun.",
+      "ilok_example": "Intayo idiay sirok ti kayo tapno saan tayo nga mainitan.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "INKIWAR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of rice pudding.",
+      "origin": "cf. KIWAR"
+    }
+  ],
+  "INN-": [
+    {
+      "definition": "var. of IN-before pronoun -AK."
+    }
+  ],
+  "INNADAW": [
+    {
+      "definition": "[= cf."
+    }
+  ],
+  "ADAW": [
+    {
+      "definition": "],"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a children’s game played with the fingers."
+    }
+  ],
+  "INNAPOY": [
+    {
+      "definition": "var. of INAPOY."
+    }
+  ],
+  "INNAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to wash plates, bowls, and other things used in eating a meal.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wash (things used in eating a meal).",
+      "conjugation": "/AG-:-AN/"
+    }
+  ],
+  "INNEM": [
+    {
+      "definition": "num. six; 6.",
+      "synonyms": [
+        "SEIS"
+      ],
+      "variations": [
+        "-NEM"
+      ]
+    }
+  ],
+  "-INN-": [
+    {
+      "definition": "a verbal affix indicating reciprocity in the performance of the action expressed by the (verbal) stem. + -AN, 1. with a verbal stem, a var. of -INN-. 2. with an adjectival stem, it indicates competition or rivalry in showing the quality or attribute expressed by the stem."
+    }
+  ],
+  "INNO": [
+    {
+      "definition": "var. (dial.) of ANIA."
+    }
+  ],
+  "INNUDO": [
+    {
+      "definition": "var. of INUDO."
+    }
+  ],
+  "INNUROG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to spin smoothly: said of tops and similar objects.",
+      "conjugation": "/AG-/",
+      "origin": "cf. TUROG"
+    }
+  ],
+  "INSARABASAB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "broiled meat or fish."
+    }
+  ],
+  "INSEKTO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "insect.",
+      "origin": "insεkto; f. Sp."
+    }
+  ],
+  "INSIGIDA": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "at once, immediately, right away.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "DARAS"
+      ]
+    }
+  ],
+  "INSIK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. the Chinese language. 2. a Chinese person. 3. figuratively: a cunning person especially in business, a cheater especially in business."
+    }
+  ],
+  "INSTRUMENTO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "instrument.",
+      "origin": "instrumεnto; f, Sp."
+    }
+  ],
+  "INTAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall in line, stand in a line or row.",
+      "conjugation": "/AG-+ R2/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall in line with others, stand in a line with others.",
+      "conjugation": "/MAKI-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to place in a line or row, to file, Intaren na dagidiay pinggan ditoy.",
+      "ilok_example": "He will place the plates in a row here.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be standing in a line, to be placed in a row.",
+      "eng_example": "There are many cars placed in a row within the premises of the house.",
+      "ilok_example": "Adu ti naintar nga lugan iti arubayan ti balay.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "INTEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stay, remain.",
+      "eng_example": "Don’t stay where you are going.",
+      "ilok_example": "Saan ka nga agintek idiay papanam.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "INTERES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "interest: readiness to be concerned with or moved by an object or class of object.",
+      "eng_example": "I have no interest in what you are doing.",
+      "ilok_example": "Awan ti interes ko dita ar-aramidem.",
+      "origin": "intεrεs; f. Sp."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "n, a charge for borrowed money.",
+      "origin": "intεrεs; f. Sp."
+    }
+  ],
+  "INTERESADO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "interested.",
+      "origin": "intεrεsado; f. Sp."
+    }
+  ],
+  "INTERMEDIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the intermediate stage in the elementary school; the fifth and sixth grades and also seventh grade (if any) in the elementary school.",
+      "origin": "intεrmεdia; f. Sp.",
+      "variations": [
+        "INTERMEDIET"
+      ]
+    }
+  ],
+  "INTERMEDIET": [
+    {
+      "definition": "var. of INTERMEDIA.",
+      "origin": "intεrmεdiεt; f. Eng."
+    }
+  ],
+  "INTO": [
+    {
+      "definition": "; INTONO, prep. at (some future time), in (the future).",
+      "variations": [
+        "INTON, TONO. KET NO, lest. NGARUD NO, if. INTONO"
+      ]
+    }
+  ],
+  "INTONO": [
+    {
+      "definition": "KUAN, then, subsequently. conj. when (in the future).",
+      "eng_example": "When I come here do you think you will be here?",
+      "ilok_example": "Intono umayak ditoy, adda ka ngata?",
+      "variations": [
+        "INTON, TONO. conj. lest. Saan ka nga natagari intono agunget. Don’t be noisy lest he gets angry",
+        "INTON"
+      ]
+    }
+  ],
+  "INTON": [
+    {
+      "definition": "var. of 1,2INTONO."
+    }
+  ],
+  "INTONANO": [
+    {
+      "definition": "INTON-ANO, inter. when?, at what time? (in the future).",
+      "synonyms": [
+        "KAANO"
+      ]
+    }
+  ],
+  "INTRIMITIDA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "inquisitive, observant, curious.",
+      "conjugation": "/NAG-/",
+      "origin": "f. Sp.?"
+    }
+  ],
+  "INTUOD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to ask, inquire about.",
+      "conjugation": "/AG-, MANG-:-EN/",
+      "synonyms": [
+        "SALUDSUD Intuodem no ania ti kayat na. Ask what he wants"
+      ]
+    }
+  ],
+  "INUDO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to warm oneself in front of a fire or any other hot object.",
+      "conjugation": "/AG-/",
+      "variations": [
+        "INNUDO"
+      ]
+    }
+  ],
+  "INUM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to drink.",
+      "conjugation": "/-UM-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to drink alcoholic beverages.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "BARTEK"
+      ]
+    }
+  ],
+  "INUMEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "something to drink; drink.",
+      "eng_example": "Do you have something to drink?",
+      "ilok_example": "Adda inumen yo?"
+    }
+  ],
+  "INUT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "thrifty, economical, not wasteful."
+    }
+  ],
+  "INYOG": [
+    {
+      "definition": "var. of NIOG."
+    }
+  ],
+  "ING-": [
+    {
+      "definition": "var. of IN-occurring before K or G."
+    }
+  ],
+  "INGAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to growl.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be growled at.",
+      "conjugation": "/-AN/"
+    }
+  ],
+  "INGAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "one similar or resembling (another one) in physical features.",
+      "eng_example": "He resembles his father in physical features.",
+      "ilok_example": "Kaingas na diay tatang na.",
+      "conjugation": "/KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be similar, to resemble each other in physical features.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "INGAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "toothpick; wedge; splinter."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pick the teeth.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to insert something in (an opening).",
+      "conjugation": "/AG-:-AN/"
+    }
+  ],
+  "INGEL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "brave, courageous, valiant, daring, bold, heroic.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "strong: said of liquors, tobacco, etc.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "SANGER"
+      ]
+    }
+  ],
+  "INGEP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to imagine, dream about.",
+      "eng_example": "What I am imagining is roast pig.",
+      "ilok_example": "Letson ti ing-ingpek.",
+      "conjugation": "/MANG-:-EN/",
+      "origin": "= INGPEN"
+    }
+  ],
+  "INGET": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "strict, severe, firm.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "INGGA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "end, conclusion, ending."
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "until, till, up to (a place, time).",
+      "variations": [
+        "INGGANA, AGINGGA, AGINGGANA TI, until, till the time that, up to the time that",
+        "INGGANA TI, AGINGGA TI, AGINGGANA TI, INGGAT, INGGANAT, AGINGGAT, AGINGGANAT"
+      ]
+    }
+  ],
+  "INGGAAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "boundary, limit."
+    }
+  ],
+  "INGGANAT": [
+    {
+      "definition": "var. of INGGA TI."
+    }
+  ],
+  "INGGAT": [
+    {
+      "definition": "var. of INGGA TI."
+    }
+  ],
+  "INGGANA": [
+    {
+      "definition": "var. of INGGA."
+    }
+  ],
+  "INGGET": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "very: the absolute superlative.",
+      "eng_example": "The young lady is very very beautiful.",
+      "ilok_example": "Ingget pintas diay balasang."
+    }
+  ],
+  "INGGLATERA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "England.",
+      "origin": "ingglatεra; f. Sp."
+    }
+  ],
+  "INGPIS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "thin.",
+      "conjugation": "/NA-/",
+      "antonyms": [
+        "PUSKOL"
+      ],
+      "variations": [
+        "IMPIS"
+      ]
+    }
+  ],
+  "INGUNGOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to love dearly, to be very fond of.",
+      "eng_example": "I love my mother dearly.",
+      "ilok_example": "Ing-ingungotek ni nanang ko.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "KAINGUNGOT": [
+    {
+      "definition": "n, loved one, beloved, sweetheart."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be sweethearts. see under INGUNGOT.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "IPA-": [
+    {
+      "origin": "1. I- + PA- (causative): the goal of the noncausative verb is placed in focus or subject position. 2. I-+ PA (to go): the goal of the verb (PA) is placed in focus or subject position. 3. I-+"
+    }
+  ],
+  "PA-": [
+    {
+      "definition": "(to use or put as): the goal of the verb is placed in focus or subject position."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to head toward, to go to.",
+      "eng_example": "Head toward the south.",
+      "ilok_example": "Agpabagatan ka.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "IPAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sister-in-law.",
+      "antonyms": [
+        "BAYAW"
+      ]
+    }
+  ],
+  "IPAKIN": [
+    {
+      "origin": "I-+ PAKIN-."
+    }
+  ],
+  "IPASTREK": [
+    {
+      "origin": "I-+ PASTREK."
+    }
+  ],
+  "IPDOOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to choke.",
+      "conjugation": "/MAKA-: MA--AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be choked.",
+      "conjugation": "/MA—AN/"
+    }
+  ],
+  "IPES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cockroach."
+    }
+  ],
+  "IPIL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a leguminous tree which yields valuable timber."
+    }
+  ],
+  "IPIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1, pincers: a grasping claw, as of a crab or lobster; chela. 2. var. of SIPIT."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pinch: to squeeze between two surfaces, two edges, etc.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be pinched.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "IPON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "shrimp.",
+      "synonyms": [
+        "KURUS"
+      ]
+    }
+  ],
+  "IPUS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tail."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "having a large tail.",
+      "conjugation": "/-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tail, follow behind.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a tail on or to.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "IRAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to incline, lean, slant, Nagiray diay balay da kalpasan ti bagyo.",
+      "ilok_example": "Their house inclined after the typhoon.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to incline, lean, slant.",
+      "eng_example": "You cause that wall to incline.",
+      "ilok_example": "Iyiray mo dayta taleb.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "IRI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce a long shrill cry.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "IRIG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to incline, bend down on one side.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to incline, bend down on one side.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "IRIGASION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "irrigation.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "PADANUM, PALAYAS"
+      ]
+    }
+  ],
+  "IRIID": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to crush, grind.",
+      "eng_example": "He crushed some mongo beans.",
+      "ilok_example": "Nagiridiid ti balatong.",
+      "conjugation": "/AG-:-EN/"
+    }
+  ],
+  "IRIK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "unhusked rice."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "separate rice grains from the harvested stalks especially with the feet.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to separate the grains of (harvested rice), to thresh rice grains.",
+      "conjugation": "/AG-:-EN/"
+    }
+  ],
+  "IRIK-IRIK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to step on or trample someone moving the feet as when separating rice grains from the stalks.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "IRIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "greenish feces of infants."
+    }
+  ],
+  "IRO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "soot."
+    }
+  ],
+  "IRTENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "tightly drawn, taut, not loose, stretched tightly.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stretch tightly, draw tightly.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "IRUB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to roast young or immature rice grains which are pounded afterwards in order to flatten the grains and separate the husks.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to roast (rice grains, etc).",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "IRUT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "tight.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become like this.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tighten, make tight.",
+      "eng_example": "Tighten the tie of your shoes.",
+      "ilok_example": "Irutem dayta tali ti sapatos mo.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "ISAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to ravel, fray.",
+      "eng_example": "My clothes did not fray.",
+      "ilok_example": "Saan nga nagisar ti badok.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "ISBO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "urine."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to urinate, wet.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to urinate or wet on (someone or something).",
+      "eng_example": "Your dog wetted on my plant.",
+      "ilok_example": "Inisboan diay asom ta mulak.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "ISEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fit, to be correctly adjusted to or shaped for.",
+      "eng_example": "Your shoes won’t fit me.",
+      "ilok_example": "Saan nga umsek dayta sapatos mo kanyak.",
+      "conjugation": "/-UM-/",
+      "origin": "= UMSEK"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make fit in or on, to put on (shoes).",
+      "eng_example": "Put on your shoes.",
+      "ilok_example": "Iyesek mo dayta sapatos mo.",
+      "conjugation": "/MANGI-:-/"
+    }
+  ],
+  "ISEM": [
+    {
+      "definition": "n, smile."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "always smiling, full of smiles; cheerful.",
+      "eng_example": "Bert is always smiling no matter how tired he is.",
+      "ilok_example": "Naisem ni Berto uray kasano ti bannog na.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to smile.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to smile to (someone).",
+      "conjugation": "/-UM-:-AN/",
+      "origin": "= ISMAN"
+    }
+  ],
+  "ISIIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sift (flour).",
+      "eng_example": "He sifted the flour.",
+      "ilok_example": "Inisiis na diay bellaay.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "ISIP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mind, thought, intellect."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "intelligent, bright, keen.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to think of, consider, ponder, reflect upon (what to do).",
+      "conjugation": "/AG-:-EN/",
+      "synonyms": [
+        "PANUNOT"
+      ]
+    }
+  ],
+  "IS-ISO": [
+    {
+      "definition": "see ISO."
+    }
+  ],
+  "ISLAID": [
+    {
+      "part_of_speech": "n.",
+      "definition": "trombone.",
+      "origin": "f. Eng.?",
+      "variations": [
+        "TRUMBON"
+      ]
+    }
+  ],
+  "ISO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to rub the dirt off one’s body, to scrub oneself.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "IS-ISO"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rub the dirt off (someone’s) body, to scrub.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "ISPAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to obstruct the throat of, to choke.",
+      "conjugation": "/MAKA-: MA--AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have the throat obstructed by food, to be choked by food.",
+      "conjugation": "/MA--AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to protect, defend, guard against.",
+      "eng_example": "Protect us from serious sicknesses.",
+      "ilok_example": "Ispalen na kami ti nakaro nga sakit.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be protected, defended.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "ISPELING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "spelling.",
+      "origin": "ispεling; f. Eng."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to spell.",
+      "conjugation": "/AG-:-EN/"
+    }
+  ],
+  "ISPIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "spy.",
+      "origin": "ispia; f. Sp."
+    }
+  ],
+  "ISTAM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stamp.",
+      "origin": "f. Eng.",
+      "synonyms": [
+        "SELYO"
+      ]
+    }
+  ],
+  "ISTAY": [
+    {
+      "definition": "var. of NAGISTAYAN."
+    }
+  ],
+  "ISTRIKTO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "strict, severe.",
+      "conjugation": "/NA-/",
+      "origin": "f, Eng.?"
+    }
+  ],
+  "ISTORYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "story, narrative.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tell a story.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tell, relate, narrate.",
+      "conjugation": "/MANG-:-EN/",
+      "common_forms": [
+        "or"
+      ]
+    }
+  ],
+  "ISU": [
+    {
+      "definition": "pron. he, she; him, her: the person previously mentioned.",
+      "eng_example": "No isu ti kayat ti dios, awan ti maaramid tayo.",
+      "ilok_example": "ISU is the full nominative case form, ISU or zero (nothing) the enclitic nominative, KUKUANA the full possessive, pron. it, that."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be enough or sufficient, to fit.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "an emphatic particle; it is followed by NGA before a clause.",
+      "eng_example": "It is that from which problems come.",
+      "ilok_example": "Isu dayta ti paggapoan ti kirokiro ita.",
+      "variations": [
+        "ISUNA"
+      ]
+    }
+  ],
+  "NA": [
+    {
+      "definition": "the enclitic possessive and the agent, and KANYANA or"
+    },
+    {
+      "part_of_speech": "interj.",
+      "definition": "an exclamation expressing surprise and wonder.",
+      "synonyms": [
+        "NI. replaces MO by you (sg.) before enclitic nominative pron. -K me or KAMI us (excl.). pron. by him or her, he or she (as actor): the agent of pron. his, her: the enclitic possessive of ISU"
+      ],
+      "variations": [
+        "NAY"
+      ]
+    }
+  ],
+  "KENKUANA": [
+    {
+      "definition": "the oblique.",
+      "variations": [
+        "ISUNA. var. of KANYANA"
+      ]
+    }
+  ],
+  "IS-ISU": [
+    {
+      "definition": "he or she only, he or she alone."
+    }
+  ],
+  "APAGISU": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "just right, just enough."
+    }
+  ],
+  "ISUN": [],
+  "ISUDA": [
+    {
+      "definition": "pron. they; them: the persons previously mentioned. is the full nominative case form, DA or IDA the enclitic nominative, KUKUADA the full possessive, DA the enclitic possessive and the agent, and KANYADA or KENKUADA the oblique."
+    }
+  ],
+  "IS-ISUDA": [
+    {
+      "definition": "they only, they alone."
+    }
+  ],
+  "ISUNA": [
+    {
+      "definition": "var. of 1 see KAKAISUNA."
+    }
+  ],
+  "IT": [
+    {
+      "part_of_speech": "interj.",
+      "definition": "a sound that someone makes to tell someone else that he is hiding and that the other should look for him.",
+      "ilok_example": "If the person hiding comes out suddenly and wishes to startle the other, he cries BA",
+      "origin": "í:t"
+    },
+    {
+      "part_of_speech": "interj.",
+      "definition": ".",
+      "origin": "ba:"
+    }
+  ],
+  "ITA": [
+    {
+      "definition": "var. of 1,2ITATTA. form of DAYTA postposed to a noun expressing emphasis.",
+      "eng_example": "That child there is the one who is noisy.",
+      "ilok_example": "Ta ubing ita ti naariwawa."
+    }
+  ],
+  "ITATTA": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "now, at the present time, at this moment.",
+      "variations": [
+        "ITA prep. this (morning, night, etc.): forms prepositional phrases expressing present time",
+        "ITA. TA, whereas (present)",
+        "ITA TA"
+      ],
+      "cross_reference": "IDINTO"
+    }
+  ],
+  "TA": [
+    {
+      "definition": ". conj. because, lest, that, so that, etc.; a ligature. pron. by the two of us, by you (sg.) and me, the two of us (as actor): the agent of DATA. var. of DITA or DAYTA; abbreviation of the demonstrative adjective DAYTA and of the adverb of place DITA."
+    }
+  ],
+  "ITATTAY": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "in the immediate past, in the near past, a moment ago.",
+      "eng_example": "Your child was here a moment ago.",
+      "ilok_example": "Adda itattay diay anak mo ditoy.",
+      "variations": [
+        "ITAY. prep. last, the immediate or near past (morning, night, etc.): forms prepositional phrases expressing immediate or near past time",
+        "ITAY. conj. when (in the immediate or near past)",
+        "ITAY"
+      ]
+    }
+  ],
+  "ITAY": [
+    {
+      "definition": "var. of 1,2,3ITATTAY. form of DAYTAY postposed to a noun expressing emphasis."
+    }
+  ],
+  "ITDEN": [
+    {
+      "origin": "ITED + -EN: often replaced by ITED."
+    }
+  ],
+  "ITED": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to give, grant (something) to; to confer, bestow (something) on.",
+      "eng_example": "He does not want to give money to his wife.",
+      "ilok_example": "Saan na kayat ti mangted ti kuarta idiay baket na.",
+      "conjugation": "/MANG-:-EN/",
+      "origin": "= MANGTED: ITED, ITDEN",
+      "cross_reference": "IKK-"
+    }
+  ],
+  "ITI": [
+    {
+      "definition": "cm. indefinite goal marker.",
+      "synonyms": [
+        "GAPO TI"
+      ],
+      "variations": [
+        "TI. prep. as for, concerning (a person, place or thing). Iti lalaki, napigpigsa ngem ti babai. As for a man, he is stronger than a woman. conj. because of, on account of, due to, in. Iti rurod na, kayat na nga tiritiren ti tengnged ko. In his irritation, he wanted to twist my neck",
+        "TI"
+      ]
+    }
+  ],
+  "ITIK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "duck with speckled plumage."
+    }
+  ],
+  "IT-IT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce a thin high-pitched sound like the cry of snakes, rats, etc.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "ITLOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "egg."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lay an egg.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lay (an egg or eggs).",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "ITNEG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a name applied to the natives of the province of Abra."
+    }
+  ],
+  "ITOY": [
+    {
+      "definition": "form of DAYTOY postposed to a noun expressing emphasis."
+    }
+  ],
+  "ITSURA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "form, figure, appearance, feature, mien.",
+      "origin": "f. Sp."
+    }
+  ],
+  "ITTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "in milled rice, unhusked grains mixed with the husked ones."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "in milled rice, to remove remaining unhusked grains from the husked ones.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove unhusked grains from (milled rice).",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "ITTIP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "crust of rice found at the bottom of the pot; it is usually harder and slightly burned."
+    }
+  ],
+  "ITUM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to close (mouth, etc.)-Itumem ta ngiwat mo.",
+      "ilok_example": "Close your mouth.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "IWA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "slice of something."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to slice, cut open.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "SANGKAIWA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "one slice."
+    }
+  ],
+  "IY-": [
+    {
+      "definition": "var. of 1,2I- occurring before a vowel.",
+      "cross_reference": "Y-. (+ R2), var. of 3 . (+ R2)"
+    }
+  ],
+  "I-": [
+    {
+      "definition": "(+ R2) before a vowel.",
+      "cross_reference": "Y-+ R2"
+    },
+    {
+      "definition": "to cause (a parade, procession, etc.) to pass by or through.",
+      "eng_example": "Have the parade pass by our house.",
+      "ilok_example": "Ilabas mo diay parada ditoy balay mi.",
+      "conjugation": "/ to cause to dangle. /"
+    },
+    {
+      "definition": "to put under the shade.",
+      "conjugation": "/ to explain, elucidate, elaborate on; to make clear. /"
+    },
+    {
+      "definition": "to refuse (to move), to refuse to make a motion (to do something).",
+      "eng_example": "Why do you refuse to move?",
+      "ilok_example": "Apay nga ipakpakutibeg mo ti aggunay?",
+      "conjugation": "/ to throw into the eyes of. /"
+    },
+    {
+      "definition": "to show, display, make visible.",
+      "eng_example": "Don’t make your wound visible to me.",
+      "ilok_example": "Saan mo nga iparang kaniak dayta sugat mo.",
+      "conjugation": "/ to eat (an article of food) with (another). /"
+    },
+    {
+      "definition": "to cause (someone) to do this.",
+      "conjugation": "/ to bribe with, to use to bribe (someone). /"
+    },
+    {
+      "definition": "to do this toward (someone).",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "definition": "to cause to fall to the ground.",
+      "conjugation": "/ to lean (something) on. /"
+    },
+    {
+      "definition": "to give as help, aid, or assistance.",
+      "conjugation": "/ to teach to do something. /",
+      "common_forms": [
+        "MANG-:-AN"
+      ]
+    },
+    {
+      "definition": "to keep for someone expected to come or arrive. (+ R2) before a vowel.",
+      "conjugation": "/ to continue to do. /",
+      "cross_reference": "2"
+    }
+  ],
+  "IYAAY": [
+    {
+      "definition": "nominalized form of AY: the coming or arrival (of).",
+      "origin": "I-+ R2 + AY",
+      "variations": [
+        "YAAY"
+      ]
+    }
+  ],
+  "IYOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to copulate with, to engage in sexual intercourse with.",
+      "conjugation": "/-UM-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to copulate or engage in sexual intercourse with each other.",
+      "conjugation": "/AG-/ with pl. subject",
+      "variations": [
+        "YOT, IYYOT"
+      ]
+    }
+  ],
+  "IYYOT": [
+    {
+      "definition": "var. of IYOT."
+    }
+  ]}

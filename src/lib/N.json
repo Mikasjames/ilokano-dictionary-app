@@ -1,0 +1,1214 @@
+
+{"N-": [
+    {
+      "definition": "pt. of M-."
+    }
+  ],
+  "NA-": [
+    {
+      "definition": "adjectivizing prefix; full of the quality or thing denoted by the stem. + R1, comparative form of NA-. pt. of MA-. + R1, ptp. of MA-."
+    }
+  ],
+  "NA-AN": [
+    {
+      "definition": "pt. of MA-AN."
+    }
+  ],
+  "NAAY": [
+    {
+      "part_of_speech": "interj.",
+      "definition": "an exclamation expressing sorrow; alas!"
+    }
+  ],
+  "NABLO": [
+    {
+      "definition": "pt. of MABLO."
+    }
+  ],
+  "NABTAK": [
+    {
+      "definition": "pt. of MABTAK."
+    }
+  ],
+  "NADNAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be digested.",
+      "eng_example": "What I ate has not yet been digested.",
+      "ilok_example": "Saan pay nga nagnadnad ti kinnan ko.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NAED": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to reside, live, dwell.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "GIAN"
+      ]
+    }
+  ],
+  "NAG-": [
+    {
+      "definition": "pt. of AG-. superlative of NA-; very."
+    }
+  ],
+  "NAGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "name, designation, appellation."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have as name.",
+      "eng_example": "My daughter has Pearl as her name.",
+      "ilok_example": "Agnagan ti Perla diay balasang.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be named as, to be designated or appointed as.",
+      "conjugation": "/MA--AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to name, mention by name.",
+      "eng_example": "Name those who ran after you.",
+      "ilok_example": "Naganem dagiti kimmamat kenka.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NAG-AN": [
+    {
+      "definition": "pt. of PAG-AN."
+    }
+  ],
+  "NAGANAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "parent, father, mother.",
+      "origin": "cf. ANAK",
+      "synonyms": [
+        "DAKKEL"
+      ]
+    }
+  ],
+  "NAGBAETAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the place between.",
+      "origin": "cf. BAET"
+    }
+  ],
+  "NAGISTAY": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "almost, nearly.",
+      "eng_example": "The woman who fell from the stairs almost died.",
+      "ilok_example": "Nagistayan natay diay babai nga natnag idiay agdan.",
+      "synonyms": [
+        "DANDANI"
+      ],
+      "common_forms": [
+        "NAGISTAYAN"
+      ]
+    }
+  ],
+  "NAGNA": [
+    {
+      "definition": "pt. of MAGNA."
+    }
+  ],
+  "NAGYAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "content, substance.",
+      "origin": "cf. YAN"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "content, substance."
+    }
+  ],
+  "NAKA-": [
+    {
+      "definition": "pt. of MAKA-. + R1, absolute superlative of NA-; so very."
+    }
+  ],
+  "NAKA-AN": [
+    {
+      "definition": "pt. of PAKA-AN."
+    }
+  ],
+  "NAKI-": [
+    {
+      "definition": "pt. of MAKI-."
+    }
+  ],
+  "NAKI-AN": [
+    {
+      "definition": "pt. of PAKI-AN."
+    }
+  ],
+  "NAKIN": [
+    {
+      "definition": "pt. of AKIN-or MAKIN-."
+    }
+  ],
+  "NAKKONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "my child: an endearing term."
+    }
+  ],
+  "NAKTANG": [
+    {
+      "definition": "pt. of MAKTANG."
+    }
+  ],
+  "NALMES": [
+    {
+      "definition": "pt. of MALMES."
+    }
+  ],
+  "NALPAS": [
+    {
+      "definition": "pt. of MALPAS."
+    }
+  ],
+  "NALPAY": [
+    {
+      "definition": "pt. of MALPAY."
+    }
+  ],
+  "NALPES": [
+    {
+      "definition": "pt. of MALPES."
+    }
+  ],
+  "NALTAT": [
+    {
+      "definition": "pt. of MALTAT."
+    }
+  ],
+  "NAMA": [
+    {
+      "definition": "; NAMAK PAY NO, what if, suppose."
+    }
+  ],
+  "NAMAGBAGA": [
+    {
+      "definition": "pt. of MAMAGBAGA."
+    }
+  ],
+  "NAMAN": [
+    {
+      "definition": "(rare), what is it? what is the matter? why?",
+      "origin": "= ANA + MAN ?",
+      "synonyms": [
+        "APAY MAN"
+      ]
+    }
+  ],
+  "NAM-AY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "comfortable, full of ease.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become comfortable, to be full of ease.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NAMIN-": [
+    {
+      "definition": "pt. of MAMIN-."
+    }
+  ],
+  "NAMIN-ADU": [
+    {
+      "definition": "pt. of MAMIN-ADU."
+    }
+  ],
+  "NAMIN-ANO": [
+    {
+      "definition": "pt.",
+      "ilok_example": "Of MAMIN-ANO."
+    }
+  ],
+  "NAMINSAN": [
+    {
+      "definition": "pt. of MAMINSAN."
+    }
+  ],
+  "NAMLES": [
+    {
+      "definition": "pt. of MAMLES."
+    }
+  ],
+  "NAMMIGAT": [
+    {
+      "definition": "pt. of MAMMIGAT."
+    }
+  ],
+  "NAMNAM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to taste, savor.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NANAM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "taste, savor, flavor."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "tasty, savory, flavorful.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to enjoy or relish (eating, sleeping, dancing, etc.)",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NANG-": [
+    {
+      "definition": "pt. of MANG-."
+    }
+  ],
+  "NANGALDAW": [
+    {
+      "definition": "pt. of MANGALDAW."
+    }
+  ],
+  "NANGAN": [
+    {
+      "definition": "pt. of MANGAN."
+    }
+  ],
+  "NANG-AN": [
+    {
+      "definition": "pt, of PANG-AN."
+    }
+  ],
+  "NANGKA": [
+    {
+      "definition": "var. of LANGKA."
+    }
+  ],
+  "NANGRABII": [
+    {
+      "definition": "pt. of MANGRABII."
+    }
+  ],
+  "NANG-US": [
+    {
+      "definition": "pt. of MANG-US."
+    }
+  ],
+  "NAPLENG": [
+    {
+      "definition": "pt. of MAPLENG."
+    }
+  ],
+  "NARBA": [
+    {
+      "definition": "pt. of MARBA."
+    }
+  ],
+  "NARGAAY": [
+    {
+      "definition": "pt. of MARGAAY."
+    }
+  ],
+  "NARKOTIKO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "narcotic.",
+      "origin": "f. Sp."
+    }
+  ],
+  "NARNAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to separate the flesh (especially of small clams) from the shell by boiling.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NARRA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a tall leguminous tree (Pterocarpus sp.)."
+    }
+  ],
+  "NARS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nurse.",
+      "origin": "f. Eng.",
+      "variations": [
+        "NERS"
+      ]
+    }
+  ],
+  "NASAKIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sickness, illness, disease.",
+      "eng_example": "What is your sickness?",
+      "ilok_example": "Ania ti nasakit mo?",
+      "origin": "cf. SAKIT"
+    }
+  ],
+  "NASANGER": [
+    {
+      "part_of_speech": "n.",
+      "definition": "strong wine.",
+      "origin": "cf. SANGER"
+    }
+  ],
+  "NASION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nation.",
+      "origin": "f. Sp."
+    }
+  ],
+  "NASNAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to wipe or polish with a piece of cloth or rag.",
+      "eng_example": "He polished with a piece of cloth the floor of the house.",
+      "ilok_example": "Ninasnasan na ti datar ti balay.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "NASPAK": [
+    {
+      "origin": "NA- + SEP-AK."
+    }
+  ],
+  "NATAENGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "an adult, a grown-up or mature person.",
+      "origin": "cf. TAENG"
+    }
+  ],
+  "NATAY": [
+    {
+      "definition": "1. pt. of MATAY. 2. the dead."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "the dead."
+    }
+  ],
+  "NATENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "vegetable."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather or harvest (vegetables).",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NATURAL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "natural, not artificial; inborn.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "nature, inborn character."
+    }
+  ],
+  "NAWNAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to dilute, prepare a liquid formula.",
+      "eng_example": "Prepare a milk formula for the child.",
+      "ilok_example": "Mangnawnaw ka ti gatas diay ubing.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NAY": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "an emphatic particle.",
+      "eng_example": "Cross over that fence there.",
+      "ilok_example": "Bumallasiw ka dita nay alad."
+    }
+  ],
+  "NAYAT": [
+    {
+      "definition": "pt. of MAYAT."
+    }
+  ],
+  "NAYNAY": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "repeatedly, continuously, again and again."
+    }
+  ],
+  "NE": [
+    {
+      "part_of_speech": "interj.",
+      "definition": "oh, but.",
+      "eng_example": "Oh, but why?",
+      "ilok_example": "Ne, apay ngay?"
+    }
+  ],
+  "NEBNEB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to push or drive in deeply, to cause to sink deeply.",
+      "eng_example": "Don’t drive that nail deeply in the wood.",
+      "ilok_example": "Saan mo nga inebneb dayta lansa dita kayo.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be pushed or driven deeply.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "NEGOSIANTE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "merchant.",
+      "origin": "nεgosiantε; f. Sp."
+    }
+  ],
+  "NEGOSIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "commerce, trade.",
+      "origin": "nεgosio; f. Sp."
+    }
+  ],
+  "NEGRA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a female Negro.",
+      "origin": "nεgra; f. Sp."
+    }
+  ],
+  "NEGRITO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a Negrito.",
+      "origin": "nεgrito; f. Sp."
+    }
+  ],
+  "NEGRO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a Negro.",
+      "origin": "nεgro; f. Sp."
+    }
+  ],
+  "-NEM": [
+    {
+      "definition": "var. of INNEM, six: used only with certain prefixes."
+    }
+  ],
+  "MAIKANEM": [],
+  "NENGNENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "dull, stupid, dumb.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "NEPNEP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a continuous fall of rain."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rain steadily for days.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NERBIOSA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "becoming nervous easily: used only for women.",
+      "origin": "nεrbiosa; f. Sp."
+    }
+  ],
+  "NERBIOSO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "becoming nervous easily.",
+      "origin": "nεrbioso; f. Sp."
+    }
+  ],
+  "NERS": [
+    {
+      "definition": "var. of NARS."
+    }
+  ],
+  "NI": [
+    {
+      "definition": "art. nominative singular form of the proper article which occurs before a proper name.",
+      "plural_form": "pl. DA"
+    },
+    {
+      "definition": "possessive singular form of the proper article which occurs before a proper name.",
+      "plural_form": "pl. DA"
+    },
+    {
+      "part_of_speech": "interj.",
+      "definition": "an exclamation expressing surprise and wonder.",
+      "synonyms": [
+        "NA"
+      ]
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "used to call attention to a thing; look.",
+      "eng_example": "It is here, look.",
+      "ilok_example": "Adda ditoy ni."
+    }
+  ],
+  "NI-": [
+    {
+      "definition": "var. of -IN-before L."
+    }
+  ],
+  "NIBI": [
+    {
+      "definition": "see MANGNIBINIBI."
+    }
+  ],
+  "NIKEL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "five centavos.",
+      "origin": "f. Eng.?"
+    }
+  ],
+  "NIOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. coconut palm or tree. 2. its fruit.",
+      "variations": [
+        "INYOG"
+      ]
+    }
+  ],
+  "NIPA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nipa."
+    }
+  ],
+  "NISNIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a piece of cloth used principally for wiping or for holding hot pots and pans; rag."
+    }
+  ],
+  "NITSO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tomb, niche.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "PANTEONG"
+      ]
+    }
+  ],
+  "NOBELA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "novel.",
+      "origin": "nobεla; f. Sp."
+    }
+  ],
+  "NOBELISTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "novelist.",
+      "origin": "nobεlista; f. Sp."
+    }
+  ],
+  "NOBIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "female sweetheart, fiancee.",
+      "origin": "f. Sp.",
+      "antonyms": [
+        "NOBIO"
+      ]
+    }
+  ],
+  "NOBIEMBRE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "November.",
+      "origin": "nobiεmbrε; f. Sp."
+    }
+  ],
+  "NOBIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "male sweetheart, fiance.",
+      "origin": "f. Sp."
+    }
+  ],
+  "AGNOBIO": [
+    {
+      "definition": "n.pl. sweethearts."
+    }
+  ],
+  "NOMINASION": [
+    {
+      "definition": "n, nomination.",
+      "origin": "f. Sp."
+    }
+  ],
+  "NOPAY": [
+    {
+      "definition": "granted that, even if."
+    }
+  ],
+  "NOTARIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "notary public.",
+      "origin": "f. Sp."
+    }
+  ],
+  "NOWTBUK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "notebook.",
+      "origin": "f. Eng."
+    }
+  ],
+  "-NSA": [
+    {
+      "definition": "var. of SA after a vowel."
+    }
+  ],
+  "-NTO": [
+    {
+      "definition": "var. of TO after a vowel."
+    }
+  ],
+  "NUANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "water buffalo, carabao."
+    }
+  ],
+  "NUEBE": [
+    {
+      "definition": "num. nine; 9.",
+      "origin": "nuεbε; f. Sp.",
+      "synonyms": [
+        "SIAM"
+      ]
+    }
+  ],
+  "ALAS": [
+    {
+      "definition": "NUEBE, nine o’clock.",
+      "eng_example": "OTSO, eight o’clock.",
+      "ilok_example": "ONSE, eleven o’clock."
+    }
+  ],
+  "NUGOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to apportion, distribute proportionally, allocate.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be distributed proportionally.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "NUKNOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to spool, wind into a ball.",
+      "eng_example": "Wind that thread into a ball.",
+      "ilok_example": "Nuknokem dayta lubid.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NUMO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to enter into a contract, to come to terms.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "poor, humble, lowly.",
+      "eng_example": "He has a humble beginning.",
+      "ilok_example": "Nanumo ti puon na.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "NUNOG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stay (in water) longer than necessary, to soak (in water).",
+      "eng_example": "Don’t soak in that water.",
+      "ilok_example": "Saan ka nga agnunog dita danum.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NUNONG": [
+    {
+      "definition": "see KANUNONG."
+    }
+  ],
+  "NUNGNUNG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shower with favors.",
+      "eng_example": "She showers favors on her eldest child.",
+      "ilok_example": "Diay inauna nga anak na ti nunnungnungan na.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "NURNOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to do or follow unswervingly.",
+      "eng_example": "Let us follow unswervingly this road that goes to the east.",
+      "ilok_example": "Nurnoren tayo daytoy dalan nga agpadaya.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NUTNOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to suck one’s thumb.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to suck (the thumb).",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NGABIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be on the verge of, close to.",
+      "eng_example": "The old man is on the verge of death.",
+      "ilok_example": "Agngangabit ken patay diay lakay.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "NGANGABIT"
+      ]
+    }
+  ],
+  "NGAD": [
+    {
+      "definition": "var. of NGARUD."
+    }
+  ],
+  "NGADAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to have difficulty in speaking or pronouncing.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NGADAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. the palate. 2. the concave side of a pot, jar. etc."
+    }
+  ],
+  "NGALANGAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to open again: said of wounds that have closed; to be dislocated again: said of dislocated bones that have been set.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "NGALAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "middle (of).",
+      "eng_example": "It’s the middle of April again.",
+      "ilok_example": "Agngalay manen ti Abril.",
+      "common_forms": [
+        "AGNGALAY"
+      ]
+    }
+  ],
+  "NGALNGAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to chew, masticate.",
+      "eng_example": "Chew well what you are eating.",
+      "ilok_example": "Ngalngalem nga nalaing dayta kanem.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "NGAMAN": [
+    {
+      "definition": "(literary), inter. why.",
+      "synonyms": [
+        "APAY"
+      ]
+    }
+  ],
+  "NGAMIN": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "a particle that expresses mild reproof or censure.",
+      "eng_example": "Why do you always tag along?",
+      "ilok_example": "Apay ngamin sumurot-surot ka."
+    }
+  ],
+  "NGANNGANI": [
+    {
+      "definition": "var. of DANDANI."
+    }
+  ],
+  "NGANGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to open one’s mouth.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to open (the mouth).",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "NAKANGANGA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "with mouth open, agape."
+    }
+  ],
+  "NGANGABIT": [
+    {
+      "definition": "see NGABIT."
+    }
+  ],
+  "NGARASNGAS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "brittle, crunchy.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a crunchy sound.",
+      "eng_example": "The goat makes a crunchy sound.",
+      "ilok_example": "Ngumarasngas diay kalding.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "NGARETNGET": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to grit or gnash the teeth.",
+      "eng_example": "Peter gnashes his teeth as he sleeps.",
+      "ilok_example": "Agngaretnget nga maturog ni Pedro.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NGARIET": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bite one’s teeth.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NGARUD": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "1. expresses confirmation, affirmation, or acquiescence.",
+      "eng_example": "The priest is indeed in our house. 2. expresses an alternative.",
+      "ilok_example": "Adda ngarud diay padi idiay balay."
+    }
+  ],
+  "NGASANGAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to wear out, to become worn off.",
+      "eng_example": "My shoes became worn off.",
+      "ilok_example": "Nagngasangas toy sapatos ko.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NGASIB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "the jaws to cease from action or motion.",
+      "eng_example": "It was so cold Rose’s jaw ceased to move.",
+      "ilok_example": "Uray la nga agngasib ni Rosa ti lam-ek na.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NGATA": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "perhaps, maybe."
+    }
+  ],
+  "NGATANGATA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be in doubt, to be doubtful, hesitant, undecided.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NGATINGAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to ruminate, to chew something continuously for some time.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to ruminate, chew continuously for some time.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NGAWNGAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to mew, to talk or make sounds like a cat.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NGAY": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "an interrogative particle with the meaning: please tell me.",
+      "eng_example": "Where did he go, please tell me.",
+      "ilok_example": "Napanan na ngay?"
+    }
+  ],
+  "NGAYED": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "grand, elegant.",
+      "eng_example": "Their parade was elegant.",
+      "ilok_example": "Nagayed diay parada da.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "NGEDNGED": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make (a string, rope, etc.) shorter.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "NGEG": [
+    {
+      "definition": "see under DENGNGEG."
+    }
+  ],
+  "NGELNGEL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "blunt, not sharp.",
+      "synonyms": [
+        "NGOLNGOL"
+      ]
+    }
+  ],
+  "NGEM": [
+    {
+      "definition": "conj. but.",
+      "eng_example": "She is lazy but rich. prep. than.",
+      "ilok_example": "Sadut ngem nabaknang."
+    }
+  ],
+  "NGENNGEN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to grow bigger, spread.",
+      "eng_example": "The fire in the stove will grow bigger. 2. to become worse.",
+      "ilok_example": "Ngumenngen ti apoy diay dalikan.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "NGERNGER": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to growl, snarl, gnarl.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to growl or snarl at.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "NGETNGET": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gnaw, tear off with the teeth.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NGIAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mew."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to mew.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NGILANGIL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shake one’s head.",
+      "eng_example": "The lady teacher shook her head.",
+      "ilok_example": "Nagngilangil diay maestra.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NGILAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "house fly."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be stepped on by flies, to be eaten by flies.",
+      "conjugation": "/-EN/"
+    }
+  ],
+  "NGINA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "worth, price, value."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "expensive, costly.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become expensive, costly.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "DIOS": [
+    {
+      "definition": "TI AGNGINA, Thank you."
+    }
+  ],
+  "NGIPEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tooth."
+    }
+  ],
+  "NGIRNGIR": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "dirty, soiled.",
+      "ilok_example": "NGISIT,",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "black, dark-colored.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "NGIWAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mouth."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "noisy, talkative, loud.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "NGIWNGIW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. border of the lip. 2. upper lip."
+    }
+  ],
+  "NGOBNGOB": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "with sunken lips, especially the upper lip."
+    }
+  ],
+  "NGOLNGOL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "blunt, dull, not sharp.",
+      "synonyms": [
+        "NGUDEL, NGELNGEL"
+      ]
+    }
+  ],
+  "NGOTNGOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gnaw.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "NGUDEL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "blunt, dull, not sharp.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "NGOLNGOL"
+      ]
+    }
+  ],
+  "NGUDO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tip (of anything)."
+    }
+  ],
+  "NGURUNGOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stab through the throat of, to cut at the throat of: done in slaughtering an animal or a chicken.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "NGUSAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to snap the jaws as when eating.",
+      "conjugation": "/AG-/"
+    }
+  ]}
