@@ -71,6 +71,18 @@
 					</div>
 				{/if}
 
+				{#if def.common_forms}
+					<Separator />
+					<div>
+						<h3 class="text-lg font-medium mb-2">Common Forms</h3>
+						<div class="flex flex-wrap gap-2">
+							{#each def.common_forms as cf}
+								<Badge class="cursor-pointer">{cf}</Badge>
+							{/each}
+						</div>
+					</div>
+				{/if}
+
 				{#if def.synonyms}
 					<Separator />
 					<div>
