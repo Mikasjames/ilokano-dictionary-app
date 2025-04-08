@@ -8,7 +8,7 @@
 	} from "$lib/components/ui/card";
 	import { Separator } from "$lib/components/ui/separator";
 	import { Badge } from "$lib/components/ui/badge";
-	import { getPartsOfSpeech } from "$lib/utils";
+	import { getPartsOfSpeech, processSynonyms } from "$lib/utils";
 	import type { Definition } from "$lib/types/types";
 
 	let { word }: { word: string | null | undefined } = $props();
@@ -89,7 +89,9 @@
 						<h3 class="text-lg font-medium mb-2">Synonyms</h3>
 						<div class="flex flex-wrap gap-2">
 							{#each def.synonyms as synonym}
-								<Badge class="cursor-pointer">{synonym}</Badge>
+								{#each processSynonyms(synonym) as syn}
+									<Badge class="cursor-pointer">{syn}</Badge>
+								{/each}
 							{/each}
 						</div>
 					</div>
