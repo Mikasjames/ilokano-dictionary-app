@@ -1,0 +1,646 @@
+{
+  "-EN": [
+    {
+      "definition": "a passive verbalizing affix which generally places the goal of the verb in focus or subject position.",
+      "eng_example": "Badoen da diay lupot nga inted mo.",
+      "ilok_example": "It has various special meanings such as the following. 1. to make or fashion into, transform into, or equate with the thing referred to by the (nominal) stem.",
+      "origin": "pt. -IN-, prp. R1 + -EN, ptp. R1 + -IN-"
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "now, already; as of now; as of this or that moment.",
+      "variations": [
+        "-N (after a vowel), -ON (after pronoun -AK)"
+      ]
+    }
+  ],
+  "EBBAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "beriberi."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to swell, to become tumescent or swollen due to beriberi or any internal injury.",
+      "eng_example": "His face became swollen.",
+      "ilok_example": "Imbal ti rupa na.",
+      "conjugation": "/-UM-/",
+      "origin": "= UMBAL"
+    }
+  ],
+  "EBIDENSIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "evidence, proof, sign.",
+      "origin": "εbidέnsia; f. Sp."
+    }
+  ],
+  "EBKAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to say, pronounce, utter, express, state.",
+      "eng_example": "It was he who stated his aim.",
+      "ilok_example": "Isu ti mangiyebkas ti panggep na.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "BAGA, KUNA"
+      ]
+    }
+  ],
+  "EDAD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "age.",
+      "origin": "εdad; f. Sp.",
+      "synonyms": [
+        "TAWEN"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be as old as, to have as age.",
+      "eng_example": "His child is five years old.",
+      "ilok_example": "Agedad ti lima nga tawen diay anak na.",
+      "conjugation": "/AG-/",
+      "variations": [
+        "IDAD"
+      ]
+    }
+  ],
+  "EDITOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "editor.",
+      "origin": "εditor; f. Sp."
+    }
+  ],
+  "EHE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "axle of a cart with springs.",
+      "origin": "έhε; f. Sp."
+    }
+  ],
+  "EHEKUTIBO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "executive.",
+      "origin": "εhεkutibo; f. Sp."
+    }
+  ],
+  "EKONOMIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "economy.",
+      "origin": "εkonomia; f. Sp."
+    }
+  ],
+  "EKSAMEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "examination, test.",
+      "origin": "εksamεn; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take a test or examination.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to test or examine, to give a test or examination to; to investigate, crossexamine.",
+      "eng_example": "Why are you cross-examining me?",
+      "ilok_example": "Apay nga ek-eksamenen nak?",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "EKSPERTO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "skilled, expert, proficient.",
+      "eng_example": "My wife is expert in cooking.",
+      "ilok_example": "Eksperto nga agluto diay baket ko.",
+      "origin": "εkspεrto; f. Sp."
+    }
+  ],
+  "EKTARIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hectare.",
+      "origin": "ektaria; f. Sp."
+    }
+  ],
+  "EL-EL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. any temporary mark, impression or line produced on the skin by a string, rope or any other object pressed on it. 2. groove at the base of the glans penis."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to etch or engrave something on.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have something etched or engraved on.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "ELEKSION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "election.",
+      "origin": "εlεksión; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold an election.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "ELEKTOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "elector, voter.",
+      "origin": "εlεktor; f. Sp.",
+      "synonyms": [
+        "BOTANTE"
+      ]
+    }
+  ],
+  "ELEKTRISIAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "electrician.",
+      "origin": "εlεktrisian; f. Eng.",
+      "synonyms": [
+        "ELEKTRISISTA"
+      ]
+    }
+  ],
+  "ELEKTRISIDAD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "electricity.",
+      "origin": "εlεktrisidád; f. Sp."
+    }
+  ],
+  "ELEKTRISISTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "electrician.",
+      "origin": "εlεktrisista; f. Sp.",
+      "synonyms": [
+        "ELEKTRISIAN"
+      ]
+    }
+  ],
+  "ELEMENTARIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "elementary school.",
+      "origin": "εlεmεntaria; f. Sp."
+    }
+  ],
+  "ELLAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to droop, to hang or incline downward. 2. to droop, to become depressed or weakened.",
+      "conjugation": "/-UM-/",
+      "origin": "= UMLAY"
+    }
+  ],
+  "ELLEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to become mute or speechless due to anger, happiness or sorrow; to laugh or weep intensely producing only a slight sound.",
+      "conjugation": "/-UM-/",
+      "origin": "=UMLEK"
+    }
+  ],
+  "EMBARGO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to seize, commandeer.",
+      "conjugation": "/MANG-:-EN/",
+      "origin": "εmbargo; f. Sp."
+    }
+  ],
+  "EMMA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "kind, gentle, meek, mild, amiable, affable.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "EMMAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bleat, moo or low.",
+      "eng_example": "Why is the cow mooing?",
+      "ilok_example": "Apay nga agemmak diay baka?",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "EMPLEADO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "employee.",
+      "origin": "εmplεado; f. Sp."
+    }
+  ],
+  "EMPLEO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "employment.",
+      "origin": "εmplεo; f. Sp."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "employment.",
+      "origin": "εmplεo; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to employ, secure a job for.",
+      "eng_example": "Nobody will want to employ you if you are as lazy as that.",
+      "ilok_example": "Awan ti mayat nga mangiyempleo kenka no kasta ka nga sadut.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "EN": [
+    {
+      "definition": "1. to erect, build, construct.",
+      "eng_example": "It was they who constructed this house of ours. 2. to set upright.",
+      "ilok_example": "Isuda ti nangbangon toy balay mi.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    },
+    {
+      "definition": "to put closer together, as pieces of boards after shrinking.",
+      "conjugation": "/ to dive into or go under the water in order to give (something to somebody) or to put (something there); to dive with. Padasem man nga ibatok dayta asom? Will you try to dive into the water with your dog? /",
+      "common_forms": [
+        "MANGI-: I-"
+      ]
+    },
+    {
+      "definition": "to punish, hit, strike.",
+      "eng_example": "I will punish you if you won’t believe me.",
+      "ilok_example": "Kabilen ka no di nak nga patien.",
+      "conjugation": "/ to put into disorder. Saan mo nga guloen daytoy grupo mi. Don’t put our group into disorder. /"
+    },
+    {
+      "definition": "to fight with someone.",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "definition": "to fight with one another.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "definition": "to do, work on.",
+      "eng_example": "He did many things, so he is tired.",
+      "ilok_example": "Adu ti kinudit na isu nga nabannog.",
+      "conjugation": "/ to put the hands or forelegs on (someone or something). /"
+    },
+    {
+      "definition": "to make into rice gruel or porridge.",
+      "conjugation": "/ to be sad or mournful about, to grieve for, mourn for; to be sorry for. Ladingetek ti napasamak kenka. I am sorry for what happened to you. /"
+    },
+    {
+      "definition": "to suck as milk.",
+      "conjugation": "/ to be sunk or stuck in mud. Mailutlut diay pilid ti karison yo ditoy. The wheels of your cart will be sunk in mud here. /",
+      "common_forms": [
+        "MAI-"
+      ]
+    }
+  ],
+  "ENBELOP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "envelope.",
+      "origin": "εnbelop; f. Eng.",
+      "synonyms": [
+        "SOBRE"
+      ]
+    }
+  ],
+  "ENERO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "January.",
+      "origin": "εnεro; f. Sp."
+    }
+  ],
+  "ENTABLADO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a raised platform, dais; stage.",
+      "origin": "εntablado; f. Sp."
+    }
+  ],
+  "EP-EP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to mitigate, repress, check.",
+      "eng_example": "This is the medicine that repressed my toothache.",
+      "ilok_example": "Daytoy ti agas nga nag-ep-ep ti sakit ti ngipen ko.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be repressed, checked, mitigated.",
+      "eng_example": "Apply medicine on your wound so that its pain will be repressed.",
+      "ilok_example": "Agasam dayta sugat mo tapno maep-ep ti sakit na.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "EPPES": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. without any content or substance: said especially of rice grains and the like. 2. empty, such as words."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to subside, flatten: said of swellings.",
+      "conjugation": "/-UM-/",
+      "origin": "= UMPES"
+    }
+  ],
+  "ERBULARIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "herb doctor, quack doctor.",
+      "origin": "εrbulario; f. Sp."
+    }
+  ],
+  "ERGO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to argue, to dispute with each other, to debate.",
+      "eng_example": "Why are you arguing?",
+      "ilok_example": "Apay nga agergo kayo?",
+      "conjugation": "/AG-/ with pl. subject",
+      "origin": "εrgo; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to argue, dispute or debate with (someone).",
+      "eng_example": "Why do you argue with me?",
+      "ilok_example": "Apay nga ergoen nak?",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "DEBATE"
+      ]
+    }
+  ],
+  "EROPLANO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "airplane.",
+      "origin": "εropláno; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go by airplane.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "ERRES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shrink.",
+      "eng_example": "That wood will shrink when it is dry.",
+      "ilok_example": "Umres to dayta kayo inton magango.",
+      "conjugation": "/-UM-/",
+      "origin": "= UMRES",
+      "synonyms": [
+        "ESES"
+      ]
+    }
+  ],
+  "ERTENG": [
+    {
+      "definition": "var. of IRTENG."
+    }
+  ],
+  "ES-ES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shrink, contract.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "ERRES"
+      ]
+    }
+  ],
+  "ESKANDALO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "scandal, trouble, disturbance, uproar.",
+      "origin": "εskandálo; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to create a scandal, trouble, disturbance or uproar.",
+      "eng_example": "We’d better take him home lest he creates trouble there again.",
+      "ilok_example": "Intayo man ketdi iyawid amangan no ageskandalo manen sadiay.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "ESKOBA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "brush for cleaning clothes, shoes, etc.",
+      "origin": "εskóba; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to brush.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "ESKOLAR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "scholar.",
+      "origin": "εskolar; f, Eng."
+    }
+  ],
+  "ESKRIBIENTE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "clerk, scribe.",
+      "origin": "εskribiέntε; f. Sp."
+    }
+  ],
+  "ESKUELA": [
+    {
+      "definition": "1. school, schoolhouse.",
+      "origin": "εskuέla; f. Sp.",
+      "synonyms": [
+        "ESTUDIANTE"
+      ],
+      "variations": [
+        "ESKUELAAN. 2. school child, pupil, student"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to attend school.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "ESKUELAAN": [
+    {
+      "definition": "var. of ESKUELA",
+      "origin": "εskuεlaan; f. Sp."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "1."
+    }
+  ],
+  "ESPESIAL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "special.",
+      "origin": "εspεsiál; f. Sp."
+    }
+  ],
+  "ESPESIALISTA": [
+    {
+      "definition": "n, a specialist, especially in medicine.",
+      "origin": "εspεsialista; f. Sp."
+    }
+  ],
+  "ESPIA": [
+    {
+      "definition": "var. of ISPIA.",
+      "origin": "εspia"
+    }
+  ],
+  "ESSEM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "desire, wish."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "desirous; greedy, covetous, avaricious.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to desire, long for; to covet.",
+      "eng_example": "Don’t desire to become a candidate.",
+      "ilok_example": "Saan mo nga esman ti agkandidato.",
+      "conjugation": "/MANG-:-AN/",
+      "origin": "= ESMAN"
+    }
+  ],
+  "ESTADIUM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stadium.",
+      "origin": "εstádium; f. Eng."
+    }
+  ],
+  "ESTADO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "state.",
+      "origin": "εstádo; f. Sp."
+    }
+  ],
+  "ESTADOS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the United States of America.",
+      "origin": "f. Sp.",
+      "common_forms": [
+        "UNIDOS"
+      ]
+    }
+  ],
+  "ESTANTE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a showcase; a cabinet to display and protect wares in a store.",
+      "origin": "εstantε; f. Sp."
+    }
+  ],
+  "ESTASION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "station.",
+      "origin": "εstasión; f. Sp."
+    }
+  ],
+  "ESTATUA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "statue.",
+      "origin": "εstátua; f. Sp."
+    }
+  ],
+  "ESTETSAID": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "coming from or made in the United States of America.",
+      "origin": "εstetsaid; f. Eng."
+    }
+  ],
+  "ESTILO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "style.",
+      "origin": "εstílo; f. Sp."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "stylish, tasteful, elegant, refined.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "ESTUDIANTE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "student, pupil.",
+      "origin": "εstudiantε; f. Sp.",
+      "synonyms": [
+        "ESKUELA n 2"
+      ]
+    }
+  ],
+  "ESTUDIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "studio.",
+      "origin": "εstudio; f. Eng."
+    }
+  ],
+  "ET-ET": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "tight.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tighten, to cause to become tight, to make tight.",
+      "eng_example": "Don’t make the binding of that box tight.",
+      "ilok_example": "Saan mo nga et-etan ti galut dayta kahon.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "EUROPA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "Europe.",
+      "origin": "yorópa; f. Sp."
+    }
+  ]
+}

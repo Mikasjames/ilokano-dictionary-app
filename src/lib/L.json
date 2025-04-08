@@ -1,0 +1,5101 @@
+{
+  "L": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. thin, fine (as thread). 2. subtle, tactful.",
+      "eng_example": "Talk to them in a tactful manner.",
+      "ilok_example": "Makisao ka ti nalapat kadakuada.",
+      "conjugation": "/NA-/",
+      "common_forms": [
+        "ÁPAT"
+      ]
+    }
+  ],
+  "LA": [
+    {
+      "definition": "var. of LAENG."
+    }
+  ],
+  "LAAD": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "ugly, unsightly, disgusting.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "ALAS"
+      ],
+      "antonyms": [
+        "PINTAS"
+      ]
+    }
+  ],
+  "LAAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shout, vociferate.",
+      "eng_example": "Why did you shout?",
+      "ilok_example": "Apay nga naglaaw ka?",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to say or tell by shouting, to shout, vociferate (something).",
+      "eng_example": "Don’t shout my name.",
+      "ilok_example": "Saan mo nga ilaaw ti nagan ko.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be in abundance, to abound.",
+      "eng_example": "There is an abundance of food at the wedding.",
+      "ilok_example": "Aglablabon ti sida diay bodaan.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "ÓN"
+      ]
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "abundant, plentiful.",
+      "eng_example": "The fruits of the mango tree are plentiful.",
+      "ilok_example": "Nalabon ti bunga ti mangga.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LAB-AY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. flat, not tasty.",
+      "eng_example": "What you cooked tastes flat. 2. bland, mild, dull, not exciting.",
+      "ilok_example": "Nalab-ay ti linutom.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LAB-ONG": [
+    {
+      "definition": "var. of PALAB-ONG"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1."
+    }
+  ],
+  "LABAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a bundle of thread or fiber, a strand.",
+      "eng_example": "Get me a strand of sewing thread.",
+      "ilok_example": "Iyalaan nak ti maysa nga labag nga panait."
+    }
+  ],
+  "LABAGA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "red in color.",
+      "eng_example": "Your eyes are red.",
+      "ilok_example": "Nalabaga ti matam.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become this.",
+      "conjugation": "/-UM-/",
+      "variations": [
+        "LABBAGA"
+      ]
+    }
+  ],
+  "LABAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to abuse, treat roughly; to maltreat.",
+      "eng_example": "Don’t maltreat that child.",
+      "ilok_example": "Saan mo nga labaken ta ubing.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LABAN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fight or compete with someone.",
+      "eng_example": "Why do you fight?",
+      "ilok_example": "Apay nga lumaban ka?",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fight or compete with.",
+      "eng_example": "Peter will fight with you.",
+      "ilok_example": "Labanan na ka ni Pedro.",
+      "conjugation": "/-UM-, MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fight or compete with one another.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "LABANAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to start ripening.",
+      "eng_example": "The mangoes are starting to ripen.",
+      "ilok_example": "Aglabanag dagidiay manggan.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LABANG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "spotted, dappled, speckled, mottled."
+    }
+  ],
+  "LABAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to pass, go by, move by or past; to pass by or through.",
+      "eng_example": "Don’t pass through our yard. 2. to pass, slip by, elapse.",
+      "ilok_example": "Saan kay nga lumabas ditoy inaladan mi.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LABASIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "red, reddish.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "LABAGA"
+      ],
+      "variations": [
+        "LABBASIT"
+      ]
+    }
+  ],
+  "LABATIBA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "enema."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have an enema, to give oneself an enema.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to give (someone) an enema.",
+      "eng_example": "Borrow an enema for I shall give my child an enema.",
+      "ilok_example": "Bumulod ka ti labatiba ta labatibaek toy anak ko.",
+      "conjugation": "/MANG- :-EN/"
+    }
+  ],
+  "LABAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "skein, hank of cotton yarn."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "cooked rice with broth mixed in it."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to mix broth in one’s cooked rice.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to mix (broth) in (cooked rice).",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to mix (broth) in (cooked rice).",
+      "eng_example": "Mix the broth of",
+      "ilok_example": "Labayam ta inapoy mo ti digo ti sinigang.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LABBA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a large deep closely-woven basket."
+    }
+  ],
+  "LABBAGA": [
+    {
+      "definition": "var. of LABAGA."
+    }
+  ],
+  "LABBASIT": [
+    {
+      "definition": "var. of LABASIT."
+    }
+  ],
+  "LABBEG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to agitate the water to make any fish in it dizzy.",
+      "eng_example": "Don’t agitate the water there.",
+      "ilok_example": "Saan kay nga aglabbeg dita.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to agitate (the water).",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LABBET": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather in crowds, to flock together.",
+      "conjugation": "/AG- +R2/ with pl. subject"
+    }
+  ],
+  "LABEG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "often",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to muddle, confuse, bewilder (the mind).",
+      "eng_example": "What confused your mind?",
+      "ilok_example": "Ania ti nakalabeg ti panunot mo?",
+      "conjugation": "/MAKA-: MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be muddled, confused, bewildered.",
+      "eng_example": "His mind was muddled.",
+      "ilok_example": "Nalabegan ti panunot na.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LABES": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "excessive, overmuch.",
+      "eng_example": "Your laziness is excessive.",
+      "ilok_example": "Nalabes ti kinasadut mo.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "any place past or beyond something.",
+      "eng_example": "Our house is in a place past the bridge.",
+      "ilok_example": "Adda diay labes ti rangtay ti balay mi."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go past or beyond.",
+      "eng_example": "Our vehicle went past the place where we were going.",
+      "ilok_example": "Limmabes diay lugan mi diay papanan mi.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to go beyond or past.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LABI": [
+    {
+      "definition": "see MALABI."
+    }
+  ],
+  "LABID": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "always tattling, prating, chattering; being an idle talker.",
+      "eng_example": "This child is a tattler.",
+      "ilok_example": "Nalabid daytoy nga ubing.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a species of tall and slender palm tree.",
+      "synonyms": [
+        "ANAAW"
+      ]
+    }
+  ],
+  "LABINTADOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "firecracker.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LABIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "probable (followed by NGA): said of an event or action.",
+      "eng_example": "It is probable that he has arrived.",
+      "ilok_example": "Nalabit nga simmangpeten.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LABLAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lick.",
+      "eng_example": "Don’t lick your spoon.",
+      "ilok_example": "Saan mo nga lablaban ta kutsaram.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "LABNAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "thin: said of liquids.",
+      "eng_example": "The chocolate that you made is thin.",
+      "ilok_example": "Nalabnaw dayta inaramid mo nga tsokolate.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LABO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to annoint or rub with (oil, lard, medicine, etc.).",
+      "eng_example": "Rub your chest with Vicks.",
+      "ilok_example": "Laboem dayta barukong mo ti biks.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "covered thickly with oil or grease.",
+      "eng_example": "Your hair is covered thickly with oil.",
+      "ilok_example": "Nalabo dayta buok mo.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LABONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be ill-fitting, loose.",
+      "eng_example": "My shoes are loose.",
+      "ilok_example": "Aglabonglabong toy sapatos ko.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "LABONGLABONG"
+      ]
+    }
+  ],
+  "LABORATORIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "laboratory.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LABSING": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to deviate, slide out of place.",
+      "eng_example": "Don’t deviate from that road.",
+      "ilok_example": "Saan kayo nga lumabsing ti dayta dalan.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go against, hence to disobey.",
+      "eng_example": "Don’t go against the wishes of your parents.",
+      "ilok_example": "Saan yo nga labsingen ti kayat dagita nagannak kenka.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LABUDOY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "soft, not firm or stiff.",
+      "eng_example": "My dress is soft.",
+      "ilok_example": "Nalabudoy daytoy badok.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LABUS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to remove one’s garments, hence to strip oneself naked; to be naked. 2. to remove one’s lower garments, hence to be naked from the waist down; to be half-naked.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to remove (someone’s) garments, hence to make (someone) nude or naked, 2. to remove the lower garments (of someone), hence to make (someone) naked from the waist down. or SILALABUS,",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. nude, naked. 2. without the lower garments, naked from the waist down, half-naked."
+    }
+  ],
+  "LABUTAB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "foam, bubble."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bubble, foam.",
+      "eng_example": "Stir the water until it bubbles.",
+      "ilok_example": "Kiwarem ta danum inggana ti aglabutab.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LADAM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to scorch, singe, burn.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be scorched, singed, burned.",
+      "eng_example": "My dress was scorched by the iron.",
+      "ilok_example": "Naladaman diay badok ti plantsa.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LADAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "late, tardy, delayed.",
+      "eng_example": "Rose is always late.",
+      "ilok_example": "Kanayon nga naladaw ni Rosa.",
+      "conjugation": "/NA-, MA-/"
+    }
+  ],
+  "LADAWAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "picture, photograph, image, likeness.",
+      "eng_example": "That is a picture of my mother.",
+      "ilok_example": "Ladawan ni nanang ko dayta."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to picture, illustrate, describe, depict, imagine.",
+      "eng_example": "It is difficult to depict the beauty of their house.",
+      "ilok_example": "Narigat nga iladawan ti pintas ti balay da.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LADDIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to crush, crumble, grind.",
+      "eng_example": "Crush the garlic. 2. to gin (cotton).",
+      "ilok_example": "Ladditen yo dayta bawang.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LADEK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "scum of coconut, the solid particles formed with the oil after boiling coconut milk."
+    }
+  ],
+  "LADINGIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "sad, grievous, mournful, gloomy, dreary.",
+      "eng_example": "Their parting was sad.",
+      "ilok_example": "Naladingit ti pangsisina da.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be sad, mournful.",
+      "eng_example": "Don’t be sad for I am coming back.",
+      "ilok_example": "Saan ka nga agladingit ta agsubliak met laeng.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LADLAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to scrape the skin; hence to skin, flay.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be skinned, flayed.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LADUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to feel dull, sluggish, spiritless, heavy.",
+      "eng_example": "I feel sluggish.",
+      "ilok_example": "Aglaladutak.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "LALADUT"
+      ]
+    }
+  ],
+  "LAENG": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "only, merely, solely.",
+      "eng_example": "Only two came.",
+      "ilok_example": "Dua laeng ti immay."
+    }
+  ],
+  "LAES": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "beginning to putrefy, putrid; hence, spoiled: said usually of fish.",
+      "eng_example": "This fish that you bought is spoiled.",
+      "ilok_example": "Nalaes daytoy ikan nga ginatang mo.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LAG-AN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. light, not heavy.",
+      "eng_example": "My suitcase is light. 2. nimble.",
+      "ilok_example": "Nalag-an daytoy maletak.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LAG-OY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to walk or move in a swaying manner.",
+      "eng_example": "Don’t sway while walking.",
+      "ilok_example": "Saan ka nga aglag-oy.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sway in one’s arms.",
+      "eng_example": "Don’t sway that child in your arms.",
+      "ilok_example": "Saan mo nga ilag-oy dayta ubing.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LAGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to weave: said of baskets.",
+      "eng_example": "We wove plenty of baskets.",
+      "ilok_example": "Naglaga kami ti adu nga labba.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a (woven) basket."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put inside a (woven) basket.",
+      "eng_example": "He put the pots inside a (woven) basket.",
+      "ilok_example": "Inlagana dagiti bangbanga.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LAGANGAN": [
+    {
+      "definition": "n, a circlet made of cloth, bamboo strips, dried banana leaves, etc. on which big pots or jars are placed.",
+      "synonyms": [
+        "SAGAPA"
+      ]
+    }
+  ],
+  "LAGAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "impatient, in a hurry; restless.",
+      "eng_example": "Awan nalagaw.",
+      "ilok_example": "Natalna da nga mangan.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be impatient, in a hurry, or restless.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be stunned, stupefied, dumbfounded, confused.",
+      "eng_example": "Why are you confused?",
+      "ilok_example": "Apay nga malagawan ka?",
+      "conjugation": "/AG-, MA--AN/"
+    }
+  ],
+  "LAGDA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "strong, durable.",
+      "eng_example": "Our floor is strong.",
+      "ilok_example": "Nalagda daytoy datar mi.",
+      "conjugation": "/NA-/",
+      "antonyms": [
+        "RUKOP"
+      ]
+    }
+  ],
+  "LAGDAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a small shrimp.",
+      "synonyms": [
+        "KURUS"
+      ]
+    }
+  ],
+  "LAGID": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to rub against (something); hence, 2. to sharpen (a knife) by rubbing against a whetting stone.",
+      "eng_example": "You rub this big knife against a whetting stone so that it will become sharp.",
+      "ilok_example": "Ilagid mo daytoy buneng tapno tumadem.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LAGIP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "often",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to remember, recall, be reminded of.",
+      "eng_example": "Remember all the things I ordered you to do.",
+      "ilok_example": "Lagipem amin nga bilin ko kenka.",
+      "conjugation": "/MAKA-: MA-/"
+    }
+  ],
+  "LAGISI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to slip, slide down; slip off.",
+      "eng_example": "The child slipped.",
+      "ilok_example": "Nailagisi diay ubing.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LAGLAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "idiotic, imbecile, dumb, moronic.",
+      "eng_example": "You are very dumb.",
+      "ilok_example": "Nalaglag ka la unay.",
+      "conjugation": "/(NA-)/"
+    }
+  ],
+  "LAGTO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to jump, leap, spring.",
+      "eng_example": "Jump.",
+      "ilok_example": "Aglagto ka. or Lumagto ka.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to jump, leap over or across; to jump for, to get by jumping.",
+      "eng_example": "He jumped in order to get that hanging mango.",
+      "ilok_example": "Lagtoen na dayta mangga nga agbitbitin.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to jump with.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LAGUD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to caper, gambol, frisk, frolic.",
+      "eng_example": "Various sorts of people are frolicking in the market.",
+      "ilok_example": "Aglalagudlagud ti madumaduma nga tattao idiay tiendaan.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "LAGUDLAGUD"
+      ]
+    }
+  ],
+  "LAGUERTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "garden.",
+      "origin": "laguεrta; f. Sp."
+    }
+  ],
+  "LAILO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "affectionate, caressive.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to express one’s affection to, to caress, fondle.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to exchange affection with.",
+      "conjugation": "/MAKI-: KA-/"
+    }
+  ],
+  "LAING": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. able, competent, capable, skillful. 2. good, desirable.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LAIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to despise, degrade, depreciate, belittle.",
+      "eng_example": "Don’t despise the poor.",
+      "ilok_example": "Saan mo nga laisen dagita napanglaw.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LAK-AM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gain, reap, obtain.",
+      "eng_example": "He who steals will gain nothing.",
+      "ilok_example": "Awan ti lakamen.",
+      "conjugation": "/AG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to include in the reckoning or preparation.",
+      "eng_example": "Let’s include them for breakfast.",
+      "ilok_example": "Ilak-am tayo ida iti pammigat.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LAKA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. easy, not difficult. 2. cheap, low-priced.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to become easy. 2. to become cheap.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LAKASA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chest, trunk usually made of wood.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "BAUL"
+      ]
+    }
+  ],
+  "LAKATAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a variety of thick-skinned yellow banana."
+    }
+  ],
+  "LAKAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "old: said of male (animate) things, especially persons and animals.",
+      "conjugation": "/NAG-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "1. an old man. 2. husband.",
+      "eng_example": "That one is my husband.",
+      "ilok_example": "Isu dayta ti lakay."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become old: said of male (animate) things, especially persons and animals.",
+      "conjugation": "/-UM-/",
+      "antonyms": [
+        "BAKET"
+      ]
+    }
+  ],
+  "LAKIEN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "tomboyish, masculine, mannish: said of a woman.",
+      "origin": "cf. LALAKI"
+    }
+  ],
+  "LAKO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sell.",
+      "eng_example": "He wants to sell his house to you.",
+      "ilok_example": "Kayat na nga ilako ti balay na kenka.",
+      "conjugation": "/AG-, MANGI-: I-/"
+    }
+  ],
+  "LAKSA": [
+    {
+      "definition": "num. ten thousand, times ten thousand.",
+      "origin": "rare"
+    }
+  ],
+  "LAKSID": [
+    {
+      "part_of_speech": "n.",
+      "definition": "any place beyond or outside another place."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to eliminate, remove, get rid of, to stop considering as such.",
+      "eng_example": "He stopped considering Peter as his child. 2. to stop doing, to cease from.",
+      "ilok_example": "Laksiden na nga anak ni Pedro.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to set aside, separate.",
+      "eng_example": "Set aside those pieces of wood that are bundled.",
+      "ilok_example": "Ilaksid mo dayta nareppet nga kayo.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LAKTAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to jump, leap over, step over.",
+      "conjugation": "/MANG-:-BN/",
+      "synonyms": [
+        "LAGTO"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to skip, omit.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LAKUB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to encircle, surround.",
+      "eng_example": "Don’t surround that plant.",
+      "ilok_example": "Saan yo nga lakuben dayta mula.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be encircled, surrounded.",
+      "eng_example": "We were surrounded by soldiers.",
+      "ilok_example": "Nalakub kami ti soldado.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LALAKI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a male, a man."
+    }
+  ],
+  "LALANAAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "oil gland, especially of fowls."
+    }
+  ],
+  "LALAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. skin, hide. 2. leather.",
+      "synonyms": [
+        "KUDIL"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make into or use as leather.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove the skin of, to skin.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LALAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to become soft through handling, as a fruit.",
+      "eng_example": "Who caused this papaya to become soft?",
+      "ilok_example": "Sino ti nanglalaw daytoy papaya?",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become soft through handling or falling on the ground.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LALI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to squeeze with the hands through the fingers.",
+      "eng_example": "He will squeeze the clothes starch with his hands.",
+      "ilok_example": "Lalien na daydiay almidor.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LALLAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lullaby.",
+      "synonyms": [
+        "DUAYA"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sing a lullaby.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LALO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "serious, grave: said of an illness or sickness.",
+      "eng_example": "His sickness is serious.",
+      "ilok_example": "Nalalo si sakit.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become serious, grave: said of an illness or sickness.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LAM-EK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "cold (in temperature).",
+      "eng_example": "It was cold this morning.",
+      "ilok_example": "Nalam-ek itay bigat.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to feel cold.",
+      "eng_example": "I feel cold.",
+      "ilok_example": "Lam-ekenak.",
+      "conjugation": "/MA-, -EN/",
+      "synonyms": [
+        "LAMMIN"
+      ]
+    }
+  ],
+  "LAMANO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "handshake.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to shake hands with.",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to shake hands.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "LAMAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to scald.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be scalded.",
+      "eng_example": "His foot was scalded.",
+      "ilok_example": "Nalamaw ti saka na.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LAMBI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "wattle, dewlap.",
+      "common_forms": [
+        "LAMBILAMBI"
+      ]
+    }
+  ],
+  "LAMBONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to boil in plain water: said especially of vegetables.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LAMES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fish.",
+      "synonyms": [
+        "IKAN"
+      ]
+    }
+  ],
+  "LAMIGONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be afflicted with a chronic disease.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LAMIIS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "cool, cold: said of the weather or objects.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become cool, cold.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LAMISAAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "table.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LAMISITA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "small table.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LAMLAM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gain, obtain, benefit.",
+      "eng_example": "We did not benefit anything from what he won in gambling.",
+      "ilok_example": "Awan ti nalamlaman mi diay inabak na ti sugal.",
+      "conjugation": "/MAKA-: MA--AN/"
+    }
+  ],
+  "LAMMIN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to feel cold, chilly.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "feeling cold, chilly.",
+      "conjugation": "/MA-/",
+      "synonyms": [
+        "LAM-EK"
+      ]
+    }
+  ],
+  "LAMO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "naked, nude.",
+      "synonyms": [
+        "LABUS"
+      ],
+      "common_forms": [
+        "LAMOLAMO"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become naked, nude.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LAMOK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mosquito."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be bitten or attacked by mosquitoes.",
+      "conjugation": "/-EN/"
+    }
+  ],
+  "LAMPARA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lamp.",
+      "synonyms": [
+        "SILAW"
+      ]
+    }
+  ],
+  "LAMPAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "weak, easily falls or stumbles.",
+      "conjugation": "/(NA-)/"
+    }
+  ],
+  "LAMPIN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "diaper."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a diaper around.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LAMPONG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "having long, bushy, disorderly hair.",
+      "conjugation": "/NAG-/"
+    }
+  ],
+  "LAMUT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "food."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to eat in a coarse manner: a derogatory term.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "KAAN"
+      ]
+    }
+  ],
+  "LAMUYOT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "soft and smooth.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become this.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LANA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "coconut oil."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to put oil in, to oil. 2. to flatter, coax.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LANAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to write, inscribe.",
+      "eng_example": "Write on that paper what you want to say.",
+      "ilok_example": "Ilanad mo dita papel ti kayat mo nga ibaga.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be written, inscribed.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LANANG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to solder.",
+      "eng_example": "Will you please solder my ring which cracked.",
+      "ilok_example": "Lanangem man daytoy nakta nga singsing ko.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LANAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to expose to a fire or scorch to make soft and pliable: said of leaves especially banana leaves.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LANAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "mild, gentle, charming (as eyes).",
+      "eng_example": "Your eyes are charming.",
+      "ilok_example": "Nalanay dagita matam.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LANDAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a wood block on which clothes are beaten when washing them."
+    }
+  ],
+  "LANDOK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "iron."
+    }
+  ],
+  "LANG-AB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to inhale or breathe air.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to inhale, breathe.",
+      "eng_example": "The air that we breathe here is fresh.",
+      "ilok_example": "Napresko ti angin nga lang-aben mi ditoy.",
+      "conjugation": "/-UM-:-EN/"
+    }
+  ],
+  "LANG-ES": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "smelling like fish, slimy.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "LANGSI"
+      ]
+    }
+  ],
+  "LANGA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "personal appearance, looks."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "good-looking, handsome.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LANGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "an act of skipping or not doing something at the usual time."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to skip, miss, or fail to do (something) at the usual time, to skip or be absent in (a place) at the usual time.",
+      "eng_example": "Peter skipped school.",
+      "ilok_example": "Limmangan ni Pedro idiay eskuela.",
+      "conjugation": "/AG-, -UM-/"
+    }
+  ],
+  "LANGAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to run at full speed in a carefree manner; to gallop, romp.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "LANG-AY"
+      ]
+    }
+  ],
+  "LANGDET": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chopping board or block."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut, chop, slice, pound, etc. on a chopping board.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to throw the blame on, to accuse.",
+      "conjugation": "/PAG--AN/"
+    }
+  ],
+  "LANGEB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be cloudy, overcast.",
+      "eng_example": "It was cloudy the past afternoon.",
+      "ilok_example": "Nanglangeb itay malem.",
+      "conjugation": "/MANG-/"
+    }
+  ],
+  "LANGEN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to deal, associate or socialize with (others); to get along with (others) Dika makilangen-langen kadakuada.",
+      "ilok_example": "Don’t deal with them.",
+      "conjugation": "/MAKI-/",
+      "common_forms": [
+        "LANGEN-LANGEN"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to deal, associate or socialize with each other; to get along together.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "LANGGONG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "foolish, stupid, idiotic, imbecile."
+    }
+  ],
+  "LANGGUSTI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a sack usually made of maguey fiber and usually used as a container for rice.",
+      "origin": "f. Sp.",
+      "variations": [
+        "LANGGUTSI"
+      ]
+    }
+  ],
+  "LANGGUTSI": [
+    {
+      "definition": "var. of LANGGUSTI."
+    }
+  ],
+  "LANGIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sky, heaven, paradise."
+    }
+  ],
+  "LANGKA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. jack tree. 2. its fruit.",
+      "variations": [
+        "NANGKA"
+      ]
+    }
+  ],
+  "LANGLANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "an uninhabited, unfrequented, and remote place."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "the space between the front of the hearth and the fire."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to eat with, sit at the dining table with.",
+      "eng_example": "There were the ones with whom I ate.",
+      "ilok_example": "Isuda ti kinalanglang ko nga nangan.",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to eat together, to sit together at the dining table to eat.",
+      "eng_example": "We ate together at the house of the mayor.",
+      "ilok_example": "Naglalanglang kami idiay balay ti meyor.",
+      "conjugation": "/AG-+ R2/"
+    }
+  ],
+  "LANGOY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to swim.",
+      "eng_example": "I don’t know how to swim.",
+      "ilok_example": "Indiak ammo ti aglangoy.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to swim across, to cross by swimming; to swim.",
+      "eng_example": "He wants to swim that wide river. 2. to swim for, to get by swimming.",
+      "ilok_example": "Kayat na nga langoyen dayta nalawa nga karayan.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "LANGSI": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "smelling like fish, slimy.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "LANG-ES"
+      ]
+    }
+  ],
+  "LANGSOT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "boastful, bragging.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "TANGSIT"
+      ]
+    }
+  ],
+  "LANGTO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "fresh, green: said of plants.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LANIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "oily, greasy.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LANITOG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce an exploding sound.",
+      "conjugation": "/-UM-/",
+      "origin": "LUMANITOG",
+      "cross_reference": "KANALTUOG"
+    }
+  ],
+  "LANLAN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to worsen, become aggravated.",
+      "eng_example": "Ann’s sickness worsened.",
+      "ilok_example": "Limmanlan ti sakit ni Ana.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LANSA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nail."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to nail.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LANSAD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. base of a mountain, etc. 2. level of a well."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to descend in, come down to or upon.",
+      "eng_example": "It was already night when we descended in town.",
+      "ilok_example": "Rabiin idi limmansad kami idiay ili.",
+      "conjugation": "/AG-, -UM-/"
+    }
+  ],
+  "LANSALANSA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ankle."
+    }
+  ],
+  "LANSANGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "street, thoroughfare.",
+      "synonyms": [
+        "KALSADA"
+      ]
+    }
+  ],
+  "LANSITA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pocket knife.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LANTAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "level, flat, even, plane.",
+      "conjugation": "/(NA-)/"
+    }
+  ],
+  "LANTIP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fit (a member of a pair or set) with (the other).",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fit, get into its place.",
+      "eng_example": "The window cover won’t fit.",
+      "ilok_example": "Saan nga aglantip daydiay rikep ti bintana.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LANUT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "vine."
+    }
+  ],
+  "LAON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold, contain.",
+      "conjugation": "/AG-:-EN/",
+      "synonyms": [
+        "LAS-UD"
+      ]
+    }
+  ],
+  "LAP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to set out, spread out.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "ÁG"
+      ]
+    }
+  ],
+  "LAP-IT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the top part of a branch of a tree which is very flexible."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "flexible, easily bent and broken.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "LAPPIOT"
+      ]
+    }
+  ],
+  "LAPA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be deprived of the chance to do, experience, see, taste, etc. something.",
+      "eng_example": "They were deprived of the chance of eating a delicious dish.",
+      "ilok_example": "Nailapa da ti naimas nga sida.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LAPAYAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ear, something resembling an ear."
+    }
+  ],
+  "LAPDUG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to peel or the skin to come off by scorching or burning.",
+      "conjugation": "/MAKA-: MA--AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to peel or be skinned due to scorching or burning.",
+      "eng_example": "My burned arm was skinned.",
+      "ilok_example": "Nalapdugan daytoy natuno nga takkiag ko.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LAPGIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to tear off, remove by force.",
+      "eng_example": "He will tear off the skin of the roast pig.",
+      "ilok_example": "Lapgisen na dayta kudil ti letson.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be torn off.",
+      "eng_example": "His skin was torn off.",
+      "ilok_example": "Nalapgis diay kudil na.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LAPIGOS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "to pinch or tweak the ear.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LAPIOT": [
+    {
+      "definition": "see LAPPIOT."
+    }
+  ],
+  "LAPIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pencil.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LAPLAP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut into a thin slice across the surface, as the skin of roast pig.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be sliced across the surface.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LAPOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a piece of land used for planting tobacco, corn, cotton, or vegetables."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to till or cultivate for planting.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LAPPED": [
+    {
+      "part_of_speech": "n.",
+      "definition": "obstacle, obstruction, hindrance."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to block, obstruct, hinder.",
+      "eng_example": "Don’t obstruct what he wants to do.",
+      "ilok_example": "Dika lappedan ti kayat na nga aramiden.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use to obstruct, block, hinder, to put (in a place) as an obstruction or obstacle.",
+      "eng_example": "Put this big basket at the gate as an obstruction.",
+      "ilok_example": "Ilapped mo daytoy labba dita ruangan.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LAPPIOT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "flexible, easily bent.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bend.",
+      "eng_example": "Don’t sit on that branch of the tree for it will bend.",
+      "ilok_example": "Dika tugawan dayta sanga ti kayo ta aglappiot.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LAPSAK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "robust, lusty, vigorous: said especially of plants.",
+      "conjugation": "/NA-/",
+      "variations": [
+        "LAPSAT"
+      ]
+    }
+  ],
+  "LAPSAT": [
+    {
+      "definition": "var. of LAPSAK."
+    }
+  ],
+  "LAPSI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to tear off with the hands.",
+      "eng_example": "Tear off that paper sticking on the wall.",
+      "ilok_example": "Lapsiem dayta naipigket nga papel dita diding.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be torn off.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LAPSUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to attempt to go free or slip off when tied or when being held.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go free, slip off.",
+      "conjugation": "/MAKA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to slip off, draw, pull out.",
+      "eng_example": "He will draw the sheath of his big knife.",
+      "ilok_example": "Lapsuten na diay baina ti buneng na.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be drawn, to slip off.",
+      "conjugation": "/MA-/",
+      "synonyms": [
+        "UKSOT"
+      ]
+    }
+  ],
+  "LARGABISTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "binoculars.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LAS-UD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold, contain.",
+      "eng_example": "How much will that can contain?",
+      "ilok_example": "Mano ti las-uden dayta lata?",
+      "conjugation": "/AG-:-EN/",
+      "synonyms": [
+        "LAON"
+      ]
+    }
+  ],
+  "LASAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "flesh, meat (not bone), muscle."
+    }
+  ],
+  "LASAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a cock with black and white plumage and white legs."
+    }
+  ],
+  "LASANG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to break apart, tear apart, destroy.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be broken apart, torn apart, destroyed.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LASAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go across, pass through, cross (a place).",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cross, go from one side to the other of, go across.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to live through or survive an illness.",
+      "conjugation": "/MAKA-: MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take across, take from one side to the other of.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LASAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "thin, watery (as chocolate),",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "LABNAW"
+      ]
+    }
+  ],
+  "LASBANG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "luxuriant, exuberant, fresh, lush, rank.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "LAPSAK"
+      ]
+    }
+  ],
+  "LASI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dandruff."
+    }
+  ],
+  "LASIN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to separate from (one’s group, company, family, etc.).",
+      "conjugation": "/-UM-, MAKI-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to separate, set apart, segregate.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to recognize, perceive, discern.",
+      "eng_example": "His father will recognize you.",
+      "ilok_example": "Mailasin na ka diay tatang na.",
+      "conjugation": "/MAKAI-: MAI-/",
+      "common_forms": [
+        "or"
+      ]
+    }
+  ],
+  "LASO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ribbon.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "RIBON"
+      ]
+    }
+  ],
+  "LASONA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "small onion, scallion."
+    }
+  ],
+  "LASONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a big hole."
+    }
+  ],
+  "LASONG-LASONG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "full of big holes (as a road).",
+      "eng_example": "The road where we passed was full of big holes.",
+      "ilok_example": "Lasonglasong diay dalan nga nagnaan mi."
+    }
+  ],
+  "LASTOG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "being a humbug, sham, dishonest.",
+      "conjugation": "/(NA-)/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be a humbug; to be deceitful, dishonest; to lie.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LASUG": [
+    {
+      "definition": "see KALASUGAN."
+    }
+  ],
+  "LASUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to get rid of, to free oneself from.",
+      "eng_example": "He cannot free himself from his many debts.",
+      "ilok_example": "Saan nga makalasut ti adu nga ut-utang na.",
+      "conjugation": "/MAKA-: MA--AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be able to clear (a debt), to discharge (a debt) by paying it.",
+      "eng_example": "We will be able to clear our debts this coming month.",
+      "ilok_example": "Mailasutan minto dagiti utang mi inton umay nga bulan.",
+      "conjugation": "/MAKAI-: MAI--AN/"
+    }
+  ],
+  "LATA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "can especially of tin.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "BALDE"
+      ]
+    }
+  ],
+  "LATAK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. clear, plain, evident. 2. popular, wellknown.",
+      "eng_example": "He is the popular actor from Manila.",
+      "ilok_example": "Isu ti nalatak nga artista nga taga-Manila.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to publicize, make known.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LATEG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "testicle, testis.",
+      "synonyms": [
+        "UKEL"
+      ]
+    }
+  ],
+  "LATI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "rust."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rust (as iron).",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LATIKO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "whip.",
+      "synonyms": [
+        "PAGBAUT, SAPLIT"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit with a whip.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LATLAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to peel, come off: said of the skin.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be peeled, be skinned.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LATOK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. wooden plate. 2. aluminum or tin plate."
+    }
+  ],
+  "LAUD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "west."
+    }
+  ],
+  "LAUK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to mix, blend, adulterate (something) with.",
+      "eng_example": "He will mix corn with that rice.",
+      "ilok_example": "Laukan na dayta bagas ti mais.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to mix, blend, adulterate with (something).",
+      "eng_example": "He will mix corn with that rice.",
+      "ilok_example": "Mais ti ilauk na dita bagas.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to mix, mingle with.",
+      "conjugation": "/MAKI-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to mix, mingle.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "LAUREL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bay leaf.",
+      "origin": "laurεl; f. Sp."
+    }
+  ],
+  "LAUS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "excessive, overmuch.",
+      "eng_example": "His happiness was excessive.",
+      "ilok_example": "Nalaus ti ragsak na.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "PALALO"
+      ],
+      "variations": [
+        "PALAUS"
+      ]
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "out of fashion, out of date, antiquated, archaic, obsolete."
+    }
+  ],
+  "LAUYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stewed meat with spices.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LAW-AN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fail, disappoint.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do what one should not do unintentionally.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LAW-IT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. sharp-pointed. 2. nimble-tongued.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LAWA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "wide, spacious, extensive, vast.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become this.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LAWAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. clear, bright.",
+      "eng_example": "Your light is bright. 2. clear, distinct, easily seen, heard, or understood.",
+      "ilok_example": "Nalawag ta silaw mo.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LAWALAWA": [
+    {
+      "definition": "n, spider.",
+      "variations": [
+        "LAWWALAWWA"
+      ]
+    }
+  ],
+  "LAWAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "week.",
+      "synonyms": [
+        "DOMINGGO"
+      ]
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "one internode or segment (of sugar cane, bamboo, etc.)."
+    }
+  ],
+  "LAWI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tail feathers of a cock, sickle feathers."
+    }
+  ],
+  "LAWIN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fish hook"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to catch (fish) with hook and line.",
+      "eng_example": "We will go catch fish with hook and line for our meal.",
+      "ilok_example": "Mapan kami aglawin ti sida.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be caught with hook and line.",
+      "eng_example": "We caught many (fish) with hook and line.",
+      "ilok_example": "Adu ti nalawinan.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LAWLAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "circumference, perimeter, surrounding area of another."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go around, wander, roam.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go around, surround, circle around.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be surrounded.",
+      "eng_example": "Our house is surrounded by big trees.",
+      "ilok_example": "Malawlaw ti dadakkel nga kaykayo diay balay mi.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LAWWALAWWA": [
+    {
+      "definition": "var. of LAWALAWA."
+    }
+  ],
+  "LAY": [
+    {
+      "definition": "; UMLAY, see under ELLAY. Ák,"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "wide, loose (as garments).",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "LAWA"
+      ],
+      "antonyms": [
+        "KITING"
+      ]
+    }
+  ],
+  "LAYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ginger (Zingiber officinale)."
+    }
+  ],
+  "LAYAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sail of a sea-going vessel."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sail.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LAYAP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "comet, shooting star, meteor."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to flash, shine suddenly and briefly.",
+      "eng_example": "I saw something flash.",
+      "ilok_example": "Adda nakitak nga limmayap.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LAYAS": [
+    {
+      "definition": "see PALAYAS."
+    }
+  ],
+  "LAYAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to raise the hand or with the hand to get ready to strike (someone); hence, to threaten with.",
+      "eng_example": "Don’t threaten me with that gun.",
+      "ilok_example": "Saan mo nga ilayat kania dayta paltog mo.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to raise the hand or a weapon with the hand against; hence, to threaten with something.",
+      "eng_example": "Your brother threatened me.",
+      "ilok_example": "Linayatan nak diay kabsat mo.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LAYAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to jump across (a place), to leap over (a place).",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to jump, leap over.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go across (a place) or to (someone) by jumping.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to compete with each other in high jump.",
+      "conjugation": "/AG- + -INN- + R2/ with pl. subject",
+      "synonyms": [
+        "LAGTO"
+      ]
+    }
+  ],
+  "LAYET": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "withered, wilted: said of plants and fruits.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LAYLAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to become withered, to wilt.",
+      "eng_example": "What you planted yesterday wilted.",
+      "ilok_example": "Nalaylay diay immulam idi kalman.",
+      "conjugation": "/MA-, AG-/"
+    }
+  ],
+  "LAYOG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "very tall, high; towering: said especially of persons and plants.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LAYON": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "straightforward, direct.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to continue moving, advancing, going up to (a place). 2. to continue to be (in an office or position).",
+      "eng_example": "Who continued to be president?",
+      "ilok_example": "Sino ti naglayon nga presidente?",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to continue carrying up to (a place), to take to (a place). 3. to prolong, continue to do.",
+      "eng_example": "He continued to sleep until afternoon. ; LAYON-LAYON,",
+      "ilok_example": "Inlayon na ti naturog inggana ti aldaw.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "stupid."
+    }
+  ],
+  "LAYOS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "flood, deluge."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have a flood.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to flood, inundate.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "DILAP"
+      ]
+    }
+  ],
+  "LAYT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "light.",
+      "origin": "f. Eng."
+    }
+  ],
+  "LEBBEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pound, smash, crush in the mortar with a pestle.",
+      "eng_example": "Let us pound that rice.",
+      "ilok_example": "Lebbeken tayo dayta bagas.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be pounded, smashed, crushed.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LEBBUAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to boil.",
+      "eng_example": "The water is boiling.",
+      "ilok_example": "Lumbuak diay danum.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMBUAK"
+    }
+  ],
+  "LEDDAANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sorrow, sadness, grief."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "sorrowful, sad, mournful.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be sorrowful, sad.",
+      "eng_example": "Don’t be sad.",
+      "ilok_example": "Saan ka nga lumdaang.",
+      "conjugation": "/AG-, -UM-/",
+      "origin": "= LUMDAANG"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be sorrowful or sad about, to grieve, mourn for.",
+      "eng_example": "He mourns for the death of his brother.",
+      "ilok_example": "Leddaangen na ti ipapatay ti kabsat na.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LEGAL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "legal, proper.",
+      "origin": "ligal; f. Sp."
+    }
+  ],
+  "LEGGAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to rise: said of the sun, moon, etc. 2. to come out, appear, be revealed.",
+      "conjugation": "/AG-, -UM-/",
+      "origin": "= LUMGAK"
+    }
+  ],
+  "LEK": [
+    {
+      "definition": "; UMLEK, see under ELLEK."
+    }
+  ],
+  "LEKBA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to slide down, slip, fall.",
+      "eng_example": "Her dress slid down.",
+      "ilok_example": "Naglekba diay bado na.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to slide down, slip, fall.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LEKKAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove, take apart, pry off, tear off, detach.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be taken apart, torn off, detached.",
+      "conjugation": "/MA-/",
+      "variations": [
+        "LEKSAB"
+      ]
+    }
+  ],
+  "LEKSAB": [
+    {
+      "definition": "var. of LEKKAB."
+    }
+  ],
+  "LEKSION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lesson.",
+      "origin": "lεksion; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have or take lessons.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to give lessons to, to teach (someone) a lesson.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LELANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "grandmother.",
+      "origin": "lεlang; f. Sp.",
+      "variations": [
+        "LILANG"
+      ]
+    }
+  ],
+  "LELONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "grandfather.",
+      "origin": "lεlong; f. Sp.",
+      "variations": [
+        "LILONG"
+      ]
+    }
+  ],
+  "LEMMENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hide, conceal oneself.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hide, conceal.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to play hide and seek.",
+      "conjugation": "/AG-+ -INN-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "hidden, concealed.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LEMMES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be drowned, go under water.",
+      "conjugation": "/MA-/",
+      "origin": "= MALMES"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to drown, put under water.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LENGNGA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the sesame (Sesamum orientale)."
+    }
+  ],
+  "LENNED": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sink, be submerged.",
+      "eng_example": "The ship sank.",
+      "ilok_example": "Limned diay bapor.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMNED"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to sink.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LENNEK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "concave, hollow."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to set (as the sun).",
+      "eng_example": "The sun is setting now.",
+      "ilok_example": "Lumnek ti initen.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMNEK"
+    }
+  ],
+  "LEP-AK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to wrench off or separate at the joint.",
+      "eng_example": "He will wrench off the wing of the chicken.",
+      "ilok_example": "Lep-aken na dayta payak ti manok.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LEPPAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stalk of taro."
+    }
+  ],
+  "LEPPAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to finish, end, conclude, terminate.",
+      "eng_example": "Let us finish eating hurriedly.",
+      "ilok_example": "Leppasen tayo daras ti mangan.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be finished, concluded, terminated.",
+      "conjugation": "/MA-/",
+      "origin": "= MALPAS",
+      "cross_reference": "KALPASAN"
+    }
+  ],
+  "LEPPAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to droop, hang down.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to droop, be discouraged.",
+      "conjugation": "/MA-/",
+      "origin": "= MALPAY"
+    }
+  ],
+  "LEPPES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to droop due to excess of moisture: said of plants.",
+      "conjugation": "/MA-/",
+      "origin": "= MALPES"
+    }
+  ],
+  "LETLET": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be unable to breathe due to obstruction in the nasal passage.",
+      "conjugation": "/-EN/"
+    }
+  ],
+  "LETRA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "letter of the alphabet.",
+      "origin": "lεtra; f. Sp."
+    }
+  ],
+  "LETSEPLAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "custard.",
+      "origin": "lεtsεplan; f. Sp."
+    }
+  ],
+  "LETTAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to unfasten so as to close (as an umbrella). 2. to release (the trigger of a gun). 3. to break (a rib).",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be 1. unfastened, 2. released, 3. broken.",
+      "conjugation": "/MA-/",
+      "origin": "= MALTAT"
+    }
+  ],
+  "LETTAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to appear suddenly and unexpectedly.",
+      "eng_example": "Many fish appeared suddenly and unexpectedly.",
+      "ilok_example": "Limtaw ti adu nga ikan.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMTAW"
+    }
+  ],
+  "LETTEG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "boil, furuncle, abscess."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to swell, become inflamed.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMTEG"
+    }
+  ],
+  "LETTUAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to appear for the first time after a period of absence, to be new: said of the moon.",
+      "eng_example": "The moon appeared for the first time.",
+      "ilok_example": "Limtuad diay bulan.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LETTUNGAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to emerge on the surface of the water, to come up to the surface of the water, to float.",
+      "eng_example": "No wood came up to the surface of the water.",
+      "ilok_example": "Awan ti limtungaw nga kayo.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMTUNGAW"
+    }
+  ],
+  "LIAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall backward.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to fall backward.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be caused to fall backward.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LIAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to leave without being noticed or inconspicuously.",
+      "eng_example": "You leave early without being noticed.",
+      "ilok_example": "Ilias mo nga masapa ta bagim.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LIB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall asleep unintentionally.",
+      "eng_example": "I fell asleep unintentionally for a while.",
+      "ilok_example": "Nailibayak ti apagbiit.",
+      "conjugation": "/MAI-/",
+      "common_forms": [
+        "ÁY"
+      ]
+    }
+  ],
+  "LIB-AT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to strike treacherously.",
+      "eng_example": "Strike our enemies treacherously.",
+      "ilok_example": "Lib-aten yo dagiti kabusor tayo.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LIBAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to tell a lie, to conceal something, to refuse to tell something.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lie about, conceal, refuse to divulge.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LIBAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to leave surreptitiously, without being noticed.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to leave (someone) surreptitiously, without being noticed.",
+      "eng_example": "Let us leave without being noticed by your mother.",
+      "ilok_example": "Libasan tayo ni nanang mo.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take surreptitiously, without being noticed, to filch, steal.",
+      "eng_example": "Don’t steal my money here.",
+      "ilok_example": "Saan yo nga libasen daytoy kuartak ditoy.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do surreptitiously, without being noticed, to do on the sly.",
+      "eng_example": "He ate in the kitchen on the sly.",
+      "ilok_example": "Inlibas na ti nangan idiay kusina.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LIBBI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to purse the lips, to pout.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to purse one’s lips at (someone), to pout at (someone).",
+      "conjugation": "/-UM-, MANG-:-AN/"
+    }
+  ],
+  "LIBEG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "muddy, turbid; unclear.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LIBLIBRO": [
+    {
+      "definition": "see LIBRO."
+    }
+  ],
+  "LIBNOS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "handsome, pretty, neat.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LIBOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "procession especially a religious one."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go around, to have a procession.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take around.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LIBRAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pound.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LIBRE": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "free.",
+      "origin": "librε; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do something for (someone) free.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LIBRO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "book. 2LIBRO; LIBLIBRO,",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "tripe."
+    }
+  ],
+  "LIBUKAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to begin menstruating.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LIBUYONG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "overcast, cloudy, gloomy.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LIDAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "sad, downcast, gloomy.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LIDDA": [
+    {
+      "definition": "used for thatching. 2. a bundle of any of these."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tie or bundle especially stalks of rice and leaves of the PAN-AW and LIDDA used for thatching.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a coarse grass with harsh leaves (Saccharum spontaneum)."
+    }
+  ],
+  "LIDDEG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of small edible snail with pointed shell."
+    }
+  ],
+  "LIDEM": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "dim.",
+      "eng_example": "Your light is very dim.",
+      "ilok_example": "Nalidem la unay ta silaw mo.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LIDERATO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "leadership.",
+      "origin": "lidεrato; f. Sp."
+    }
+  ],
+  "LIDING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "string."
+    }
+  ],
+  "LIDLID": [
+    {
+      "part_of_speech": "n.",
+      "definition": "usually a rough and rounded stone used to rub off dirt from the body when taking a bath, anything used for this purpose."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rub off dirt from one’s body especially when taking a bath.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rub off, remove by scrubbing.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rub off the body dirt of, to scrub (someone).",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LIG-IS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to crush especially with the nail.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to crush a louse on the head.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LIGASON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "block.",
+      "origin": "f, Sp."
+    }
+  ],
+  "LIGSAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to start declining or sinking to the west: said of the sun after midday.",
+      "eng_example": "It was past midday when we reached there.",
+      "ilok_example": "Nagligsay ti initen idi makadanom kami idiay.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove from a list.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get (a branch of a tree) out of the way.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LIK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lean on one side, to sleep on one side.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "ÍG"
+      ]
+    }
+  ],
+  "LIKAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go around.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go around, surround.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be surrounded.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lead or take around.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "LIBOT, RIKOS"
+      ]
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "roundabout, meandering, crooked, circuitous.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LIKKAONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hollow, hole."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "full of hollows, holes.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LIKLIK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to avoid, shun.",
+      "eng_example": "Shun the evil ways.",
+      "ilok_example": "Liklikam ti dakes nga dalan.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to keep or protect (someone) (from danger or the evil ways).",
+      "eng_example": "Protect us from the evil ways.",
+      "ilok_example": "Iliklik na kami ti dakes nga dalan.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LIKMOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go around, surround, encircle. - -syn.",
+      "ilok_example": "LIKAW, LIBOT, RIKOS.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LIKTAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to push the top part of (a ladder) away from its resting place and hold suspended by a piece of rope, a strip of rattan, a piece of wire, etc.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LIKUD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. back part of body. 2. the area behind someone or something."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to turn one’s back upon; hence, to forget.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LILANG": [
+    {
+      "definition": "var. of LELANG."
+    }
+  ],
+  "LILI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to rock in one’s arms.",
+      "eng_example": "Rock the child in your arms so that it will fall asleep.",
+      "ilok_example": "Ililim dayta ubing tapno makaturog.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    }
+  ],
+  "LILIBEG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make turbid or murky. see under LIBEG.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LILIG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a section or division of an orange."
+    }
+  ],
+  "LILIKTADAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the piece of rope, strip of rattan, or piece of wire that holds the top part of a ladder suspended when pushed away from its resting place."
+    }
+  ],
+  "LILITSUNEN": [
+    {
+      "definition": "see under LITSON."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "suitable for roasting: said of a pig."
+    }
+  ],
+  "LILONG": [
+    {
+      "definition": "var. of LELONG."
+    }
+  ],
+  "LIMA": [
+    {
+      "definition": "num. five; 5.",
+      "synonyms": [
+        "SINKO"
+      ]
+    }
+  ],
+  "LIMBONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to clear up, to become settled, free from disturbance or uncertainty; to settle down.",
+      "eng_example": "When the weather settles down, we will go to Manila.",
+      "ilok_example": "Inton aglimbong ti tiempo, mapan tay to idiay Manila.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LIMDO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be peeved, dissatisfied, displeased, cross, impatient.",
+      "eng_example": "Don’t be cross.",
+      "ilok_example": "Dika aglimdo.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LIMED": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hide, conceal, keep.",
+      "eng_example": "Don’t hide from me what you are doing.",
+      "ilok_example": "Dika ilimed kaniak dayta ar-aramidem.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "DULIN, LIMMENG"
+      ]
+    }
+  ],
+  "LIMO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pretend, disguise oneself.",
+      "conjugation": "/MANG-/"
+    }
+  ],
+  "LIMOG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to dissolve, melt.",
+      "eng_example": "Dissolve that chocolate bar.",
+      "ilok_example": "Limugem dayta tsokolate.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LIMOS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. alms. 2. fee for a church service or for having a religious object blessed.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LIMTAW": [
+    {
+      "definition": "pt. of LUMTAW."
+    }
+  ],
+  "LIMTEG": [
+    {
+      "definition": "pt. of LUMTEG."
+    }
+  ],
+  "LINAB": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "oily, greasy.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "LANIT"
+      ]
+    }
+  ],
+  "LINABAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "thread-like or fine strand. see under LABAG."
+    }
+  ],
+  "LINAK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "calm, quiet, still: said especially of the sea or ocean.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "KALMA"
+      ]
+    }
+  ],
+  "LINAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "twine, string."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to twine.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LINAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cook thoroughly by leaving it in the hot stove for a while after it has boiled: said of rice.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be cooked thoroughly: said of rice.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LING-ET": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sweat, perspiration."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to perspire.",
+      "eng_example": "I perspire easily.",
+      "ilok_example": "Nalakaak nga agling-et.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to perspire.",
+      "eng_example": "He perspired much.",
+      "ilok_example": "Adu ti inling-et na.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LING-I": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to turn away one’s head as in avoiding a blow.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to turn away (the head) as in avoiding a blow.",
+      "eng_example": "Turn away your head.",
+      "ilok_example": "Iling-im dayta ulom.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LINGALING": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shake one’s head especially to indicate a negative answer.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to disobey, go against.",
+      "eng_example": "Don’t go against my wish.",
+      "ilok_example": "Dika nga lingalingen ti kayat ko.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be distracted, to have one’s mind or attention wander away.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LINGAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "joy, happiness, entertainment.",
+      "common_forms": [
+        "LINGLINGAY"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to entertain, amuse, cheer up, divert.",
+      "eng_example": "Your cousin entertained us.",
+      "ilok_example": "Lininglingay na kami diay kasinsin mo.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "amusing.",
+      "conjugation": "/MAKA-/"
+    }
+  ],
+  "LINGDAN": [
+    {
+      "definition": "] to screen, obstruct the view of."
+    },
+    {
+      "definition": "to hide, conceal.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LINGED": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a hidden or concealed place."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "hidden, concealed.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hide or conceal oneself.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to screen, obstruct the view of.",
+      "conjugation": "/MANG-:-AN/",
+      "common_forms": [
+        "LINGDAN"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hide, conceal.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LINGSAT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "narrow.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LINGTA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to boil (fish, eggs, vegetables, etc.)-",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be boiled.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LINIS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "smooth, even.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LINNAAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dew, dew drop."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be exposed to the dew, to be in the open air at night.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LINONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "shade."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "shady.",
+      "eng_example": "Your tree is shady.",
+      "ilok_example": "Nalinong daytoy kayo yo.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go under the shade, to shade oneself.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LINTEG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "law."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "straight.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make straight, straighten.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LINUBIAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "this kind of sweet."
+    }
+  ],
+  "LINUGAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "rice gruel or porridge."
+    }
+  ],
+  "LINYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "line.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "UGES"
+      ]
+    }
+  ],
+  "LION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lion.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LIPAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to forget (someone).",
+      "eng_example": "Don’t forget me at any time.",
+      "ilok_example": "Saan nak nga liplipaten uran inton kaano man.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "often",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to forget (something).",
+      "eng_example": "I forgot to go to church.",
+      "ilok_example": "Nalipatak ti mapan makimisa.",
+      "conjugation": "/MAKA-: MA--AN/"
+    }
+  ],
+  "LIPAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a coarse leguminous vine with large showy flowers, compressed pods, and large dark-brown, chestnut-like seed used by children to play with. 2. the seed of this. 3. the game using the seeds of this."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to play the game using seeds of this. ; LIPAYLIPAY,",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "kneecap, patella."
+    }
+  ],
+  "LIPISTIK": [
+    {
+      "definition": "var. of LIPSTIK."
+    }
+  ],
+  "LIPIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a narrow passage."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to crush, press between two opposing forces so as to break or injure, squeeze.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be crushed.",
+      "eng_example": "His index finger was crushed at the door.",
+      "ilok_example": "Nalipit diay tammudo na idiay ridaw.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LIPPIAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to overflow, flow over the brim.",
+      "eng_example": "The river overflowed its bank after the rain.",
+      "ilok_example": "Naglippias diay karayan kalpasan ti tudo.",
+      "conjugation": "/AG-/",
+      "variations": [
+        "LUPPIAS"
+      ]
+    }
+  ],
+  "LIPPIIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to snap.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMPIIT"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to strike each other.",
+      "conjugation": "/AG-+ -INN-+ R2/ with pl. subject"
+    }
+  ],
+  "LIPSTIK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lipstick.",
+      "origin": "f. Eng."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use lipstick.",
+      "conjugation": "/AG-/",
+      "variations": [
+        "LIPISTIK: used by old people"
+      ]
+    }
+  ],
+  "LIPUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to betray.",
+      "eng_example": "Don’t betray us.",
+      "ilok_example": "Dina kam liputan.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LIS-A": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nit, egg of a louse."
+    }
+  ],
+  "LISAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to have some kind of indigestion characterized by pain in the abdomen and evacuation of undigested food.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LISDAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "heap, quantity obtained by.",
+      "ilok_example": "Adu ti lisdak ti pisos.",
+      "eng_example": "A peso buys much."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "much in quantity.",
+      "eng_example": "What he bought with one peso was much.",
+      "ilok_example": "Nalisdak ti ginatang na nga pisos.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LISI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to get out of the way.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get out of the way of, to avoid, evade.",
+      "conjugation": "/-UM-, MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get out of the way, to keep away from.",
+      "eng_example": "Keep yourself away from trouble.",
+      "ilok_example": "Ilisim ta bagim ti ringgor.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LISLIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to roll up a sleeve or both sleeves, a leg or both legs of one’s pants, to pull up one’s dress or skirt.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to roll up (a sleeve, a leg of pants), to pull up (a dress).",
+      "conjugation": "/MANG- :-EN/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "the result of this.",
+      "eng_example": "Your sleeves (or dress) are (or is) rolled up (or pulled up) too high.",
+      "ilok_example": "Nangato la unay ta lislis mo."
+    }
+  ],
+  "LISTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "list.",
+      "origin": "f. Sp.",
+      "variations": [
+        "LISTAAN"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to list down, to put in a list.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LISTAAN": [
+    {
+      "definition": "var. of LISTA n."
+    }
+  ],
+  "LITEM": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "livid, black and blue: usually due to an injury.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become livid, black and blue.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LITILIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to trim along the edges of.",
+      "eng_example": "He will trim my handkerchief along the edges tomorrow.",
+      "ilok_example": "Litilitan na inton bigat daytoy panyok.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use to trim the edges of (a handkerchief, doily, etc), to trim the edges of (a handkerchief, doily, etc.) with.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LITNAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "clear, transparent as water, glass, etc.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LITOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to crack as a joint.",
+      "eng_example": "My knees cracked.",
+      "ilok_example": "Naglitok dagiti tumtumeng ko.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LITRO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a unit of dry measure; three of these make one SALOP.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LITSON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "roast pig.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "INASAR"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to roast a pig.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to roast (a pig).",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "ASAR"
+      ]
+    }
+  ],
+  "LITTAAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce a popping or bursting sound.",
+      "eng_example": "The bamboo clumps are popping.",
+      "ilok_example": "Lumtaak dagidiay kawayan.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMTAAK",
+      "cross_reference": "KANALTAAK"
+    }
+  ],
+  "LITTIIK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce a snapping or snipping sound.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMTIIK",
+      "cross_reference": "KANALTIIK"
+    }
+  ],
+  "LITTIK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to perforate, bore a hole through.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be perforated.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LITUP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to finish doing (a piece of work), paying (a debt), etc.",
+      "eng_example": "His mother finished paying all his debts.",
+      "ilok_example": "Linitupan ni nanang na dagiti ut-utang na.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LIWAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to put out of one’s thought, to banish.",
+      "eng_example": "They were the ones who banished by sadness. 2. to distract, divert, amuse, cheer up.",
+      "ilok_example": "Isuda ti nangiliwliwag ti ladingit ko.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "LIWLIWAG"
+      ]
+    }
+  ],
+  "LIWAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to forget (something).",
+      "eng_example": "Don’t forget to attend mass.",
+      "ilok_example": "Dika liwayan ti makimisa.",
+      "conjugation": "/MANG-:-AN/",
+      "synonyms": [
+        "LIPAT"
+      ]
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "forgetful, negligent, careless.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LIWENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "deep, profound.",
+      "common_forms": [
+        "MANGLIWENGLIWENG"
+      ]
+    }
+  ],
+  "LIWES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go around.",
+      "conjugation": "/MANG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take around.",
+      "eng_example": "It was he who took us around.",
+      "ilok_example": "Isu ti nangiliwes kadakami.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "RIKOS"
+      ]
+    }
+  ],
+  "LIWLIW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to do by a circuitous route, to do in a roundabout way.",
+      "eng_example": "Go there in a roundabout way.",
+      "ilok_example": "Mangliwliw kayo nga mapan idiay.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LIWLIWA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "consolation, solace, recompense."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to console, comfort, solace, raise the spirit of.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LOBO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "wolf.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "balloon.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LOKAL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "local, made in or originating from the locality.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LOKO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "foolish, mischievous.",
+      "conjugation": "/(NA-)/",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fool, dupe, deceive.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LOLA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "grandmother.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "LELANG"
+      ],
+      "antonyms": [
+        "LOLO"
+      ]
+    }
+  ],
+  "LOLO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "grandfather.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "LELONG"
+      ],
+      "antonyms": [
+        "LOLA"
+      ],
+      "variations": [
+        "LOLONG"
+      ]
+    }
+  ],
+  "LOLONG": [
+    {
+      "definition": "var. of LOLO."
+    }
+  ],
+  "LOTE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a subdivision of a block in a town or city, a lot.",
+      "origin": "lotε; f. Sp."
+    }
+  ],
+  "LOTERIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lottery.",
+      "origin": "lotεria; f. Sp."
+    }
+  ],
+  "LUA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tear (of the eye)."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to shed, or fill with, tears.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to shed as tears.",
+      "eng_example": "He shed blood as tears.",
+      "ilok_example": "Dara ti inlua na.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LUAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "foam, bubble, froth."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bubble, foam.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LUALO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "prayer, supplication."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pray.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pray, recite as a prayer.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LUANG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "loose and shaking as a jar or can half full of water.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LUAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to leave on a trip, to travel.",
+      "eng_example": "We will leave on a trip tomorrow.",
+      "ilok_example": "Agluas kaminto no bigat.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take on a trip.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LUBBO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sink.",
+      "eng_example": "The boat on which they were riding sank.",
+      "ilok_example": "Nalbo diay nagluganan da nga biray.",
+      "conjugation": "/MA-/",
+      "origin": "= MALBO"
+    }
+  ],
+  "LUBBON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pair with as in riding, sleeping, etc.",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be paired with each other.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "LUBBOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pass through (a hole, an opening, etc.).",
+      "eng_example": "My head won’t pass through my dress.",
+      "ilok_example": "Saan nga lumbot daytoy ulok ti daytoy badok.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMBOT"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put or pass (something) through (a hole, an opening, etc.).",
+      "eng_example": "Pass your bundle through here.",
+      "ilok_example": "Ilubbot mo dayta balotam ditoy.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LUBI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a kind of sticky sweet made of DIPPIG bananas, DIKET rice, grated coconut meat and sugar; or of cassava root, grated coconut meat and sugar.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make into this kind of sweet.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LUBID": [
+    {
+      "part_of_speech": "n.",
+      "definition": "string."
+    }
+  ],
+  "LUBNAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "puddle."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wallow or play in a puddle.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to throw into or make fall in a puddle.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall in a puddle.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LUBO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mud, mudhole, mire, slough."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to get stuck (in mud, debt, etc.).",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get stuck (in mud, debt, etc.).",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LUBONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "world, universe."
+    }
+  ],
+  "LUBOS": [
+    {
+      "definition": "see PALUBOS."
+    }
+  ],
+  "LUDEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be partially or not fully cooked: said of rice.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUDON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put together without any order, to throw into a heap.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to scramble.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "LUDONG": [
+    {
+      "definition": "n, a PURONG when more than a foot long."
+    }
+  ],
+  "LUGAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to loosen.",
+      "eng_example": "Don’t loosen that post.",
+      "ilok_example": "Saan mo nga lugaden dayta poste.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LUGADLUGAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be loose.",
+      "eng_example": "My tooth is loose.",
+      "ilok_example": "Aglugadlugad toy ngipen ko.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "WALIWALI"
+      ]
+    }
+  ],
+  "LUGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. vehicle, means of transportation. 2. load, passenger. 3. the taking of a vehicle."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to ride in or on.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to load in (a vehicle).",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LUGAR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. place, spot, situation. 2. chance, opportunity, time.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stay, put oneself in (a place).",
+      "eng_example": "Stay there.",
+      "ilok_example": "Lumugar ka dita.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put, place (someone or something) (in a place).",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have the chance or time to do.",
+      "conjugation": "/MAKA-: MA--AN/"
+    }
+  ],
+  "LUGAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make rice gruel or porridge.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LUGAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to take off the hat to (someone).",
+      "eng_example": "He does not want to take his hat off to the captain.",
+      "ilok_example": "Dina kayat nga lugayan diay kapitan.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "LUGI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "business loss."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to shortchange, cheat.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to be shortchanged, to be cheated. 2. to suffer a loss, as in business, to lose in a business transaction.",
+      "eng_example": "I will lose if I give that to you for one peso.",
+      "ilok_example": "Malugiak no ited ko kenka dayta ti pisos.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUGLUG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make muddy or mushy by agitating with the hands or feet.",
+      "eng_example": "Don’t make that mud mushy.",
+      "ilok_example": "Dika nga luglugen dayta pitak.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LUGPI": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "crippled, lame."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to become crippled or lame, to cripple.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become crippled.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUGUB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stay close to, huddle around.",
+      "eng_example": "Don’t huddle around that fire.",
+      "ilok_example": "Saan mo nga luguban dayta apoy."
+    }
+  ],
+  "LUGUD": [
+    {
+      "definition": "see PALUGUD."
+    }
+  ],
+  "LUK-AT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to free, release, liberate.",
+      "eng_example": "Don’t release that pig.",
+      "ilok_example": "Saan mo nga luk-atan dayta baboy.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be freed, released, liberated.",
+      "eng_example": "The prisoner was released.",
+      "ilok_example": "Naluk-atan diay balud.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LUKAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pry open, separate the two opposing sides of.",
+      "eng_example": "He will pry open those oysters.",
+      "ilok_example": "Lukaben na dagita tirem.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LUKAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be awakened in one’s sleep.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUKAIS": [
+    {
+      "definition": "var. of LUKAS."
+    }
+  ],
+  "LUKAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pull up the lower part of one’s dress: said of women.",
+      "conjugation": "/AG-/",
+      "variations": [
+        "LUKAIS"
+      ]
+    }
+  ],
+  "LUKAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to open or be opened.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to open.",
+      "eng_example": "Let us open this do.",
+      "ilok_example": "Lukatan ta daytoy ridaw.",
+      "conjugation": "/AGI-, MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    }
+  ],
+  "LUKAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "loose, not tightly fastened.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LUKBAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the pomelo (Citrus decumana)."
+    }
+  ],
+  "LUKDIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "glans penis.",
+      "synonyms": [
+        "(dial.) LUSI"
+      ]
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "with the glans penis uncovered.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LUKIP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lift or raise slightly especially along the edge.",
+      "eng_example": "He will lift that mat slightly along the edge.",
+      "ilok_example": "Lukipen na dayta ikamen.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to open lightly, set ajar (as a door, window, etc.).",
+      "eng_example": "Open that door ajar.",
+      "ilok_example": "Ilukip mo dayta ridaw.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LUKKIAP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pry loose or off, to detach by prying.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be pried loose or off, to be detached.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUKMEG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "fat, stout, obese.",
+      "conjugation": "/NA-/",
+      "antonyms": [
+        "KUTTONG"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become this.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LUKMO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a crustacean whose shell has been removed."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "weak.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LUKNENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "soft.",
+      "conjugation": "/NA-/",
+      "antonyms": [
+        "TANGKEN"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become this.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LUKOG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shuffle (the cards) such that one will eventually get the trump cards as the cards are dealt out: a form of cheating; to trump.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "LUKONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to enclose (a note, check, money order, etc.) with (a letter).",
+      "eng_example": "Enclose this with your letter.",
+      "ilok_example": "Ilukong mo daytoy dita surat mo.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be enclosed with or inside.",
+      "eng_example": "There is money enclosed with his letter.",
+      "ilok_example": "Adda kuarta nga nailukong ditoy surat na.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LUKOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to roll up.",
+      "eng_example": "Let us roll up these mats on which we slept.",
+      "ilok_example": "Lukuton tayo dagitoy ikamen nga nagturogan tayo.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to roll inside or with.",
+      "conjugation": "/MANG-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be rolled inside or with.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LUKSAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be disgusted or irritated with.",
+      "conjugation": "/MA-: KA-/"
+    }
+  ],
+  "LULEM": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "overcast, cloudy.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "KUYEM"
+      ]
+    }
+  ],
+  "LULO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause (a fruit) to become soft by handling, dropping, beating, etc.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become soft through handling, dropping, beating, etc.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LULOD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "shin of leg."
+    }
+  ],
+  "LULOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to loosen, slacken as a string.",
+      "eng_example": "Slacken the string of your kite.",
+      "ilok_example": "Lulukam dayta lubid ti ullaw mo.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "loose, slack.",
+      "eng_example": "My clothesline is slack.",
+      "ilok_example": "Nalulok daytoy pagbalaybayak.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LULUKISEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the mandarin orange (Citrus nobilis)."
+    }
+  ],
+  "LULUNAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fontanel, the soft, boneless area on top of the head of a baby."
+    }
+  ],
+  "LUMBA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "race, running competition."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to race with.",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to compete in a race, to race with each other.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "LUMLOM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to push through or under, to force to go under or in.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be pushed through, under, or in.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LUMOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "moss."
+    }
+  ],
+  "LUMTAW": [
+    {
+      "origin": "-UM-+ LETTAW."
+    }
+  ],
+  "LUMTEG": [
+    {
+      "origin": "-UM-+ LETTEG."
+    }
+  ],
+  "LUMTIIK": [
+    {
+      "definition": "see under LITIK."
+    }
+  ],
+  "LUNAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to melt, liquefy (a metal).",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be melted, liquefied.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUNAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be worn out such that the surface becomes smooth (as a coin).",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUNES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to crumple especially a dress.",
+      "eng_example": "Don’t crumple your dress.",
+      "ilok_example": "Saan mo nga lunesen ta badom.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be crumpled.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "Monday.",
+      "origin": "f. Sp."
+    }
+  ],
+  "LUNG-AW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to come out, rise out, emerge (as when drowning).",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be free from sickness, danger, misfortune, hardships, etc.",
+      "conjugation": "/MAKA-/"
+    }
+  ],
+  "LUNG-AY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "way."
+    }
+  ],
+  "LUNGBOY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "Java plum (Eugenia jambolana)."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become livid, black-and-blue.",
+      "eng_example": "Peter’s face became black-and-blue.",
+      "ilok_example": "Limmungboy diay rupa ni Pedro.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "LUNGGI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to rock, reel, totter, sway.",
+      "eng_example": "The table is tottering.",
+      "ilok_example": "Aglunggi-lunggi diay lamisaan.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "LUNGGI-LUNGGI"
+      ]
+    }
+  ],
+  "LUNGLONG": [
+    {
+      "definition": "; LUNGLONGAN, n.pl. kitchen utensils."
+    }
+  ],
+  "LUNGNGUOP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be suffocated, stifled, or smothered with heat, as in a dense crowd.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LUNGOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hollow, a small valley, a depression."
+    }
+  ],
+  "LUNGON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "coffin."
+    }
+  ],
+  "LUNGPO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "chubby, stout: implies good health.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LUNGPOS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cover with, spread over.",
+      "eng_example": "Don’t spread water over that kitchen.",
+      "ilok_example": "Saan mo nga lungposen dayta kusina ti danum.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be covered with.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUNGSOT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "rotten, spoiled, decomposing, putrefying.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to rot, putrefy, decompose.",
+      "conjugation": "/MANG-:-EN/",
+      "variations": [
+        "LUNGTOT"
+      ]
+    }
+  ],
+  "LUNGTOT": [
+    {
+      "definition": "var. of LUNGSOT."
+    }
+  ],
+  "LUNLON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to rinse as a bottle.",
+      "eng_example": "Rinse that bottle.",
+      "ilok_example": "Lunlonam dayta botelya.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be rinsed.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LUNOD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "curse."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to curse, call or bring evil or injury down on, damn.",
+      "eng_example": "Don’t curse your parents.",
+      "ilok_example": "Saan mo nga ilunod dagiti naganak kenka.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be damned.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LUOB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stay or live (in somebody’s house).",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to stay or live with. 2. to stay or live with as commonlaw wife or husband.",
+      "conjugation": "/MAKI- : KA-/"
+    }
+  ],
+  "LUOM": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "ripe.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become ripe, ripen.",
+      "conjugation": "/AG-, MA-/"
+    }
+  ],
+  "LUPAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to sink or get stuck, to cause to submerge or go beneath the surface of (mud), to sink.",
+      "eng_example": "Don’t sink your shoes in the mud.",
+      "ilok_example": "Saan mo nga ilupak ta sapatos mo dita pitak.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LUPES": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "sterile, barren, unable to have offspring."
+    }
+  ],
+  "LUPINAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sit down on one’s breech with the legs folded and drawn close to the body; to crouch.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LUPING": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "drooping, fallen (as the ears of a dog, the crest of a cock)."
+    }
+  ],
+  "LUPISAK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "crippled, unable to stand or walk."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sit on the ground or floor.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "DALUPISAK"
+      ]
+    }
+  ],
+  "LUPOS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cast off the slough, outer skin, or shell of.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LUPOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. cloth, fabric. 2. dress, apparel; clothes."
+    }
+  ],
+  "LUPOY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "weak, feeble, as one who falls down easily.",
+      "conjugation": "/(NA-)/"
+    }
+  ],
+  "LUPPI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fold.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "KULPI"
+      ]
+    }
+  ],
+  "LUPPIAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bend back (a finger, etc.).",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be bent back.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "bent back."
+    }
+  ],
+  "LUPPIAS": [
+    {
+      "definition": "var. of LIPPIAS."
+    }
+  ],
+  "LUPPO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "thigh."
+    }
+  ],
+  "LUPTAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to chap, crack open, fissure: said of the lips, tongue, skin, etc.",
+      "eng_example": "My lips are chapping.",
+      "ilok_example": "Agluptak dagitoy bibig ko.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LUSA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "soft: said of rice.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LUSDOY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to droop, sag.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "LUSI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "glans penis.",
+      "origin": "dial.",
+      "synonyms": [
+        "LUKDIT"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to expose (the glans penis) by pushing back the foreskin.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be exposed: said of the glans penis.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUSIAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "pale, wan, pallid, ashen.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LUSIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to crush by putting a heavy weight on.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be crushed by a heavy weight.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUSLOS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to slip, slide off.",
+      "eng_example": "My ring is slipping off (my finger).",
+      "ilok_example": "Agluslos daytoy singsing ko.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to slide down or off.",
+      "eng_example": "Don’t slide down my skirt.",
+      "ilok_example": "Saan mo nga iluslos toy paldak.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LUSOB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the tubular, earthenware lining of a well, well casing."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "concave, hollow.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LUSONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to insert, put in or on, fit in.",
+      "eng_example": "Put on your shoes.",
+      "ilok_example": "Ilusong mo ta sapatos mo.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be inserted, thrust in, put in; to fall into.",
+      "eng_example": "Rose’s foot fell into a hole.",
+      "ilok_example": "Nailusong diay saka ni Rosa idiay abut.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "LUSSOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to puncture, pierce, perforate, bore a hole through.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "perforated, having a hole."
+    }
+  ],
+  "LUSSOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go through, shoot or break through, pierce.",
+      "eng_example": "The bullet went through here.",
+      "ilok_example": "Limsot diay bala ditoy.",
+      "conjugation": "/-UM-/",
+      "origin": "= LUMSOT"
+    }
+  ],
+  "LUSULUS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to resign from one’s position or office. 2. to withdraw from one’s candidacy for a position or office.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to resign from, withdraw from (a position, an office, etc.).",
+      "eng_example": "Resign from your presidency.",
+      "ilok_example": "Ilusulos mo ti kinapresidentem.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "LUTAB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "foam, froth, spume."
+    }
+  ],
+  "LUTLUT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mud, mudhole, mire, slough."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to become muddy.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "LUTO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cook something.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cook.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "LUTTOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to crack open as an egg.",
+      "eng_example": "He will crack open that egg.",
+      "ilok_example": "Luttokan na dayta itlog.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be cracked open.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "LUY-ONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the pubic region."
+    }
+  ],
+  "LUYA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be induced to cry.",
+      "eng_example": "Rose is easily induced to cry.",
+      "ilok_example": "Nalaka nga maluyaan ni Rosa.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "LUYAK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "gluey, sticky.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "LUYLUY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to flow out, issue out.",
+      "eng_example": "His nasal mucus is flowing out.",
+      "ilok_example": "Agluyluy diay buteg na.",
+      "conjugation": "/AG-/"
+    }
+  ]
+}

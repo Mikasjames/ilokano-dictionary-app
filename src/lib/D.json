@@ -1,0 +1,4463 @@
+{
+  "DA": [
+    {
+      "definition": "pl. of 1NI."
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "a particle expressing affirmation.",
+      "eng_example": "Please don’t tickle me.",
+      "ilok_example": "Da man dinak kikien."
+    }
+  ],
+  "DAAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "old, ancient: said of inanimate objects.",
+      "conjugation": "/NAG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be like this.",
+      "conjugation": "/-UM-/",
+      "synonyms": [
+        "see BAAK, BAKET, LAKAY"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wait for, watch for.",
+      "eng_example": "Who waited for you?",
+      "ilok_example": "Sino ti nangdaan kenka?",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "DADAEL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to destroy, ruin, damage, spoil.",
+      "eng_example": "Don’t destroy my watch.",
+      "ilok_example": "Saan mo nga dadaelen dayta relos ko.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be destroyed, ruined, damaged, spoiled.",
+      "eng_example": "My watch was ruined.",
+      "ilok_example": "Nadadael daydiay relos ko.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "destroyed, ruined, damaged, spoiled.",
+      "eng_example": "My watch is already ruined.",
+      "ilok_example": "Dadael daytoy relos kon."
+    }
+  ],
+  "DADANES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to insult, affront.",
+      "eng_example": "He was the one who insulted us.",
+      "ilok_example": "Isu ti nangidadanes kadakami.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be insulted, affronted.",
+      "eng_example": "It is hard to be insulted.",
+      "ilok_example": "Narigat ti maidadanes.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "DADANG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go near a fire or any other source of heat.",
+      "eng_example": "Don’t go near a fire for you might catch cold.",
+      "ilok_example": "Saan ka nga agdadang ta dikanto nga agpanateng.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to heat, warm.",
+      "eng_example": "Heat some water for my bath.",
+      "ilok_example": "Mangidadang ka ti danum nga pagdigus ko.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DADAPILAN": [
+    {
+      "definition": "see under DAPIL."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "sugar mill; a machine with rollers used to press out the juice of the sugar cane; it is operated by a water buffalo attached to the end of the beam (TANGBAW) walking in a circle."
+    }
+  ],
+  "DADAULO": [
+    {
+      "definition": "pl. of DAULO."
+    }
+  ],
+  "DADDADIAY": [
+    {
+      "definition": "that only, nothing but that: far from both speaker and hearer.",
+      "variations": [
+        "DEDDEDIAY, DEDEDIAY, DEDDEYDIAY"
+      ]
+    }
+  ],
+  "DADDAYDI": [
+    {
+      "definition": "that only, nothing but that: no longer extant, remote in time.",
+      "variations": [
+        "DEDDEYDI"
+      ]
+    }
+  ],
+  "DADDUMA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pl. others, some others, some.",
+      "eng_example": "Some of our guests went to the kitchen.",
+      "ilok_example": "Napan ti dadduma kadagiti sangaili mi idiay kusina."
+    }
+  ],
+  "DADI": [
+    {
+      "definition": "syn. of TATANG.",
+      "origin": "f. Eng."
+    }
+  ],
+  "DADO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a die."
+    }
+  ],
+  "DAEG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "nice, graceful, elegant, majestic, grand, stately.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to surpass, excel, outdo.",
+      "eng_example": "Who outdid you? —syn.1ABAK.",
+      "ilok_example": "Sino ti nangdaeg kenka?",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DAEL": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "inasmuch as, it is well that, it is fortunate that.",
+      "eng_example": "It is well that they are rich.",
+      "ilok_example": "Dael na pay ketdi ta nabaknang da."
+    }
+  ],
+  "DAGA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dagger.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "PUNYAL"
+      ]
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "1. earth, soil, ground.",
+      "eng_example": "The child lay on the ground. 2. land, especially agricultural land.",
+      "ilok_example": "Nagidda diay ubing idiay daga."
+    }
+  ],
+  "DAGAANG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "sweltering hot, sultry: said of the weather.",
+      "eng_example": "It is sultry today.",
+      "ilok_example": "Nadagaang ita.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be sweltering hot, sultry: said of the weather.",
+      "eng_example": "The weather is becoming sultry.",
+      "ilok_example": "Dumagaang ti tiempo.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to feel sweltering hot, sultry: said of persons and animals.",
+      "eng_example": "That young woman feels sweltering hot.",
+      "ilok_example": "Agdagaang dayta balasang.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DAGADAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to insist upon, press for or urge.",
+      "eng_example": "He was the one who pressed for the construction of a schoolhouse in our barrio or village.",
+      "ilok_example": "Isu ti nangidagadag iti panagbangon ti eskuela ditoy barrio mi.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAGAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stop by, pass by, drop in for a while.",
+      "eng_example": "Drop in for a while.",
+      "ilok_example": "Dumagas ka pay.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stop by for, to pick up, to stop by and fetch.",
+      "eng_example": "Stop by and fetch me when you go.",
+      "ilok_example": "Dagasen nak intono mapan ka.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stop by and deliver.",
+      "eng_example": "Will you deliver this to their house when you go to the plaza.",
+      "ilok_example": "Idagas mo daytoy idiay balay da intono mapan ka idiay plasa.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAGDAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hurry up someone, to impel or incite someone to act with greater speed.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hurry up, to impel or incite to greater speed.",
+      "eng_example": "Incite Rose to greater speed in washing clothes.",
+      "ilok_example": "Dagdagem ni Rosa nga aglaba.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DAGDAGIDI": [
+    {
+      "definition": "pl. of DADDAYDI."
+    }
+  ],
+  "DAGDAGIDIAY": [
+    {
+      "definition": "pl. of DADDADIAY."
+    }
+  ],
+  "DAGDAGITA": [
+    {
+      "definition": "pl. of DATDATA."
+    }
+  ],
+  "DAGDAGITAY": [
+    {
+      "definition": "pl. of DATDATAY."
+    }
+  ],
+  "DAGDAGITOY": [
+    {
+      "definition": "pl. of DATDATOY."
+    }
+  ],
+  "DAGEL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to grow worse, worsen.",
+      "eng_example": "His sickness grew worse.",
+      "ilok_example": "Dumagel ti sakit na.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make feel worse.",
+      "eng_example": "This made me feel worse.",
+      "ilok_example": "Daytoy ti nangidagel kanyak.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAGEM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to take or do something intensely or seriously, to engage (oneself) on something intensely or seriously.",
+      "eng_example": "Don’t engage yourself in your work intensely.",
+      "ilok_example": "Saan mo nga idagem ta bagim ti trabaho.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAGIDI": [
+    {
+      "definition": "pl. of DAYDI. : in, at, to, of those (which are now extinct)."
+    }
+  ],
+  "DAGIDIAY": [
+    {
+      "definition": "1. pl. of DAYDIAY. 2. var. of ADDAGIDIAY."
+    }
+  ],
+  "DAGINSEN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to press down, compress.",
+      "eng_example": "Press down the clothes so that the box will be adequate to contain them.",
+      "ilok_example": "Daginsenem dagita lupot tapno makaanay dayta kahon.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pack tightly or closely, to pile up neatly or tightly.",
+      "eng_example": "Pile up those pieces of wood neatly here.",
+      "ilok_example": "Idaginsen mo dagita kayo ditoy.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAGITA": [
+    {
+      "definition": "1. pl. of DAYTA. 2. var. of ADDAGITA. : in, at, to, of those (near hearer)."
+    }
+  ],
+  "DAGITAY": [
+    {
+      "definition": "pl. of DAYTAY."
+    }
+  ],
+  "DAGITI": [
+    {
+      "definition": "pl. of 1TI."
+    }
+  ],
+  "DAGITOY": [
+    {
+      "definition": "1. pl. of DAYTOY. 2. var. of ADDAGITOY."
+    }
+  ],
+  "DAGMEL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "stupid, dull, dense, obtuse.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DAGSEN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. heavy, ponderous.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "LAG-AN. 2. weighty, important, serious, deep, profound. Nadagsen dayta imbagam. What you said is serious. 3. grievous, burdened. Nadagsen ti nakem ko nga napan. My mind was burdened when"
+      ]
+    }
+  ],
+  "DAGULLIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to do often, to do repeatedly.",
+      "eng_example": "Don’t do that act of yours repeatedly.",
+      "ilok_example": "Saan mo nga dagulliten dayta nga aramid mo.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "importunate, overly persistent in request or demand.",
+      "conjugation": "/(NA-)/"
+    }
+  ],
+  "DAGUM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "needle."
+    }
+  ],
+  "DAGUMDAGUM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sting of bees, wasps and other stinging insects."
+    }
+  ],
+  "DAGUP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sum, total.",
+      "eng_example": "What is the total of his votes?",
+      "ilok_example": "Mano ti dagup ti botos na?"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sum or add up, to total.",
+      "eng_example": "Total all my debts to you. --cf.",
+      "ilok_example": "Dagupem amin nga utang ko kenka.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DAGUS": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "immediately, at once, directly, straightaway, forthwith.",
+      "synonyms": [
+        "DARAS"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lodge, to stay or live in temporarily.",
+      "eng_example": "Lodge in our house when you go to town.",
+      "ilok_example": "Agdagus ka idiay balay mi intono mapan ka idiay ili.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DAIB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to dive.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to dive and get, dive fox.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to dive with in order to put or give.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAIG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to have tuberculosis, to be sick with tuberculosis.",
+      "eng_example": "A cat will have tuberculosis if it eats the bones of an eel.",
+      "ilok_example": "Agdaig ti pusa no makasida iti siit ti igat.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "SARUT, TISIS, TIBI"
+      ]
+    }
+  ],
+  "DAING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dried fish, especially small ones.",
+      "synonyms": [
+        "see PINDANG"
+      ]
+    }
+  ],
+  "DAIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sew garments.",
+      "eng_example": "He knows how to sew garments.",
+      "ilok_example": "Ammo na ti agdait.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sew (garments).",
+      "eng_example": "This is my dress which he sewed.",
+      "ilok_example": "Daytoy nga badok ti dinait na.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "DAKEP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to catch, seize, apprehend, capture.",
+      "eng_example": "Why will they apprehend you?",
+      "ilok_example": "Apay nga dakpen da ka?",
+      "conjugation": "/MANG-:-EN/",
+      "origin": "= DAKPEN"
+    }
+  ],
+  "DAKES": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. bad, evil, wicked, sinful.",
+      "eng_example": "You are a bad person. 2. defective, faulty; unsound; damaged, spoiled.",
+      "ilok_example": "Dakes ka nga tao.",
+      "conjugation": "/NAG-/"
+    }
+  ],
+  "DAKIWAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go to one after the other or to each one purposefully.",
+      "eng_example": "They were the ones who went to each one of the houses which have pigs.",
+      "ilok_example": "Isuda ti nagdakiwas kadagiti balbalay nga adda baboy na.",
+      "conjugation": "/AG-:-EN/ with pl. goal"
+    }
+  ],
+  "DAKKEL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. big, large (in size).",
+      "conjugation": "/NAG-/",
+      "antonyms": [
+        "BASSIT. 2. great, grand"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to become big, large. 2. to grow up.",
+      "eng_example": "Eat much so that you will grow up fast.",
+      "ilok_example": "Mangan ka ti adu tapno dardaras ka dumakkel.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "parent, father, mother.",
+      "synonyms": [
+        "NAGANAK"
+      ],
+      "plural_form": "pl. DADAKKEL"
+    }
+  ],
+  "DAKLIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of seine used for fishing in the sea near the shore."
+    }
+  ],
+  "DAKSANGASAT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "unfortunate, unlucky, ill-fated.",
+      "origin": "cf. DAKES & GASAT"
+    }
+  ],
+  "DAKULAP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "palm (of hand)."
+    }
+  ],
+  "DALAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of fresh water mudfish.",
+      "synonyms": [
+        "see LAMES"
+      ]
+    }
+  ],
+  "DALAGA": [
+    {
+      "definition": "see DUMALAGA."
+    }
+  ],
+  "DALAGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. the period after childbirth during which the mother is restricted from going out of her room. 2. also, the inclined bed in which the mother stays most of the time during this period."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to spend this period, to be in this period.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DALAGUDUG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of tree whose branches are used for fencing and whose flowers are sometimes eaten.",
+      "synonyms": [
+        "KAWKAWATI, (dial ) PASAKUATIT"
+      ]
+    }
+  ],
+  "DALAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "road, way, passage, track, path.",
+      "synonyms": [
+        "KALSADA, DANA"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to advise, counsel.",
+      "eng_example": "It was he who advised me.",
+      "ilok_example": "Isu ti nangidalan kanyak.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "BAGBAGA"
+      ]
+    }
+  ],
+  "DALANDAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "orange.",
+      "synonyms": [
+        "DALANGHITA, KAHEL, KAMUYAW"
+      ]
+    }
+  ],
+  "DALANGHITA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "orange.",
+      "synonyms": [
+        "DALANGHITA"
+      ]
+    }
+  ],
+  "DALAPUS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to collide with, bump.",
+      "eng_example": "Don’t collide with me please.",
+      "ilok_example": "Saan nak man nga dalapusen.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to collide with a spirit or ghost, to become sick because of colliding with a spirit or ghost.",
+      "conjugation": "/MAKA-/"
+    }
+  ],
+  "DALAYAP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a kind of citrus tree (Citrus lima.",
+      "ilok_example": "Lunan.). 2. a fruit of this."
+    }
+  ],
+  "DALAYDAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hang in a careless or disorderly manner on a clothesline, a fence, etc.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be hung in a careless or disorderly manner.",
+      "conjugation": "/MAI-/",
+      "synonyms": [
+        "see SALAPAY"
+      ]
+    }
+  ],
+  "DALAYUDOY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be spongy, pulpy: said of meat, fish, fruits, etc.",
+      "eng_example": "The meat that I bought was spongy.",
+      "ilok_example": "Agdalayudoy diay ikan nga nagatang ko.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DALDAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to soil, sully, besmirch especially by dragging on a dirty surface.",
+      "eng_example": "Don’t soil that piece of cloth.",
+      "ilok_example": "Saan mo nga idaldal dayta lupot.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DALEB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to fall forward on one’s face.",
+      "eng_example": "It was he who caused me to fall forward on my face.",
+      "ilok_example": "Isu ti nangidaleb kanyak.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall forward on one’s face.",
+      "eng_example": "Be careful so that you won’t fall forward on your face.",
+      "ilok_example": "Aluadam ta dikanto maidaleb.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "DALEM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "liver."
+    }
+  ],
+  "DALEPDEP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to press the flat side or handle of a big knife (BUNENG) on a person with flu who is lying down in order to prevent his sickness from becoming worse.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DALIASAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go across, go through.",
+      "eng_example": "Be careful in going across the street for there are many vehicles passing through.",
+      "ilok_example": "Annadam ti agdaliasat dita kalsada ta adu ti aglabas nga lugan.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cross, traverse.",
+      "eng_example": "We cross an ocean when we go to their place.",
+      "ilok_example": "Agdaliasat kami ti taaw no mapan kami diay lugar da.",
+      "conjugation": "/AG-:-EN/",
+      "synonyms": [
+        "LASAT, BALLASIW, BALIW"
+      ]
+    }
+  ],
+  "DALIKAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stove; fireplace; hearth."
+    }
+  ],
+  "DALIKEPKEP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cross the arms on the breast.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold with the arms around against the breast, to hug like a bear.",
+      "eng_example": "Don’t hold the child with your arms around against your breast.",
+      "ilok_example": "Saan mo nga dalikepkepan dayta ubing.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "DALIMANEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put things in order, to arrange things neatly.",
+      "eng_example": "He knows how to put things in order.",
+      "ilok_example": "Ammo na ti agdalimanek.",
+      "conjugation": "/AG-, AGI-/",
+      "common_forms": [
+        "orderly, well-arranged, neat. Nadalimanek ti ayan ti panganan da. The place where they eat is orderly"
+      ]
+    }
+  ],
+  "DALIMUGTONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pile up, stack.",
+      "eng_example": "Pile up those pieces of wood here.",
+      "ilok_example": "Dalimugtongem dagita kayo ditoy.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DALINGDING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "drapes, curtain."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to drape, provide with a curtain.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DALIPATU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a flake of fire, especially one floating in the air; a flying ember."
+    }
+  ],
+  "DALIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to crush, press, squeeze (on something).",
+      "eng_example": "Press this rice cake on that leaf.",
+      "ilok_example": "Idalit mo daytoy suman dita bulong.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DALLOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of native song or chant."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sing or chant this.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DALLUYON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a wave breaking into foam; a breaker."
+    }
+  ],
+  "DALUBDUB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to prick, to pierce slightly with a sharp point.",
+      "eng_example": "Prick the needle there.",
+      "ilok_example": "Idalubdub mo daytoy dagum dita.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be pricked, to be pierced slightly with a sharp point.",
+      "eng_example": "My foot was pricked by a thorn.",
+      "ilok_example": "Nadalubduban daytoy sakak ti siit.",
+      "conjugation": "/MA--AN/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "the result of this action, a prick.",
+      "eng_example": "My foot has a prick.",
+      "ilok_example": "Adda dalubdub daytoy sakak."
+    }
+  ],
+  "DALUNGDONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "head covering, e.g. a bandana."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cover the head with this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cover someone’s head with this.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "DALUPINGPING": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather up, draw together a section of one’s skirt.",
+      "eng_example": "Gather up a section of your skirt.",
+      "ilok_example": "Dalupingpingem dayta pandiling mo.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather up or draw together a section of one’s skirt and tuck this in the waist.",
+      "eng_example": "Gather up a section of your skirt and tuck this in your waist.",
+      "ilok_example": "Idalupingping mo dayta pandiling mo.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DALUPISAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sit on one’s hunches on the floor.",
+      "conjugation": "/AG-/",
+      "variations": [
+        "LUPISAK"
+      ]
+    }
+  ],
+  "DALUS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "clean.",
+      "eng_example": "You are a clean woman.",
+      "ilok_example": "Nadalus ka nga babai.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become clean.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to clean, Dalusam ta kuartom.",
+      "ilok_example": "Clean your room.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "DALUSON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to congregate, assemble, come together.",
+      "eng_example": "Don’t congregate there.",
+      "ilok_example": "Saan kayo nga agdadaluson dita.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather, bring or put together.",
+      "eng_example": "Who gathered the clothes here?",
+      "ilok_example": "Sino ti nangidaluson iti luplupot ditoy?",
+      "conjugation": "/MANGI-: I-/ with pl. goal"
+    }
+  ],
+  "DALUTAYTAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to be weak, feeble, exhausted; hence, 2. to swoon or collapse due to weakness or exhaustion.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DAM-EG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "damp, moist.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DAMA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "draughts, checkers."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to play draughts or checkers.",
+      "eng_example": "Let’s play checkers.",
+      "ilok_example": "Agdama ta.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to play draughts or checkers with.",
+      "eng_example": "I’ll play checkers with him.",
+      "ilok_example": "Makidamaak kanyana.",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "actually going on or happening, in progress, going on just now or at the present time or moment.",
+      "eng_example": "Their wedding is in progress.",
+      "ilok_example": "Madama ti kasar da.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "at the present time, presently, right now, at this very moment, currently.",
+      "eng_example": "The old man is at the present time sleeping.",
+      "ilok_example": "Agdama nga maturog diay lakay.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "in a little while, by and by, soon.",
+      "eng_example": "I will wash those in a little while.",
+      "ilok_example": "Innawak dagita inton madamdama.",
+      "conjugation": "/MA- + R1/"
+    }
+  ],
+  "DAMAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "news, information; rumor, hearsay; gossip."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to ask for news, information, rumor, or gossip.",
+      "eng_example": "Will you ask for some news from him?",
+      "ilok_example": "Dumamag ka man kanyana.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to ask for or solicit (news, information, etc.), inquire about.",
+      "eng_example": "Inquire when he is coming back.",
+      "ilok_example": "Damagem no kaano ti panagsubli na.",
+      "conjugation": "/-UM-:-EN/"
+    }
+  ],
+  "DAMAHUANA": [
+    {
+      "definition": "demijohn.",
+      "origin": "f. Sp."
+    }
+  ],
+  "DAMDAM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bake, roast or cook in hot ashes.",
+      "eng_example": "Roast those sweet potatoes in hot ashes.",
+      "ilok_example": "Idamdam mo dagita kamotit.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAMDAMO": [
+    {
+      "definition": "see under DAMO. var. of DAMO."
+    }
+  ],
+  "DAMGIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a brief stop; to stop by or go inside someone’s house or place for a moment.",
+      "eng_example": "Stop by for a moment.",
+      "ilok_example": "Dumamgis ka pay.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to brush against slightly, to scratch.",
+      "eng_example": "His cheek was scratched by a bullet.",
+      "ilok_example": "Nadamgisan diay pingping na ti bala.",
+      "conjugation": "/MAKA-: MA--AN/"
+    }
+  ],
+  "DAMILI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "earthenware."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make as earthenware.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DAMIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to receive or collect the benefits or rewards of, to profit from, to reap or enjoy the benefits of.",
+      "eng_example": "What benefits will you receive from what you are doing?",
+      "ilok_example": "Ania ti damiten iti dayta nga ar-aramidem?",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DAMKA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "malicious, wicked, vicious.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DAMO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the first time; the beginning with reference to time.",
+      "ilok_example": "Damo ni Rita ti sumbrek iti eskuela..It was the first time for Rita to go to school."
+    }
+  ],
+  "DAMORTIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a leguminous tree with spiny branches and turgid pods with seeds surrounded by an edible, whitish, pulpy arillus.",
+      "synonyms": [
+        "KAMANTIRIS"
+      ]
+    }
+  ],
+  "DAMSAK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. spendthrift, wasteful. 2. dissolute, dissipated.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DANA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "footpath, trail; track.",
+      "synonyms": [
+        "DALAN, DASDAS"
+      ]
+    }
+  ],
+  "DANAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to worry, be worried, anxious, troubled, uneasy.",
+      "eng_example": "Don’t be worried for the ambulance is coming.",
+      "ilok_example": "Saan ka nga madanagan ta umay ti ambulansian.",
+      "conjugation": "/AG-, MA--AN/",
+      "synonyms": [
+        "DANAG"
+      ]
+    }
+  ],
+  "DANDANI": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "near, almost here.",
+      "eng_example": "Our festival is almost here.",
+      "ilok_example": "Dandani ti piesta min."
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "almost, nearly.",
+      "eng_example": "His child almost died.",
+      "ilok_example": "Dandani natay diay anak na.",
+      "synonyms": [
+        "NAGISTAYAN"
+      ],
+      "variations": [
+        "NGANNGANI"
+      ]
+    }
+  ],
+  "DANES": [
+    {
+      "definition": "see DADANES."
+    }
+  ],
+  "DANGADANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "battle, fight, combat.",
+      "eng_example": "In that bloody battle, General Evangelista was killed.",
+      "ilok_example": "Iti dayta a nadara nga dangadang, nauloyan ni Heneral Evangelista."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fight, battle, combat with, to contend or compete with.",
+      "eng_example": "Why do you fight with me?",
+      "ilok_example": "Apay nga makidangadang ka kanyak?",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fight each other, to contend or compete with each other.",
+      "eng_example": "The two who are good in singing will compete with each other.",
+      "ilok_example": "Agdangadang dagiti dua nga nalaing nga kumanta.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "DANGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the distance from the tip of the thumb to the tip of the middle finger.",
+      "eng_example": "Cut for me two tip-of-thumb-to-tip-of-middle-finger measures of your rope.",
+      "ilok_example": "Igupungan nak ti dua nga dangan dita talim."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to measure using this.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DANGAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of stinkbug."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be attacked by or infested with this.",
+      "eng_example": "Their white squash plant was attacked by stinkbugs.",
+      "ilok_example": "Dinangaw daydiay tabungaw da.",
+      "conjugation": "/-EN/"
+    }
+  ],
+  "DANGER": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hurt, injure, bruise.",
+      "conjugation": "/MANG-:-AN/",
+      "origin": "= DANGRAN"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be hurt, injured, bruised.",
+      "eng_example": "Many Christians were hurt.",
+      "ilok_example": "Adu ti nadangran nga Kristiano.",
+      "conjugation": "/MA--AN/",
+      "origin": "= MADANGRAN",
+      "synonyms": [
+        "DUNOR, DUNGIR"
+      ]
+    }
+  ],
+  "DANGGAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sing together harmoniously.",
+      "eng_example": "They sang together harmoniously.",
+      "ilok_example": "Nagdanggay da nga nagkanta.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to accompany, especially with a musical instrument.",
+      "eng_example": "He accompanies his songs with a guitar.",
+      "ilok_example": "Danggayan na dagiti kanta na iti gitara.",
+      "conjugation": "/-UM-, MANG-:-AN/"
+    }
+  ],
+  "DANGKOK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "bad, evil, vile, wicked, depraved.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DANGRAN": [
+    {
+      "origin": "DANGER + -AN."
+    }
+  ],
+  "DANGRO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "having the stench of spoiled meat or fish.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "LAES"
+      ]
+    }
+  ],
+  "DANI": [
+    {
+      "definition": "see DANDANI."
+    }
+  ],
+  "DANIW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "poem, verse, rhyme."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sing, especially ditties.",
+      "eng_example": "The young man is good in singing.",
+      "ilok_example": "Nalaing nga agdaniw diay baro.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "KANSION, KANTA"
+      ]
+    }
+  ],
+  "DANON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to come inside or enter a building, especially a house.",
+      "eng_example": "Come inside.",
+      "ilok_example": "Dumanon ka.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "often",
+      "conjugation": "/-UM-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to reach, arrive at, come to, go as far as.",
+      "eng_example": "Manila is the only place that",
+      "ilok_example": "Ti la Manilan ti diko pay nadanon.",
+      "conjugation": "/MAKA-: MA-/"
+    }
+  ],
+  "DANUG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit with the fist.",
+      "conjugation": "/AG-, MANG-:-EN/",
+      "synonyms": [
+        "DISNUG"
+      ]
+    }
+  ],
+  "DANUM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "water."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to add water to.",
+      "eng_example": "Add water to what you are cooking.",
+      "ilok_example": "Danumam dayta lutlutoem.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "DAO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of tree which gives valuable timber."
+    }
+  ],
+  "DAP-AW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to step in for a moment, to pay a short visit.",
+      "eng_example": "You just step in for a moment.",
+      "ilok_example": "Immay kay la dimmap-aw.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "DAPADAP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to feel or explore by touching with the hand.",
+      "eng_example": "Feel that floor with your hand.",
+      "ilok_example": "Dapadapem dayta datar.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DAPAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to place, put or set down squarely, firmly or solidly.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAPAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a flapping or trotting sound especially when walking.",
+      "eng_example": "Who is making a trotting sound there?",
+      "ilok_example": "Sino ti agdapakdapak dita?",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "DAPAKDAPAK"
+      ]
+    }
+  ],
+  "DAPAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sole of foot."
+    }
+  ],
+  "DAPANDAPAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of cake shaped like a sole."
+    }
+  ],
+  "DAPAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. plain, level land. 2. a kind of native woven blanket."
+    }
+  ],
+  "DAPIG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit with the flat side of a large knife (BUNENG).",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "DAPIL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to press out the juice of the sugarcane using a machine with rollers called DADAPILAN.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to press out the juice of (the sugarcane) in the DADAPILAN.",
+      "eng_example": "He pressed out the juice of my sugarcane in the DADAPILAN.",
+      "ilok_example": "Dinapil na dagiti unas ko.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "half-rounded, semicircular, flattish: said especially of the head.",
+      "synonyms": [
+        "DIPPIG"
+      ]
+    }
+  ],
+  "DAPILAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of shallow basket, more or less resembling a big winnow."
+    }
+  ],
+  "DAPILUS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to demolish, cause to collapse.",
+      "eng_example": "He caused the table to collapse.",
+      "ilok_example": "Dinapilus na diay lamisaan.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to collapse, especially due to weakness.",
+      "eng_example": "I collapsed.",
+      "ilok_example": "Nadapilusak.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "DAPLA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lie prone especially with the arms spread.",
+      "eng_example": "Who is that lying prone there?",
+      "ilok_example": "Sino dayta nagdapla dita?",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall prone.",
+      "eng_example": "I saw him fall prone on the floor.",
+      "ilok_example": "Nakitak nga naidapla idiay datar.",
+      "conjugation": "/MAI- /"
+    }
+  ],
+  "DAPO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ashes,"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "ash-colored, ashen; gray.",
+      "conjugation": "/-EN/"
+    }
+  ],
+  "DAPOGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the part of a stove or fireplace before the hearthstones where the ashes are collected."
+    }
+  ],
+  "DAPPOOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stamp on the ground.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DAR-AW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to look at or watch from an elevated position, to look down at.",
+      "eng_example": "Look down toward the persons dancing.",
+      "ilok_example": "Dar-awam dagidiay agsalsala.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "DAR-AY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to help, assist.",
+      "eng_example": "He came to help Rose.",
+      "ilok_example": "Immay na dinar-ayan ni Rosa.",
+      "conjugation": "/MANG-:-AN/",
+      "synonyms": [
+        "TULONG"
+      ]
+    }
+  ],
+  "DARA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "blood."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bleed.",
+      "eng_example": "His wound bled.",
+      "ilok_example": "Nagdara diay sugat na.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bleed.",
+      "eng_example": "His wound bled much.",
+      "ilok_example": "Adu ti indara diay sugat na.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "bloody.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DARADDAN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to do one after the other, to do successively.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DARAGUP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to join together, unite; to pile up, accumulate.",
+      "eng_example": "His ailments are accumulating.",
+      "ilok_example": "Agdaragup ti sakit na.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "DARAMUDUM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to trip, stumble.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "DARAN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to increase, become greater in intensity, to worsen.",
+      "eng_example": "His sickness worsened.",
+      "ilok_example": "Naidaran ti sakit na.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "DARANGIDANGAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "ripening, almost ripe, nearly ripe: said of fruits.",
+      "eng_example": "That papaya is almost ripe.",
+      "ilok_example": "Darangidangan dayta papayan."
+    }
+  ],
+  "DARANGIDONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the middle part of the nose from the bridge to the tip."
+    }
+  ],
+  "DARANUDOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a roaring or rumbling sound.",
+      "eng_example": "The truck made a roaring sound.",
+      "ilok_example": "Nagdaranudor daydiay trak.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DARAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "times, instances.",
+      "eng_example": "How many times did he come back?",
+      "ilok_example": "Mamin-ano nga daras nga nagsubli."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. easy, not difficult; fast.",
+      "eng_example": "It is easy to read your book. 2. often, frequently.",
+      "ilok_example": "Nadaras nga basaen dayta librom.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become often or frequent.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "quickly, rapidly, swiftly, fast; immediately, promptly.",
+      "eng_example": "The child slept immediately.",
+      "ilok_example": "Naturog daras diay ubing."
+    }
+  ],
+  "DARASUDOS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "over hasty, rash.",
+      "conjugation": "/NAG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do hastily, hurriedly, rashly; to rush.",
+      "eng_example": "Don’t rush going to the street.",
+      "ilok_example": "Saan ka nga agdarasudos nga mapan dita kalsada.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DARAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sand, silt."
+    }
+  ],
+  "DARAUDO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to suffer a morbidly copious discharge of the menses, especially after having lifted a heavy object or after being injured.",
+      "eng_example": "Rose is having a heavy discharge of the menses.",
+      "ilok_example": "Agdaraudo ni Rosa.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DARDARAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hurry, hasten; to do in a hurry.",
+      "eng_example": "The young woman took a bath hurriedly.",
+      "ilok_example": "Nagdardaras nga nagdigos diay balasang.",
+      "conjugation": "/AG-:-EN/"
+    }
+  ],
+  "DAREKDEK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a long and slender stake, especially one used to support a fence."
+    }
+  ],
+  "DAREPDEP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dream, aspiration, ambition; imagination, vision. --TAGTAGAINEP."
+    }
+  ],
+  "DARIKMAT": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "in a little while, a moment.",
+      "eng_example": "The young woman came out a moment.",
+      "ilok_example": "Rimmuar diay balasang iti apagdarikmat.",
+      "synonyms": [
+        "APAGBIIT"
+      ],
+      "common_forms": [
+        "APAGDARIKMAT"
+      ]
+    }
+  ],
+  "DARINGONGO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bleed in the nose, to have a nosebleed.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DARIPESPES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to wet thoroughly, soak.",
+      "eng_example": "He wet the cloth thoroughly with hot water.",
+      "ilok_example": "Dinaripespes na diay lupot ti napudot nga danum.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be thoroughly wet, to be drenched or soaking wet.",
+      "eng_example": "Jose is drenched with perspiration.",
+      "ilok_example": "Nadaripespes ni Jose ti ling-et.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "DARISAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "of good quality, pure, clear: said of the climate, air, etc.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DARISAYEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a cock with black and white plumage."
+    }
+  ],
+  "DARISDIS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "sloping, slanting, inclining.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DARISON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to push oneself in, to squeeze in.",
+      "eng_example": "Don’t squeeze in there.",
+      "ilok_example": "Saan kay nga agdadarison dita.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to push, cram or squeeze in.",
+      "eng_example": "He was the one who pushed in the clothes here.",
+      "ilok_example": "Isu ti nangidarison kadagiti lupot ditoy.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DARIWIS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "diagonal, slanting, oblique (in shape)."
+    }
+  ],
+  "DARONDON": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "producing a second crop: said of fruit bearing trees."
+    }
+  ],
+  "DAROY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "thin, watery, weak: said of gruel, chocolate, soup, and the like.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DARUM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to accuse of or charge with an offense or any transgression; to sue in court.",
+      "eng_example": "Even if you sue me I will not pay my debts.",
+      "ilok_example": "Uray no idarum nak inctiak nga bayadan diay utang ko.",
+      "conjugation": "/AGI-, MANGI-: I-/"
+    }
+  ],
+  "DARUMISA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "clumsy and dirty or slovenly: as, to spill food, drink, water, when washing the dishes.",
+      "eng_example": "You are very clumsy and dirty in washing in the dishes.",
+      "ilok_example": "Nagdarumisa ka ket nga aginnawen.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DARUNDUN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to push someone standing in a crowd or in line.",
+      "eng_example": "Don’t push someone in a crowd.",
+      "ilok_example": "Saan ka nga agdarundun.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to push (someone standing in a crowd or in line).",
+      "eng_example": "Who pushed you?",
+      "ilok_example": "Sino ti nangdarundun kenka?",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "DARUP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to come or approach impetuously or precipitately.",
+      "eng_example": "Don’t approach precipitately.",
+      "ilok_example": "Saan kayo nga dumarup.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go to or approach impetuously or precipitately.",
+      "eng_example": "Don’t approach the guests impetuously.",
+      "ilok_example": "Saan yo nga darupen dagita sangaili.",
+      "conjugation": "/-UM-:-EN/"
+    }
+  ],
+  "DARUSDUS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a trowel."
+    }
+  ],
+  "DAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be enough, sufficient, adequate.",
+      "eng_example": "Do you think his will power is strong enough that he can bear to let me go?",
+      "ilok_example": "Adda met la ngata umdas nga kired ti pakinakem na ket maitured nak nga palubosan?",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "DASAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to set (the table) for eating.",
+      "eng_example": "Set the table and let’s eat.",
+      "ilok_example": "Dasaram ta lamisaan ta mangan tayon.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to set out or prepare for use.",
+      "eng_example": "He set out the plates.",
+      "ilok_example": "Indasar na dagiti pinggan.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "PUNI"
+      ]
+    }
+  ],
+  "DASAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be weakened, overpowered or prostrated (by a sickness, drunkenness, etc.); to be caused to stay in bed or lie down.",
+      "eng_example": "He was caused to stay in bed by sickness.",
+      "ilok_example": "Naidasay ti sakit.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "DASDAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "footpath, trail.",
+      "synonyms": [
+        "DANA, DESDES"
+      ]
+    }
+  ],
+  "DASI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to slip and fall on the back, to fall supine.",
+      "eng_example": "Be careful lest you might slip and fall on your back.",
+      "ilok_example": "Annadam ta dikanto maidasi dita.",
+      "conjugation": "/MAI-/",
+      "synonyms": [
+        "DATA"
+      ]
+    }
+  ],
+  "DASIG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "row, file, line."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to separate into groups, classify and separate accdingly.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    }
+  ],
+  "DATA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lie on one’s back, lie supine.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause (someone) to lie on his back.",
+      "conjugation": "/MANGI-: I-/",
+      "variations": [
+        "PADATA"
+      ]
+    }
+  ],
+  "DATAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to submit, offer, deliver, give.",
+      "eng_example": "He submitted his papers to the government officials.",
+      "ilok_example": "Indatag na ti papeles na kadagiti agtuturay.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "TED"
+      ]
+    }
+  ],
+  "DATAO": [
+    {
+      "part_of_speech": "pron.",
+      "definition": "1. one: an indefinite pronoun. 2.",
+      "eng_example": "Masapul nga aginana bassit datao.",
+      "ilok_example": "I: an indirect pronoun for the first person singular."
+    }
+  ],
+  "DATAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to display, exhibit, expose, show, present to view.",
+      "eng_example": "Display your merchandise here.",
+      "ilok_example": "Idatar mo dagita tagilakom ditoy.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "floor."
+    }
+  ],
+  "DATDATA": [
+    {
+      "definition": "that only, nothing but that: near the hearer.",
+      "variations": [
+        "DETDETA"
+      ]
+    }
+  ],
+  "DATDATAY": [
+    {
+      "definition": "that only, nothing but that: extant but not seen.",
+      "variations": [
+        "DETDETAY, DEDETAY"
+      ]
+    }
+  ],
+  "DATDATLAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mystery, miracle, wonder, phenomenon.",
+      "synonyms": [
+        "MISTERIO"
+      ]
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "mysterious, fantastic, miraculous, phenomenal, wondrous.",
+      "conjugation": "/MAKA-/"
+    }
+  ],
+  "DATDATOY": [
+    {
+      "definition": "this only, nothing but this.",
+      "variations": [
+        "DETDETOY"
+      ]
+    }
+  ],
+  "DATENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to arrive, come.",
+      "conjugation": "/-UM-/",
+      "origin": "= DUMTENG",
+      "synonyms": [
+        "SANGPET"
+      ]
+    }
+  ],
+  "DATLAG": [
+    {
+      "definition": "see DATDATLAG."
+    }
+  ],
+  "DATO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a Moslem ruler."
+    }
+  ],
+  "DATON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to give, present, offer as a sacrifice or token of something.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "DIAYA"
+      ]
+    }
+  ],
+  "DATOY": [
+    {
+      "definition": "var. of DAYTOY."
+    }
+  ],
+  "DAULO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "head, leader.",
+      "plural_form": "pl. DADAULO"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lead, direct, guide, be in the vanguard of.",
+      "eng_example": "It was he who led our group.",
+      "ilok_example": "Isu ti nangidaulo ti gimong mi.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAW-AS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a detour to (a place), to make a brief stop in (a place), to go to (a place) for a moment.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a detour to or a brief stop in (a place) in order to get (something or someone), to go to (a place) for a moment in order to get (something or someone).",
+      "eng_example": "I am going to go get our saw at their house.",
+      "ilok_example": "Mapan ko daw-asen diay ragadi mi idiay balay da.",
+      "conjugation": "/MANG- :-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a detour to a brief stop at (a place) in order to give or deliver (something or someone), to go to (a place) for a moment in order to deliver or give (something or someone).",
+      "eng_example": "Will you please make a detour to their house and deliver our saw.",
+      "ilok_example": "Idaw-as mo man diay ragadi mi idiay balay da.",
+      "conjugation": "/MANGI-: I-/",
+      "cross_reference": "DAGAS"
+    }
+  ],
+  "DAWA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "an ear of grain, especially of rice; spike."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to develop spikes: said especially of rice.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DAWADAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to jut, project, protrude, stick out; to exceed in length or height.",
+      "eng_example": "There is a piece of wood jutting from the top of their house.",
+      "ilok_example": "Adda agdawadaw nga kayo idiay tuktok ti balay da.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to project; to cause to stick out, jut, protrude; to cause to be longer (as the wick of a lamp).",
+      "eng_example": "Cause that piece of wood to stick out.",
+      "ilok_example": "Idawadaw mo dayta kayo.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAWAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to ask for, beg, request.",
+      "eng_example": "He wants to ask for garlic.",
+      "ilok_example": "Kayat na ti dumawat ti bawang.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "DAWEL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. cruel, merciless, savage, inhuman.",
+      "eng_example": "Your child is cruel. 2. harmful, noxious, injurious. 2. inclement, stormy, rough, unfavorable.",
+      "ilok_example": "Nadawel dayta anak mo.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DAWENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to swim, to have a hazy, reeling, or whirling appearance.",
+      "eng_example": "The ones that I see are swimming.",
+      "ilok_example": "Agdawengdaweng ti makitak.",
+      "conjugation": "/AG-/",
+      "common_forms": [
+        "DAWENGDAWENG"
+      ]
+    }
+  ],
+  "DAWI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bite a baited hook: said in fishing.",
+      "eng_example": "I have been here for a long time but not one has taken a bite at my bait.",
+      "ilok_example": "Nabayagak ditoyen ngem awan pay ti dimmawi.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "usual, common, customary, ordinary, normal.",
+      "eng_example": "This is what he usually does.",
+      "ilok_example": "Daytoy ti nadawi nga aramiden na.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DAWIS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "pointed.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DAYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "east; eastern region."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "feast, festival, banquet."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have this. ; SIDADAYA,",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "exposed, laid bare, presented to view."
+    }
+  ],
+  "DAYAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "grave, grand, stately, majestic.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DAYAMUDOM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to mumble, mutter.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to growl at.",
+      "eng_example": "Don’t growl at me.",
+      "ilok_example": "Saan nak man nga dayamudoman.",
+      "conjugation": "/-AN/"
+    }
+  ],
+  "DAYANG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "without walls, exposed.",
+      "common_forms": [
+        "DAYANGDAYANG"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be without walls, exposed.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DAYAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to wash, bathe, cleanse.",
+      "eng_example": "He washed his wound.",
+      "ilok_example": "Dinayasan na diay sugat na.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use to wash, bathe or cleanse; to wash, bathe or cleanse with.",
+      "eng_example": "Wash his wound with hot water.",
+      "ilok_example": "Danum nga napudot ti idayas mo ti dayta sugat na.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAYAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "honor, reputation."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to honor, respect; to show respect or reverence for; to esteem, revere; to praise, exalt.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. respectful, polite, courteous. 2. great, grand, eminent, illustrious.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DAYDAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to spread.",
+      "eng_example": "Spread the clothes so that they will get dry.",
+      "ilok_example": "Idayday mo dagita lupot tapno agmaga da.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DAYDI": [
+    {
+      "definition": "dem. 1. that, that one: no longer extant, remote in time.",
+      "variations": [
+        "DEYDI, DEDI, ADI, DI"
+      ],
+      "plural_form": "pl. DAGIDI"
+    }
+  ],
+  "DAYDIAY": [
+    {
+      "definition": "dem. 1. that, that one: far from both speaker and hearer. 2. of that, of that one: far from both speaker and hearer.",
+      "variations": [
+        "DEYDIAY, DEDIAY, ADIAY, DIAY"
+      ],
+      "plural_form": "pl. DAGIDIAY"
+    }
+  ],
+  "DAYENGDENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to complain about, scold, rebuke, reprimand.",
+      "eng_example": "Don’t scold me.",
+      "ilok_example": "Saan nak nga dagengdengan.",
+      "conjugation": "/AG-:-AN/"
+    }
+  ],
+  "DAYO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go to (another place).",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to compete with each other, to rival each other.",
+      "eng_example": "The three towns are competing with one another.",
+      "ilok_example": "Agdidinnayo dagiti tallo nga ili.",
+      "conjugation": "/AG- + R2/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to compete, enter into or be in rivalry, to enter or participate in a contest, athletic meet, etc.",
+      "eng_example": "We went to participate in a singing contest in their town.",
+      "ilok_example": "Napan kami dimmayo ti kanta idiay ili da.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to compete or vie with (in a contest, athletic meet, etc.)",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DAYTA": [
+    {
+      "definition": "dem. 1. that, that one: near the hearer. 2. of that, of that one: near the hearer.",
+      "variations": [
+        "DEYTA, DETA, ATA, TA"
+      ],
+      "plural_form": "pl. DAGITA"
+    }
+  ],
+  "DAYTAY": [
+    {
+      "definition": "dem. 1. that, that one: extant but not seen. 2. of that, of that one: extant but not seen.",
+      "variations": [
+        "DEYTAY, DETAY, DATAY, ATAY, TAY"
+      ],
+      "plural_form": "pl. DAGITAY"
+    }
+  ],
+  "DAYTOY": [
+    {
+      "definition": "dem. 1. this, this one: near the speaker. 2. of this, of this one: near the speaker.",
+      "variations": [
+        "DEYTOY, DETOY, DATOY, ATOY, TOY"
+      ],
+      "plural_form": "pl. DAGITOY"
+    }
+  ],
+  "DAYYENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sing a song by humming and mumbling the lyrics.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sing by humming and mumbling the lyrics.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DE": [
+    {
+      "definition": "an adjectivizing affix meaning: equipped with, provided with, wearing, using, etc.",
+      "eng_example": "The people were equipped with arms and were wearing uniforms.",
+      "ilok_example": "De-armas ken de-uniporme dagiti tattao.",
+      "origin": "dε; f. Sp."
+    }
+  ],
+  "DEBATE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "debate, argument.",
+      "origin": "dεbátε; f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to debate or argue with each other.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to debate or argue with.",
+      "conjugation": "/MAKI-: KA-/"
+    }
+  ],
+  "DEBORSIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "divorce.",
+      "origin": "diborsio; f. Sp."
+    }
+  ],
+  "DEBOSION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "devotion, dedication, loyalty.",
+      "origin": "dibosion; f. Sp."
+    }
+  ],
+  "DEBOSIONADO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "pious, devout, religious.",
+      "origin": "dibosionado; f. Sp."
+    }
+  ],
+  "DEDDEDIAY": [
+    {
+      "definition": "var. of DADDADIAY."
+    }
+  ],
+  "DEDDEYDI": [
+    {
+      "definition": "var. of DADDAYDI."
+    }
+  ],
+  "DEDDEYDIAY": [
+    {
+      "definition": "var. of DADDADIAY."
+    }
+  ],
+  "DEDEDIAY": [
+    {
+      "definition": "var. of DADDADIAY."
+    }
+  ],
+  "DEDETAY": [
+    {
+      "definition": "var. of DATDATAY."
+    }
+  ],
+  "DEDI": [
+    {
+      "definition": "var. of DEYDI."
+    }
+  ],
+  "DEDIAY": [
+    {
+      "definition": "var. of DEYDIAY."
+    }
+  ],
+  "DEGDEG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to increase in degree or intensity; to worsen.",
+      "eng_example": "His sickness worsened.",
+      "ilok_example": "Dimmegdeg ti sakit na.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to increase in degree or intensity; to make worse.",
+      "eng_example": "Don’t make my sickness worse.",
+      "ilok_example": "Saan mo nga degdegen toy nasakit ko.",
+      "conjugation": "/MANG- :-EN/"
+    }
+  ],
+  "DEGGES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gush out, flow copiously.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "DEKDEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pound.",
+      "eng_example": "He pounded the rice.",
+      "ilok_example": "Dinekdek na diay bagas.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DEKKET": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. sticky, gluey. 2. close, intimate.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "NAASIDEG"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stick, adhere.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stick, paste, glue (something).",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DEL-AG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shout, yell, shriek.",
+      "eng_example": "Don’t shout lest the child wake up.",
+      "ilok_example": "Saan ka nga agdelag ta dinto ket makariing diay ubing.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to shout or yell at.",
+      "eng_example": "Rose shouted at me.",
+      "ilok_example": "Dinel-agan nak ni Rosa.",
+      "conjugation": "/-AN/"
+    }
+  ],
+  "DELATA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "canned food.",
+      "origin": "dεláta; f. Sp.",
+      "cross_reference": "LATA"
+    }
+  ],
+  "DELIKADO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. delicate, frail, weak.",
+      "eng_example": "Your child is very frail. 2. serious, grave.",
+      "ilok_example": "Delikado la unay dayta anak mo.",
+      "origin": "dεlikádo; f. Sp."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. delicate, having or showing a sensitive distaste for anything offensive or improper.",
+      "eng_example": "That woman is very delicate. 2. dangerous, perilous, uncertain.",
+      "ilok_example": "Nagdelikado dayta nga balasang.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DEMDEM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to repress.",
+      "eng_example": "He has been repressing his anger for a long time now.",
+      "ilok_example": "Nabayag nga demdemdemen na ti pungtot na.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DEMOKRASIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "democracy.",
+      "origin": "demokrasia; f. Sp."
+    }
+  ],
+  "DEMONSTRASION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "demonstration.",
+      "origin": "demonstrasion; f. Sp."
+    }
+  ],
+  "DEMONYO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "demon, devil.",
+      "origin": "demonio; f. Sp.",
+      "synonyms": [
+        "DIABLO. KA! You devil!"
+      ]
+    }
+  ],
+  "DENDEN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to move by sliding, as when one is sitting on a bench; to go or come nearer a certain point.",
+      "eng_example": "Will you please move a little bit so that I can sit down also.",
+      "ilok_example": "Dumenden ka man bassit ta makatugawak met.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to move (someone or something) by sliding toward a certain point.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DENGDENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cook a vegetable dish.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cook (vegetables) into a vegetable dish.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "ABRAW"
+      ]
+    }
+  ],
+  "DENGNGEG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to listen to, pay attention to; hence, 2. to heed, obey.",
+      "eng_example": "Listen to what they are saying.",
+      "ilok_example": "Denggen yo ti ibagbaga da.",
+      "conjugation": "/-UM-:-EN/",
+      "origin": "= DUMNGEG : DENGGEN"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be able to hear.",
+      "eng_example": "I cannot hear your voice.",
+      "ilok_example": "Indiak nga mangngeg ti boses mo.",
+      "conjugation": "/MAKA-: MA- /",
+      "origin": "= MAKANGEG : MANGNGEG"
+    }
+  ],
+  "DENGNGEP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to apply ointment, poultice and the like (to an injury).",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DENNET": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put in contact with, to cause to come in contact with.",
+      "eng_example": "Don’t cause your dress to come in contact with the coffee.",
+      "ilok_example": "Saan mo nga idennet dayta badom dita kape.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to come in contact with.",
+      "eng_example": "Be careful lest your hand come in contact with the boiling water.",
+      "ilok_example": "Aluadam no maidennet ta imam dita agburburek nga danum.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "DEPARTAMENTO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "department.",
+      "eng_example": "EHEKUTIBO, executive department.",
+      "ilok_example": "EHEKUTIBO, executive department.",
+      "origin": "dεpartamεnto; f. Sp."
+    }
+  ],
+  "DEPDEP": [
+    {
+      "definition": "syn. of IDDEP."
+    }
+  ],
+  "DEPPA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "span or distance measured by both arms extended sideways."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to extend both arms sideways.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to measure by the two arms extended sideways.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DEPPAAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to collapse, topple.",
+      "eng_example": "Three houses collapsed after the fire.",
+      "ilok_example": "Tallo nga balay ti dimpaag kalpasan ti uram.",
+      "conjugation": "/-UM-, MA-/",
+      "origin": "= DUMPAAG"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to collapse or topple.",
+      "eng_example": "The wind won’t cause your fence to collapse for it is strong.",
+      "ilok_example": "Saan nga deppaagen ti angin dayta abulog yo ta nalagda.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DEPPAAR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "side (of an object or place)."
+    }
+  ],
+  "DEPPEL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to imprint or put one’s thumbprint.",
+      "eng_example": "Imprint your thumbprint here.",
+      "ilok_example": "Agdeppel ka ditoy.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to imprint one’s thumbprint on.",
+      "eng_example": "Imprint your thumbprint here.",
+      "ilok_example": "Deppelam daytoy.",
+      "conjugation": "/MANG-:-AN/",
+      "synonyms": [
+        "TIMBRE"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to press on, apply pressure on.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DEPPES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bend downward.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to bend backward; to push down or close to the surface.",
+      "eng_example": "Push down those weeds.",
+      "ilok_example": "Deppesem dagita ruot.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DERDER": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to become pulpy by beating, cooking, etc.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become pulpy due to beating, overcooking, etc.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "DERRAAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "precipice, cliff."
+    }
+  ],
+  "DESDES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "footpath, trail.",
+      "synonyms": [
+        "DANA, DASDAS"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be streaked with, have trails of.",
+      "eng_example": "I am streaked with sweat.",
+      "ilok_example": "Nadesdesanak ti ling-et.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "DESISION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "decision.",
+      "origin": "dεsision; f. Sp."
+    }
+  ],
+  "DETA": [
+    {
+      "definition": "var. of DEYTA."
+    }
+  ],
+  "DETAY": [
+    {
+      "definition": "var. of DEYTAY."
+    }
+  ],
+  "DETDETA": [
+    {
+      "definition": "var. of DATDATA."
+    }
+  ],
+  "DETDETAY": [
+    {
+      "definition": "var. of DATDATAY."
+    }
+  ],
+  "DETDETOY": [
+    {
+      "definition": "var. of DATDATOY."
+    }
+  ],
+  "DETI": [
+    {
+      "definition": "var. of DEYTI."
+    }
+  ],
+  "DETOY": [
+    {
+      "definition": "var. of DEYTOY."
+    }
+  ],
+  "DEYDI": [
+    {
+      "definition": "var. of DAYDI."
+    }
+  ],
+  "DEYDIAY": [
+    {
+      "definition": "var. of DAYDIAY."
+    }
+  ],
+  "DEYTA": [
+    {
+      "definition": "var. of DAYTA."
+    }
+  ],
+  "DEYTAY": [
+    {
+      "definition": "var. of DAYTAY."
+    }
+  ],
+  "DEYTI": [
+    {
+      "definition": "var. of DAYTI."
+    }
+  ],
+  "DEYTOY": [
+    {
+      "definition": "var. of DAYTOY."
+    }
+  ],
+  "DI": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "no, not: var. of SAAN.",
+      "cross_reference": "MADI, INDIAK"
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "a particle expressing indifference, defiance or encouragement.",
+      "eng_example": "Then elope (with someone) if that is what you want to do. var. of DAYDI. var. of IDI.",
+      "ilok_example": "Di makitaray ka no isu ti kayat mo."
+    }
+  ],
+  "DIABLES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "form of DIABLO used in cursing.",
+      "eng_example": "That devil Paul is indeed very lucky.",
+      "ilok_example": "Naggaset ket ti diables nga Paulon."
+    }
+  ],
+  "DIABLO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "devil, demon.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "DEMONYO"
+      ]
+    }
+  ],
+  "DIAKET": [
+    {
+      "part_of_speech": "n.",
+      "definition": "jacket.",
+      "origin": "diákεt; f. Eng."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use or wear this.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DIANITOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "janitor.",
+      "origin": "f. Eng.",
+      "variations": [
+        "DYANITOR"
+      ]
+    }
+  ],
+  "DIARYO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "newspaper.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "appear or be published in a newspaper.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "DIASKE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a curse word synonymous with DIABLES; devil.",
+      "eng_example": "The devil disappeared like smoke.",
+      "ilok_example": "Kasla napukaw nga asok ti diaske."
+    }
+  ],
+  "DIAY": [
+    {
+      "definition": "var. of DAYDIAY or IDIAY."
+    }
+  ],
+  "DIAYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "gift, offering."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to offer, give or present as an act of worship or devotion.",
+      "eng_example": "He offered all his properties in order to help them.",
+      "ilok_example": "Indiaya na amin nga kukua na nga pangtulong kadakuada.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "DATON"
+      ]
+    }
+  ],
+  "DIDAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "thimble."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use or wear this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to provide with this.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "DIDIAY": [
+    {
+      "definition": "var. of IDIAY."
+    }
+  ],
+  "DIDIGRA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "disaster, calamity, catastrophe."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be frightened, scared, startled.",
+      "eng_example": "We were scared during the past war.",
+      "ilok_example": "Nadidigra kami itay napalabas nga gerra.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "DIDING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "wall."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put up a wall.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to provide with a wall, put a wall to.",
+      "eng_example": "We will put a wall to our house tomorrow.",
+      "ilok_example": "Didingan mi daytoy balay mi inton bigat.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "DIDIOSEN": [
+    {
+      "definition": "pl. of DIOSEN."
+    }
+  ],
+  "DIENWAIN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "genuine, not imitation.",
+      "origin": "dienwaʔin, dienwain; f. Eng."
+    }
+  ],
+  "DIES": [
+    {
+      "definition": "num. ten; 10.",
+      "ilok_example": "ALAS DIES, ten o’clock.",
+      "origin": "diεs; f. Sp.",
+      "synonyms": [
+        "PULLO, SANGAPULO"
+      ]
+    }
+  ],
+  "DIGO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. broth; the liquid of a dish. 2. coconut water."
+    }
+  ],
+  "DIGOS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to take a bath, to bathe oneself.",
+      "eng_example": "They are going to take a bath in the river.",
+      "ilok_example": "Mapan da agdigos idiay karayan.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to give (a person or animal) a bath, to bathe (a person or animal).",
+      "eng_example": "They are going to bathe their water buffalo in the brook.",
+      "ilok_example": "Mapan da digosen diay nuang da idiay waig.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DIGRA": [
+    {
+      "definition": "see DIDIGRA."
+    }
+  ],
+  "DIKEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pad: a circlet of cloth placed on top of the head on which a load is set; this protects the crown of the head from injury and at the same time stabilizes the load."
+    }
+  ],
+  "DIKEN-DIKEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "milliped."
+    }
+  ],
+  "DIKET": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. sticky or glutinous rice. 2. sticky variety of corn, 3. sticky variety of cassava."
+    }
+  ],
+  "DIKIDIK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to grind into powder form.",
+      "eng_example": "He will grind that toasted rice into powder.",
+      "ilok_example": "Dikidiken na dayta nakirog nga bagas.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DIKKI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "soft deposit on the surface of the teeth, as when one does not brush his teeth."
+    }
+  ],
+  "DIKORASION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "decoration, ornament.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to decorate, adorn.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to decorate or adorn with, to use as decoration.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be decorated with.",
+      "conjugation": "/MA--AN/",
+      "synonyms": [
+        "ARKOS"
+      ]
+    }
+  ],
+  "DILA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tongue; anything resembling a tongue."
+    }
+  ],
+  "DILAMUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "often",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to (be able to) gather with difficulty from a scant supply; to scrape; to benefit or be given a share of something that is scant or meager.",
+      "eng_example": "We were not given a share of the money that he gave.",
+      "ilok_example": "Awan ti nadilamutan mi ti daydiay inted na nga kuarta.",
+      "conjugation": "/MAKA-: MA--AN/"
+    }
+  ],
+  "DILANA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "woolen.",
+      "origin": "f. Sp."
+    }
+  ],
+  "DILAP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "flood, inundation."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to flood, inundate; to have a flood.",
+      "conjugation": "/AG-/",
+      "synonyms": [
+        "LAYOS"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stick out one’s tongue at someone.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stick out one’s tongue at (someone).",
+      "eng_example": "It was he at whom he stuck out his tongue.",
+      "ilok_example": "Isu ti dinilapan na.",
+      "conjugation": "/MANG-:-AN/",
+      "variations": [
+        "(dial.)"
+      ]
+    }
+  ],
+  "DILAT": [
+    {
+      "definition": ". var. (dial.) of 2DILAP."
+    }
+  ],
+  "DILDIL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lick.",
+      "eng_example": "Don’t lick that plate.",
+      "ilok_example": "Saan mo nga dildilan dayta pinggan.",
+      "conjugation": "/MANG-:-AN/",
+      "synonyms": [
+        "DILPAT"
+      ]
+    }
+  ],
+  "DILI": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "stony.",
+      "eng_example": "He knows the stony stretch of the road.",
+      "ilok_example": "Ammo na ti nadili nga paset ti dalan.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DILIG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to compare (to someone or something). syn. (dial.) of SIBUG.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DILLAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to notice, observe, see, perceive; hence, 2. to call attention to, remark or comment on; to criticize, complain about.",
+      "eng_example": "Don’t notice or make any comment on his manner of eating.",
+      "ilok_example": "Saan mo nga dildillawen ti pannangan na.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to notice or observe by chance; to perceive.",
+      "eng_example": "I noticed by chance that the young man wants to say something.",
+      "ilok_example": "Nadlaw ko nga adda kayat na nga ibaga diay baro.",
+      "conjugation": "/MAKA-: MA-/",
+      "origin": "= MAKADLAW : MADLAW"
+    }
+  ],
+  "DILPAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lick someone.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lick (someone or something).",
+      "conjugation": "/-UM-:-AN/",
+      "synonyms": [
+        "DILDIL"
+      ]
+    }
+  ],
+  "DIMTENG": [
+    {
+      "definition": "pt. of DUMTENG."
+    }
+  ],
+  "DINANUMAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a dish consisting of roasted fish boiled in water and seasoned with sour fruits or vegetables."
+    }
+  ],
+  "DINENGDENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a vegetable dish.",
+      "synonyms": [
+        "INABRAW. see under DENGDENG"
+      ]
+    }
+  ],
+  "DINGO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to take care of, to feed.",
+      "eng_example": "It was he who fed the pig.",
+      "ilok_example": "Isu ti nangpadingo kadaydiay baboy.",
+      "conjugation": "/MANG-:-EN/",
+      "common_forms": [
+        "PADINGO"
+      ]
+    }
+  ],
+  "DINGOEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "animals, especially hogs, raised for meat."
+    }
+  ],
+  "DINGPIL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to press, squeeze.",
+      "eng_example": "Squeeze those sour fruits so as to remove their juice.",
+      "ilok_example": "Dingpilen yo dagita pias tapno maikkat ti tubbog na.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DINNA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "side (of).",
+      "synonyms": [
+        "ABAY, SIBAY, SIKIG"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put or place oneself at the side of, to go and stay at the side of.",
+      "eng_example": "Don’t go and stay at the side of my daughter.",
+      "ilok_example": "Saan mo nga dinnaan dayta balasang ko.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "DINOMINGGO": [
+    {
+      "definition": "every week, weekly, by the week."
+    }
+  ],
+  "DINUYDUY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of sweet made of boiled ripe squash mixed with coconut meat and either sugar or salt."
+    }
+  ],
+  "DIOS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "deity; god.",
+      "eng_example": "Thank you.",
+      "ilok_example": "TI AGNGINA.",
+      "origin": "f. Sp."
+    }
+  ],
+  "DIOSA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "goddess.",
+      "origin": "f. Sp."
+    }
+  ],
+  "DIOSEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a minor deity; idol.",
+      "plural_form": "pl. DIDIOSEN"
+    }
+  ],
+  "DIPAS": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "in a short time.",
+      "eng_example": "The bananas were consumed in a short time.",
+      "ilok_example": "Apagdipas nga naibus ti saba.",
+      "synonyms": [
+        "APAGKANITO"
+      ],
+      "common_forms": [
+        "APAGDIPAS"
+      ]
+    }
+  ],
+  "DIPPIG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "flat, compressed.",
+      "conjugation": "/NAG-/",
+      "synonyms": [
+        "DAPIL"
+      ]
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of banana which is flat in shape.",
+      "ilok_example": "It is usually boiled or fried before it is eaten."
+    }
+  ],
+  "DIPPIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to press near, crowd in.",
+      "eng_example": "Don’t press near those who are working.",
+      "ilok_example": "Saan ka nga dumippit kadagita agtartarabaho.",
+      "conjugation": "/-UM-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be pressed together.",
+      "eng_example": "The people were pressed together due to the great number of those who went to see the show.",
+      "ilok_example": "Uray la nga agdidipiit ti tao ti kaadu ti nagbuya.",
+      "conjugation": "/AG-+ R2/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to press, crush.",
+      "eng_example": "Don’t crush my dress.",
+      "ilok_example": "Saan mo nga dippiten dayta badok.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DIPUTADO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "representative, delegate.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "REPRESENTANTE"
+      ]
+    }
+  ],
+  "DIR-I": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shout, shriek.",
+      "eng_example": "They shouted all at once.",
+      "ilok_example": "Nagdir-i da nga namimpinsan.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DIRAM-US": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to wash one’s face.",
+      "eng_example": "As soon as you wake up wash your face.",
+      "ilok_example": "Apagriing mo agdiram-us ka.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wash the face (of someone).",
+      "eng_example": "Wash the face of your brother (or sister) when he (or she) wakes up.",
+      "ilok_example": "Diram-usam dayta kabsat mo intono makariing.",
+      "conjugation": "/MANG- :-AN/"
+    }
+  ],
+  "DIRECTOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "director.",
+      "origin": "dirεktór; f. Sp."
+    }
+  ],
+  "DIREKSION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "direction.",
+      "origin": "dirεksión; f. Sp."
+    }
+  ],
+  "DIREKTOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "director.",
+      "origin": "dirεktór; f. Sp."
+    }
+  ],
+  "DIREKTORIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "directory.",
+      "origin": "dirεktório; f. Sp."
+    }
+  ],
+  "DIRO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "honey."
+    }
+  ],
+  "DISGRASIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "accident, misfortune, evil.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to inflict injury on, to cause to have an accident or misfortune. 2. to assault or molest sexually.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to meet a misfortune or accident, to be injured. 2. to be assaulted or molested sexually.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "DISIEMBRE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "December.",
+      "origin": "disiέmbrε; f. Sp."
+    }
+  ],
+  "DISIPLINA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "discipline.",
+      "origin": "f. Sp."
+    }
+  ],
+  "DISIPLINADO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "disciplined."
+    }
+  ],
+  "DISIPULO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "disciple, follower.",
+      "origin": "f. Sp."
+    }
+  ],
+  "DISKURSO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "discourse, speech, oration.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a speech or oration.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DISMAYA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to upset, perturb, discompose, distress.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be upset, perturbed, discomposed, distressed.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "DISNOG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit with the fists; to punch.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DISSAAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to get down or off, alight, descend, dismount.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take, put or place down from a higher place.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DISSAAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put or place on the floor.",
+      "eng_example": "Place that child on the floor.",
+      "ilok_example": "Idissaar mo dayta ubing.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DISSO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "spot, site, region, place, location.",
+      "eng_example": "They first showed the beautiful spots in the Philippines.",
+      "ilok_example": "Immuna nga impabuya da dagiti napintas nga disso ditoy Pilipinas."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to alight, to set (on a place), to land.",
+      "eng_example": "The bird alighted on my shoulder.",
+      "ilok_example": "Nagdisso diay billit ditoy abagak.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DISSOOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall suddenly and heavily.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to fall suddenly and heavily, to put down suddenly and heavily.",
+      "eng_example": "It was he who put down the big box suddenly and heavily.",
+      "ilok_example": "Isu ti nangidissoor ti dakkel nga kahon.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DISTRITO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "district.",
+      "origin": "f. Sp."
+    }
+  ],
+  "DISTURBO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "disturbance, nuisance, trouble.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to disturb, bother, trouble.",
+      "eng_example": "Please don’t disturb me for I have much work to do.",
+      "ilok_example": "Saan nak man nga disturboen ta adu ti trabahok.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DITA": [
+    {
+      "definition": "var. (dial.) of GITA."
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "there: near the hearer.",
+      "variations": [
+        "IDTA"
+      ]
+    }
+  ],
+  "DITOY": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "here: hear the speaker.",
+      "variations": [
+        "IDTOY"
+      ]
+    }
+  ],
+  "DIWIG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. wry, twisted, contorted: said of the mouth of a person, a jar, a basket, etc. 2. crooked, not straight: said of the way an object is cut. 3. having a wry mouth: said of a person."
+    }
+  ],
+  "DLAW": [
+    {
+      "definition": "see under DILLAW."
+    }
+  ],
+  "DODOL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of pudding made of rice, either ground or pounded into powder, GETTA and sugar."
+    }
+  ],
+  "DODOOMEN": [
+    {
+      "definition": "see under DOOM."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "rice near maturity whose grain is already fully formed."
+    }
+  ],
+  "DOKTOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "doctor; physician.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "MANGNGAGAS"
+      ]
+    }
+  ],
+  "DOKTRINA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "doctrine.",
+      "origin": "f. Sp."
+    }
+  ],
+  "DOKUMENTO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "document.",
+      "origin": "dukumέnto; f. Sp."
+    }
+  ],
+  "DOMINGGO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1.",
+      "ilok_example": "Sunday. 2. week.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "LAWAS, SEMANA RAMOS, Palm Sunday"
+      ]
+    }
+  ],
+  "DON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1.",
+      "ilok_example": "Sir; Mr.: a title of respect, used with the first name. 2. a distinguished man.",
+      "origin": "f. Sp.",
+      "cross_reference": "SENYOR"
+    }
+  ],
+  "DONYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1.",
+      "ilok_example": "Madam; Mrs.: a title of respect, used with the first name. 2. a distinguished woman. 3. rat, mouse.",
+      "origin": "f. Sp.",
+      "cross_reference": "SENYORA"
+    }
+  ],
+  "DOOL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to feed, especially by putting the food to the mouth.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "DOOM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to eat or chew immature rice or uncooked rice after removing the husk.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to eat or chew: said of immature rice or uncooked rice after removing the husk.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DOOY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "wanting attention, care or show of affection: usually said of children.",
+      "eng_example": "You are a child who wants so much attention.",
+      "ilok_example": "Nakadodooy ka nga anak.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DOS": [
+    {
+      "definition": "num. two; 2.",
+      "ilok_example": "ALAS DOS, two o’clock.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "DUA"
+      ]
+    }
+  ],
+  "DOSE": [
+    {
+      "definition": "num. twelve; 12.",
+      "ilok_example": "ALAS DOSE, twelve o’clock.",
+      "origin": "dose; f. Sp.",
+      "synonyms": [
+        "SANGAPULO KET DUA"
+      ]
+    }
+  ],
+  "DRAM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "drum: a barrellike metal container for oil, etc.",
+      "origin": "f. Eng."
+    }
+  ],
+  "DRAMA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "drama.",
+      "origin": "f. Sp."
+    }
+  ],
+  "DUA": [
+    {
+      "definition": "num. two; 2.",
+      "synonyms": [
+        "DOS. NGA LAKSA, twenty thousand"
+      ]
+    }
+  ],
+  "DUADUA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "doubt, hesitation, indecision."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be doubtful, hesitant, undecided.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DUAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "porch, balcony.",
+      "synonyms": [
+        "BALKON"
+      ]
+    }
+  ],
+  "DUAYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lullaby.",
+      "synonyms": [
+        "LALLAY"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sing a lullaby.",
+      "conjugation": "/AG-/",
+      "variations": [
+        "DUAYYA"
+      ]
+    }
+  ],
+  "DUAYYA": [
+    {
+      "definition": "var. of DUAYA."
+    }
+  ],
+  "DUBLI": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "double.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to repeat, to do, say, etc. again.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "DUPAG"
+      ]
+    }
+  ],
+  "DUDA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "suspicion, doubt.",
+      "synonyms": [
+        "ATAP, DUADUA, SUSPITSA"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have doubts, be doubtful, suspicious.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DUDUN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "locust."
+    }
+  ],
+  "DUDUOGAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "very old, decrepit."
+    }
+  ],
+  "DUGDUG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to decay, decompose, rot, dissolve, melt.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "DUGGONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dried mucus."
+    }
+  ],
+  "DUGMAM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall forward or prone.",
+      "conjugation": "/MAI-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to fall forward or prone.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DUGMON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nest of a wild boar or a hog."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wallow, to roll oneself about in an indolent or ungainly manner.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to collect or gather for making a .",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DUGUDUG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "northeast wind."
+    }
+  ],
+  "DUGUL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a hump, protuberance, swelling; a node."
+    }
+  ],
+  "DUGULDUGUL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "full of humps or nodes."
+    }
+  ],
+  "DUGYOT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "filthy, dirty, untidy.",
+      "conjugation": "/NAG-/",
+      "synonyms": [
+        "BABOY 2"
+      ]
+    }
+  ],
+  "DUKANG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "bulky, piled in a big heap.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DUKINAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to strew around, scatter.",
+      "eng_example": "Why are you strewing around the clothes?",
+      "ilok_example": "Apay nga dukinaren yo dagita lupot?",
+      "conjugation": "/MANG-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    }
+  ],
+  "DUKIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to reopen a subject, to mention again; to recall, to remind someone of.",
+      "eng_example": "Don’t mention that again for I have already forgotten it.",
+      "ilok_example": "Saan mo nga idukit dayta ta nalipatakon.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DUKLUS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to attack, assault.",
+      "eng_example": "It was he who attacked me.",
+      "ilok_example": "Isu ti dimmuklus kanyak.",
+      "conjugation": "/-UM-:-EN/"
+    }
+  ],
+  "DUKO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to recur: said of an ailment, hunger, etc.",
+      "eng_example": "I am worried lest my sickness recurs.",
+      "ilok_example": "Madanaganak no dumuko ti sakit ko.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "DUKOL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce a hump disclosing its presence; to protrude, jut out.",
+      "eng_example": "What is that producing a hump on the mat?",
+      "ilok_example": "Ania dayta dumukol dita ikamen?",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "DUKOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be worried, distressed, uneasy, perturbed, anxious, impatient.",
+      "conjugation": "/MA--AN/",
+      "synonyms": [
+        "DANAG"
+      ]
+    }
+  ],
+  "DUKYANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of small clam found in brooks and rivers."
+    }
+  ],
+  "DUL-OK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to retch.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DULANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a low table."
+    }
+  ],
+  "DULDOG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. dirty, filthy. --syn DUNGRIT. 2. dumb.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DULIAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "difference, distinguishing trait.",
+      "eng_example": "He has not a distinguishing trait.",
+      "ilok_example": "Awan duldulianan na.",
+      "common_forms": [
+        "DULDULIANAN"
+      ]
+    }
+  ],
+  "DULIDUL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to urge, press, insist, or force on (someone).",
+      "eng_example": "Don’t force on me that which I don’t like.",
+      "ilok_example": "Saan mo nga idulidul kanyak dayta saan ko nga kayat.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DULIN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hide, stay away from view.",
+      "eng_example": "You hide and I will look for you.",
+      "ilok_example": "Agdulin ka ta biroken ka.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hide or keep away from view (someone or something). - -syn.",
+      "ilok_example": "LIMMENG.",
+      "conjugation": "/MANGI-: I- /"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put away, put aside (plates or bedding).",
+      "eng_example": "We put away our bedding.",
+      "ilok_example": "Nagidulin kami kadagiti nagturogan mi.",
+      "conjugation": "/AGI-: I-/"
+    }
+  ],
+  "DULING": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "slightly cross-eyed.",
+      "synonyms": [
+        "GILAB; see also PANGKIS"
+      ]
+    }
+  ],
+  "DULLOOG": [
+    {
+      "definition": "syn. (dial.) of GURROOD."
+    }
+  ],
+  "DULON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. limit, boundary. 2. landmark, monument."
+    }
+  ],
+  "DULPET": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "dirty, filthy.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "RUGIT, DUNGRIT, DUGYOT"
+      ]
+    }
+  ],
+  "DUMA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to differ, be different, dissimilar, unlike.",
+      "eng_example": "They differ in beauty.",
+      "ilok_example": "Agduma ti pintas da.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DUMADUMA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "different, various, diverse.",
+      "eng_example": "They planted different vegetables.",
+      "ilok_example": "Nadumaduma nga nateng ti immula da.",
+      "conjugation": "/NA-/ with pl. subject"
+    }
+  ],
+  "DUMALAGA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pullet, young hen."
+    }
+  ],
+  "DUMDUMA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be regarded differently, to be distinguishable, to stand out.",
+      "eng_example": "Her beauty stood out.",
+      "ilok_example": "Naidumduma ti pintas na.",
+      "conjugation": "/MAI-/",
+      "common_forms": [
+        "or DADUMA"
+      ]
+    }
+  ],
+  "DUMTENG": [
+    {
+      "origin": "-UM-+ DATENG."
+    }
+  ],
+  "DUMUDUM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall prone.",
+      "conjugation": "/MAI-/",
+      "synonyms": [
+        "DUGMAM"
+      ]
+    }
+  ],
+  "DUMUG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bend or incline the head, to bow; to look down.",
+      "eng_example": "He looked down when he saw me.",
+      "ilok_example": "Nagdumug idi nakita nak.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bend or incline down, to cause to bend or incline down.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DUNG-AW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to wail, lament, mourn aloud which may include singing a dirge.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lament for (someone or something).",
+      "conjugation": "/-AN/"
+    }
+  ],
+  "DUNGDUNG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a very large pot used for cooking rice, meat, vegetables, etc."
+    }
+  ],
+  "DUNGER": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shake the head forward and backward rapidly, to nod rapidly and continuously.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have the head drop forward involuntarily due to drowsiness, etc.",
+      "conjugation": "/MAI-/",
+      "synonyms": [
+        "TANGED"
+      ]
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "drowsy, sleepy.",
+      "conjugation": "/AG-+ R2/",
+      "synonyms": [
+        "DUNGSA"
+      ]
+    }
+  ],
+  "DUNGET": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut near or close to the trunk, origin or beginning.",
+      "eng_example": "It was he who cut close the branches of the tree.",
+      "ilok_example": "Isu ti nangidunget ti sanga ti kayo.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DUNGGIAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hurt, injure.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get hurt or injured.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "DUNGIR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hurt, injure, bruise.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get hurt, injured or bruised.",
+      "eng_example": "Don’t run for you might get hurt.",
+      "ilok_example": "Saan ka nga agtartaray ta dikanto madungiran.",
+      "conjugation": "/MA--AN/",
+      "synonyms": [
+        "DANGER, DUNOR"
+      ]
+    }
+  ],
+  "DUNGNGO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "beloved, dear one."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "loving, devoted, affectionate.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to love deeply, dote on.",
+      "eng_example": "I shall love you very, very deeply.",
+      "ilok_example": "Dungdungngoen kanto unay unay.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DUNGPAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bump, collide with.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "DUNGSO, BANGDOL"
+      ]
+    }
+  ],
+  "DUNGRIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "filthy, dirty, untidy, especially on the face.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "DULPET, DUGYOT, DUNGRIT"
+      ]
+    }
+  ],
+  "DUNGSA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to become drowsy or sleepy.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "drowsy, sleepy.",
+      "conjugation": "/AG- + R2/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "becoming drowsy, sleepy.",
+      "conjugation": "/MAKA- + R1/",
+      "synonyms": [
+        "DUNGER"
+      ]
+    }
+  ],
+  "DUNGSO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to crash (oneself or itself) into, to ram (oneself or itself) against, to cause (oneself) to collide with.",
+      "eng_example": "Why did you collide with me?",
+      "ilok_example": "Apay nga dinungso nak?",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to crash into, ram against, collide with.",
+      "eng_example": "Their vehicle crashed into a post.",
+      "ilok_example": "Naidungso diay lugan da ti poste.",
+      "conjugation": "/MAI-/",
+      "synonyms": [
+        "DUNGPAR"
+      ]
+    }
+  ],
+  "DUNGSOL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "blacksmith’s hammer."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit with this.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use as this (on someone or something), to hit (someone or something) with this.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DUNOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hurt, injure, bruise.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be hurt, injured, bruised.",
+      "conjugation": "/MA-/",
+      "synonyms": [
+        "DANGER, DUNGIR"
+      ]
+    }
+  ],
+  "DUOG": [
+    {
+      "definition": "see DUDUOGAN."
+    }
+  ],
+  "DUPAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to repeat, do again, say again.",
+      "eng_example": "Will you please repeat what you said to me.",
+      "ilok_example": "Dupagem man tay imbagam kanyak?",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "DUBLI"
+      ]
+    }
+  ],
+  "DUPAK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "flat, flattened.",
+      "synonyms": [
+        "DIPPIG, DAPIL"
+      ]
+    }
+  ],
+  "DUPIR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to push, shove, move.",
+      "eng_example": "Don’t push me.",
+      "ilok_example": "Saan nak nga dupiren.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to push, shove or move to (a place).",
+      "eng_example": "Push that bench to that wall.",
+      "ilok_example": "Idupir mo dayta bangko dita diding.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "DURON"
+      ]
+    }
+  ],
+  "DUPRAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to demolish, raze.",
+      "eng_example": "They will raze our house.",
+      "ilok_example": "Dupraken danto daytoy balay mi.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "REBBA"
+      ]
+    }
+  ],
+  "DUPUDUP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be, go or come together.",
+      "eng_example": "They came together to buy clothes.",
+      "ilok_example": "Nagdudupudup da nga immay gimmatang ti lupot.",
+      "conjugation": "/AG-+ R2/"
+    }
+  ],
+  "DUR-AS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "progressive, advanced, modern.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DUREK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pus in the ear."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have this: said of the ear.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "DURI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "spinal column, vertebral column, spine, backbone."
+    }
+  ],
+  "DURIRI": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "having protruding buttocks."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to protrude the buttocks.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to protrude the buttocks (of someone).",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "DURON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to push, shove.",
+      "eng_example": "Please don’t push me.",
+      "ilok_example": "Saan nak man nga iduron.",
+      "conjugation": "/AGI-, MANGI-: I-/",
+      "synonyms": [
+        "DUPIR"
+      ]
+    }
+  ],
+  "DURSOK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "impulsive, fiery, ardent, fervent.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "DURUDOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "spit (made of bamboo or iron)."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to put on a spit. 2. to poke with a spit.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DUSA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "punishment, chastisement, penalty."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to punish, chastise, discipline.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DUSAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to elbow, hit with the elbow.",
+      "eng_example": "Don’t hit me with your elbow.",
+      "ilok_example": "Saan nak nga dusagen.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DUTDUT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. feather. 2. body hair."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "full of this.",
+      "conjugation": "/-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove the feather of, to dress (a chicken, etc.).",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to extract, draw out, pick off.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DUTOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to designate, appoint, assign.",
+      "eng_example": "We appointed Peter president.",
+      "ilok_example": "Ni Pedro ti dinutokan mi nga presidente.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be appointed, designated, assigned (as president, etc.).",
+      "eng_example": "He was appointed president.",
+      "ilok_example": "Isu ti nadutokan nga presidente.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "DUYAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "yellow, gold-colored; yellowish, golden."
+    }
+  ],
+  "DUYDUY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to mash.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DUYOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. half of coconut shell used as dish. 2. dish."
+    }
+  ],
+  "DUYOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce or cause a sharp or stabbing pain.",
+      "eng_example": "My stomach ailment is producing again a sharp pain.",
+      "ilok_example": "Dumuyok manen ti sakit na daytoy tian ko.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stab or pierce.",
+      "eng_example": "He stabbed the pig with a sharp knife.",
+      "ilok_example": "Dinuyok na daydiay baboy ti natirad nga imuko.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "DUYOS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "that to which one’s feelings, sympathy, etc. flows.",
+      "eng_example": "It is he to whom my feelings flow.",
+      "ilok_example": "Isu ti pagduyosan ti riknak.",
+      "conjugation": "/PAG--AN/"
+    }
+  ],
+  "DYADS": [
+    {
+      "definition": "(rare) syn. of HUES.",
+      "origin": "f. Eng."
+    }
+  ],
+  "DYANITOR": [
+    {
+      "definition": "var. of DIANITOR."
+    }
+  ],
+  "DYINWAIN": [
+    {
+      "definition": "var. of DIENWAIN."
+    }
+  ],
+  "DYIP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "jeep.",
+      "origin": "f. Eng."
+    }
+  ]
+}

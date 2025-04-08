@@ -1,0 +1,1804 @@
+{
+  "-UM-": [
+    {
+      "definition": "a verbalizing affix placed immediately before the first vowel of the stem with meanings: (a) to do the action expressed by the stem. (b) to assume the state or condition described by the stem."
+    }
+  ],
+  "-US": [
+    {
+      "definition": "see under PANG-US."
+    }
+  ],
+  "UBAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "gray hair."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have gray hair.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UBAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "grape.",
+      "origin": "f. Sp."
+    }
+  ],
+  "UBBA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to carry as a baby.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "UBBAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sheath of the banana leaf."
+    }
+  ],
+  "UBBAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "inane, empty.",
+      "conjugation": "/NAG-/"
+    }
+  ],
+  "UBBUG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "spring of water, fountain."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to gush out water.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UBBUUB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to take vapor bath.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UBET": [
+    {
+      "part_of_speech": "n.",
+      "definition": "anus, buttocks; bottom."
+    }
+  ],
+  "UBI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "yam with purple meat."
+    }
+  ],
+  "UBING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "child, boy, girl."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "young, immature.",
+      "conjugation": "/NAG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become younger.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "UBO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to leak.",
+      "conjugation": "/AG-: I-/"
+    }
+  ],
+  "UBOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "soft pith of palm trees."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get the pith of (a palm tree).",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "UBON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a string of beads or the like."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to thread on a string.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "UBONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pigpen, sty."
+    }
+  ],
+  "UBOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pelt with stones continuously.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "UD-UD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to ask for repeatedly, beg for.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "UDANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lobster, crayfish."
+    }
+  ],
+  "UDAUD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the bow of a violin."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pull to and fro like the bow of a violin.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UDI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "rear."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be late or last.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "UDONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go to the town proper (POBLASION) from the BARRIO or SITIO.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take to the town proper.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "UG-UG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to weep with closed mouth.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to low, moo.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UGALI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "custom, habit, tradition, way."
+    }
+  ],
+  "UGAOG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bawl, cry loudly.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UGAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a shrub whose leaves are used for scouring purposes."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wash (dishes, plates, etc.)",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "UGAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "wasteful, lavish.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "UGED": [
+    {
+      "part_of_speech": "n.",
+      "definition": "line."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a line on.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "UGGOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "young leaves of a plant."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take some of the young leaves of.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "UGING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "charcoal, soot.",
+      "variations": [
+        "URING"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make charcoal.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make into charcoal.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to smear with charcoal or soot.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "UGIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make the sign of the cross.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "line.",
+      "synonyms": [
+        "UGED"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put or make a line on.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "UGMA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "remote time in the past; the beginning; long time ago."
+    }
+  ],
+  "UGMOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to do something on something persistently or tenaciously.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "UGSA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. deer. 2. venison."
+    }
+  ],
+  "UGUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be drained of blood, sweat or tears.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "UHAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "buttonhole.",
+      "variations": [
+        "UHALIS"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to provide with buttonholes.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "UHALIS": [
+    {
+      "definition": "var. of UHAL."
+    }
+  ],
+  "UKAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to open, spread out.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UKAP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "MANG-: -EN/ to pry open.",
+      "conjugation": "/ to open by itself, e.g. clams. /",
+      "common_forms": [
+        "-AG-"
+      ]
+    }
+  ],
+  "UKARKAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to open, e.g. a flower.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to open, unwrap, unroll.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UKAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to loosen, untie, unfasten.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be untied or unfastened.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "UKBOS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be spilled.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "UKEL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "testicle. --cf.",
+      "ilok_example": "LATEG."
+    }
+  ],
+  "UKEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "puppy."
+    }
+  ],
+  "UKI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "vulva, vagina."
+    }
+  ],
+  "UKIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "peeling, bark, rind, husk."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove the peeling, bark, rind, or husk of.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "UKKON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to join, gather together.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be gathered together.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "UKKOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a piece of cloth or handkerchief tied around the neck."
+    }
+  ],
+  "UKLOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "covering of the head, cap."
+    }
+  ],
+  "UKNOG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to knock out, e.g. the marrow of the bone.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UKOM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "judge."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to judge, try.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UKOP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sit on (eggs) in order to hatch (them).",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "UKRAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to unfurl, spread out, unfold, unroll.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to unfurl, unfold, unroll.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UKRIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut open with a single line using a scalpel or a sharp object.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be cut open.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "UKSUB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove, pull off.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UKSUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pull out, unsheathe, e.g. a sword.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "UKTUBRE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "October.",
+      "origin": "f. Sp."
+    }
+  ],
+  "UKUUK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to smolder.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "ULA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to spit out, eject from the mouth.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "ULAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dizziness."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be dizzy.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to become dizzy.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "ULAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "neckerchief."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use a neckerchief.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a neckerchief on someone.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "ULBOD": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "liar, deceitful.",
+      "conjugation": "/NAG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tell a lie, to deceive.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to deceive, to tell a lie to.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "ULEG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "snake."
+    }
+  ],
+  "ULEP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cloud."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "cloudy, overcast.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "ULES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "blanket."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use a blanket, to cover oneself with a blanket.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cover someone with a blanket.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "ULI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to climb up, go up, ascend, rise.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to climb.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to climb up in order to give something to someone.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "ULIDAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "model, example, paragon."
+    }
+  ],
+  "ULIKBA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a fowl with black meat."
+    }
+  ],
+  "ULILA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to become an orphan.",
+      "conjugation": "/MA-/",
+      "common_forms": [
+        "orphan, one whose mother or father or both are dead"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make someone an orphan.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "ULIMEK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "quiet, calm, peaceful, tranquil, serene.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to keep quiet.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "ULIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to repeat, say again, do again.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "ULITEG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "uncle.",
+      "synonyms": [
+        "TIO"
+      ]
+    }
+  ],
+  "ULLAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "kite."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fly a kite.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "ULLAYAT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "slow.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do slowly.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "ULLUM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stay indoors.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wrap well in order to improve the quality of or to ripen.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "ULMOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chicken tick."
+    }
+  ],
+  "ULNAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sled."
+    }
+  ],
+  "ULO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "head, roof."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "1. with a large head. 2. intelligent, bright, smart.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to behead, decapitate.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "ULPIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "cruel, merciless, ruthless, brutal.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "ULTIMATUM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ultimatum.",
+      "origin": "f. Eng."
+    }
+  ],
+  "ULUD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pull, drag.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be pulled or dragged.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "ULUG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go down, come down.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go down for, to come down for.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bring down, take down; to translate.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "ULUY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to give the death blow to.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to expire.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "UM-": [
+    {
+      "definition": "to become this.",
+      "conjugation": "/ to be stepped on by flies. Kitaem ta madap-awan. Watch it for it may be stepped on by flies. /",
+      "common_forms": [
+        ":-ANMA--AN"
+      ]
+    },
+    {
+      "definition": "/ to brush against, touch."
+    }
+  ],
+  "UMA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to satiate oneself with.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be satiated with.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to satiate someone with.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "tract of land cleared for cultivation, kaingin."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to clear a tract of land for cultivation.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to clear for cultivation.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UMAN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to consult, seek the opinion or advice of.",
+      "conjugation": "/MAKI-/"
+    }
+  ],
+  "UMANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hermit crab; hence, a person who continually changes his residence."
+    }
+  ],
+  "UMBAL": [
+    {
+      "origin": "-UM- + EBBAL."
+    }
+  ],
+  "UMDAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be sufficient, to be enough."
+    }
+  ],
+  "UMEL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "dumb, mute.",
+      "conjugation": "/NAG-/"
+    }
+  ],
+  "UMILI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pl. the inhabitants of a town or country; townspeople. see under ILI."
+    }
+  ],
+  "UMIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pilfer, steal, filch.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "TAKAW"
+      ]
+    }
+  ],
+  "UMLAY": [
+    {
+      "origin": "-UM-+ ELLAY."
+    }
+  ],
+  "UMLEK": [
+    {
+      "origin": "-UM-+ ELLEK."
+    }
+  ],
+  "UMMONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather, assemble.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UMMONGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "meeting, assembly."
+    }
+  ],
+  "UMNO": [
+    {
+      "origin": "-UM-+ NO."
+    }
+  ],
+  "UMOK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nest."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to build a nest; to stay put in a place.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UMPES": [
+    {
+      "origin": "-UM-+ EPPES."
+    }
+  ],
+  "UMRES": [
+    {
+      "origin": "-UM-+ ERRES."
+    }
+  ],
+  "UMSI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to scorn, despise, mock.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UNA": [
+    {
+      "definition": "num. one; 1: used only with ALA, o’clock.",
+      "ilok_example": "ALA one o’clock.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "UNO, MAYSA. ; UMUNA"
+      ]
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "first."
+    }
+  ],
+  "UNAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sugar cane."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become hard.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "UNAY": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "very much."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to recommend to be done urgently.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "excessive, very insistent: usually in exclamations."
+    }
+  ],
+  "UNDA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "interval between the steps of a ladder."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do intermittently.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UNDAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "long, lengthy.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "UNEG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "inside, within."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "deep inside, remote.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go inside; to become deep.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take inside; to make (it) deep.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "UNG-UNG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "foolish, crazy.",
+      "conjugation": "/NAG-/"
+    }
+  ],
+  "UNGAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to notch, dent, chip.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be dented, notched, chipped.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "UNGAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to revive, recover, recuperate; to get better.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNGAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to open by prying.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UNGET": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "hot-tempered, quick-tempered, strict, severe, irritable; fierce, ferocious.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get angry, to scold.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNGIB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bite a part of in order to taste.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "UNGIK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "grunt of a pig."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce this sound.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNGKAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stem or stalk of flowers, fruits, etc.; handle."
+    }
+  ],
+  "UNGNGO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to kiss, buss.",
+      "conjugation": "/-UM-, MANG-:-EN, -AN/"
+    }
+  ],
+  "UNGNGOB": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "having cleft palate."
+    }
+  ],
+  "UNGOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "roaring sound."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to roar, growl.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNGOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "coconut shell used as scoop. --cf.",
+      "ilok_example": "BUYUBUY."
+    }
+  ],
+  "UNGTO": [
+    {
+      "definition": "n, end; tip, apex."
+    }
+  ],
+  "UNI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sound, noise."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a sound or noise, to speak.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNIBERSIDAD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "university.",
+      "origin": "f. Sp."
+    }
+  ],
+  "UNIPORME": [
+    {
+      "part_of_speech": "n.",
+      "definition": "uniform.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wear a uniform.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNMONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "heap, pile.",
+      "synonyms": [
+        "PENPEN, BUNTON"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to heap, pile.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UNNAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stretch oneself.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stretch, extend.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UNNOY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sigh, moan; hence, to complain.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNO": [
+    {
+      "definition": "num. one; 1.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "MAYSA, UNA"
+      ]
+    }
+  ],
+  "UNOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to give something to all.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UNOS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hoist, raise with a tackle.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UNSUY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to suffer pain due to dangling.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "UNUNG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to report.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "UNUUN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce a sound like that produced by the contents of a coconut, an egg, etc. when shaken.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UPA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hen esp. mother hen."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "pay, salary, hire, rent."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to work by the day for daily wages.",
+      "conjugation": "/MAKI-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rent, hire.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use as payment, rent or hire.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "UPAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a small leather bag."
+    }
+  ],
+  "UPAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to discourage.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UPER": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stay immersed in water for some time.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to soak, immerse in water.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make soggy by soaking in water.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "UPISINA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "office.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold office, to work in an office.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UPLAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a tree whose leaves are used for scouring purposes."
+    }
+  ],
+  "UPPAT": [
+    {
+      "definition": "num. four; 4.",
+      "synonyms": [
+        "KUATRO"
+      ],
+      "variations": [
+        "-PAT"
+      ]
+    }
+  ],
+  "UPPOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to live with someone.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "URAGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to retail meat.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to buy meat at retail.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "URAM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fire, conflagration."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be burned.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to burn.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "URAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "vein, root."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to develop roots.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "URAUR": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "slender.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "URAY": [
+    {
+      "definition": "KASANO, KASANO MAN, howsoever."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wait.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wait for.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "no matter, even so.",
+      "conjugation": "/MANGI-:"
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "though, although."
+    }
+  ],
+  "URBUN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the young of horse or carabao."
+    }
+  ],
+  "URDEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "priest’s crown."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put this on someone’s head.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have this on one’s head.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "URDON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather, bring together, assemble.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "URIAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shout as when scolding someone.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to shout at angrily.",
+      "conjugation": "/MANG- :-AN/"
+    }
+  ],
+  "URING": [
+    {
+      "definition": "var. of UGING."
+    }
+  ],
+  "URIRIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the sound made by a hungry pig."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make this sound.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "URISAY": [
+    {
+      "part_of_speech": "interj.",
+      "definition": "an expression used to call pigs to eat."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to call pigs to eat.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "URMOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pubic hair."
+    }
+  ],
+  "URNONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather together, assemble.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to collect, gather, assemble.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "URNOS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put in order, arrange, fix; to make neat.",
+      "conjugation": "/AG-, MANG-:-EN/",
+      "common_forms": [
+        "orderly, well-arranged, neat"
+      ]
+    }
+  ],
+  "URO-URO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cleanse with water.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "UROK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to snore.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UROT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to drop, fall, e.g. flowers, hair, seeds, etc.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pull (the hair) when delousing.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "USANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bagasse."
+    }
+  ],
+  "USAOS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to polish by rubbing with a piece of cloth.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "USAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to open a road, clear a path.",
+      "conjugation": "/MANG-/"
+    }
+  ],
+  "USAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fade, discolor.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be colored or stained due to contact with a piece of cloth that fades.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "USIG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to investigate, probe, examine.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "USO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "in vogue, in style.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be in vogue, in style, in fashion.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to be in vogue, in style, in fashion.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "USONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put on one’s clothes.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put on (one’s clothes) over the head.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "USSOG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "without clothes, esp. the upper garment."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove one’s clothes.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove (one’s clothes).",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove the clothes of.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "USTISIA": [
+    {
+      "definition": "var. of HUSTISIA."
+    }
+  ],
+  "USUK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pass under or through a narrow opening.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "UT-UT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "sore, painful, aching.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to ache, feel sore, feel painful.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UTANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "debt, obligation."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to borrow.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "UTEK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "brain."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "brainy, intelligent, bright.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "UTENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tang, tongue of knife, bell, etc."
+    }
+  ],
+  "UTOB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to consider, reflect upon, ponder on.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UTOL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sibling, brother, sister.",
+      "synonyms": [
+        "KABSAT, KABAGIS"
+      ]
+    }
+  ],
+  "UTONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bean."
+    }
+  ],
+  "UTOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mouse.",
+      "synonyms": [
+        "BAO"
+      ]
+    }
+  ],
+  "UTOY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to tire out from waiting.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "UTTOG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "lustful, sexually excitable.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to feel sexually excited.",
+      "conjugation": "/MAKA-/"
+    }
+  ],
+  "UTTOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fart, a release of air from the anus."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fart, to release air from the anus.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "UUNG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mushroom."
+    }
+  ],
+  "UWWAK": [
+    {
+      "definition": "var. of WAK."
+    }
+  ],
+  "UYAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to slither, creep, crawl like a snake.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UYAUY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to dangle, hang and swing loosely.",
+      "conjugation": "/AG-/",
+      "variations": [
+        "UYYAUY"
+      ]
+    }
+  ],
+  "UYAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to mock, criticize, deride, ridicule.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "UYEK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cough."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cough.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UYON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a measure of palay; ten BAAR of palay."
+    }
+  ],
+  "UYONG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "cruel, sadistic, fierce, ferocious.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "UYUKAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "honeybee."
+    }
+  ],
+  "UYUS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pull out as a fiber or thread.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UYUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to persuade, induce.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "UYYAUY": [
+    {
+      "definition": "var. of UYAUY."
+    }
+  ]
+}

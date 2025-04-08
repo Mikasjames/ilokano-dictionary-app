@@ -1,5 +1,5 @@
 export interface Definition {
-	part_of_speech?: "n." | "v." | "adj." | "adv." | "interj.";
+	part_of_speech?: "n." | "v." | "adj." | "adv." | "interj." | "conj." | "prep." | "pron.";
 	definition?: string;
 	eng_example?: string;
 	ilok_example?: string;

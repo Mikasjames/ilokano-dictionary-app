@@ -8,7 +8,7 @@
 	} from "$lib/components/ui/card";
 	import { Separator } from "$lib/components/ui/separator";
 	import { Badge } from "$lib/components/ui/badge";
-	import { getPartsOfSpeech } from "$lib/utils";
+	import { getPartsOfSpeech, processCommasAndDots } from "$lib/utils";
 	import type { Definition } from "$lib/types/types";
 
 	let { word }: { word: string | null | undefined } = $props();
@@ -21,7 +21,10 @@
 			return;
 		}
 
-		const letter = word.charAt(0).toUpperCase();
+		let letter = word.charAt(0).toUpperCase();
+		if (letter === "-") {
+			letter = word.charAt(1).toUpperCase();
+		}
 		const dict = await import(`$lib/${letter}.json`);
 		const def: Record<string, Definition[]> = dict.default;
 
@@ -68,13 +71,27 @@
 					</div>
 				{/if}
 
+				{#if def.common_forms}
+					<Separator />
+					<div>
+						<h3 class="text-lg font-medium mb-2">Common Forms</h3>
+						<div class="flex flex-wrap gap-2">
+							{#each def.common_forms as cf}
+								<Badge class="cursor-pointer">{cf}</Badge>
+							{/each}
+						</div>
+					</div>
+				{/if}
+
 				{#if def.synonyms}
 					<Separator />
 					<div>
 						<h3 class="text-lg font-medium mb-2">Synonyms</h3>
 						<div class="flex flex-wrap gap-2">
 							{#each def.synonyms as synonym}
-								<Badge class="cursor-pointer">{synonym}</Badge>
+								{#each processCommasAndDots(synonym) as syn}
+									<Badge class="cursor-pointer">{syn}</Badge>
+								{/each}
 							{/each}
 						</div>
 					</div>
@@ -86,7 +103,9 @@
 						<h3 class="text-lg font-medium mb-2">Antonyms</h3>
 						<div class="flex flex-wrap gap-2">
 							{#each def.antonyms as antonym}
-								<Badge class="cursor-pointer">{antonym}</Badge>
+								{#each processCommasAndDots(antonym) as ant}
+									<Badge class="cursor-pointer">{ant}</Badge>
+								{/each}
 							{/each}
 						</div>
 					</div>

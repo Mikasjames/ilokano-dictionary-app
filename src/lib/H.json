@@ -1,0 +1,216 @@
+{
+  "HAAN": [
+    {
+      "definition": "var. of SAAN."
+    }
+  ],
+  "HAISKUL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "high school.",
+      "origin": "f. Eng."
+    }
+  ],
+  "HAMON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ham.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HANMAN": [
+    {
+      "definition": "var. of SANMAN."
+    }
+  ],
+  "HAPON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1, Japan. 2.",
+      "ilok_example": "Japanese.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HAPONESA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a female Japanese.",
+      "origin": "haponεsa; f. Sp."
+    }
+  ],
+  "HARDIN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "garden.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HENERAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "general.",
+      "origin": "hεnεral; f. Sp."
+    }
+  ],
+  "HEPE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chief, chief of police.",
+      "origin": "hεpε; f. Sp.",
+      "synonyms": [
+        "TSIP"
+      ]
+    }
+  ],
+  "HERPIN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hairpin.",
+      "origin": "hεrpin; f. Eng.",
+      "synonyms": [
+        "ARIPIT"
+      ]
+    }
+  ],
+  "HESUKRISTO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "Jesus Christ.",
+      "origin": "hεsukristo; f. Sp."
+    }
+  ],
+  "HIGANTE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a giant.",
+      "origin": "higantε; f. Sp."
+    }
+  ],
+  "HIMNO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hymn, anthem.",
+      "ilok_example": "FILIPINO, Philippine (National) Anthem.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HOLEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a marble, a little ball made of a hard substance (usually glass) used in various games. 2. a children’s game played with marbles.",
+      "origin": "holεn; f. Eng.",
+      "synonyms": [
+        "BULINTIK"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to play marbles.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to play marbles with.",
+      "conjugation": "/MAKI-: KA-/",
+      "synonyms": [
+        "BULINTIK"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "in a game of marbles, to roll or toss a marble into a hole.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "HUDIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a Jew.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HUEBES": [
+    {
+      "definition": "n, Thursday.",
+      "origin": "huεbεs; f. Sp."
+    }
+  ],
+  "HUES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "judge.",
+      "origin": "huεs; f. Sp.",
+      "synonyms": [
+        "UKOM"
+      ]
+    }
+  ],
+  "HUISIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "arraignment.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HUK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "an outlawed organization operating principally in Central Luzon.",
+      "origin": "f. Tag."
+    }
+  ],
+  "HULYO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "July.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HUNTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "board.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HUNYO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "June.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HURADO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. jury. 2. board of judges.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HURNO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "any of several kinds of containers in which cake is baked.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HUSGADO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "court of justice.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HUSTISIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "justice.",
+      "origin": "f. Sp."
+    }
+  ],
+  "HUSTO": [
+    {
+      "definition": "var. of KUSTO."
+    }
+  ]
+}

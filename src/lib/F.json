@@ -1,0 +1,42 @@
+{
+  "FIESTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "feast, festival.",
+      "origin": "fiεsta; f. Sp.",
+      "variations": [
+        "PIESTA"
+      ]
+    }
+  ],
+  "FILIPINA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a female Filipino.",
+      "origin": "f. Sp.",
+      "variations": [
+        "PILIPINA"
+      ]
+    }
+  ],
+  "FILIPINAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the Philippines.",
+      "origin": "f. Sp.",
+      "variations": [
+        "PILIPINAS"
+      ]
+    }
+  ],
+  "FILIPINO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a male Filipino.",
+      "origin": "f. Sp.",
+      "variations": [
+        "PILIPINO"
+      ]
+    }
+  ]
+}

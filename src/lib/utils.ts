@@ -70,3 +70,7 @@ export function getPartsOfSpeech(pos: Definition["part_of_speech"]) {
 			return undefined;
 	}
 }
+
+export function processCommasAndDots(syn: string) {
+	return syn.split(/[,.]/);
+}

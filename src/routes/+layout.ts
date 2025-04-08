@@ -9,7 +9,7 @@ export const load = async () => {
 		navigator.serviceWorker
 			.register(`${base}/service-worker.js`, {
 				type: "module",
-				scope: base || "/"
+				scope: base + "/" || "/"
 			})
 			.catch(console.error);
 	}

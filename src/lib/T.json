@@ -1,0 +1,3822 @@
+{
+  "-TLU": [
+    {
+      "definition": "var. of TALLU, three: used only with certain prefixes."
+    }
+  ],
+  "TA": [
+    {
+      "part_of_speech": "conj.",
+      "definition": "because, lest, that, so that, etc.; a ligature."
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "by the two of us, by you (sg.) and me, the two of us (as actor): the agent of DATA."
+    },
+    {
+      "variations": [
+        "DITA, DAYTA"
+      ],
+      "definition": "abbreviation of the demonstrative adjective DAYTA and of the adverb of place DITA."
+    }
+  ],
+  "TAAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ocean, sea. --cf.",
+      "ilok_example": "BAYBAY TABA, n fat of an animal; adipose tissue; bacon; suet; grease; cream; substance of food."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "fat, fatty oily, unctuous, greasy; fertile, rich (soil)."
+    }
+  ],
+  "TABAKU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tobacco."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to smoke tobacco, esp. a cigar.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TABAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "select, choice, exquisite, superior, of the best quality; applied to coconuts, betel nuts, fruits of the red pepper or chili, etc."
+    }
+  ],
+  "TABAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "form of a dress, a face, etc.; fit, style, fashion, shape, pattern, outline, type; figure, look, aspect, countenance, air, appearance, semblance."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut (a cloth or dress) according to a pattern.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be cut, as of a dress.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut grass.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TABATAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to trim the brim of a hollow receptacle.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TABBAAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to curse, utter imprecations, swear; to blaspheme.",
+      "conjugation": "/AG-/",
+      "origin": "AGTABTABBAAW"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to curse someone.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be cursed.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "TABBED": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "dull, slow, stupid, heavy, rude (used of one’s understanding).",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be dull, etc.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TABBEL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hard evacuation from the intestines."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to excrete hard waste from the intestines with difficulty.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TABBI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall together, both of them, e.g. wrestlers, gamecocks.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TABBIRAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to intrude, intermeddle, meddle, interpose officiously; to look from behind, over the shoulder.",
+      "conjugation": "/-UM-/. /AG-, MANG-:-EN/"
+    }
+  ],
+  "TABBUGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stamp heavily with the feet.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TABID": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to twist yarn or thread.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TABLA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "wooden board."
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "in a game or contest, to have a draw; to end in a tie.",
+      "conjugation": "/MAKI- KA-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "being a draw, a tie."
+    }
+  ],
+  "TABNAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to plunge, thrust or cast oneself into water, submerge, dive, immerse oneself, immerge; to interpose, intervene, step in, interfere so as to defend somebody.",
+      "conjugation": "/-UM-, AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to thrust or cast into water, to plunge into water, immerse, submerge.",
+      "conjugation": "/MANGI- : I-/"
+    }
+  ],
+  "TABTAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hollow out the side pieces of a ladder or stairs for the rungs or steps that fit in them.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TABU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "can scooper; a kind of dipper consisting of a section of a thick bamboo, about half a yard long, attached to a long pole and used to dip water; used in some districts."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to scoop.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be used as a scoop.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "TABUKUL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a casting net; a round casting net used in rivers and at sea, and occasionally to catch birds."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cast a net.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be caught by a net, said of fish.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "TABUN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "burial."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to inter, bury, inhume.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to embank; to throw up a bank, an embankment.",
+      "conjugation": "/-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to attend a funeral.",
+      "conjugation": "/MAKI-/"
+    }
+  ],
+  "TABUNGAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "gourd; the bottle gourd.",
+      "ilok_example": "Lagenaria leucantha (Lam.) Rusby."
+    }
+  ],
+  "TABUNU": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to join a large party, assembly, concourse, etc.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to accumulate, pile up, heap up, amass, agglomerate.",
+      "conjugation": "/-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to accumulate, crowd, e.g. duties, work, etc.",
+      "conjugation": "/AG-/",
+      "origin": "AGTATABUNU"
+    }
+  ],
+  "TABUY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to incite, stimulate, excite, encourage, spur, urge on, stir up, animate, prompt.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be stimulated.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "TADEM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "edge; the cutting side of the blade of a knife, an axe, a saw, etc."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "sharp, keen, penetrating; clever, shrewd, acute, quick; cutting, trenchant, incisive, crisp; mordant, stinging, biting; piercing, burning, excessively hot; said of knives, etc.; the sight, the intellect, expressions, the tongue, the sun, etc.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become sharp, keen, etc.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "TADI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "gaff, metal spur for gamecocks."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go to a cockfight.",
+      "conjugation": "/MAKI-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to match a gamecock with another.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a metal spur for gamecocks.",
+      "conjugation": "/I-/"
+    }
+  ],
+  "TADTAD": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "cut into pieces, etc.; covered with wounds, wounded all over.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut or chop into pieces, to mince, hash.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be cut into pieces.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "TAEB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be contemporaries, of the same age, coetaneous.",
+      "conjugation": "/AGKA-/"
+    }
+  ],
+  "TAENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "residence, domicile, dwelling place, place of habitation."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to reside, abide, dwell, stay, tarry; to come from; to refrain, abstain, forbear, hold back.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "adult, mature.",
+      "conjugation": "/NA--AN/"
+    }
+  ],
+  "TAEP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chaff, husk (of rice); glume, husk, hull of grains."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to winnow.",
+      "conjugation": "/AG-, I-:-AN/"
+    }
+  ],
+  "TAER": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "graceful, elegant, well-shaped, highminded, spirited.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "TAGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to trim, work, shape by cutting, e.g. wood, stone, etc.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TAGA-": [
+    {
+      "definition": "a prefix indicating place of origin."
+    }
+  ],
+  "TAGAANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of underground furnace similar to the"
+    }
+  ],
+  "TAGAANU": [
+    {
+      "part_of_speech": "interj.",
+      "definition": "from where?"
+    }
+  ],
+  "TAGABU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "servant."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make someone a servant.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to be a servant, to enslave.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TAGAINEP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dream."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to dream.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to dream of.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TAGAPULUT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sugar."
+    }
+  ],
+  "TAGARI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a noise, to talk, say something.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "talkative, noisy, chatterer.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "TAGBAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut or hack with a big knife.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "TAGENTENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "hard, firm, compact: said of the soil.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "TAGGUAB": [
+    {
+      "definition": "see PATAGGUAB."
+    }
+  ],
+  "TAGIBALAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to keep house. --cf.",
+      "ilok_example": "BALAY.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TAGIBASSIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to belittle, depreciate, deprecate.",
+      "eng_example": "He has given much to his district but he still belittles this.",
+      "ilok_example": "Adu ti naipaay na iti distrito na ngem tagibassiten na pay laeng.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TAGIBI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "infant, nursing child, baby."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to nurse a baby.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to nurse, take care of as a baby.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TAGIKUA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "property, possessions."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to own, possess, be the owner of.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TAGIRGIR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to tremble, shake, shiver.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TAGIRUUT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "love charm. --cf.",
+      "ilok_example": "GAYUMA."
+    }
+  ],
+  "TAGNAWA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to help, cooperate in doing a task.",
+      "conjugation": "/MAKI-/"
+    }
+  ],
+  "TAGTAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to be shaken, jerked, jolted or addled.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be shaken, jerked or jolted.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "TAGUUB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "howl (of dogs)."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to howl.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TAHAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sharpen as a pencil.",
+      "conjugation": "/AG-, MANG-:-AN/",
+      "origin": "f. Sp.",
+      "variations": [
+        "TASA"
+      ]
+    }
+  ],
+  "TAHU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of delicatessen."
+    }
+  ],
+  "TAKAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to steal, pilfer, filch.",
+      "ilok_example": "MANNANAKAW,",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "robber, thief, pilferer."
+    }
+  ],
+  "TAKBA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to embrace from behind, to go piggy-back on.",
+      "conjugation": "/-UM-, MANG-:-AN/"
+    }
+  ],
+  "TAKDANG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go ashore or on land from the water.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take to land out from the water.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TAKDER": [
+    {
+      "part_of_speech": "n.",
+      "definition": "form posture, appearance."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stand up, to rise.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to set upright, to cause to stand up.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TAKEM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "position, office."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hold an office or position.",
+      "conjugation": "/AG-, -UM-/"
+    }
+  ],
+  "TAKKAB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cover, lid.",
+      "synonyms": [
+        "KALUB"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cover.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use as cover on.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TAKKI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "excreta, stool, feces, dung."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to defecate, evacuate.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to excrete as excreta.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have loose bowel movement, to have diarrhea.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TAKKIAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "arm of body."
+    }
+  ],
+  "TAKKIAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to escape, slip off, run away.",
+      "conjugation": "/AG-, -UM-/"
+    }
+  ],
+  "TAKKUAP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to patch up, to repatch as the roof of a house.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "TAKKUAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to discover unexpectedly, to find out by chance.",
+      "conjugation": "/MAKA-: MA--AN/"
+    }
+  ],
+  "TAKKUB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lid or cover. --cf.",
+      "ilok_example": "AKKUB."
+    }
+  ],
+  "TAKKUN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "seldom, scarce, few.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "TAKNENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "courteous, amiable, suave, affable.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "TAKRUT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "cowardly, timid, fainthearted.",
+      "conjugation": "/(NA-)/"
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "TAKTAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to delay from leaving, to hold back longer.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TAKTIKA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tactics, strategy.",
+      "ilok_example": "MILITAR, military tactic.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TAKU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "scoop, dipper."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to scoop.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TAKUNG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sow; the female hog."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "sole (of shoe)."
+    }
+  ],
+  "TAKUP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "patch."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to patch (clothes).",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "TAKYAG": [
+    {
+      "definition": "see TAKKIAG."
+    }
+  ],
+  "TAL-AY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to walk, travel, to journey by land.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TALAGA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "true, in fact."
+    }
+  ],
+  "TALATAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to roll or turn over and over.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to roll over and over.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TALAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go away, run away, flee.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go or run away with.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TALAYTAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bridge."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to walk on a bridge.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to walk on as a bridge.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TALDENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hole in the nasal septum of a carabao or other mammals."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a hole In the nasal septum of.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "TALDIAP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to take a glimpse of, to glance at.",
+      "conjugation": "/-UM-, MANG-:-AN/"
+    }
+  ],
+  "TALEB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "wooden partition inside a house."
+    }
+  ],
+  "TALEK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "trusted, trustworthy; close, intimate.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pay attention to, take care of.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TALI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "rope, cord, cable."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to twist into a rope or cord.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TALIAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to look back by turning the head.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to look back at.",
+      "conjugation": "/MANG- :-EN/"
+    }
+  ],
+  "TALIBAGUK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "luck-bringing talisman."
+    }
+  ],
+  "TALIMUDAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to feel faint, dizzy.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TALINAAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "peaceful, calm, serene.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "TALINAED": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to reside, live, stay, remain.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TALIWAYWAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to set free, let go.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "TALLAKEB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a basket-like contraption used in catching fish in shallow waters."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to catch (fish) using this.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "TALLAUNG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "crowd."
+    }
+  ],
+  "TALLIKUD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to turn one’s back, to turn around.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to turn one’s back to.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "TALLU": [
+    {
+      "definition": "num. three, 3.",
+      "synonyms": [
+        "TRES"
+      ],
+      "variations": [
+        "-TLU"
+      ]
+    }
+  ],
+  "TALMEG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to press down, to put pressure on.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TALNA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "calm, peaceful, quiet, tranquil, still.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to keep calm, still, quiet.",
+      "conjugation": "/-UM-/. /AG-/"
+    }
+  ],
+  "TALTAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pound (rice) in order to remove only the husk.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TALTAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "MANG-:-EN/ to beat into a pulp, to crush.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "TALUKAB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "eyelid. --cf.",
+      "ilok_example": "KALUB TI MATA."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "carapace of crabs."
+    }
+  ],
+  "TALUKATIK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to play a tune with the finger; to tap with the fingers.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TALUN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "field, esp. rice field."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to farm, cultivate; to plant with rice.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TALUNTUN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to investigate, examine, trace.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TAMA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit as with a missile.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "TAMALES": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a dish of small fish seasoned with vinegar, salt and ginger, wrapped in banana leaves and steamed in a small amount of water.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cook this dish.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cook into this dish.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TAMBAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dike, levee, embankment."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to build a dike or levee.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to build a dike across or around.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "TAMBUR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "drum."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to beat a drum.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to beat like a drum.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TAMMI": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "with protruding underlip."
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TAMMUDU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "forefinger, index finger."
+    }
+  ],
+  "TAMNAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "lacking salt, tasteless, insipid, flat.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "TAMPIPI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chest or trunk made of split bamboo or the like."
+    }
+  ],
+  "TAN-AW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to look out from a window or an elevated place.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to look out or down at.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TAN-UK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "exalted, eminent, famous, illustrious, celebrated.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to exalt, extol, praise, commend.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TANABUTUB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to mumble, grumble, growl.",
+      "conjugation": "/AG-, -UM-/"
+    }
+  ],
+  "TANAP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "plain, level land; plateau."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to level.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TANDA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sign, mark, indication; signal."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a mark or sign on.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make the sign of the cross.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TANEM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "graveyard, tomb, grave, mound."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bury, inter.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TANG-ED": [
+    {
+      "part_of_speech": "n.",
+      "definition": "to nod usually as a sign of assent.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "to nod at.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "TANGA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "stupid, ignorant, dumb.",
+      "conjugation": "/NAG-/"
+    }
+  ],
+  "TANGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "thumb."
+    }
+  ],
+  "TANGATANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sky, firmament."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fallow, to remain uncultivated for one or more years: said of rice fields.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hang, suspend.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TANGAY": [
+    {
+      "definition": "var. of YANTANGAY."
+    }
+  ],
+  "TANGBAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "beam or shaft of a plow or sugar mill."
+    }
+  ],
+  "TANGDAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "salary, pay, wages, hire; salary, stipend, fee. -- cf.",
+      "ilok_example": "SUILDU."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pay for work done, to give salary to.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "TANGGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pitch pennies against.",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pitch pennies against one another.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "TANGGAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be in a period of confinement after childbirth.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TANGGUYUB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bugle made of carabao horn."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to blow this horn.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TANGIG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "haughty, proud, arrogant.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "TANGSIT"
+      ]
+    }
+  ],
+  "TANGKAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cage or basket for chicken, birds, etc."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to confine in a cage or basket.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TANGKAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stem of plant."
+    }
+  ],
+  "TANGKEN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "hard, solid, firm.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "hardened; mature.",
+      "conjugation": "/NA--AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "TANGKUY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a kind of vine with oval edible fruits. 2. the fruit of this."
+    }
+  ],
+  "TANGSIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "haughty, proud, arrogant, vain, conceited.",
+      "conjugation": "/(NA-)/",
+      "synonyms": [
+        "TANGIG"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "TANTAN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to defer, postpone, delay.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TAPA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dried salted meat."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make into this.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TAPAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "plaster, patch."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a plaster on, to patch.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to patch on, to put on as plaster.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TAPAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to serenade.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TAPAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to float.",
+      "conjugation": "/-UM-/",
+      "origin": "TUMPAW"
+    }
+  ],
+  "TAPAYA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to support one’s head with the hands.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to support with the palm of the hand, to hold up, support.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TAPINGAR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "comb of a fowl."
+    }
+  ],
+  "TAPKAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stick something on, to put a plaster on, to smear.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "TAPLIAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to spill or splash hot water on.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to spill or splash on as hot water.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TAPNO": [
+    {
+      "part_of_speech": "conj.",
+      "definition": "so that, in order that, lest."
+    }
+  ],
+  "TAPPUAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to jump down.",
+      "conjugation": "/AG-, -UM-/",
+      "variations": [
+        "TAPWAK"
+      ]
+    }
+  ],
+  "TAPUG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to jump into the water.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to jump with someone or something into the water.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TAPUK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dust."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make dusty.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "TAPUN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cork for plugging a bottle, hole, etc. --cf.",
+      "ilok_example": "SULLAT."
+    }
+  ],
+  "TAPUS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "end, termination, close."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to end, terminate, finish.",
+      "conjugation": "/AG-, MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to end, finish, terminate.",
+      "conjugation": "/MANG-: -EN/"
+    }
+  ],
+  "TAPWAK": [
+    {
+      "definition": "var. of TAPPUAK."
+    }
+  ],
+  "TARABIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "rapid, fast, quick.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "TARABITAB": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "talkative, chatterer, babbler, tattler."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to gossip, tattle, chatter.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to gossip about, chatter about.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TARABUTAB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "foam, froth, spume, scum."
+    }
+  ],
+  "TARADDEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to move with light quick steps.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TARAIGID": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the edge, border or rim of."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to walk on the edge, border or rim of.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TARAKATAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce intermittent sounds, like the sounds produced by a heavy rain.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TARAKEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pet, ward."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to take care of, raise, rear.",
+      "conjugation": "/AG-, MANG-:-EN/",
+      "origin": ": TARAKNEN"
+    }
+  ],
+  "TARAMPO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "top (a toy).",
+      "synonyms": [
+        "SUNAY"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to spin a top.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TARAUDI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "last part, ending.",
+      "common_forms": [
+        "TARTARAUDI"
+      ]
+    }
+  ],
+  "TARAUK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "crow of rooster."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to crow like a rooster.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TARAUN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "food, nourishment."
+    }
+  ],
+  "TARAWITAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "talkative.",
+      "conjugation": "/(NA-)/"
+    }
+  ],
+  "TARAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to run, run away.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to run to.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to run away with.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to run away with, to elope with.",
+      "conjugation": "/MAKI-: KA-/"
+    }
+  ],
+  "TARIGAGAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "desire, wish, aspiration."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wish, desire, hope, aspire for.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TARIKAYU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "timber. --cf.",
+      "ilok_example": "KAYU."
+    }
+  ],
+  "TARIKITIK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce intermittent light sounds like those produced by a drizzle.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TARIMAAN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put in proper order, to do properly; to fix.",
+      "conjugation": "/AG-, MANG-:-EN/",
+      "origin": ": TARIMNEN"
+    }
+  ],
+  "TARINDANUM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "itchiness between the toes or fingers caused by prolonged soaking in water."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have this, be affected with this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a skin infection affecting the hands and feet caused by prolonged and repeated soaking and characterized by itchiness."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be affected by this.",
+      "conjugation": "/AG-, -EN/"
+    }
+  ],
+  "TARIPNUNG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "meeting, assembly, congregation."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to attend a meeting or assembly.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to convene, gather together for a meeting.",
+      "conjugation": "/MANG-: -EN/"
+    }
+  ],
+  "TARMIDUNG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pimple.",
+      "synonyms": [
+        "KAMURO"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have pimples.",
+      "conjugation": "/AG-, -EN/"
+    }
+  ],
+  "TARUNG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "eggplant."
+    }
+  ],
+  "TARUS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "keen, sharp.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to go directly or straight.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be able to understand or grasp.",
+      "conjugation": "/MAKA-: MA--AN/"
+    }
+  ],
+  "TASA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cup.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "KAP. var. of TAHAR"
+      ]
+    }
+  ],
+  "TASTAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to rip, tear up.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TATANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. father, godfather. 2. any old man.",
+      "ilok_example": "ITI BUNYAG, godfather."
+    }
+  ],
+  "TAU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "person, human being."
+    }
+  ],
+  "TAUD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to come from, originate.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TAUL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bark.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bark at.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "TAWA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "window."
+    }
+  ],
+  "TAWAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to publish, proclaim, cry.",
+      "conjugation": "/MANGI-:-I-/"
+    }
+  ],
+  "TAWAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to haggle, bargain.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lower the price of, to offer a lower price for.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "TAWATAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to roam, wander.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TAWEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "year, age."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have as age, to be as old as.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TAWID": [
+    {
+      "part_of_speech": "n.",
+      "definition": "inheritance, heritage."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to inherit.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TAWWATAWWA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the castor-oil plant."
+    }
+  ],
+  "TAY": [
+    {
+      "definition": "1. var. of TAYU. 2. short form of DAYTAY."
+    }
+  ],
+  "TAYA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to catch, collect.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TAYAB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pot with wide mouth used for cooking vegetables, meat, fish, etc. but not rice."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fly.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fly to.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fly away with.",
+      "conjugation": "/MANGI- : I-/"
+    }
+  ],
+  "TAYAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "tall, high.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "TAYU": [
+    {
+      "part_of_speech": "pron.",
+      "definition": "you (plural) and I, we (inclusive): the enclitic nominative of DATAYU.",
+      "variations": [
+        "TAY"
+      ]
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "1. our (inclusive), of you (plural) and me, your (plural) and my. 2. by you (plural) and me, by us (inclusive): the enclitic oblique of DATAYU.",
+      "variations": [
+        "TAY"
+      ]
+    }
+  ],
+  "TAYYEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to spin, whirl, rotate.",
+      "conjugation": "/AG-, -UM-/"
+    }
+  ],
+  "TEATRU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "theater.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TEBBA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut down (a banana plant).",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TEBBAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to crumble down.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to crumble down.",
+      "conjugation": "/MA-/",
+      "origin": "MATBAG"
+    }
+  ],
+  "TEBBENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a hole in the earlobe for earrings."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a hole in the earlobe.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a hole in the earlobe of.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "TED": [
+    {
+      "definition": "see ITED."
+    }
+  ],
+  "TEDDEK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "post.",
+      "synonyms": [
+        "ADIGI, POSTE"
+      ]
+    }
+  ],
+  "TEDTED": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall in droplets, to drip, trickle.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TEKKA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of gecko."
+    }
+  ],
+  "TEKKEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a pole for pushing a boat."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use this.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TEKNIKO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "technician.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TEKTEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cry like a house lizard.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TELEBISION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "television.",
+      "origin": "f. Eng."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to watch television.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TELEPONO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "telephone.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use a telephone.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to call by telephone, to telephone.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tell or send by telephone.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TELON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stage curtains, screen on which movie is projected.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TELTEL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nape, back of neck."
+    }
+  ],
+  "TEMPORARIO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "temporary.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TEMTEM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bonfire."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bake in hot ashes.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a bonfire.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TENGNGA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "middle, center.",
+      "ilok_example": "TI ALDAW, midday, noon."
+    }
+  ],
+  "TENGNGEL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to subdue, restrain, check, hold back.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TENIDOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fork used for eating.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TENIENTE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lieutenant.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TEPPANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "precipice, cliff."
+    }
+  ],
+  "TERITORIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "territory.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TESURERO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "treasurer.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TI": [
+    {
+      "definition": "art. the. var. of ITI."
+    }
+  ],
+  "TIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "aunt.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "IKIT"
+      ]
+    }
+  ],
+  "TIAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "belly, stomach."
+    }
+  ],
+  "TIANI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tweezers, pliers."
+    }
+  ],
+  "TIBAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to knock under the chin.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TIBBAYU": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to heave due to alarm, fear, surprise. etc.: said of the chest.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TIBBENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pierce a hole through the lobes of the ear where earrings are hooked.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "TIBKUL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stumble, trip.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "TIBNUK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to throw cold water into hot liquid to make it cooler.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to throw into hot liquid so as to make it cooler.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TIDDA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "remainder, leftover, residue."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to leave as remainder or leftover.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be left.",
+      "conjugation": "/MA-/",
+      "origin": "MATDA"
+    }
+  ],
+  "TIEMPO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "time; condition, situation.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "often",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to come upon by chance.",
+      "conjugation": "/MAKA-:-AN/"
+    }
+  ],
+  "TIENDA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "store, market.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to buy something at a store or market.",
+      "conjugation": "/MAKI-/"
+    }
+  ],
+  "TIENDAAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "market.",
+      "synonyms": [
+        "TIANGGI, MERKADO"
+      ]
+    }
+  ],
+  "TIG-AB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to eructate.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TIGERGER": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to tremble, shiver, shake.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TIGNAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to move, stir.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to stir, move.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TIK-UL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to knock (someone) on the head.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to knock on something.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to collide, knock against each other.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "TIKAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "arid, dry, parched: said of land.",
+      "ilok_example": "V.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "TIKET": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ticket.",
+      "origin": "f. Eng."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get a ticket.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to give a ticket to.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "TIKLEB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall down on one’s face.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "TIKTIK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "spy.",
+      "synonyms": [
+        "ISPIA"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "often",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to spy on.",
+      "conjugation": "/MAKA-: MA--AN/"
+    }
+  ],
+  "TIL-AY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to tiptoe.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TILDE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "period, dot (punctuation mark).",
+      "origin": "f. Sp."
+    }
+  ],
+  "TILDI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "clitoris."
+    }
+  ],
+  "TILLAYON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to dangle, swing.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TILMUN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "swallow of food or water."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to swallow.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TIM-UG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to collide, to hit each other on the head.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit or knock against.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to knock one’s head against something accidentally.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "TIMAM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to knock on the point of the chin or lower jaw.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TIMBA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pail, bucket.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use a pail or bucket in fetching or getting.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TIMBENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "calm, prudent.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to weigh.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TIMBENGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "scales."
+    }
+  ],
+  "TIMBUKEL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "round, globular, spherical.",
+      "conjugation": "/(NA-)/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make round or spherical.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TIMEK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "voice."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to speak, to make a sound.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TIMID": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chin."
+    }
+  ],
+  "TIMMUTIL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "Adam’s apple."
+    }
+  ],
+  "TINA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dye, indigo.",
+      "synonyms": [
+        "TAYUM"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to dye.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TINABI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sewing thread."
+    }
+  ],
+  "TINAPA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "salted fish, smoked fish."
+    }
+  ],
+  "TINAPAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bread, biscuit."
+    }
+  ],
+  "TING-IAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a native of the province of Abra."
+    }
+  ],
+  "TINGAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "prop, wedge."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put a wedge under, to prop or support.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use as wedge or prop.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TINGGA": [
+    {
+      "definition": "see PATINGGA."
+    }
+  ],
+  "TINGI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to retail, to sell by piece not by lot.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TINGIG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "leaning or inclined sideways."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lean or incline sideways.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TINING": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "calm and clear like water in a pond.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "TINNAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall down, drop unintentionally.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to fall down, to drop.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall down, drop.",
+      "conjugation": "/MA-/",
+      "origin": "MATNAG"
+    }
+  ],
+  "TINTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "writing ink.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TINTURA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tincture of iodine.",
+      "origin": "f. Sp.",
+      "common_forms": [
+        "DE YODO"
+      ]
+    }
+  ],
+  "TINUKEL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bit, particle."
+    }
+  ],
+  "TIPED": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to economize, be frugal, economical.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use economically, to conserve.",
+      "conjugation": "/MANG- :-EN/",
+      "origin": ": TIPDEN"
+    }
+  ],
+  "TIPKEL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mass, lump, clod."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to form into a lump, clod, etc.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TIPO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "type.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TIPPAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to knock out of someone’s hand, to cause to fall down from someone’s grasp.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "TIPPING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chip, notch, break"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to have a chip, to chip or break off a part of.",
+      "conjugation": "/-UM-, MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be chipped.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "TIPUN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather, assemble, put together, collect.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to add to a collection, gathering, assembly or the like.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather, assemble; to come together; hence, to live as man and wife.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "TIRAD": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "pointed, sharp.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make pointed, furnish with a sharp point.",
+      "conjugation": "/-AN/"
+    }
+  ],
+  "TIRAYUK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gush out, spout, jet, spurt.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "TIREM": [
+    {
+      "part_of_speech": "n.",
+      "definition": "oyster."
+    }
+  ],
+  "TIRITIR": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "twisted."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become twisted.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wring, twist.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TIRTIRIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "doll.",
+      "synonyms": [
+        "MUMUNYIKA, TUTUNIKA"
+      ]
+    }
+  ],
+  "TISA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chalk.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TITSER": [
+    {
+      "part_of_speech": "n.",
+      "definition": "teacher.",
+      "origin": "f. Eng.",
+      "synonyms": [
+        "MAESTRO, MAESTRA"
+      ]
+    }
+  ],
+  "TITULO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "title.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TIWATIW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to dangle, hang.",
+      "conjugation": "/AG-/",
+      "variations": [
+        "TIWWATIW"
+      ]
+    }
+  ],
+  "TIWENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "moving from one side of the bed to the other when sleeping.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "TIWWATIW": [
+    {
+      "definition": "var. of TIWATIW."
+    }
+  ],
+  "TO": [
+    {
+      "definition": "an enclitic particle used to indicate future time."
+    }
+  ],
+  "TONO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tone.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TORO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bull.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TOY": [
+    {
+      "definition": "short for DAYTOY or DITOY."
+    }
+  ],
+  "TRABAHADOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "laborer.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "hard-working."
+    }
+  ],
+  "TRABAHO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "work, job, task.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to work.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TRAHEDIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tragedy.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TRAIDOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "traitor.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TRAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "truck.",
+      "origin": "f. Eng."
+    }
+  ],
+  "TRAMBIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tramcar, streetcar that runs on rails.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TRANSIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bus.",
+      "origin": "f. Eng.",
+      "synonyms": [
+        "BUS"
+      ]
+    }
+  ],
+  "TRAPO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "rag, a piece of cloth used in wiping.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wipe with a wiping cloth.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "TREN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "railway train.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TRES": [
+    {
+      "definition": "num, three, 3.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "TALLO"
+      ]
+    }
+  ],
+  "TRIBO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tribe.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TROPEO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "trophy.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TROSO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "log.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TRUMBUN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "trombone.",
+      "origin": "f. Eng.",
+      "synonyms": [
+        "ISLAID"
+      ]
+    }
+  ],
+  "TRUMPETA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "trumpet.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TSAMPION": [
+    {
+      "part_of_speech": "n.",
+      "definition": "champion.",
+      "origin": "f. Eng.",
+      "variations": [
+        "KAMPEON"
+      ]
+    }
+  ],
+  "TSANI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tweezers.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TSESA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of fruit-bearing tree."
+    }
+  ],
+  "TSIKO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a kind of fruit-bearing tree. 2. its fruit."
+    }
+  ],
+  "TSINELAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "slipper.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wear slippers.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to beat with a slipper.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TSIP": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chief; chief of police; chief of an office.",
+      "origin": "f. Eng."
+    }
+  ],
+  "TSUKULATE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chocolate.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TUANG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to fall down from an upright position, to tumble down.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall down, tumble down.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "TUBA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sap of palm trees."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get juice from a palm tree.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TUBBU": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to harvest sugar cane by cutting it down.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to harvest (sugar cane) by cutting it down.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TUBBUG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "juice, sap; any liquid secretion."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to secrete juice, sap, milk, etc.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TUBEG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to become rotten due to too much moisture or water.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "TUBLAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to slide down, tumble down, fall down.",
+      "conjugation": "/MAI-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to tumble down, fall down.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TUBO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sprout, shoot, bud."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sprout, shoot; to germinate.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "gain, profit."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to gain, profit; to get as profit.",
+      "conjugation": "/AG-:-EN/"
+    }
+  ],
+  "TUBONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a tube consisting of an internode of bamboo."
+    }
+  ],
+  "TUDING": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to designate, appoint, specify.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": " to be designated, appointed.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "TUDIO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "meek, docile, obedient, submissive.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TUDO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "rain."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rain.",
+      "conjugation": "/AG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be caught in the rain, to be wet by the rain.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "TUDU": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to point at, show, indicate.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TUGAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "seat, chair, bench."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sit down.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to sit down, to sit; to put on a seat.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sit on.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "TUGI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of yam with brown skin and white meat."
+    }
+  ],
+  "TUGKEL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stick; to be driven into something.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to plant or drive into something.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TUGLEP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to have one’s eyes closed and head nodding due to drowsiness.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TUGUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bring, take along, carry along.",
+      "conjugation": "/AGI-, MANGI-: I-/"
+    }
+  ],
+  "TUKAD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "step of a ladder, rung."
+    }
+  ],
+  "TUKAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "frog."
+    }
+  ],
+  "TUKAKTUKAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "wart."
+    }
+  ],
+  "TUKAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to play as a musical instrument.",
+      "conjugation": "/AG-, MANG-:-EN/",
+      "origin": "f. Sp."
+    }
+  ],
+  "TUKAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to disrupt the sleep of, to disturb (someone) while asleep.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TUKKUL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to break off, snap.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be broken.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "TUKMA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to seize, grab, catch with the hand.",
+      "conjugation": "/-UM-, MANG-:-AN/"
+    }
+  ],
+  "TUKNO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit or reach with the head.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TUKTUK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "top; crown of head, summit of mountain or hill, top of tree, etc."
+    }
+  ],
+  "TUKUD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to measure the depth of, to fathom.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TULAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "contract, agreement, bargain."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a contract or agreement with.",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to enter into an agreement, to make a contract.",
+      "conjugation": "/AG- / with pl. subject"
+    }
+  ],
+  "TULATID": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to roll, turn over.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to roll  turn over.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    }
+  ],
+  "TULBEK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "key.",
+      "synonyms": [
+        "KANDADO, SUSI"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lock or open with a key.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "TULENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be blinded by light.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "deaf.",
+      "conjugation": "/NAG-/"
+    }
+  ],
+  "TULID": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to roll, turn over.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to roll or turn over.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "TULATID"
+      ]
+    }
+  ],
+  "TULISAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "robber, thief."
+    }
+  ],
+  "TULNUG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "obedient, dutiful, submissive.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "TULONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "help, aid."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to help, aid, assist, support.",
+      "conjugation": "/-UM-, MANG-:-AN/"
+    }
+  ],
+  "TULUD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to accompany, escort to a place: usually home.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rock (the cradle).",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TULUY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to continue, proceed, go on.",
+      "conjugation": "/-UM-, AG-/"
+    }
+  ],
+  "TUMA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "body louse."
+    }
+  ],
+  "TUMATAYAB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bird, anything that flies.",
+      "synonyms": [
+        "BILLIT"
+      ]
+    }
+  ],
+  "TUMEG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to knock someone’s head against something.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TUMEK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to crush, pulverize, reduce to fine particles.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be crushed, pulverized or reduced to fine particles.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "TUMENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "knee."
+    }
+  ],
+  "TUMPUNG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to agree, concur.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "definition": "to come upon accidentally.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "TUMUK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a variety of banana with thick-skinned greenish fruit. 2. its fruit."
+    }
+  ],
+  "TUNANO": [
+    {
+      "definition": "short for INTON ANO?, when?"
+    }
+  ],
+  "TUNAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to melt, dissolve, liquify.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be melted or dissolved.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "TUNDAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a variety of banana with thin-skinned yellow fruits. 2. its fruit."
+    }
+  ],
+  "TUNGAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mite. --cf.",
+      "ilok_example": "AYAM, TUMA."
+    }
+  ],
+  "TUNGGAL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "each, every."
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "whenever, each time, every time."
+    }
+  ],
+  "TUNGLAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gasp for air, to pant.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TUNGNGANG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "stupid, half-crazed, simpleton."
+    }
+  ],
+  "TUNGO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fuel, firewood."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use as fuel or firewood.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TUNGPA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to slap, cuff.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "TUNGPAL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be fulfilled, to come true.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fulfill, comply with, effect.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TUNGTUNG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to talk or converse with.",
+      "conjugation": "/MAKI-: KA-/"
+    }
+  ],
+  "TUNTUN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to seek to know, to claim, inquire about.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "TUNTUNIKA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "doll.",
+      "synonyms": [
+        "MUMMUNYIKA, TIRTIRIS"
+      ]
+    }
+  ],
+  "TUNU": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to broil, roast, toast.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to broil, roast, toast.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TUPAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to throw down, to drop heavily.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to drop heavily by chance.",
+      "conjugation": "/MAI- /"
+    }
+  ],
+  "TUPI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hem, fold."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hem, fold.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TUPIG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of sweet made of rice and brown sugar formed like a hotdog."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make into this.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TUPPUL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "with one or two front teeth missing."
+    }
+  ],
+  "TUPRA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sputum, spit, saliva."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to spit.",
+      "conjugation": "/AG-, MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to spit on.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "TURAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "authoritative, supreme.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rule, govern.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TURED": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "brave, bold, daring.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to endure, suffer bravely.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TURISTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tourist.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TURKAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "phlegm.",
+      "synonyms": [
+        "PLIMAS"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to spit phlegm.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TURNILYO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "screw.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TURPE": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "stupid, idiotic, imbecile.",
+      "conjugation": "/NAG-/",
+      "origin": "f. Sp."
+    }
+  ],
+  "TURPUS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to finish a course or degree, to graduate.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to finish (a degree or course).",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "TURRE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "steeple.",
+      "origin": "f. Sp."
+    }
+  ],
+  "TURUD": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hill, hillock."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "on a high place.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "TURUG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to sleep.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "TURUKUTUK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to coo, e.g. pigeons.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TURUNG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go toward (a place).",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lead, guide or direct (to a place).",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "TURUTUT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. trumpet. 2. the sound of this."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce the sound of a trumpet.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TUTAL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "total, sum.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sum, total.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "SUMA"
+      ]
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "after all."
+    }
+  ],
+  "TUTTUTERA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "gossiper."
+    }
+  ],
+  "TUTUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to secrete a milky or thick sap.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "TUUN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go on top of.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put on top of.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have one on top of the other; hence, to copulate.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put oneself on top of another; hence, to copulate with someone.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
+  "TUWATU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dragon fly.",
+      "variations": [
+        "TUWWATU"
+      ]
+    }
+  ],
+  "TUWWATU": [
+    {
+      "definition": "var. of TUWATU."
+    }
+  ],
+  "TUYU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "rice bran."
+    }
+  ],
+  "TUYUT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a period when the harvest is poor due to drought."
+    }
+  ]
+}
