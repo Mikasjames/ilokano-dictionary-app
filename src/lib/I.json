@@ -1,4 +1,151 @@
-{"IBAR": [
+{
+  "-IM-": [
+    {
+      "definition": "var. of -IMM-before a consonant."
+    }
+  ],
+  "-IMM-": [
+    {
+      "definition": "pt. of -UM-.",
+      "variations": [
+        "-IM- (before a consonant)"
+      ]
+    }
+  ],
+  "-IMM--AN": [
+    {
+      "definition": "an adjectival affix meaning: to be truly in the state or condition described by the stem.",
+      "eng_example": "You are truly a man and yet you are cowardly.",
+      "ilok_example": "Limmalakian ka ket natakrot ka."
+    }
+  ],
+  "-IN-": [
+    {
+      "definition": "pt. of -EN. a nominalizing affix identical to the pt. form of -EN; the meaning is: one that has undergone the action or process expressed by the verb stem. an adverbial affix meaning: every, each.",
+      "eng_example": "Every year his wife gives birth to a child. (+ R1), an adjective affix meaning: to tend to be what the stem describes.",
+      "ilok_example": "Tinawen nga aganak diay baket na."
+    }
+  ],
+  "-IN--AN": [
+    {
+      "definition": "pt. of 1"
+    }
+  ],
+  "-INN-": [
+    {
+      "definition": "a verbal affix indicating reciprocity in the performance of the action expressed by the (verbal) stem. + -AN, 1. with a verbal stem, a var. of -INN-. 2. with an adjectival stem, it indicates competition or rivalry in showing the quality or attribute expressed by the stem."
+    }
+  ],
+  "I": [
+    {
+      "definition": "reached Manila."
+    },
+    {
+      "definition": "to (be able to) overtake or reach.",
+      "eng_example": "He was the one who overtook me. had a nightmare last night. can see a hand dangling out of that window.",
+      "ilok_example": "Isu ti nakaabut kanyak.",
+      "conjugation": "/MAKA-: MA-AN/"
+    },
+    {
+      "definition": "to hang  dangle downwards (out of an opening).",
+      "eng_example": "Don’t dangle that child (out of the window). ’ll vote tomrow.",
+      "ilok_example": "Saan mo nga bittayonen dayta ubing.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    },
+    {
+      "definition": "to vote f.",
+      "eng_example": "Vote f me, huh? went. 4. sluggish, slow  dull from loss of vitality.",
+      "ilok_example": "Ibotos nak a.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    },
+    {
+      "definition": "to ask for the hand of a girl in marriage for someone, to propose marriage to a girl for someone.",
+      "eng_example": "They will go ask for the hand of Mary in marriage (for someone).",
+      "ilok_example": "Mapan da danonen ni Maria.",
+      "conjugation": "/-UM-:-EN/"
+    },
+    {
+      "definition": "1. to take to, cause to reach.",
+      "eng_example": "Will you please take my book to our house. 2. to report to someone, cause to reach someone.",
+      "ilok_example": "Idanon mo man daytoy librok idiay balay mi.",
+      "conjugation": "/AGI-, MANGI-: I-/",
+      "synonyms": [
+        "PAPUKIS"
+      ]
+    }
+  ],
+  "I-": [
+    {
+      "definition": "[with pl. goal] to set down on, put or place down on or in.",
+      "eng_example": "Put down your load here.",
+      "ilok_example": "Idissom ta kargam ditoy."
+    },
+    {
+      "definition": "to set, put or place down the load of.",
+      "eng_example": "Please put down my load. (+ R2) before a vowel.",
+      "ilok_example": "Idissoan nak man.",
+      "conjugation": "/MANG-:-AN/",
+      "cross_reference": "Y-+ R2"
+    },
+    {
+      "definition": "to cause (a parade, procession, etc.) to pass by or through.",
+      "eng_example": "Have the parade pass by our house.",
+      "ilok_example": "Ilabas mo diay parada ditoy balay mi.",
+      "conjugation": "/ to cause to dangle. /"
+    },
+    {
+      "definition": "to put under the shade.",
+      "conjugation": "/ to explain, elucidate, elaborate on; to make clear. /"
+    },
+    {
+      "definition": "to refuse (to move), to refuse to make a motion (to do something).",
+      "eng_example": "Why do you refuse to move?",
+      "ilok_example": "Apay nga ipakpakutibeg mo ti aggunay?",
+      "conjugation": "/ to throw into the eyes of. /"
+    },
+    {
+      "definition": "to show, display, make visible.",
+      "eng_example": "Don’t make your wound visible to me.",
+      "ilok_example": "Saan mo nga iparang kaniak dayta sugat mo.",
+      "conjugation": "/ to eat (an article of food) with (another). /"
+    },
+    {
+      "definition": "to cause (someone) to do this.",
+      "conjugation": "/ to bribe with, to use to bribe (someone). /"
+    },
+    {
+      "definition": "to do this toward (someone).",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "definition": "to cause to fall to the ground.",
+      "conjugation": "/ to lean (something) on. /"
+    },
+    {
+      "definition": "to give as help, aid, or assistance.",
+      "conjugation": "/ to teach to do something. /",
+      "common_forms": [
+        "MANG-:-AN"
+      ]
+    },
+    {
+      "definition": "to keep for someone expected to come or arrive. (+ R2) before a vowel.",
+      "conjugation": "/ to continue to do. /",
+      "cross_reference": "2"
+    }
+  ],
+  "IBAGAM": [
+    {
+      "definition": "TA UMAY, tell him to come."
+    }
+  ],
+  "IBAR": [
     {
       "part_of_speech": "v.",
       "definition": "to incline, bend, sway.",
@@ -92,7 +239,8 @@
   ],
   "IDA": [
     {
-      "definition": "pron. they, them (in passive sentences): the enclitic nominative of ISUDA.",
+      "part_of_speech": "pron.",
+      "definition": "they, them (in passive sentences): the enclitic nominative of ISUDA.",
       "cross_reference": "DA"
     }
   ],
@@ -111,21 +259,6 @@
       "part_of_speech": "v.",
       "definition": "to cause to lie down, be prostrate; to lay down in horizontal position, to lay prostrate.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "KAIDDA": [
-    {
-      "definition": "n, that with whom one sleeps, that sleeping by the side of oneself."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to sleep with, to sleep by the side of",
-      "conjugation": "/MAKI-: KA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to sleep side by side, to sleep together.",
-      "conjugation": "/AG-/ with pl. subject"
     }
   ],
   "IDDAL": [
@@ -168,15 +301,33 @@
     {
       "part_of_speech": "adv.",
       "definition": "in the distant or remote past, formerly, then.",
-      "eng_example": "My father then was a policeman. prep. last, the past (night, morning, etc.): forms prepositional phrases expressing past time.",
+      "eng_example": "My father then was a policeman.",
       "ilok_example": "Pulis idi daydi tatang ko."
+    },
+    {
+      "part_of_speech": "prep.",
+      "definition": "last, the past (night, morning, etc.): forms prepositional phrases expressing past time.",
+      "eng_example": "UN-UNANA, in the beginning.",
+      "ilok_example": "KALMAN, yesterday."
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "when (in the remote past).",
+      "eng_example": "I was sleeping when you came. form of DAYDI postposed to a noun expressing emphasis.",
+      "ilok_example": "Matmaturogak idi immay kayo."
     }
   ],
   "IDIAY": [
     {
       "definition": "dem. there, yonder.",
       "variations": [
-        "DIAY, DIDIAY. prep. to, in, at, from, toward, away from",
+        "DIAY, DIDIAY"
+      ]
+    },
+    {
+      "part_of_speech": "prep.",
+      "definition": "to, in, at, from, toward, away from.",
+      "variations": [
         "DIAY. form of DAYDIAY postposed to a noun expressing emphasis"
       ]
     }
@@ -210,12 +361,6 @@
       "eng_example": "Take some of the sidedish with a spoon.",
       "ilok_example": "Idosem dayta sida.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "SANGKAIDOS": [
-    {
-      "part_of_speech": "n.",
-      "definition": "one spoonful."
     }
   ],
   "IDTA": [
@@ -262,18 +407,6 @@
   "IGGAM": [
     {
       "definition": "var. of IGGEM before 1"
-    }
-  ],
-  "-AN": [
-    {
-      "definition": ". . ."
-    },
-    {
-      "definition": "to be designated, appointed.",
-      "conjugation": "/ to have the ears or comb cut off. adj. with ears or comb cut off. /"
-    },
-    {
-      "definition": "/ to come upon accidentally."
     }
   ],
   "IGGAN": [
@@ -325,11 +458,6 @@
     {
       "definition": "FILIPINA INDEPENDIENTE, the Philippine Independent Church, also known as the Aglipayan Church.",
       "cross_reference": "NI KRISTO (CHURCH OF CHRIST), 1. a church founded in the Philippines. 2. (often shortened to IGLESIA) a member of this church"
-    }
-  ],
-  "AGLIPAY": [
-    {
-      "definition": "."
     }
   ],
   "IGOROT": [
@@ -599,30 +727,6 @@
       ]
     }
   ],
-  "KAILIAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "1. coming from the same town, townmate. 2. coming from the same country. see under ILI."
-    }
-  ],
-  "PAGILIAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "1. town, township. 2. country. see under ILI."
-    }
-  ],
-  "UMILI": [
-    {
-      "part_of_speech": "n.",
-      "definition": "pl. the inhabitants of a town or country; townspeople. see under ILI."
-    }
-  ],
-  "INILIN-ILI": [
-    {
-      "part_of_speech": "n.",
-      "definition": "every town, each town."
-    }
-  ],
   "ILIW": [
     {
       "part_of_speech": "v.",
@@ -666,16 +770,6 @@
       ]
     }
   ],
-  "MANGNGILOT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "1. one who sets broken bones or treats muscle sprains by massaging.",
-      "synonyms": [
-        "MAMMULLO. 2. a woman who delivers babies by massaging and pushing; a midwife",
-        "MAMMALTOT see under ILOT"
-      ]
-    }
-  ],
   "ILUKANO": [
     {
       "definition": "var. of ILOKANO."
@@ -691,9 +785,16 @@
       "definition": "var, of IN-occurring before P or B."
     }
   ],
-  "-IM-": [
+  "IM-IMA": [
     {
-      "definition": "var. of -IMM-before a consonant."
+      "part_of_speech": "v.",
+      "definition": "to thwart, frustrate, bring to naught, cause to fail.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be thwarted, frustrated, brought to naught, caused to fail.",
+      "conjugation": "/MA-/"
     }
   ],
   "IMA": [
@@ -811,18 +912,6 @@
       "conjugation": "/NA-/"
     }
   ],
-  "IM-IMA": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to thwart, frustrate, bring to naught, cause to fail.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be thwarted, frustrated, brought to naught, caused to fail.",
-      "conjugation": "/MA-/"
-    }
-  ],
   "IMING": [
     {
       "part_of_speech": "n.",
@@ -847,21 +936,6 @@
   "IMLEK": [
     {
       "definition": "pt. of UMLEK."
-    }
-  ],
-  "-IMM-": [
-    {
-      "definition": "pt. of -UM-.",
-      "variations": [
-        "-IM- (before a consonant)"
-      ]
-    }
-  ],
-  "-IMM--AN": [
-    {
-      "definition": "an adjectival affix meaning: to be truly in the state or condition described by the stem.",
-      "eng_example": "You are truly a man and yet you are cowardly.",
-      "ilok_example": "Limmalakian ka ket natakrot ka."
     }
   ],
   "IMNA": [
@@ -975,12 +1049,38 @@
       ]
     }
   ],
-  "-IN-": [
+  "IN-INAYAD": [
     {
-      "definition": "pt. of -EN. a nominalizing affix identical to the pt. form of -EN; the meaning is: one that has undergone the action or process expressed by the verb stem. an adverbial affix meaning: every, each.",
-      "eng_example": "Every year his wife gives birth to a child. (+ R1), an adjective affix meaning: to tend to be what the stem describes.",
-      "ilok_example": "Tinawen nga aganak diay baket na."
+      "part_of_speech": "v.",
+      "definition": "to move or do something slowly, gently and carefully.",
+      "conjugation": "/AG-/"
     },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do slowly, gently and carefully.",
+      "eng_example": "Carry my suitcase slowly, gently and carefully for there is something breakable inside it.",
+      "ilok_example": "In-inayaden yo nga bagkaten dayta maletak ta adda mabuong.",
+      "conjugation": "/AG-:-EN/"
+    }
+  ],
+  "IN-INUT": [
+    {
+      "definition": "see under INUT."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be like this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to do little by little, every now and then, a little at a time, 2. to use or consume economically, a little at a time, little by little.",
+      "eng_example": "Eat that sidedish economically for there is no more.",
+      "ilok_example": "In-inuten yo dayta sida ta awanen.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "INA": [
     {
       "part_of_speech": "interj.",
       "definition": "an exclamation expressing mild displeasure or impatience; usually preceded by AY.",
@@ -993,35 +1093,27 @@
     {
       "part_of_speech": "n.",
       "definition": "a title of respect for an older woman."
-    }
-  ],
-  "IN": [
+    },
     {
       "part_of_speech": "n.",
       "definition": "mother.",
       "synonyms": [
         "INANG, NANANG"
-      ],
-      "common_forms": [
-        "Á"
       ]
     }
   ],
-  "AGINA": [
+  "INA TI BUNYAG": [
+    {
+      "definition": "godmother"
+    }
+  ],
+  "INABRAW": [
     {
       "part_of_speech": "n.",
-      "definition": "pl. a mother and one of her children.",
-      "plural_form": "pl. AGIINA"
-    }
-  ],
-  "AGIINA": [
-    {
-      "definition": "pl. of AGINA: a mother and two or more of her children."
-    }
-  ],
-  "INA": [
-    {
-      "definition": "TI BUNYAG, godmother."
+      "definition": "vegetable dish.",
+      "synonyms": [
+        "DINENGDENG"
+      ]
     }
   ],
   "INAKA": [
@@ -1049,9 +1141,10 @@
       "origin": "= ALAD + -IN-+ -AN"
     }
   ],
-  "-IN--AN": [
+  "INALDAN-ALDAW": [
     {
-      "definition": "pt. of 1"
+      "part_of_speech": "adv.",
+      "definition": "everyday, day after day, daily."
     }
   ],
   "INANA": [
@@ -1065,7 +1158,8 @@
   ],
   "INANAK": [
     {
-      "definition": "see under ANAK."
+      "part_of_speech": "n.",
+      "definition": "child, offspring, son, daughter. see under ANAK."
     }
   ],
   "INANAMA": [
@@ -1163,20 +1257,6 @@
       "conjugation": "/NA-/"
     }
   ],
-  "IN-INAYAD": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to move or do something slowly, gently and carefully.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to do slowly, gently and carefully.",
-      "eng_example": "Carry my suitcase slowly, gently and carefully for there is something breakable inside it.",
-      "ilok_example": "In-inayaden yo nga bagkaten dayta maletak ta adda mabuong.",
-      "conjugation": "/AG-:-EN/"
-    }
-  ],
   "INDAKLAN": [
     {
       "part_of_speech": "adj.",
@@ -1236,6 +1316,157 @@
       "origin": "f. Sp."
     }
   ],
+  "ING-": [
+    {
+      "definition": "var. of IN-occurring before K or G."
+    }
+  ],
+  "INGAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to growl.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be growled at.",
+      "conjugation": "/-AN/"
+    }
+  ],
+  "INGAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "one similar or resembling (another one) in physical features.",
+      "eng_example": "He resembles his father in physical features.",
+      "ilok_example": "Kaingas na diay tatang na.",
+      "conjugation": "/KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be similar, to resemble each other in physical features.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "INGAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "toothpick; wedge; splinter."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pick the teeth.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to insert something in (an opening).",
+      "conjugation": "/AG-:-AN/"
+    }
+  ],
+  "INGEL": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "brave, courageous, valiant, daring, bold, heroic.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "strong: said of liquors, tobacco, etc.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "SANGER"
+      ]
+    }
+  ],
+  "INGEP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to imagine, dream about.",
+      "eng_example": "What I am imagining is roast pig.",
+      "ilok_example": "Letson ti ing-ingpek.",
+      "conjugation": "/MANG-:-EN/",
+      "origin": "= INGPEN"
+    }
+  ],
+  "INGET": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "strict, severe, firm.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "INGGA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "end, conclusion, ending."
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "until, till, up to (a place, time).",
+      "variations": [
+        "INGGANA, AGINGGA, AGINGGANA TI, until, till the time that, up to the time that",
+        "INGGANA TI, AGINGGA TI, AGINGGANA TI, INGGAT, INGGANAT, AGINGGAT, AGINGGANAT"
+      ]
+    }
+  ],
+  "INGGAAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "boundary, limit."
+    }
+  ],
+  "INGGANA": [
+    {
+      "definition": "var. of INGGA."
+    }
+  ],
+  "INGGANAT": [
+    {
+      "definition": "var. of INGGA TI."
+    }
+  ],
+  "INGGAT": [
+    {
+      "definition": "var. of INGGA TI."
+    }
+  ],
+  "INGGET": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "very: the absolute superlative.",
+      "eng_example": "The young lady is very very beautiful.",
+      "ilok_example": "Ingget pintas diay balasang."
+    }
+  ],
+  "INGGLATERA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "England.",
+      "origin": "ingglatεra; f. Sp."
+    }
+  ],
+  "INGPIS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "thin.",
+      "conjugation": "/NA-/",
+      "antonyms": [
+        "PUSKOL"
+      ],
+      "variations": [
+        "IMPIS"
+      ]
+    }
+  ],
+  "INGUNGOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to love dearly, to be very fond of.",
+      "eng_example": "I love my mother dearly.",
+      "ilok_example": "Ing-ingungotek ni nanang ko.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "INHENIERIA": [
     {
       "part_of_speech": "n.",
@@ -1259,21 +1490,10 @@
       "conjugation": "/AG-/"
     }
   ],
-  "IN-INUT": [
+  "INILIN-ILI": [
     {
-      "definition": "see under INUT."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be like this.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "1. to do little by little, every now and then, a little at a time, 2. to use or consume economically, a little at a time, little by little.",
-      "eng_example": "Eat that sidedish economically for there is no more.",
-      "ilok_example": "In-inuten yo dayta sida ta awanen.",
-      "conjugation": "/MANG-:-EN/"
+      "part_of_speech": "n.",
+      "definition": "every town, each town."
     }
   ],
   "INIRUBAN": [
@@ -1327,15 +1547,6 @@
       "definition": "[= cf."
     }
   ],
-  "ADAW": [
-    {
-      "definition": "],"
-    },
-    {
-      "part_of_speech": "n.",
-      "definition": "a children’s game played with the fingers."
-    }
-  ],
   "INNAPOY": [
     {
       "definition": "var. of INAPOY."
@@ -1364,11 +1575,6 @@
       ]
     }
   ],
-  "-INN-": [
-    {
-      "definition": "a verbal affix indicating reciprocity in the performance of the action expressed by the (verbal) stem. + -AN, 1. with a verbal stem, a var. of -INN-. 2. with an adjectival stem, it indicates competition or rivalry in showing the quality or attribute expressed by the stem."
-    }
-  ],
   "INNO": [
     {
       "definition": "var. (dial.) of ANIA."
@@ -1385,6 +1591,12 @@
       "definition": "to spin smoothly: said of tops and similar objects.",
       "conjugation": "/AG-/",
       "origin": "cf. TUROG"
+    }
+  ],
+  "INPAKSET": [
+    {
+      "part_of_speech": "n.",
+      "definition": "burned or scorched rice or meat."
     }
   ],
   "INSARABASAB": [
@@ -1496,26 +1708,21 @@
   ],
   "INTO": [
     {
-      "definition": "; INTONO, prep. at (some future time), in (the future).",
+      "part_of_speech": "prep.",
+      "definition": "at (some future time), in (the future).",
       "variations": [
         "INTON, TONO. KET NO, lest. NGARUD NO, if. INTONO"
-      ]
-    }
-  ],
-  "INTONO": [
-    {
-      "definition": "KUAN, then, subsequently. conj. when (in the future).",
-      "eng_example": "When I come here do you think you will be here?",
-      "ilok_example": "Intono umayak ditoy, adda ka ngata?",
-      "variations": [
-        "INTON, TONO. conj. lest. Saan ka nga natagari intono agunget. Don’t be noisy lest he gets angry",
-        "INTON"
+      ],
+      "common_forms": [
+        "INTONO"
       ]
     }
   ],
   "INTON": [
     {
-      "definition": "var. of 1,2INTONO."
+      "definition": "(O) BIGAT, tomorrow.",
+      "eng_example": "BIGAT TI MALEM or INTON MALEM NO BIGAT, tomorrow afternoon. var. of 1,2INTONO.",
+      "ilok_example": "BIGAT TI AGSAPA or INTON AGSAPA NO BIGAT, tomorrow morning."
     }
   ],
   "INTONANO": [
@@ -1523,6 +1730,29 @@
       "definition": "INTON-ANO, inter. when?, at what time? (in the future).",
       "synonyms": [
         "KAANO"
+      ]
+    }
+  ],
+  "INTONO": [
+    {
+      "definition": "KUAN, then, subsequently."
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "when (in the future).",
+      "eng_example": "When I come here do you think you will be here?",
+      "ilok_example": "Intono umayak ditoy, adda ka ngata?",
+      "variations": [
+        "INTON, TONO"
+      ]
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "lest.",
+      "eng_example": "Don’t be noisy lest he gets angry.",
+      "ilok_example": "Saan ka nga natagari intono agunget.",
+      "variations": [
+        "INTON"
       ]
     }
   ],
@@ -1588,182 +1818,9 @@
       "definition": "var. of NIOG."
     }
   ],
-  "ING-": [
-    {
-      "definition": "var. of IN-occurring before K or G."
-    }
-  ],
-  "INGAR": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to growl.",
-      "conjugation": "/-UM-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be growled at.",
-      "conjugation": "/-AN/"
-    }
-  ],
-  "INGAS": [
-    {
-      "part_of_speech": "n.",
-      "definition": "one similar or resembling (another one) in physical features.",
-      "eng_example": "He resembles his father in physical features.",
-      "ilok_example": "Kaingas na diay tatang na.",
-      "conjugation": "/KA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be similar, to resemble each other in physical features.",
-      "conjugation": "/AG-/ with pl. subject"
-    }
-  ],
-  "INGAT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "toothpick; wedge; splinter."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to pick the teeth.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to insert something in (an opening).",
-      "conjugation": "/AG-:-AN/"
-    }
-  ],
-  "INGEL": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "brave, courageous, valiant, daring, bold, heroic.",
-      "conjugation": "/MA-/"
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "strong: said of liquors, tobacco, etc.",
-      "conjugation": "/NA-/",
-      "synonyms": [
-        "SANGER"
-      ]
-    }
-  ],
-  "INGEP": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to imagine, dream about.",
-      "eng_example": "What I am imagining is roast pig.",
-      "ilok_example": "Letson ti ing-ingpek.",
-      "conjugation": "/MANG-:-EN/",
-      "origin": "= INGPEN"
-    }
-  ],
-  "INGET": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "strict, severe, firm.",
-      "conjugation": "/NA-/"
-    }
-  ],
-  "INGGA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "end, conclusion, ending."
-    },
-    {
-      "part_of_speech": "adv.",
-      "definition": "until, till, up to (a place, time).",
-      "variations": [
-        "INGGANA, AGINGGA, AGINGGANA TI, until, till the time that, up to the time that",
-        "INGGANA TI, AGINGGA TI, AGINGGANA TI, INGGAT, INGGANAT, AGINGGAT, AGINGGANAT"
-      ]
-    }
-  ],
-  "INGGAAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "boundary, limit."
-    }
-  ],
-  "INGGANAT": [
-    {
-      "definition": "var. of INGGA TI."
-    }
-  ],
-  "INGGAT": [
-    {
-      "definition": "var. of INGGA TI."
-    }
-  ],
-  "INGGANA": [
-    {
-      "definition": "var. of INGGA."
-    }
-  ],
-  "INGGET": [
-    {
-      "part_of_speech": "adv.",
-      "definition": "very: the absolute superlative.",
-      "eng_example": "The young lady is very very beautiful.",
-      "ilok_example": "Ingget pintas diay balasang."
-    }
-  ],
-  "INGGLATERA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "England.",
-      "origin": "ingglatεra; f. Sp."
-    }
-  ],
-  "INGPIS": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "thin.",
-      "conjugation": "/NA-/",
-      "antonyms": [
-        "PUSKOL"
-      ],
-      "variations": [
-        "IMPIS"
-      ]
-    }
-  ],
-  "INGUNGOT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to love dearly, to be very fond of.",
-      "eng_example": "I love my mother dearly.",
-      "ilok_example": "Ing-ingungotek ni nanang ko.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "KAINGUNGOT": [
-    {
-      "definition": "n, loved one, beloved, sweetheart."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be sweethearts. see under INGUNGOT.",
-      "conjugation": "/AG-/ with pl. subject"
-    }
-  ],
   "IPA-": [
     {
       "origin": "1. I- + PA- (causative): the goal of the noncausative verb is placed in focus or subject position. 2. I-+ PA (to go): the goal of the verb (PA) is placed in focus or subject position. 3. I-+"
-    }
-  ],
-  "PA-": [
-    {
-      "definition": "(to use or put as): the goal of the verb is placed in focus or subject position."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to head toward, to go to.",
-      "eng_example": "Head toward the south.",
-      "ilok_example": "Agpabagatan ka.",
-      "conjugation": "/AG-/"
     }
   ],
   "IPAG": [
@@ -1986,6 +2043,21 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
+  "IS-ISO": [
+    {
+      "definition": "see ISO."
+    }
+  ],
+  "IS-ISU": [
+    {
+      "definition": "he or she only, he or she alone."
+    }
+  ],
+  "IS-ISUDA": [
+    {
+      "definition": "they only, they alone."
+    }
+  ],
   "ISAR": [
     {
       "part_of_speech": "v.",
@@ -2081,11 +2153,6 @@
       ]
     }
   ],
-  "IS-ISO": [
-    {
-      "definition": "see ISO."
-    }
-  ],
   "ISLAID": [
     {
       "part_of_speech": "n.",
@@ -2169,14 +2236,6 @@
       "definition": "var. of NAGISTAYAN."
     }
   ],
-  "ISTRIKTO": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "strict, severe.",
-      "conjugation": "/NA-/",
-      "origin": "f, Eng.?"
-    }
-  ],
   "ISTORYA": [
     {
       "part_of_speech": "n.",
@@ -2197,11 +2256,28 @@
       ]
     }
   ],
+  "ISTRIKTO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "strict, severe.",
+      "conjugation": "/NA-/",
+      "origin": "f, Eng.?"
+    }
+  ],
   "ISU": [
     {
-      "definition": "pron. he, she; him, her: the person previously mentioned.",
-      "eng_example": "No isu ti kayat ti dios, awan ti maaramid tayo.",
-      "ilok_example": "ISU is the full nominative case form, ISU or zero (nothing) the enclitic nominative, KUKUANA the full possessive, pron. it, that."
+      "part_of_speech": "pron.",
+      "definition": "he, she; him, her: the person previously mentioned.",
+      "variations": [
+        "ISUNA."
+      ],
+      "ilok_example": "ISU is the full nominative case form, ISU or zero (nothing) the enclitic nominative, KUKUANA the full possessive, NA the enclitic possessive and the agent, and KANYANA or KENKUANA the oblique."
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "it, that.",
+      "eng_example": "If it is the will of God, we can’t do anything.",
+      "ilok_example": "No isu ti kayat ti dios, awan ti maaramid tayo."
     },
     {
       "part_of_speech": "v.",
@@ -2218,49 +2294,18 @@
       ]
     }
   ],
-  "NA": [
-    {
-      "definition": "the enclitic possessive and the agent, and KANYANA or"
-    },
-    {
-      "part_of_speech": "interj.",
-      "definition": "an exclamation expressing surprise and wonder.",
-      "synonyms": [
-        "NI. replaces MO by you (sg.) before enclitic nominative pron. -K me or KAMI us (excl.). pron. by him or her, he or she (as actor): the agent of pron. his, her: the enclitic possessive of ISU"
-      ],
-      "variations": [
-        "NAY"
-      ]
-    }
-  ],
-  "KENKUANA": [
-    {
-      "definition": "the oblique.",
-      "variations": [
-        "ISUNA. var. of KANYANA"
-      ]
-    }
-  ],
-  "IS-ISU": [
-    {
-      "definition": "he or she only, he or she alone."
-    }
-  ],
-  "APAGISU": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "just right, just enough."
-    }
-  ],
-  "ISUN": [],
   "ISUDA": [
     {
-      "definition": "pron. they; them: the persons previously mentioned. is the full nominative case form, DA or IDA the enclitic nominative, KUKUADA the full possessive, DA the enclitic possessive and the agent, and KANYADA or KENKUADA the oblique."
+      "part_of_speech": "pron.",
+      "definition": "they; them: the persons previously mentioned. is the full nominative case form, DA or IDA the enclitic nominative, KUKUADA the full possessive, DA the enclitic possessive and the agent, and KANYADA or KENKUADA the oblique."
     }
   ],
-  "IS-ISUDA": [
+  "ISUN": [
     {
-      "definition": "they only, they alone."
+      "definition": "that’s enough now, all right.",
+      "common_forms": [
+        "ISUNAN"
+      ]
     }
   ],
   "ISUNA": [
@@ -2271,14 +2316,14 @@
   "IT": [
     {
       "part_of_speech": "interj.",
-      "definition": "a sound that someone makes to tell someone else that he is hiding and that the other should look for him.",
-      "ilok_example": "If the person hiding comes out suddenly and wishes to startle the other, he cries BA",
-      "origin": "í:t"
-    },
+      "definition": "a sound that someone makes to tell someone else that he is hiding and that the other should look for him. If the person hiding comes out suddenly and wishes to startle the other, he cries BA"
+    }
+  ],
+  "IT-IT": [
     {
-      "part_of_speech": "interj.",
-      "definition": ".",
-      "origin": "ba:"
+      "part_of_speech": "v.",
+      "definition": "to produce a thin high-pitched sound like the cry of snakes, rats, etc.",
+      "conjugation": "/AG-/"
     }
   ],
   "ITA": [
@@ -2293,16 +2338,17 @@
       "part_of_speech": "adv.",
       "definition": "now, at the present time, at this moment.",
       "variations": [
-        "ITA prep. this (morning, night, etc.): forms prepositional phrases expressing present time",
+        "ITA"
+      ]
+    },
+    {
+      "part_of_speech": "prep.",
+      "definition": "this (morning, night, etc.): forms prepositional phrases expressing present time.",
+      "variations": [
         "ITA. TA, whereas (present)",
         "ITA TA"
       ],
       "cross_reference": "IDINTO"
-    }
-  ],
-  "TA": [
-    {
-      "definition": ". conj. because, lest, that, so that, etc.; a ligature. pron. by the two of us, by you (sg.) and me, the two of us (as actor): the agent of DATA. var. of DITA or DAYTA; abbreviation of the demonstrative adjective DAYTA and of the adverb of place DITA."
     }
   ],
   "ITATTAY": [
@@ -2312,8 +2358,20 @@
       "eng_example": "Your child was here a moment ago.",
       "ilok_example": "Adda itattay diay anak mo ditoy.",
       "variations": [
-        "ITAY. prep. last, the immediate or near past (morning, night, etc.): forms prepositional phrases expressing immediate or near past time",
-        "ITAY. conj. when (in the immediate or near past)",
+        "ITAY"
+      ]
+    },
+    {
+      "part_of_speech": "prep.",
+      "definition": "last, the immediate or near past (morning, night, etc.): forms prepositional phrases expressing immediate or near past time.",
+      "variations": [
+        "ITAY"
+      ]
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "when (in the immediate or near past).",
+      "variations": [
         "ITAY"
       ]
     }
@@ -2341,12 +2399,26 @@
   ],
   "ITI": [
     {
-      "definition": "cm. indefinite goal marker.",
+      "definition": "DAMO NA, at first, in the beginning. cm. indefinite goal marker.",
+      "variations": [
+        "TI"
+      ]
+    },
+    {
+      "part_of_speech": "prep.",
+      "definition": "as for, concerning (a person, place or thing).",
+      "eng_example": "As for a man, he is stronger than a woman.",
+      "ilok_example": "Iti lalaki, napigpigsa ngem ti babai."
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "because of, on account of, due to, in.",
+      "eng_example": "In his irritation, he wanted to twist my neck.",
+      "ilok_example": "Iti rurod na, kayat na nga tiritiren ti tengnged ko.",
       "synonyms": [
         "GAPO TI"
       ],
       "variations": [
-        "TI. prep. as for, concerning (a person, place or thing). Iti lalaki, napigpigsa ngem ti babai. As for a man, he is stronger than a woman. conj. because of, on account of, due to, in. Iti rurod na, kayat na nga tiritiren ti tengnged ko. In his irritation, he wanted to twist my neck",
         "TI"
       ]
     }
@@ -2355,13 +2427,6 @@
     {
       "part_of_speech": "n.",
       "definition": "duck with speckled plumage."
-    }
-  ],
-  "IT-IT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to produce a thin high-pitched sound like the cry of snakes, rats, etc.",
-      "conjugation": "/AG-/"
     }
   ],
   "ITLOG": [
@@ -2439,71 +2504,16 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
-  "SANGKAIWA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "one slice."
-    }
-  ],
   "IY-": [
     {
       "definition": "var. of 1,2I- occurring before a vowel.",
       "cross_reference": "Y-. (+ R2), var. of 3 . (+ R2)"
     }
   ],
-  "I-": [
-    {
-      "definition": "(+ R2) before a vowel.",
-      "cross_reference": "Y-+ R2"
-    },
-    {
-      "definition": "to cause (a parade, procession, etc.) to pass by or through.",
-      "eng_example": "Have the parade pass by our house.",
-      "ilok_example": "Ilabas mo diay parada ditoy balay mi.",
-      "conjugation": "/ to cause to dangle. /"
-    },
-    {
-      "definition": "to put under the shade.",
-      "conjugation": "/ to explain, elucidate, elaborate on; to make clear. /"
-    },
-    {
-      "definition": "to refuse (to move), to refuse to make a motion (to do something).",
-      "eng_example": "Why do you refuse to move?",
-      "ilok_example": "Apay nga ipakpakutibeg mo ti aggunay?",
-      "conjugation": "/ to throw into the eyes of. /"
-    },
-    {
-      "definition": "to show, display, make visible.",
-      "eng_example": "Don’t make your wound visible to me.",
-      "ilok_example": "Saan mo nga iparang kaniak dayta sugat mo.",
-      "conjugation": "/ to eat (an article of food) with (another). /"
-    },
-    {
-      "definition": "to cause (someone) to do this.",
-      "conjugation": "/ to bribe with, to use to bribe (someone). /"
-    },
-    {
-      "definition": "to do this toward (someone).",
-      "conjugation": "/MANG-:-AN/"
-    },
-    {
-      "definition": "to cause to fall to the ground.",
-      "conjugation": "/ to lean (something) on. /"
-    },
-    {
-      "definition": "to give as help, aid, or assistance.",
-      "conjugation": "/ to teach to do something. /",
-      "common_forms": [
-        "MANG-:-AN"
-      ]
-    },
-    {
-      "definition": "to keep for someone expected to come or arrive. (+ R2) before a vowel.",
-      "conjugation": "/ to continue to do. /",
-      "cross_reference": "2"
-    }
-  ],
   "IYAAY": [
+    {
+      "definition": "nominalized form: (his) coming."
+    },
     {
       "definition": "nominalized form of AY: the coming or arrival (of).",
       "origin": "I-+ R2 + AY",
@@ -2531,4 +2541,5 @@
     {
       "definition": "var. of IYOT."
     }
-  ]}
+  ]
+}

@@ -1,12 +1,35 @@
-{"-K": [
+{
+  "-K": [
     {
-      "definition": "var. of KO after a vowel. var. of -AK after the possessive pron.",
-      "ilok_example": "NA (by him or her) or DA (by them)."
+      "definition": "var. of KO after a vowel. var. of -AK after the possessive"
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "NA (by him or her) or DA (by them)."
+    }
+  ],
+  "K": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a cage for chickens. ÁMENG,",
+      "common_forms": [
+        "ÁKAB"
+      ]
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "genitals. ÍRANG,"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "scarce, scanty.",
+      "conjugation": "/NA-/"
     }
   ],
   "KA": [
     {
-      "definition": "pron. you (sg.): the enclitic nominative of SIKA."
+      "part_of_speech": "pron.",
+      "definition": "you (sg.): the enclitic nominative of SIKA."
     }
   ],
   "KA-": [
@@ -23,7 +46,25 @@
       ]
     }
   ],
+  "KA--AN": [
+    {
+      "definition": "a verbalizing affix occurring with numeral roots which expresses the meaning: to increase or bring to the number indicated by the numeral stem. a nominalizing affix occurring with temporal nouns which expresses the meaning: at the actual time of the period or event indicated by the noun stem. the superlative affix of adjectives: most.",
+      "variations": [
+        "KA- + R1 + -AN the superlative adjectival affix",
+        "KA--AN + R1. a nominalizing affix occurring with nouns which indicates the place where the objects referred to by its noun stem are numerous or plentiful. + R1, var. of the superlative adjective affix KA--AN"
+      ]
+    }
+  ],
+  "KA--EN": [
+    {
+      "definition": "see under KA-."
+    }
+  ],
   "KAALDAWAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "day of."
+    },
     {
       "part_of_speech": "n.",
       "definition": "the very day (od).",
@@ -34,7 +75,8 @@
   ],
   "KAAMAAN": [
     {
-      "definition": "see under AMA."
+      "part_of_speech": "n.",
+      "definition": "relatives on the father’s side. see under AMA."
     }
   ],
   "KAAN": [
@@ -45,17 +87,13 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": "[=",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "MANGKAAN": [],
-  "KA--AN": [
-    {
-      "definition": "a verbalizing affix occurring with numeral roots which expresses the meaning: to increase or bring to the number indicated by the numeral stem. a nominalizing affix occurring with temporal nouns which expresses the meaning: at the actual time of the period or event indicated by the noun stem. the superlative affix of adjectives: most.",
-      "variations": [
-        "KA- + R1 + -AN the superlative adjectival affix",
-        "KA--AN + R1. a nominalizing affix occurring with nouns which indicates the place where the objects referred to by its noun stem are numerous or plentiful. + R1, var. of the superlative adjective affix KA--AN"
+      "definition": "to eat.",
+      "conjugation": "/MANG-:-EN/",
+      "common_forms": [
+        "MANGKAAN, MANGAN, KANEN"
+      ],
+      "synonyms": [
+        "PANGAN"
       ]
     }
   ],
@@ -68,7 +106,22 @@
   ],
   "KAANATUP": [
     {
-      "definition": "KAANATUPAN, see under ANATUP."
+      "part_of_speech": "n.",
+      "definition": "that which corresponds."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to correspond to each other.",
+      "ilok_example": "KAANATUPAN, see under ANATUP.",
+      "conjugation": "/AG-/ with plural subject"
+    }
+  ],
+  "KAANATUPAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "that which has the same value, the equivalent.",
+      "eng_example": "Give the one that is the equivalent of my money.",
+      "ilok_example": "Ti ited mo, dayta kaanatupan ti kuartak."
     }
   ],
   "KAANNAWIDAN": [
@@ -92,12 +145,17 @@
   ],
   "KAASI": [
     {
-      "definition": "KAKAASI, see under ASI."
+      "part_of_speech": "n.",
+      "definition": "pity, mercy, compassion.",
+      "ilok_example": "KAKAASI, see under ASI."
     }
   ],
   "KAASMANG": [
     {
-      "definition": "see under ASMANG."
+      "part_of_speech": "v.",
+      "definition": "[with pl. subject] to be partners, to be members of the same team or group.",
+      "eng_example": "The girls formed a team. see under ASMANG.",
+      "ilok_example": "Nagkakaasmang dagiti babbai."
     }
   ],
   "KAAYAN-AYAT": [
@@ -110,18 +168,27 @@
       ]
     }
   ],
-  "KABABALIN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "habit, custom (of).",
-      "origin": "cf, BALIN"
-    }
-  ],
   "KABABAGAS": [
     {
       "part_of_speech": "n.",
       "definition": "the essence, pitch, meaning (of).",
       "origin": "cf. BAGAS"
+    }
+  ],
+  "KABABALIN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "habit, custom; nature.",
+      "eng_example": "Your habit is very bad.",
+      "ilok_example": "Nagdakes ti kababalin mon.",
+      "synonyms": [
+        "UGALI, KUSTUMBRE"
+      ]
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "habit, custom (of).",
+      "origin": "cf, BALIN"
     }
   ],
   "KABADDUNGAL": [
@@ -133,7 +200,10 @@
   ],
   "KABAELAN": [
     {
-      "definition": "see under BAELAN."
+      "part_of_speech": "n.",
+      "definition": "power, capability, competence, ability.",
+      "eng_example": "It is not yet within his capability to drive a motor vehicle. see under BAELAN.",
+      "ilok_example": "Saan na pay nga kabaelan ti agmaneho."
     }
   ],
   "KABAG": [
@@ -149,7 +219,8 @@
   ],
   "KABAGIAN": [
     {
-      "definition": "see under BAGI."
+      "part_of_speech": "n.",
+      "definition": "relative, relation, kinsman, kinswoman. see under BAGI."
     }
   ],
   "KABAGIS": [
@@ -159,6 +230,15 @@
       "origin": "rt. BAGIS?",
       "synonyms": [
         "KABSAT ITI BUNYAG, child of one’s godparents"
+      ]
+    }
+  ],
+  "KABALINAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ability, capability, competence.",
+      "synonyms": [
+        "KABAELAN"
       ]
     }
   ],
@@ -207,6 +287,12 @@
       "definition": "a scandent, cucurbitaceous, herbaceous vine with large leaves, yellow flowers and oblong cylindric, green, ribbed or smooth, edible fruits."
     }
   ],
+  "KABATUG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "that which is in front of or opposite to (someone or something)."
+    }
+  ],
   "KABAW": [
     {
       "part_of_speech": "adj.",
@@ -234,40 +320,19 @@
       "definition": "var. (rare) of KABALYO."
     }
   ],
-  "PAKABAYO": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to put astride (something).",
-      "conjugation": "/MANGI-: I-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be put astride (something).",
-      "conjugation": "/MAI-/"
-    }
-  ],
   "KABBALAY": [
     {
       "part_of_speech": "n.",
       "definition": "1. housemate, one who lives in the same house. 2. concubine, mistress.",
       "origin": "rt. BALAY",
       "synonyms": [
-        "BABAI 2"
+        "1. BABAI, 2. KERIDA"
       ]
-    }
-  ],
-  "KERIDA": [
-    {
-      "definition": "."
-    },
-    {
-      "part_of_speech": "v.",
-      "conjugation": "/MANG-:-EN/"
     },
     {
       "part_of_speech": "v.",
       "definition": "1. to live in the same house with. 2. to be one’s concubine or mistress: said of women.",
-      "conjugation": "/MAKI-: KA-/"
+      "conjugation": "/MANG-:-EN/, /MAKI-: KA-/"
     }
   ],
   "KABBI": [
@@ -330,6 +395,15 @@
       "definition": "a kind of very large, brown, lamellibranchiate mollusk."
     }
   ],
+  "KABIGATAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the next morning.",
+      "common_forms": [
+        "or KINABIGATAN"
+      ]
+    }
+  ],
   "KABIL": [
     {
       "part_of_speech": "v.",
@@ -340,34 +414,6 @@
       "part_of_speech": "v.",
       "definition": "to punish or maltreat someone.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "EN": [
-    {
-      "definition": "to put the hands or forelegs on (someone or something).",
-      "conjugation": "/ to fight with someone. / with pl. subject",
-      "common_forms": [
-        "MAKI-: KA-AG-"
-      ]
-    },
-    {
-      "definition": "to be sad or mournful about, to grieve for, mourn for; to be sorry for.",
-      "eng_example": "I am sorry for what happened to you.",
-      "ilok_example": "Ladingetek ti napasamak kenka.",
-      "conjugation": "/ to do, work on. Adu ti kinudit na isu nga nabannog. He did many things, so he is tired. /"
-    },
-    {
-      "definition": "to cause to sink or get stuck in mire, to mire.",
-      "conjugation": "/ to make into rice gruel or porridge. /"
-    },
-    {
-      "definition": "to be sunk or stuck in mud.",
-      "eng_example": "The wheels of your cart will be sunk in mud here.",
-      "ilok_example": "Mailutlut diay pilid ti karison yo ditoy.",
-      "conjugation": "/MAI-/"
-    },
-    {
-      "definition": "/ to suck as milk."
     }
   ],
   "KABIT": [
@@ -393,12 +439,6 @@
     {
       "part_of_speech": "n.",
       "definition": "body dirt, skin dirt."
-    }
-  ],
-  "NAKAKABKABKAB": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "full of dirt on the body or skin."
     }
   ],
   "KABKABANGA": [
@@ -433,13 +473,6 @@
       "plural_form": "pl. KAKABSAT"
     }
   ],
-  "AGKABSAT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "to be brothers or sisters or brothers and sisters.",
-      "plural_form": "pl. AGKAKABASAT"
-    }
-  ],
   "KABUKAB": [
     {
       "part_of_speech": "v.",
@@ -454,6 +487,14 @@
       "eng_example": "What are you grinding with your teeth?",
       "ilok_example": "Ania ti kabkabukabem?",
       "conjugation": "/MANG- :-EN/"
+    }
+  ],
+  "KABUKBUKODAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "exclusively owned.",
+      "eng_example": "The Ilokano has his own exclusive language.",
+      "ilok_example": "Adda met kabukbukodan nga balikas ti Iloko."
     }
   ],
   "KABUL": [
@@ -500,18 +541,18 @@
   ],
   "KADA": [
     {
-      "definition": "prep. each, every; as in KADA MALEM, every afternoon. pl. of KEN NI, the oblique or locative form of DA.",
+      "definition": "SUMUNO NGA ALDAW, every other day.",
+      "ilok_example": "DOMINGGO, every week, weekly."
+    },
+    {
+      "part_of_speech": "prep.",
+      "definition": "each, every; as in KADA MALEM, every afternoon. pl. of KEN NI, the oblique or locative form of DA.",
       "origin": "f. Sp."
     }
   ],
   "KADAGIDI": [
     {
       "definition": "pl. of ITI DAYDI; the oblique or locative form of"
-    }
-  ],
-  "DAGIDI": [
-    {
-      "definition": ": in, at, to, of those (which are now extinct)."
     }
   ],
   "KADAGIDIAY": [
@@ -522,11 +563,6 @@
   "KADAGITA": [
     {
       "definition": "pl. of ITI DAYTA; the oblique or locative form of"
-    }
-  ],
-  "DAGITA": [
-    {
-      "definition": ": in, at, to, of those (near hearer)."
     }
   ],
   "KADAGITAY": [
@@ -729,11 +765,6 @@
       "conjugation": "/AG-/ with pl. subject"
     }
   ],
-  "KA--EN": [
-    {
-      "definition": "see under KA-."
-    }
-  ],
   "KAFE": [
     {
       "definition": "var. of KAPE.",
@@ -809,6 +840,12 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "KAGUDDUA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "one-half."
+    }
+  ],
   "KAGUMAAN": [
     {
       "part_of_speech": "v.",
@@ -818,21 +855,14 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "KARA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "case, box, pack (or cigarettes).",
-      "origin": "f. Sp."
-    }
-  ],
   "KAHITA": [
-    {
-      "definition": "."
-    },
     {
       "part_of_speech": "n.",
       "definition": "diminutive of KAHA: a small case or box.",
-      "origin": "f. Sp."
+      "origin": "f. Sp.",
+      "synonyms": [
+        "KARTON"
+      ]
     }
   ],
   "KAHON": [
@@ -856,12 +886,34 @@
   ],
   "KAIBATUGAN": [
     {
-      "definition": "see under BATUG."
+      "part_of_speech": "n.",
+      "definition": "equivalent, something of equal worth. see under BATUG."
+    }
+  ],
+  "KAIDDA": [
+    {
+      "definition": "n, that with whom one sleeps, that sleeping by the side of oneself."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sleep with, to sleep by the side of",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sleep side by side, to sleep together.",
+      "conjugation": "/AG-/ with pl. subject"
     }
   ],
   "KAILALA": [
     {
       "definition": "var. of ILALA."
+    }
+  ],
+  "KAILIAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. coming from the same town, townmate. 2. coming from the same country. see under ILI."
     }
   ],
   "KAIMITO": [
@@ -879,34 +931,38 @@
       ]
     }
   ],
+  "KAINGUNGOT": [
+    {
+      "definition": "n, loved one, beloved, sweetheart."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be sweethearts. see under INGUNGOT.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
   "KAKA": [
     {
       "part_of_speech": "n.",
       "definition": "1. an elder brother or sister. 2. also, anyone older than oneself or as old as one’s elder brother or sister."
     }
   ],
-  "AGKAKA": [
+  "KAKAASI": [
     {
-      "part_of_speech": "n.",
-      "definition": "a brother and a sister, two brothers, or two sisters one of whom is older."
-    }
-  ],
-  "K": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a cage for chickens. ÁMENG,",
-      "common_forms": [
-        "ÁKAB"
-      ]
-    },
-    {
-      "part_of_speech": "n.",
-      "definition": "genitals. ÍRANG,"
+      "part_of_speech": "adj.",
+      "definition": "having great difficulties or hardships (in doing something), to be pitiful (while doing something).",
+      "eng_example": "The doctor walked pitifully.",
+      "ilok_example": "Kakaasi nga nagna diay doktor."
     },
     {
       "part_of_speech": "adj.",
-      "definition": "scarce, scanty.",
-      "conjugation": "/NA-/"
+      "definition": "pitiful.",
+      "conjugation": "/NAKA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do something (for someone) as an act of mercy.",
+      "conjugation": "/MANGI-: I-/"
     }
   ],
   "KAKABSAT": [
@@ -917,7 +973,11 @@
   "KAKAISUNA": [
     {
       "part_of_speech": "adj.",
-      "definition": "one and only, sole, unique. conj. since, inasmuch as, now that."
+      "definition": "one and only, sole, unique."
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "since, inasmuch as, now that."
     }
   ],
   "KAKAK": [
@@ -1000,6 +1060,13 @@
       ]
     }
   ],
+  "KALAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bump against the ground or as if against the ground in order to remove dirt: said especially of boxes and other containers.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
   "KALAKAL": [
     {
       "part_of_speech": "v.",
@@ -1016,6 +1083,20 @@
       "origin": "cf. LAING"
     }
   ],
+  "KALAM-IT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to implicate or involve (someone), as in a case, plot, etc.",
+      "conjugation": "/MAKAI-: MAI-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be implicated or involved (in a case, plot, etc.).",
+      "eng_example": "It is difficult to get involved in those things.",
+      "ilok_example": "Narigat ti maikalam-it kadagita nga banag.",
+      "conjugation": "/MAI-/"
+    }
+  ],
   "KALAMANSI": [
     {
       "part_of_speech": "n.",
@@ -1029,18 +1110,48 @@
       "definition": "a kind of thick sweet made of rice flour, sugar, and water."
     }
   ],
-  "KALAM-IT": [
+  "KALANGAKANG": [
     {
-      "part_of_speech": "v.",
-      "definition": "to implicate or involve (someone), as in a case, plot, etc.",
-      "conjugation": "/MAKAI-: MAI-/"
+      "part_of_speech": "adj.",
+      "definition": "overripe and almost dry: said of the fruit of the tamarind tree."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be implicated or involved (in a case, plot, etc.).",
-      "eng_example": "It is difficult to get involved in those things.",
-      "ilok_example": "Narigat ti maikalam-it kadagita nga banag.",
-      "conjugation": "/MAI-/"
+      "definition": "to become like this.",
+      "conjugation": "/-UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be this.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "KALANGIKING": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to jingle like coins or metal.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "KALANGKANG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to form into a ring, to wind, to turn completely or repeatedly about an object, e.g. coil, twine.",
+      "eng_example": "Wind that fiber.",
+      "ilok_example": "Kalangkangem dayta sagut.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "KALANGOKONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce a deep rattling sound, as a coconut shell inside an earthen jar.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "KALANGTAY": [
+    {
+      "definition": "var. of KALANTAY."
     }
   ],
   "KALANTAY": [
@@ -1060,50 +1171,6 @@
       "part_of_speech": "v.",
       "definition": "to walk on (something) as a bridge.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "KALANGAKANG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "overripe and almost dry: said of the fruit of the tamarind tree."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to become like this.",
-      "conjugation": "/-UM-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be this.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "KALANGKANG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to form into a ring, to wind, to turn completely or repeatedly about an object, e.g. coil, twine.",
-      "eng_example": "Wind that fiber.",
-      "ilok_example": "Kalangkangem dayta sagut.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "KALANGIKING": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to jingle like coins or metal.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "KALANGOKONG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to produce a deep rattling sound, as a coconut shell inside an earthen jar.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "KALANGTAY": [
-    {
-      "definition": "var. of KALANTAY."
     }
   ],
   "KALAP": [
@@ -1358,13 +1425,6 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
-  "KALAG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to bump against the ground or as if against the ground in order to remove dirt: said especially of boxes and other containers.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
   "KALKAL": [
     {
       "part_of_speech": "v.",
@@ -1475,15 +1535,6 @@
       "definition": "var. of KALLID."
     }
   ],
-  "KALLUGONG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "hat.",
-      "synonyms": [
-        "BALANGGOT, SOMBRERO"
-      ]
-    }
-  ],
   "KALLONG": [
     {
       "part_of_speech": "v.",
@@ -1494,6 +1545,15 @@
       "part_of_speech": "v.",
       "definition": "to eat (food) surreptitiously especially between meals.",
       "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "KALLUGONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hat.",
+      "synonyms": [
+        "BALANGGOT, SOMBRERO"
+      ]
     }
   ],
   "KALMA": [
@@ -1511,11 +1571,6 @@
     {
       "part_of_speech": "n.",
       "definition": "The day before today, yesterday."
-    }
-  ],
-  "BIGAT": [
-    {
-      "definition": "KALMAN, yesterday morning."
     }
   ],
   "KALNAAWAN": [
@@ -1547,6 +1602,15 @@
       "eng_example": "That chair wobbles.",
       "ilok_example": "Agkalogkalog dayta tugaw.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "KALONG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "loose-fitting, as shoes.",
+      "common_forms": [
+        "KALONG-KALONG"
+      ]
     }
   ],
   "KALPASAN": [
@@ -1612,11 +1676,6 @@
       "conjugation": "/AG-, MANG-:-EN/"
     }
   ],
-  "KINALTI": [
-    {
-      "definition": "n, sliced sweet potatoes, unripe papayas, unripe bananas, etc. cooked in boiling sugar."
-    }
-  ],
   "KALUB": [
     {
       "part_of_speech": "n.",
@@ -1634,14 +1693,6 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "KANIKA-": [
-    {
-      "definition": "a numeral prefix used to form ordinal numbers.",
-      "synonyms": [
-        "MAIKA-"
-      ]
-    }
-  ],
   "KALUBBABA": [
     {
       "definition": "var. of KALUMBABA."
@@ -1652,6 +1703,12 @@
       "part_of_speech": "v.",
       "definition": "to lean out of the window or as out of the window with almost half of the body outside.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "KALUKSAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "that with whom one is disgusted."
     }
   ],
   "KALULOT": [
@@ -1672,6 +1729,11 @@
       "definition": "n, a spiny herb (Amaranthus spinosus) with long petioled leaves."
     }
   ],
+  "KALUNGKON": [
+    {
+      "definition": "var. of KALUNKON."
+    }
+  ],
   "KALUNKON": [
     {
       "part_of_speech": "v.",
@@ -1687,18 +1749,15 @@
       ]
     }
   ],
-  "KALONG": [
+  "KALUOB": [
     {
-      "part_of_speech": "adj.",
-      "definition": "loose-fitting, as shoes.",
-      "common_forms": [
-        "KALONG-KALONG"
-      ]
-    }
-  ],
-  "KALUNGKON": [
+      "part_of_speech": "n.",
+      "definition": "common-law wife or husband."
+    },
     {
-      "definition": "var. of KALUNKON."
+      "part_of_speech": "v.",
+      "definition": "to be or live together as common-law husband and wife.",
+      "conjugation": "/AG-/ with pl. subject"
     }
   ],
   "KALUPAPIS": [
@@ -1810,6 +1869,11 @@
       "definition": "patches of discolored skin, much paler than the rest of the skin, caused usually by tinea."
     }
   ],
+  "KAMANG": [
+    {
+      "definition": "var. of AMANG."
+    }
+  ],
   "KAMANTIGI": [
     {
       "part_of_speech": "n.",
@@ -1819,11 +1883,6 @@
   "KAMANTIRIS": [
     {
       "definition": "syn. of DAMORTIS."
-    }
-  ],
-  "KAMANG": [
-    {
-      "definition": "var. of AMANG."
     }
   ],
   "KAMARIN": [
@@ -1949,12 +2008,8 @@
   ],
   "KAMI": [
     {
-      "definition": "pron. we, us (excl.): the enclitic nominative of"
-    }
-  ],
-  "DAKAMI": [
-    {
-      "definition": ".",
+      "part_of_speech": "pron.",
+      "definition": "we, us (excl.): the enclitic nominative of DAKAMI.",
       "variations": [
         "KAM"
       ]
@@ -2364,7 +2419,13 @@
       "conjugation": "/AG-/"
     }
   ],
-  "KANATAD": [],
+  "KANATAD": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "orderly, accurate, correct.",
+      "conjugation": "/NA-/"
+    }
+  ],
   "KANAWA": [
     {
       "part_of_speech": "v.",
@@ -2430,13 +2491,6 @@
       "conjugation": "/AGI-, MANGI-: I-/"
     }
   ],
-  "KANDILA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "candle.",
-      "origin": "f. Sp."
-    }
-  ],
   "KANDIDATO": [
     {
       "part_of_speech": "n.",
@@ -2456,6 +2510,13 @@
       "origin": "f Sp."
     }
   ],
+  "KANDILA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "candle.",
+      "origin": "f. Sp."
+    }
+  ],
   "KANEN": [
     {
       "part_of_speech": "n.",
@@ -2463,10 +2524,22 @@
       "origin": "cf. KAAN"
     }
   ],
-  "KANKANEN": [
+  "KANGKONG": [
     {
       "part_of_speech": "n.",
-      "definition": "cake, sweet. see under KANEN."
+      "definition": "water spinach.",
+      "synonyms": [
+        "BALANGEG"
+      ]
+    }
+  ],
+  "KANGRUNAAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "most important, primary, principal.",
+      "eng_example": "They say that agriculture is the most important means of livelihood of the townspeople.",
+      "ilok_example": "Ti kano agrikultura ti kangrunaan nga pagsapulan dagiti umili.",
+      "origin": "cf. NANGRUNA"
     }
   ],
   "KANIBUSANAN": [
@@ -2491,20 +2564,24 @@
       ]
     }
   ],
+  "KANIKA-": [
+    {
+      "definition": "a numeral prefix used to form ordinal numbers.",
+      "synonyms": [
+        "MAIKA-"
+      ]
+    }
+  ],
+  "KANIKADUA": [
+    {
+      "definition": "NGA ALDAW, two days ago.",
+      "ilok_example": "KANIKATLO NGA"
+    }
+  ],
   "KANITO": [
     {
       "part_of_speech": "n.",
       "definition": "moment, instant."
-    }
-  ],
-  "APAGKANITO": [
-    {
-      "definition": "in a short time, in a moment.",
-      "eng_example": "Your mother will arrive in a short time.",
-      "ilok_example": "Sumangpet to ni nanang mo iti apagkanito.",
-      "synonyms": [
-        "APAGDIPAS"
-      ]
     }
   ],
   "KANIWAS": [
@@ -2514,6 +2591,12 @@
       "eng_example": "Don’t do anything that is contrary to law.",
       "ilok_example": "Saan ka nga agaramid ti maikaniwas ti linteg.",
       "conjugation": "/MAI-/"
+    }
+  ],
+  "KANKANEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cake, sweet. see under KANEN."
     }
   ],
   "KANNAWAN": [
@@ -2598,15 +2681,10 @@
       "cross_reference": "KEN-, KA-"
     }
   ],
-  "KEN-": [
-    {
-      "definition": "KENKUA-, KA-. a prefix that combines with the second person singular enclitic nominative pronoun (KA) to form the corresponding full oblique pronouns.",
-      "cross_reference": "KANYA-, KENKUA-, KA-"
-    }
-  ],
   "KANYADA": [
     {
-      "definition": "pron. to, toward, from, with, etc. them: the oblique of ISUDA.",
+      "part_of_speech": "pron.",
+      "definition": "to, toward, from, with, etc. them: the oblique of ISUDA.",
       "variations": [
         "KENKUADA"
       ]
@@ -2614,7 +2692,8 @@
   ],
   "KANYAK": [
     {
-      "definition": "pron. to, toward, from, with, etc. me: the oblique of SIAK."
+      "part_of_speech": "pron.",
+      "definition": "to, toward, from, with, etc. me: the oblique of SIAK."
     }
   ],
   "KANYAM": [
@@ -2624,7 +2703,8 @@
   ],
   "KANYAMI": [
     {
-      "definition": "pron. to, toward, from, with, etc. us (excl.): the oblique of DAKAMI.",
+      "part_of_speech": "pron.",
+      "definition": "to, toward, from, with, etc. us (excl.): the oblique of DAKAMI.",
       "variations": [
         "KADAKAMI"
       ]
@@ -2632,7 +2712,8 @@
   ],
   "KANYANA": [
     {
-      "definition": "pron. to, toward, from, with, etc. him or her: the oblique of ISU.",
+      "part_of_speech": "pron.",
+      "definition": "to, toward, from, with, etc. him or her: the oblique of ISU.",
       "variations": [
         "KENKUANA"
       ]
@@ -2640,7 +2721,8 @@
   ],
   "KANYATA": [
     {
-      "definition": "pron. to, toward, from with, etc. the two of us: the oblique of DATA.",
+      "part_of_speech": "pron.",
+      "definition": "to, toward, from with, etc. the two of us: the oblique of DATA.",
       "variations": [
         "KADATA"
       ]
@@ -2653,7 +2735,8 @@
   ],
   "KANYATAYO": [
     {
-      "definition": "pron. to, toward, from, with, etc. us (incl.): the oblique of DATAYO.",
+      "part_of_speech": "pron.",
+      "definition": "to, toward, from, with, etc. us (incl.): the oblique of DATAYO.",
       "variations": [
         "KANYATAY, KADATAYO"
       ]
@@ -2661,7 +2744,8 @@
   ],
   "KANYAYO": [
     {
-      "definition": "pron. to, toward, from, with, etc. you (pl.): the oblique of DAKAYO.",
+      "part_of_speech": "pron.",
+      "definition": "to, toward, from, with, etc. you (pl.): the oblique of DAKAYO.",
       "variations": [
         "KADAKAYO"
       ]
@@ -2677,24 +2761,6 @@
       "part_of_speech": "v.",
       "definition": "to hit with a cannon.",
       "conjugation": "/AG-, -UM-:-EN/"
-    }
-  ],
-  "KANGKONG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "water spinach.",
-      "synonyms": [
-        "BALANGEG"
-      ]
-    }
-  ],
-  "KANGRUNAAN": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "most important, primary, principal.",
-      "eng_example": "They say that agriculture is the most important means of livelihood of the townspeople.",
-      "ilok_example": "Ti kano agrikultura ti kangrunaan nga pagsapulan dagiti umili.",
-      "origin": "cf. NANGRUNA"
     }
   ],
   "KAP": [
@@ -2726,6 +2792,15 @@
       "eng_example": "Our towns are adjacent to each other.",
       "ilok_example": "Agkakaparanget dagiti il-ili mi.",
       "conjugation": "/AG- + R2/ with pl. subject"
+    }
+  ],
+  "KAPAREHO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "that to which the subject is similar, equivalent, identical.",
+      "synonyms": [
+        "KAPADA"
+      ]
     }
   ],
   "KAPAS": [
@@ -2779,13 +2854,6 @@
       "definition": "1. to hold on or cling to something. 2. to fit well, as a dress.",
       "conjugation": "/-UM-/",
       "origin": "= KUMPET"
-    }
-  ],
-  "KAPTEN": [
-    {
-      "definition": "] 1. to hold on, cling to. 2. to transfer to (someone), as a disease or sickness, to infect: said of a disease or sickness.",
-      "eng_example": "One who eats vegetables will not easily be infected by a disease.",
-      "ilok_example": "Saan nga nalaka nga kapten ti sakit ti agsida ti natnateng."
     }
   ],
   "KAPI": [
@@ -2904,23 +2972,11 @@
       "conjugation": "/AG-/"
     }
   ],
-  "R": [
+  "KAPTEN": [
     {
-      "definition": "2"
-    },
-    {
-      "definition": "to hold hands. ÁMAN,",
-      "conjugation": "/ to feel weak, exhausted. --syn. KAPUY. 2/ with pl. subject"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to include, take in, allow to participate.",
-      "conjugation": "/MANGI-: I-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to participate with in an activity.",
-      "conjugation": "/-UM-/"
+      "definition": "] 1. to hold on, cling to. 2. to transfer to (someone), as a disease or sickness, to infect: said of a disease or sickness.",
+      "eng_example": "One who eats vegetables will not easily be infected by a disease.",
+      "ilok_example": "Saan nga nalaka nga kapten ti sakit ti agsida ti natnateng."
     }
   ],
   "KAPUTOTAN": [
@@ -2976,18 +3032,25 @@
       "conjugation": "/AG-/"
     }
   ],
+  "KAR-IN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to turn over the food content of with a spatula or ladle, to turn over (food in a pot, pan, etc.) with a spatula or ladle.",
+      "eng_example": "Turn over the food in the pot with a ladle.",
+      "ilok_example": "Ikar-in mo diay banga.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "KARA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "case, box, pack (or cigarettes).",
+      "origin": "f. Sp."
+    }
+  ],
   "KARA-": [
     {
       "definition": "a prefix occurring with verb roots which expresses the constant, frequent or habitual repetition of the action indicated by the stem."
-    }
-  ],
-  "KARABA": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to beg for, ask for (help, a job, etc.).",
-      "eng_example": "There are many who ask for his help.",
-      "ilok_example": "Adu ti kumaraba ti tulong na.",
-      "conjugation": "/-UM-:-EN/"
     }
   ],
   "KARAB-AS": [
@@ -2997,6 +3060,15 @@
       "eng_example": "Go away from that dog for he will put his forelegs on you.",
       "ilok_example": "Adayoam dayta aso ta agkarab-as.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "KARABA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to beg for, ask for (help, a job, etc.).",
+      "eng_example": "There are many who ask for his help.",
+      "ilok_example": "Adu ti kumaraba ti tulong na.",
+      "conjugation": "/-UM-:-EN/"
     }
   ],
   "KARABASA": [
@@ -3088,12 +3160,6 @@
     {
       "part_of_speech": "n.",
       "definition": "a large jar with a wide mouth used especially for fetching and storing water."
-    }
-  ],
-  "PAGKARAMBAAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "1. a stand or support for this jar. 2. the place where this jar is located."
     }
   ],
   "KARAMUKOM": [
@@ -3447,15 +3513,6 @@
       "definition": "a cactus-like plant (Euphorbia trigona)."
     }
   ],
-  "KAR-IN": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to turn over the food content of with a spatula or ladle, to turn over (food in a pot, pan, etc.) with a spatula or ladle.",
-      "eng_example": "Turn over the food in the pot with a ladle.",
-      "ilok_example": "Ikar-in mo diay banga.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
   "KARINYO": [
     {
       "part_of_speech": "adj.",
@@ -3745,6 +3802,9 @@
   ],
   "KAS": [
     {
+      "definition": "PAGARIGAN, for example."
+    },
+    {
       "part_of_speech": "adv.",
       "definition": "like, similar to: usually followed by LA.",
       "eng_example": "You are like a child.",
@@ -3752,6 +3812,15 @@
       "synonyms": [
         "KARIG. PAGARIGAN, for example"
       ]
+    }
+  ],
+  "KAS-ANG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "painful, hurting.",
+      "eng_example": "What you said is painful.",
+      "ilok_example": "Nakas-ang ta imbagam.",
+      "conjugation": "/NA-/"
     }
   ],
   "KASABA": [
@@ -3801,7 +3870,6 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
-  "MA-": [],
   "KASAKBAYAN": [
     {
       "part_of_speech": "n.",
@@ -3818,41 +3886,10 @@
       "definition": "a farm tenant, sharecropper."
     }
   ],
-  "KASANO": [
-    {
-      "definition": "inter. how?, in what manner?"
-    }
-  ],
-  "URAY": [
-    {
-      "definition": "KASANO, KASANO MAN, howsoever."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to wait.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to wait for.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "adv.",
-      "definition": "no matter, even so. conj. though, although.",
-      "conjugation": "/MANGI-:"
-    }
-  ],
-  "KAS-ANG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "painful, hurting.",
-      "eng_example": "What you said is painful.",
-      "ilok_example": "Nakas-ang ta imbagam.",
-      "conjugation": "/NA-/"
-    }
-  ],
   "KASANGAALDAW": [
+    {
+      "definition": "SANGAALDAW, the day before last."
+    },
     {
       "part_of_speech": "n.",
       "definition": "the day before.",
@@ -3867,6 +3904,11 @@
       "synonyms": [
         "KASAKBAYAN"
       ]
+    }
+  ],
+  "KASANO": [
+    {
+      "definition": "MAMIN-ANO, PAANO, TAGAANO. inter. how?, in what manner?"
     }
   ],
   "KASAPULAN": [
@@ -3932,18 +3974,6 @@
       "part_of_speech": "v.",
       "definition": "to do or make like that one yonder.",
       "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "NO": [
-    {
-      "definition": "KASDIAY, in that case, thus.",
-      "ilok_example": "KASTA, in that case, thus."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be proper, correct, right. conj. if.",
-      "conjugation": "/-UM-/",
-      "origin": "prp. UM-UMNO"
     }
   ],
   "KASILYAS": [
@@ -4110,12 +4140,6 @@
       "part_of_speech": "v.",
       "definition": "to shave with a plane.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "NAGKATAMAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "shavings."
     }
   ],
   "KATANG": [
@@ -4439,6 +4463,15 @@
       "definition": "var. of KAYO."
     }
   ],
+  "KAY-O": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove, throw away.",
+      "eng_example": "Throw away the water in that big basin.",
+      "ilok_example": "Ikay-om dayta danum dita bakka.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
   "KAYAB": [
     {
       "part_of_speech": "v.",
@@ -4448,6 +4481,13 @@
       "conjugation": "/-UM-/"
     }
   ],
+  "KAYABKAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to flap the wings, to flutter: said of a hen.",
+      "conjugation": "/AG-/"
+    }
+  ],
   "KAYABKAYAB": [
     {
       "part_of_speech": "v.",
@@ -4455,13 +4495,6 @@
       "eng_example": "There are many feathers floating in the air here.",
       "ilok_example": "Adu ti agkayabkayab nga dutdot ditoy.",
       "conjugation": "/AG/"
-    }
-  ],
-  "KAYABKAB": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to flap the wings, to flutter: said of a hen.",
-      "conjugation": "/AG-/"
     }
   ],
   "KAYAKAY": [
@@ -4519,6 +4552,15 @@
       ]
     }
   ],
+  "KAYARIGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "example, model.",
+      "common_forms": [
+        "PAGARIGAN"
+      ]
+    }
+  ],
   "KAYAS": [
     {
       "part_of_speech": "v.",
@@ -4553,12 +4595,6 @@
         "MADI"
       ],
       "cross_reference": "AYAT"
-    }
-  ],
-  "KAYKAYAT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "someone or something desired more."
     }
   ],
   "KAYAW": [
@@ -4616,10 +4652,20 @@
       ]
     }
   ],
+  "KAYKAYAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "someone or something desired more."
+    }
+  ],
   "KAYO": [
     {
       "part_of_speech": "n.",
-      "definition": "1. tree, a big plant. 2. wood, timber, log. pron. you (pl.): the enclitic nominative of DAKAYO.",
+      "definition": "1. tree, a big plant. 2. wood, timber, log."
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "you (pl.): the enclitic nominative of DAKAYO.",
       "variations": [
         "KAY"
       ]
@@ -4627,15 +4673,6 @@
     {
       "part_of_speech": "n.",
       "definition": "a roll of cloth woven in the native loom."
-    }
-  ],
-  "KAY-O": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to remove, throw away.",
-      "eng_example": "Throw away the water in that big basin.",
-      "ilok_example": "Ikay-om dayta danum dita bakka.",
-      "conjugation": "/MANGI-: I-/"
     }
   ],
   "KAYONG": [
@@ -4901,9 +4938,19 @@
   ],
   "KEN": [
     {
-      "definition": "prep, to, in, at, toward, from (before a proper name). conj. 1. and.",
+      "definition": "prep, to, in, at, toward, from (before a proper name)."
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "1. and.",
       "eng_example": "You and I will be left here (before a proper name). 2. including, together with.",
       "ilok_example": "Sika ken siak ti mabati ditoy."
+    }
+  ],
+  "KEN-": [
+    {
+      "definition": "KENKUA-, KA-. a prefix that combines with the second person singular enclitic nominative pronoun (KA) to form the corresponding full oblique pronouns.",
+      "cross_reference": "KANYA-, KENKUA-, KA-"
     }
   ],
   "KENDI": [
@@ -4915,7 +4962,8 @@
   ],
   "KENKA": [
     {
-      "definition": "pron. to, toward, from, with, etc. you (sg.): the oblique of SIKA.",
+      "part_of_speech": "pron.",
+      "definition": "to, toward, from, with, etc. you (sg.): the oblique of SIKA.",
       "variations": [
         "KANYAM. the oblique"
       ]
@@ -4931,45 +4979,19 @@
       "definition": "var. of KANYADA."
     }
   ],
+  "KENKUANA": [
+    {
+      "definition": "the oblique.",
+      "variations": [
+        "ISUNA. var. of KANYANA"
+      ]
+    }
+  ],
   "KEPKEP": [
     {
       "part_of_speech": "v.",
       "definition": "to fold the arms over the chest.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "AN": [
-    {
-      "definition": "to cut the beard of (a person).",
-      "eng_example": "Peter will shave my beard.",
-      "ilok_example": "Kiskisan nak ni Pedro.",
-      "conjugation": "/ to hold close to the chest with the arms around, to embrace, hug. /"
-    },
-    {
-      "definition": "to have a hole gnawed in it.",
-      "conjugation": "/ to take away from in order to reduce or lessen. Mano ti kurangem ditoy bagik? How many will you take away from my share? --syn. KISSAY. --ant. NAYON. adj. being short of, lacking, deficient, inadequate. /",
-      "common_forms": [
-        "MANG-:-EN"
-      ]
-    },
-    {
-      "definition": "to leave, go away from, forsake, abandon.",
-      "eng_example": "If you don’t want to leave me I shall leave.",
-      "ilok_example": "No dinak kayat nga panawan siak ti pumanaw.",
-      "conjugation": "/ to put letters or lettering on. /"
-    },
-    {
-      "definition": "to have one’s hair cut unevenly.",
-      "conjugation": "/ to do the whole night. /"
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "having the hair unevenly cut or unevenly shaved at the nape."
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "MANGI-: I-/ to tie, bind, attach to something with a string or rope.",
-      "conjugation": "/ to attach a rope, string or cord to. /"
     }
   ],
   "KEPPES": [
@@ -5078,15 +5100,10 @@
       "origin": "= MAKSET"
     }
   ],
-  "INPAKSET": [
-    {
-      "part_of_speech": "n.",
-      "definition": "burned or scorched rice or meat."
-    }
-  ],
   "KET": [
     {
-      "definition": "conj. and.",
+      "part_of_speech": "conj.",
+      "definition": "and.",
       "synonyms": [
         "KEN"
       ]
@@ -5541,12 +5558,6 @@
       "origin": "f. Sp."
     }
   ],
-  "PAGKILOAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a weighing machine."
-    }
-  ],
   "KILOMETRO": [
     {
       "part_of_speech": "n.",
@@ -5602,6 +5613,13 @@
       "conjugation": "/NA-/"
     }
   ],
+  "KIMMOKIMMOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to dilate and contract alternately like the anus of a chicken.",
+      "conjugation": "/AG-/"
+    }
+  ],
   "KIMMOL": [
     {
       "part_of_speech": "n.",
@@ -5621,13 +5639,6 @@
       "definition": "anus."
     }
   ],
-  "KIMMOKIMMOT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to dilate and contract alternately like the anus of a chicken.",
-      "conjugation": "/AG-/"
-    }
-  ],
   "KINA-": [
     {
       "definition": "pt. of KA-. a nominalizing affix used with nouns and adjective roots to form abstract quality nouns."
@@ -5638,9 +5649,41 @@
       "definition": "see KABITI."
     }
   ],
+  "KINALTI": [
+    {
+      "definition": "n, sliced sweet potatoes, unripe papayas, unripe bananas, etc. cooked in boiling sugar."
+    }
+  ],
   "KINELLENG": [
     {
       "definition": "see KELLENG."
+    }
+  ],
+  "KINGKI": [
+    {
+      "definition": "n, lamp.",
+      "synonyms": [
+        "SILAW, LAMPARA"
+      ]
+    }
+  ],
+  "KINGKING": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hop.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "a children’s game played mostly by hopping, hopscotch.",
+      "synonyms": [
+        "PIKO"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to play this game.",
+      "conjugation": "/AG-/ with pl. subject"
     }
   ],
   "KINNI": [
@@ -5698,33 +5741,6 @@
       "conjugation": "/AG-/"
     }
   ],
-  "KINGKI": [
-    {
-      "definition": "n, lamp.",
-      "synonyms": [
-        "SILAW, LAMPARA"
-      ]
-    }
-  ],
-  "KINGKING": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to hop.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "n.",
-      "definition": "a children’s game played mostly by hopping, hopscotch.",
-      "synonyms": [
-        "PIKO"
-      ]
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to play this game.",
-      "conjugation": "/AG-/ with pl. subject"
-    }
-  ],
   "KIPET": [
     {
       "part_of_speech": "adj.",
@@ -5740,6 +5756,27 @@
       "part_of_speech": "adj.",
       "definition": "tight, tight-fitting, as a dress.",
       "conjugation": "/NA-/"
+    }
+  ],
+  "KIR-IN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to move slightly.",
+      "eng_example": "No one of those watching made a slight stir.",
+      "ilok_example": "Awan pay ti nagkir-in kadagidiay agbuybuya.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "KIR-OS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pound rice the third and usually the last time.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pound (incompletely pounded rice) for the third and usually last time.",
+      "conjugation": "/MANG-:-EN/"
     }
   ],
   "KIRAOD": [
@@ -5837,15 +5874,6 @@
       "definition": "var. (dial.) of GIRIT."
     }
   ],
-  "KIR-IN": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to move slightly.",
-      "eng_example": "No one of those watching made a slight stir.",
-      "ilok_example": "Awan pay ti nagkir-in kadagidiay agbuybuya.",
-      "conjugation": "/AG-/"
-    }
-  ],
   "KIRKIR": [
     {
       "part_of_speech": "v.",
@@ -5888,11 +5916,6 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
-  "KIROKIRO": [
-    {
-      "definition": "n.pl. problems, disorders, disturbances."
-    }
-  ],
   "KIROG": [
     {
       "part_of_speech": "v.",
@@ -5900,16 +5923,9 @@
       "conjugation": "/AG-, MANG-:-EN/"
     }
   ],
-  "KIR-OS": [
+  "KIROKIRO": [
     {
-      "part_of_speech": "v.",
-      "definition": "to pound rice the third and usually the last time.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to pound (incompletely pounded rice) for the third and usually last time.",
-      "conjugation": "/MANG-:-EN/"
+      "definition": "n.pl. problems, disorders, disturbances."
     }
   ],
   "KIRRET": [
@@ -6269,9 +6285,16 @@
   ],
   "KO": [
     {
-      "definition": "pron. by me, I (as actor): the agent of SIAK.",
+      "part_of_speech": "pron.",
+      "definition": "by me, I (as actor): the agent of SIAK.",
       "variations": [
-        "-K (after a vowel) pron. my: the enclitic possessive of SIAK",
+        "-K (after a vowel)"
+      ]
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "my: the enclitic possessive of SIAK.",
+      "variations": [
         "-K (after a vowel)"
       ]
     }
@@ -6538,6 +6561,15 @@
       "origin": "konεho; f. Sp."
     }
   ],
+  "KONGKONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to provide with a canal or groove, to make a canal or groove at.",
+      "eng_example": "Make a canal here so that water can flow through it.",
+      "ilok_example": "Kongkongam ditoy tapno adda pagayusan ti danum.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
   "KONGRESO": [
     {
       "part_of_speech": "n.",
@@ -6643,15 +6675,6 @@
       "common_forms": [
         "KONTRATO"
       ]
-    }
-  ],
-  "KONGKONG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to provide with a canal or groove, to make a canal or groove at.",
-      "eng_example": "Make a canal here so that water can flow through it.",
-      "ilok_example": "Kongkongam ditoy tapno adda pagayusan ti danum.",
-      "conjugation": "/MANG-:-AN/"
     }
   ],
   "KOPA": [
@@ -6832,13 +6855,6 @@
       "origin": "f. Sp."
     }
   ],
-  "HESUKRISTO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "Jesus Christ.",
-      "origin": "hεsukristo; f. Sp."
-    }
-  ],
   "KROS": [
     {
       "part_of_speech": "n.",
@@ -6885,15 +6901,13 @@
   "KUA": [
     {
       "part_of_speech": "n.",
-      "definition": "var. of KUKUA. pron. substitute for noun, verb root, or adjective root.",
+      "definition": "var. of KUKUA."
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "substitute for noun, verb root, or adjective root.",
       "eng_example": "So-and-so will go.",
       "ilok_example": "Ni kua ti mapan."
-    }
-  ],
-  "KUKUA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "property, possession. see under KUA."
     }
   ],
   "KUADA": [
@@ -7337,9 +7351,16 @@
       "definition": "1. a finger nail. 2. a claw. 3. a hoof."
     }
   ],
+  "KUKUA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "property, possession. see under KUA."
+    }
+  ],
   "KUKUADA": [
     {
-      "definition": "pron. theirs; their property; their own: the full possessive of ISUDA.",
+      "part_of_speech": "pron.",
+      "definition": "theirs; their property; their own: the full possessive of ISUDA.",
       "variations": [
         "KUADA"
       ]
@@ -7347,7 +7368,8 @@
   ],
   "KUKUAK": [
     {
-      "definition": "pron. mine, my property, my own: the full possessive of SIAK.",
+      "part_of_speech": "pron.",
+      "definition": "mine, my property, my own: the full possessive of SIAK.",
       "variations": [
         "KUAK"
       ]
@@ -7355,7 +7377,8 @@
   ],
   "KUKUAM": [
     {
-      "definition": "pron. yours (sg.), your property, your own: the full possessive of SIKA.",
+      "part_of_speech": "pron.",
+      "definition": "yours (sg.), your property, your own: the full possessive of SIKA.",
       "variations": [
         "KUAM"
       ]
@@ -7363,7 +7386,8 @@
   ],
   "KUKUAMI": [
     {
-      "definition": "pron. ours (excl.), our (excl.) property, our (excl.) own: the full possessive of DAKAMI.",
+      "part_of_speech": "pron.",
+      "definition": "ours (excl.), our (excl.) property, our (excl.) own: the full possessive of DAKAMI.",
       "variations": [
         "KUAMI"
       ]
@@ -7371,7 +7395,8 @@
   ],
   "KUKUANA": [
     {
-      "definition": "pron. his, hers; his or her property; his or her own: the full possessive of ISU.",
+      "part_of_speech": "pron.",
+      "definition": "his, hers; his or her property; his or her own: the full possessive of ISU.",
       "variations": [
         "KUANA"
       ]
@@ -7379,7 +7404,8 @@
   ],
   "KUKUATA": [
     {
-      "definition": "pron. ours, yours (sg.) and mine, your (sg.) and my property, your (sg.) and my own: the full possessive of DATA.",
+      "part_of_speech": "pron.",
+      "definition": "ours, yours (sg.) and mine, your (sg.) and my property, your (sg.) and my own: the full possessive of DATA.",
       "variations": [
         "KUATA"
       ]
@@ -7387,7 +7413,8 @@
   ],
   "KUKUATAYO": [
     {
-      "definition": "pron. ours (incl.), our (incl.) property, our (incl.) own: the full possessive of DATAYO.",
+      "part_of_speech": "pron.",
+      "definition": "ours (incl.), our (incl.) property, our (incl.) own: the full possessive of DATAYO.",
       "variations": [
         "KUATAYO"
       ]
@@ -7395,7 +7422,8 @@
   ],
   "KUKUAYO": [
     {
-      "definition": "pron. yours (pl.), your (pl.) property, your (pl.) own: the full possessive of DAKAYO.",
+      "part_of_speech": "pron.",
+      "definition": "yours (pl.), your (pl.) property, your (pl.) own: the full possessive of DAKAYO.",
       "variations": [
         "KUAYO"
       ]
@@ -7407,6 +7435,15 @@
       "definition": "to walk unsteadily, weakly.",
       "eng_example": "Why is the chicken walking unsteadily?",
       "ilok_example": "Apay nga agkukumer diay manok?",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "KUL-OB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lie down face forward with the arms crossed under the head.",
+      "eng_example": "Lie down with your face forward and your arms crossed under your head so that he cannot see you.",
+      "ilok_example": "Agkul-ob ka tapno saan na ka nga makita.",
       "conjugation": "/AG-/"
     }
   ],
@@ -7446,12 +7483,6 @@
       "part_of_speech": "v.",
       "definition": "to harm (someone) through witchcraft.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "MANGKUKULAM": [
-    {
-      "part_of_speech": "n.",
-      "definition": "one who practices black magic."
     }
   ],
   "KULAMBO": [
@@ -7645,15 +7676,6 @@
       "conjugation": "/AG-/"
     }
   ],
-  "KUL-OB": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to lie down face forward with the arms crossed under the head.",
-      "eng_example": "Lie down with your face forward and your arms crossed under your head so that he cannot see you.",
-      "ilok_example": "Agkul-ob ka tapno saan na ka nga makita.",
-      "conjugation": "/AG-/"
-    }
-  ],
   "KULOR": [
     {
       "part_of_speech": "n.",
@@ -7778,6 +7800,15 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "KUMON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "toilet, privy, outhouse.",
+      "synonyms": [
+        "KASILYAS"
+      ]
+    }
+  ],
   "KUMPAY": [
     {
       "part_of_speech": "n.",
@@ -7793,15 +7824,6 @@
       "part_of_speech": "v.",
       "definition": "to strike with or as if with a cymbal.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "KUMON": [
-    {
-      "part_of_speech": "n.",
-      "definition": "toilet, privy, outhouse.",
-      "synonyms": [
-        "KASILYAS"
-      ]
     }
   ],
   "KUMUSTA": [
@@ -7984,6 +8006,13 @@
       "eng_example": "The big can was dented when he dropped it heavily.",
       "ilok_example": "Nakuppit diay balde idi imbarsak na.",
       "conjugation": "/MA-/"
+    }
+  ],
+  "KUR-IT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to scratch or mark with a sharp point.",
+      "conjugation": "/MANG-:-AN/"
     }
   ],
   "KURA": [
@@ -8172,13 +8201,6 @@
       "eng_example": "The chicken that you hit with a stone writhed violently.",
       "ilok_example": "Nagkuripaspas diay manok nga binatom.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "KUR-IT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to scratch or mark with a sharp point.",
-      "conjugation": "/MANG-:-AN/"
     }
   ],
   "KURITA": [
@@ -8381,9 +8403,6 @@
   ],
   "KUSINERO": [
     {
-      "definition": "."
-    },
-    {
       "part_of_speech": "n.",
       "definition": "a cook especially a male one.",
       "origin": "kusinεro; f. Sp.",
@@ -8497,6 +8516,13 @@
       "conjugation": "/-UM-/"
     }
   ],
+  "KUT-IM": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove the shell of rice or nuts with the teeth.",
+      "conjugation": "/AG-/"
+    }
+  ],
   "KUTA": [
     {
       "part_of_speech": "interj.",
@@ -8592,6 +8618,16 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
+  "KUTIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the end of a row, a file, etc., the end part of a cart, the back of a water buffalo, etc."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "last in a row, a line, etc."
+    }
+  ],
   "KUTKOT": [
     {
       "part_of_speech": "n.",
@@ -8601,36 +8637,6 @@
       "part_of_speech": "v.",
       "definition": "to cut a groove or rabbet in.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "KUTSON": [
-    {
-      "part_of_speech": "n.",
-      "definition": "cushion.",
-      "origin": "f. Sp."
-    }
-  ],
-  "KUTUKUT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a kind of punch used for widening or enlarging holes."
-    }
-  ],
-  "KUT-IM": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to remove the shell of rice or nuts with the teeth.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "KUTIT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "the end of a row, a file, etc., the end part of a cart, the back of a water buffalo, etc."
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "last in a row, a line, etc."
     }
   ],
   "KUTKUT": [
@@ -8643,44 +8649,6 @@
       "part_of_speech": "v.",
       "definition": "1. to dig by scratching. 2. to erode, wash away: said of a current of water.",
       "conjugation": "/AG-:-EN/"
-    }
-  ],
-  "KUTSARA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "spoon.",
-      "origin": "f. Sp."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to use a spoon especially in eating.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "1. to take with a spoon. 2. to hit with a spoon.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "KUTSARITA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "teaspoon.",
-      "origin": "f. Sp."
-    }
-  ],
-  "KUTSILIO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "table knife.",
-      "origin": "f. Sp."
-    }
-  ],
-  "KUTSERO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "the driver of a horse-drawn carriage.",
-      "origin": "kutsεro; f. Sp."
     }
   ],
   "KUTO": [
@@ -8726,6 +8694,51 @@
       "conjugation": "/MA--AN/"
     }
   ],
+  "KUTSARA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "spoon.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use a spoon especially in eating.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to take with a spoon. 2. to hit with a spoon.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "KUTSARITA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "teaspoon.",
+      "origin": "f. Sp."
+    }
+  ],
+  "KUTSERO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the driver of a horse-drawn carriage.",
+      "origin": "kutsεro; f. Sp."
+    }
+  ],
+  "KUTSILIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "table knife.",
+      "origin": "f. Sp."
+    }
+  ],
+  "KUTSON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cushion.",
+      "origin": "f. Sp."
+    }
+  ],
   "KUTTONG": [
     {
       "part_of_speech": "adj.",
@@ -8754,6 +8767,21 @@
       "conjugation": "/MANG-:-AN/"
     }
   ],
+  "KUTUKUT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of punch used for widening or enlarging holes."
+    }
+  ],
+  "KUY-AT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to raise, lift up, as one’s foot.",
+      "eng_example": "Lift up your foot.",
+      "ilok_example": "Ikuy-at mo ta sakam.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
   "KUYAKUY": [
     {
       "part_of_speech": "v.",
@@ -8771,15 +8799,6 @@
       "part_of_speech": "adj.",
       "definition": "sharp-faced, thin-faced: said of a person.",
       "conjugation": "/NA-/"
-    }
-  ],
-  "KUY-AT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to raise, lift up, as one’s foot.",
-      "eng_example": "Lift up your foot.",
-      "ilok_example": "Ikuy-at mo ta sakam.",
-      "conjugation": "/MANGI-: I-/"
     }
   ],
   "KUYEGYEG": [
@@ -8846,4 +8865,5 @@
     {
       "definition": "var. of KUYAKUY."
     }
-  ]}
+  ]
+}

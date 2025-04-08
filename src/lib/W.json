@@ -1,5 +1,5 @@
-
-{"WAB": [
+{
+  "WAB": [
     {
       "part_of_speech": "v.",
       "definition": "to yawn.",
@@ -249,17 +249,17 @@
       "conjugation": "/MANG-:-AN/"
     }
   ],
-  "WANGAWANGAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "mouth of a river, a cave, a hole, etc."
-    }
-  ],
   "WANG-IL": [
     {
       "part_of_speech": "v.",
       "definition": "to shake one’s head: said of animals.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "WANGAWANGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mouth of a river, a cave, a hole, etc."
     }
   ],
   "WANGWANG": [
@@ -282,13 +282,6 @@
       "eng_example": "Don’t loosen your hair. 2. to disassemble, dismantle, take apart.",
       "ilok_example": "Saan mo nga waraen dayta buok mo.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "WARAWARA": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "dishevelled, tousled: said of the hair.",
-      "conjugation": "/NA-/"
     }
   ],
   "WARAGWAG": [
@@ -336,6 +329,13 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "WARAWARA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "dishevelled, tousled: said of the hair.",
+      "conjugation": "/NA-/"
+    }
+  ],
   "WARIS": [
     {
       "part_of_speech": "v.",
@@ -362,13 +362,6 @@
       "synonyms": [
         "DIARYO"
       ]
-    }
-  ],
-  "AGIWARWARNAK": [
-    {
-      "part_of_speech": "n.",
-      "definition": "newspaperman, newspaper reporter. - -syn.",
-      "ilok_example": "PERIODISTA."
     }
   ],
   "WARRAGAWAG": [
@@ -542,18 +535,6 @@
       "conjugation": "/MAKA-: MA--AN/"
     }
   ],
-  "WAYAWAYA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "freedom, independence, liberty."
-    }
-  ],
-  "SIWAWAYAWYA": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "free."
-    }
-  ],
   "WAYANG": [
     {
       "part_of_speech": "adj.",
@@ -583,6 +564,12 @@
       "part_of_speech": "v.",
       "definition": "to begin, set about.",
       "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "WAYAWAYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "freedom, independence, liberty."
     }
   ],
   "WAYWAY": [
@@ -629,16 +616,17 @@
       "ilok_example": "Wen, mapanak."
     }
   ],
-  "WENNO": [
-    {
-      "definition": "conj. or."
-    }
-  ],
   "WENGWENG": [
     {
       "part_of_speech": "v.",
       "definition": "to have a buzzing sound: said of the ear.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "WENNO": [
+    {
+      "part_of_speech": "conj.",
+      "definition": "or."
     }
   ],
   "WERWER": [
@@ -674,12 +662,6 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "SIWIWIDAWID": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "empty-handed."
-    }
-  ],
   "WINGIWING": [
     {
       "part_of_speech": "v.",
@@ -692,4 +674,5 @@
       "part_of_speech": "n.",
       "definition": "the handle of a plow."
     }
-  ]}
+  ]
+}

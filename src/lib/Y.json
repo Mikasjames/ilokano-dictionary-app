@@ -1,5 +1,10 @@
-
-{"Y-": [
+{
+  "-YSA": [
+    {
+      "definition": "var. of MAYSA, one: used only with certain prefixes."
+    }
+  ],
+  "Y-": [
     {
       "definition": "var. of 1,2I- before a vowel.",
       "cross_reference": "1 (+ R2), var. of 3"
@@ -85,6 +90,13 @@
       "conjugation": "/-UM-/"
     }
   ],
+  "YANGYANG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "clear, bright.",
+      "conjugation": "/NA-/"
+    }
+  ],
   "YANTA": [
     {
       "definition": "var. of YANTANGAY."
@@ -92,17 +104,11 @@
   ],
   "YANTANGAY": [
     {
-      "definition": "conj. whereas, while.",
+      "part_of_speech": "conj.",
+      "definition": "whereas, while.",
       "variations": [
         "YANTA, ANTA"
       ]
-    }
-  ],
-  "YANGYANG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "clear, bright.",
-      "conjugation": "/NA-/"
     }
   ],
   "YARDA": [
@@ -124,7 +130,9 @@
       "part_of_speech": "v.",
       "definition": "to take or bring to, to give to (someone).",
       "conjugation": "/MANGI-: I-/",
-      "origin": "= MANGIYEG or MANGYEG: IYEG or "
+      "common_forms": [
+        "MANGIYEG, MANGYEG: IYEG, YEG] "
+      ]
     }
   ],
   "YEGYEG": [
@@ -172,16 +180,16 @@
   ],
   "YO": [
     {
-      "definition": "pron. by you (pl.), you (pl.) (as actor): the agent of pron. your (pl.): the enclitic possessive of DAKAYO."
+      "part_of_speech": "pron.",
+      "definition": "by you (pl.), you (pl.) (as actor): the agent of"
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "your (pl.): the enclitic possessive of DAKAYO."
     },
     {
       "part_of_speech": "n.",
       "definition": "shark."
-    }
-  ],
-  "DAKAYO": [
-    {
-      "definition": "."
     }
   ],
   "YOT": [
@@ -199,11 +207,6 @@
       "part_of_speech": "v.",
       "definition": "to play with a yoyo.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "-YSA": [
-    {
-      "definition": "var. of MAYSA, one: used only with certain prefixes."
     }
   ],
   "YUBYUB": [
@@ -254,4 +257,5 @@
       "part_of_speech": "n.",
       "definition": "abyss, chasm, gulf."
     }
-  ]}
+  ]
+}

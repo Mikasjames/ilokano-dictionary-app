@@ -1,7 +1,46 @@
-
-{"N-": [
+{
+  "-NEM": [
+    {
+      "definition": "var. of INNEM, six: used only with certain prefixes."
+    }
+  ],
+  "-NSA": [
+    {
+      "definition": "var. of SA after a vowel."
+    }
+  ],
+  "-NTO": [
+    {
+      "definition": "var. of TO after a vowel."
+    }
+  ],
+  "N-": [
     {
       "definition": "pt. of M-."
+    }
+  ],
+  "NA": [
+    {
+      "part_of_speech": "interj.",
+      "definition": "an exclamation expressing surprise and wonder.",
+      "synonyms": [
+        "NI. replaces MO by you (sg.) before enclitic nominative"
+      ],
+      "variations": [
+        "NAY"
+      ]
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "-K me or KAMI us (excl.)."
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "by him or her, he or she (as actor): the agent of"
+    },
+    {
+      "part_of_speech": "pron.",
+      "definition": "his, her: the enclitic possessive of ISU."
     }
   ],
   "NA-": [
@@ -18,6 +57,14 @@
     {
       "part_of_speech": "interj.",
       "definition": "an exclamation expressing sorrow; alas!"
+    }
+  ],
+  "NABIIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the recent past, ITAY NABIIT, a while ago, a few moments ago.",
+      "eng_example": "Nora passed by the office a few moments ago.",
+      "ilok_example": "Dimmaw-as ni Nora iti opisina itay nabiit."
     }
   ],
   "NABLO": [
@@ -54,6 +101,11 @@
       "definition": "pt. of AG-. superlative of NA-; very."
     }
   ],
+  "NAG-AN": [
+    {
+      "definition": "pt. of PAG-AN."
+    }
+  ],
   "NAGAN": [
     {
       "part_of_speech": "n.",
@@ -79,11 +131,6 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
-  "NAG-AN": [
-    {
-      "definition": "pt. of PAG-AN."
-    }
-  ],
   "NAGANAK": [
     {
       "part_of_speech": "n.",
@@ -101,6 +148,12 @@
       "origin": "cf. BAET"
     }
   ],
+  "NAGGAPPOAM": [
+    {
+      "definition": "?",
+      "ilok_example": "Where have you been? or; Where did you come from? -a usual greeting equivalent to: How are you?"
+    }
+  ],
   "NAGISTAY": [
     {
       "part_of_speech": "adv.",
@@ -112,6 +165,27 @@
       ],
       "common_forms": [
         "NAGISTAYAN"
+      ]
+    }
+  ],
+  "NAGKATAMAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "shavings."
+    }
+  ],
+  "NAGLUPOSAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the cast off slough, skin, or shell. see under LUPOS."
+    }
+  ],
+  "NAGMURENGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "dirty clothes set aside for washing. see under MURENG.",
+      "common_forms": [
+        "or MURENG"
       ]
     }
   ],
@@ -131,6 +205,15 @@
       "definition": "content, substance."
     }
   ],
+  "NAIGASATAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "blessed with good luck or fortune.",
+      "common_forms": [
+        "or NAPAGASATAN"
+      ]
+    }
+  ],
   "NAKA-": [
     {
       "definition": "pt. of MAKA-. + R1, absolute superlative of NA-; so very."
@@ -139,6 +222,33 @@
   "NAKA-AN": [
     {
       "definition": "pt. of PAKA-AN."
+    }
+  ],
+  "NAKAAM-AMAK": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "frightening, scary.",
+      "synonyms": [
+        "NAKAAL-ALINGGET, NAKAAM-AMES, NAKABUTBUTENG"
+      ]
+    }
+  ],
+  "NAKAKABKABKAB": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "full of dirt on the body or skin."
+    }
+  ],
+  "NAKANGANGA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "with mouth open, agape."
+    }
+  ],
+  "NAKASKASDAAW": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "amazing, astonishing, marvelous."
     }
   ],
   "NAKI-": [
@@ -192,6 +302,18 @@
       "definition": "pt. of MALTAT."
     }
   ],
+  "NAM-AY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "comfortable, full of ease.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to become comfortable, to be full of ease.",
+      "conjugation": "/AG-/"
+    }
+  ],
   "NAMA": [
     {
       "definition": "; NAMAK PAY NO, what if, suppose."
@@ -209,18 +331,6 @@
       "synonyms": [
         "APAY MAN"
       ]
-    }
-  ],
-  "NAM-AY": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "comfortable, full of ease.",
-      "conjugation": "/NA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to become comfortable, to be full of ease.",
-      "conjugation": "/AG-/"
     }
   ],
   "NAMIN-": [
@@ -282,6 +392,16 @@
       "definition": "pt. of MANG-."
     }
   ],
+  "NANG-AN": [
+    {
+      "definition": "pt, of PANG-AN."
+    }
+  ],
+  "NANG-US": [
+    {
+      "definition": "pt. of MANG-US."
+    }
+  ],
   "NANGALDAW": [
     {
       "definition": "pt. of MANGALDAW."
@@ -290,11 +410,6 @@
   "NANGAN": [
     {
       "definition": "pt. of MANGAN."
-    }
-  ],
-  "NANG-AN": [
-    {
-      "definition": "pt, of PANG-AN."
     }
   ],
   "NANGKA": [
@@ -307,14 +422,14 @@
       "definition": "pt. of MANGRABII."
     }
   ],
-  "NANG-US": [
-    {
-      "definition": "pt. of MANG-US."
-    }
-  ],
   "NAPLENG": [
     {
       "definition": "pt. of MAPLENG."
+    }
+  ],
+  "NAPUDOT": [
+    {
+      "definition": "TI ULO (NA). (He) is hot-tempered, or (He) is irritable."
     }
   ],
   "NARBA": [
@@ -517,12 +632,6 @@
       "origin": "nεgro; f. Sp."
     }
   ],
-  "-NEM": [
-    {
-      "definition": "var. of INNEM, six: used only with certain prefixes."
-    }
-  ],
-  "MAIKANEM": [],
   "NENGNENG": [
     {
       "part_of_speech": "adj.",
@@ -558,256 +667,6 @@
   "NERS": [
     {
       "definition": "var. of NARS."
-    }
-  ],
-  "NI": [
-    {
-      "definition": "art. nominative singular form of the proper article which occurs before a proper name.",
-      "plural_form": "pl. DA"
-    },
-    {
-      "definition": "possessive singular form of the proper article which occurs before a proper name.",
-      "plural_form": "pl. DA"
-    },
-    {
-      "part_of_speech": "interj.",
-      "definition": "an exclamation expressing surprise and wonder.",
-      "synonyms": [
-        "NA"
-      ]
-    },
-    {
-      "part_of_speech": "adv.",
-      "definition": "used to call attention to a thing; look.",
-      "eng_example": "It is here, look.",
-      "ilok_example": "Adda ditoy ni."
-    }
-  ],
-  "NI-": [
-    {
-      "definition": "var. of -IN-before L."
-    }
-  ],
-  "NIBI": [
-    {
-      "definition": "see MANGNIBINIBI."
-    }
-  ],
-  "NIKEL": [
-    {
-      "part_of_speech": "n.",
-      "definition": "five centavos.",
-      "origin": "f. Eng.?"
-    }
-  ],
-  "NIOG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "1. coconut palm or tree. 2. its fruit.",
-      "variations": [
-        "INYOG"
-      ]
-    }
-  ],
-  "NIPA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "nipa."
-    }
-  ],
-  "NISNIS": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a piece of cloth used principally for wiping or for holding hot pots and pans; rag."
-    }
-  ],
-  "NITSO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "tomb, niche.",
-      "origin": "f. Sp.",
-      "synonyms": [
-        "PANTEONG"
-      ]
-    }
-  ],
-  "NOBELA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "novel.",
-      "origin": "nobεla; f. Sp."
-    }
-  ],
-  "NOBELISTA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "novelist.",
-      "origin": "nobεlista; f. Sp."
-    }
-  ],
-  "NOBIA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "female sweetheart, fiancee.",
-      "origin": "f. Sp.",
-      "antonyms": [
-        "NOBIO"
-      ]
-    }
-  ],
-  "NOBIEMBRE": [
-    {
-      "part_of_speech": "n.",
-      "definition": "November.",
-      "origin": "nobiεmbrε; f. Sp."
-    }
-  ],
-  "NOBIO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "male sweetheart, fiance.",
-      "origin": "f. Sp."
-    }
-  ],
-  "AGNOBIO": [
-    {
-      "definition": "n.pl. sweethearts."
-    }
-  ],
-  "NOMINASION": [
-    {
-      "definition": "n, nomination.",
-      "origin": "f. Sp."
-    }
-  ],
-  "NOPAY": [
-    {
-      "definition": "granted that, even if."
-    }
-  ],
-  "NOTARIO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "notary public.",
-      "origin": "f. Sp."
-    }
-  ],
-  "NOWTBUK": [
-    {
-      "part_of_speech": "n.",
-      "definition": "notebook.",
-      "origin": "f. Eng."
-    }
-  ],
-  "-NSA": [
-    {
-      "definition": "var. of SA after a vowel."
-    }
-  ],
-  "-NTO": [
-    {
-      "definition": "var. of TO after a vowel."
-    }
-  ],
-  "NUANG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "water buffalo, carabao."
-    }
-  ],
-  "NUEBE": [
-    {
-      "definition": "num. nine; 9.",
-      "origin": "nuεbε; f. Sp.",
-      "synonyms": [
-        "SIAM"
-      ]
-    }
-  ],
-  "ALAS": [
-    {
-      "definition": "NUEBE, nine o’clock.",
-      "eng_example": "OTSO, eight o’clock.",
-      "ilok_example": "ONSE, eleven o’clock."
-    }
-  ],
-  "NUGOT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to apportion, distribute proportionally, allocate.",
-      "conjugation": "/MANGI-: I-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be distributed proportionally.",
-      "conjugation": "/MAI-/"
-    }
-  ],
-  "NUKNOK": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to spool, wind into a ball.",
-      "eng_example": "Wind that thread into a ball.",
-      "ilok_example": "Nuknokem dayta lubid.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "NUMO": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to enter into a contract, to come to terms.",
-      "conjugation": "/AG-/ with pl. subject"
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "poor, humble, lowly.",
-      "eng_example": "He has a humble beginning.",
-      "ilok_example": "Nanumo ti puon na.",
-      "conjugation": "/NA-/"
-    }
-  ],
-  "NUNOG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to stay (in water) longer than necessary, to soak (in water).",
-      "eng_example": "Don’t soak in that water.",
-      "ilok_example": "Saan ka nga agnunog dita danum.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "NUNONG": [
-    {
-      "definition": "see KANUNONG."
-    }
-  ],
-  "NUNGNUNG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to shower with favors.",
-      "eng_example": "She showers favors on her eldest child.",
-      "ilok_example": "Diay inauna nga anak na ti nunnungnungan na.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "NURNOR": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to do or follow unswervingly.",
-      "eng_example": "Let us follow unswervingly this road that goes to the east.",
-      "ilok_example": "Nurnoren tayo daytoy dalan nga agpadaya.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "NUTNOT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to suck one’s thumb.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to suck (the thumb).",
-      "conjugation": "/MANG-:-EN/"
     }
   ],
   "NGABIT": [
@@ -883,11 +742,6 @@
       "ilok_example": "Apay ngamin sumurot-surot ka."
     }
   ],
-  "NGANNGANI": [
-    {
-      "definition": "var. of DANDANI."
-    }
-  ],
   "NGANGA": [
     {
       "part_of_speech": "v.",
@@ -900,15 +754,14 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "NAKANGANGA": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "with mouth open, agape."
-    }
-  ],
   "NGANGABIT": [
     {
       "definition": "see NGABIT."
+    }
+  ],
+  "NGANNGANI": [
+    {
+      "definition": "var. of DANDANI."
     }
   ],
   "NGARASNGAS": [
@@ -1039,9 +892,16 @@
   ],
   "NGEM": [
     {
-      "definition": "conj. but.",
-      "eng_example": "She is lazy but rich. prep. than.",
+      "part_of_speech": "conj.",
+      "definition": "but.",
+      "eng_example": "She is lazy but rich.",
       "ilok_example": "Sadut ngem nabaknang."
+    },
+    {
+      "part_of_speech": "prep.",
+      "definition": "than.",
+      "eng_example": "I am more beautiful than you.",
+      "ilok_example": "Napinpintasak ngem sika."
     }
   ],
   "NGENNGEN": [
@@ -1117,11 +977,6 @@
       "part_of_speech": "v.",
       "definition": "to become expensive, costly.",
       "conjugation": "/-UM-/"
-    }
-  ],
-  "DIOS": [
-    {
-      "definition": "TI AGNGINA, Thank you."
     }
   ],
   "NGIPEN": [
@@ -1211,4 +1066,250 @@
       "definition": "to snap the jaws as when eating.",
       "conjugation": "/AG-/"
     }
-  ]}
+  ],
+  "NI": [
+    {
+      "definition": "art. nominative singular form of the proper article which occurs before a proper name.",
+      "plural_form": "pl. DA"
+    },
+    {
+      "definition": "possessive singular form of the proper article which occurs before a proper name.",
+      "plural_form": "pl. DA"
+    },
+    {
+      "part_of_speech": "interj.",
+      "definition": "an exclamation expressing surprise and wonder.",
+      "synonyms": [
+        "NA"
+      ]
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "used to call attention to a thing; look.",
+      "eng_example": "It is here, look.",
+      "ilok_example": "Adda ditoy ni."
+    }
+  ],
+  "NI-": [
+    {
+      "definition": "var. of -IN-before L."
+    }
+  ],
+  "NIBI": [
+    {
+      "definition": "see MANGNIBINIBI."
+    }
+  ],
+  "NIKEL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "five centavos.",
+      "origin": "f. Eng.?"
+    }
+  ],
+  "NIOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. coconut palm or tree. 2. its fruit.",
+      "variations": [
+        "INYOG"
+      ]
+    }
+  ],
+  "NIPA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "nipa."
+    }
+  ],
+  "NISNIS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a piece of cloth used principally for wiping or for holding hot pots and pans; rag."
+    }
+  ],
+  "NITSO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tomb, niche.",
+      "origin": "f. Sp.",
+      "synonyms": [
+        "PANTEONG"
+      ]
+    }
+  ],
+  "NO": [
+    {
+      "definition": "DADDUMA, sometimes, once in a while.",
+      "eng_example": "Sometimes, I read until morning.",
+      "ilok_example": "No dadduma, agbasaak agingga ti agsapa."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be proper, correct, right.",
+      "conjugation": "/-UM-/",
+      "origin": "prp. UM-UMNO"
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "if."
+    }
+  ],
+  "NOBELA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "novel.",
+      "origin": "nobεla; f. Sp."
+    }
+  ],
+  "NOBELISTA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "novelist.",
+      "origin": "nobεlista; f. Sp."
+    }
+  ],
+  "NOBIA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "female sweetheart, fiancee.",
+      "origin": "f. Sp.",
+      "antonyms": [
+        "NOBIO"
+      ]
+    }
+  ],
+  "NOBIEMBRE": [
+    {
+      "part_of_speech": "n.",
+      "definition": "November.",
+      "origin": "nobiεmbrε; f. Sp."
+    }
+  ],
+  "NOBIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "male sweetheart, fiance.",
+      "origin": "f. Sp."
+    }
+  ],
+  "NOMINASION": [
+    {
+      "definition": "n, nomination.",
+      "origin": "f. Sp."
+    }
+  ],
+  "NOPAY": [
+    {
+      "definition": "granted that, even if."
+    }
+  ],
+  "NOTARIO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "notary public.",
+      "origin": "f. Sp."
+    }
+  ],
+  "NOWTBUK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "notebook.",
+      "origin": "f. Eng."
+    }
+  ],
+  "NUANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "water buffalo, carabao."
+    }
+  ],
+  "NUEBE": [
+    {
+      "definition": "num. nine; 9.",
+      "origin": "nuεbε; f. Sp.",
+      "synonyms": [
+        "SIAM"
+      ]
+    }
+  ],
+  "NUGOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to apportion, distribute proportionally, allocate.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be distributed proportionally.",
+      "conjugation": "/MAI-/"
+    }
+  ],
+  "NUKNOK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to spool, wind into a ball.",
+      "eng_example": "Wind that thread into a ball.",
+      "ilok_example": "Nuknokem dayta lubid.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NUMO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to enter into a contract, to come to terms.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "poor, humble, lowly.",
+      "eng_example": "He has a humble beginning.",
+      "ilok_example": "Nanumo ti puon na.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "NUNGNUNG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shower with favors.",
+      "eng_example": "She showers favors on her eldest child.",
+      "ilok_example": "Diay inauna nga anak na ti nunnungnungan na.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "NUNOG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stay (in water) longer than necessary, to soak (in water).",
+      "eng_example": "Don’t soak in that water.",
+      "ilok_example": "Saan ka nga agnunog dita danum.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "NUNONG": [
+    {
+      "definition": "see KANUNONG."
+    }
+  ],
+  "NURNOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to do or follow unswervingly.",
+      "eng_example": "Let us follow unswervingly this road that goes to the east.",
+      "ilok_example": "Nurnoren tayo daytoy dalan nga agpadaya.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "NUTNOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to suck one’s thumb.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to suck (the thumb).",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ]
+}

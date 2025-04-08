@@ -1,4 +1,20 @@
-{"EBBAL": [
+{
+  "-EN": [
+    {
+      "definition": "a passive verbalizing affix which generally places the goal of the verb in focus or subject position.",
+      "eng_example": "Badoen da diay lupot nga inted mo.",
+      "ilok_example": "It has various special meanings such as the following. 1. to make or fashion into, transform into, or equate with the thing referred to by the (nominal) stem.",
+      "origin": "pt. -IN-, prp. R1 + -EN, ptp. R1 + -IN-"
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "now, already; as of now; as of this or that moment.",
+      "variations": [
+        "-N (after a vowel), -ON (after pronoun -AK)"
+      ]
+    }
+  ],
+  "EBBAL": [
     {
       "part_of_speech": "n.",
       "definition": "beriberi."
@@ -114,6 +130,22 @@
       "origin": "ektaria; f. Sp."
     }
   ],
+  "EL-EL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. any temporary mark, impression or line produced on the skin by a string, rope or any other object pressed on it. 2. groove at the base of the glans penis."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to etch or engrave something on.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have something etched or engraved on.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
   "ELEKSION": [
     {
       "part_of_speech": "n.",
@@ -161,22 +193,6 @@
       "synonyms": [
         "ELEKTRISIAN"
       ]
-    }
-  ],
-  "EL-EL": [
-    {
-      "part_of_speech": "n.",
-      "definition": "1. any temporary mark, impression or line produced on the skin by a string, rope or any other object pressed on it. 2. groove at the base of the glans penis."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to etch or engrave something on.",
-      "conjugation": "/MANG-:-AN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to have something etched or engraved on.",
-      "conjugation": "/MA--AN/"
     }
   ],
   "ELEMENTARIA": [
@@ -252,18 +268,52 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "-EN": [
+  "EN": [
     {
-      "definition": "a passive verbalizing affix which generally places the goal of the verb in focus or subject position.",
-      "eng_example": "Badoen da diay lupot nga inted mo.",
-      "ilok_example": "It has various special meanings such as the following. 1. to make or fashion into, transform into, or equate with the thing referred to by the (nominal) stem.",
-      "origin": "pt. -IN-, prp. R1 + -EN, ptp. R1 + -IN-"
+      "definition": "1. to erect, build, construct.",
+      "eng_example": "It was they who constructed this house of ours. 2. to set upright.",
+      "ilok_example": "Isuda ti nangbangon toy balay mi.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
     },
     {
-      "part_of_speech": "adv.",
-      "definition": "now, already; as of now; as of this or that moment.",
-      "variations": [
-        "-N (after a vowel), -ON (after pronoun -AK)"
+      "definition": "to put closer together, as pieces of boards after shrinking.",
+      "conjugation": "/ to dive into or go under the water in order to give (something to somebody) or to put (something there); to dive with. Padasem man nga ibatok dayta asom? Will you try to dive into the water with your dog? /",
+      "common_forms": [
+        "MANGI-: I-"
+      ]
+    },
+    {
+      "definition": "to punish, hit, strike.",
+      "eng_example": "I will punish you if you won’t believe me.",
+      "ilok_example": "Kabilen ka no di nak nga patien.",
+      "conjugation": "/ to put into disorder. Saan mo nga guloen daytoy grupo mi. Don’t put our group into disorder. /"
+    },
+    {
+      "definition": "to fight with someone.",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "definition": "to fight with one another.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "definition": "to do, work on.",
+      "eng_example": "He did many things, so he is tired.",
+      "ilok_example": "Adu ti kinudit na isu nga nabannog.",
+      "conjugation": "/ to put the hands or forelegs on (someone or something). /"
+    },
+    {
+      "definition": "to make into rice gruel or porridge.",
+      "conjugation": "/ to be sad or mournful about, to grieve for, mourn for; to be sorry for. Ladingetek ti napasamak kenka. I am sorry for what happened to you. /"
+    },
+    {
+      "definition": "to suck as milk.",
+      "conjugation": "/ to be sunk or stuck in mud. Mailutlut diay pilid ti karison yo ditoy. The wheels of your cart will be sunk in mud here. /",
+      "common_forms": [
+        "MAI-"
       ]
     }
   ],
@@ -592,4 +642,5 @@
       "definition": "Europe.",
       "origin": "yorópa; f. Sp."
     }
-  ]}
+  ]
+}

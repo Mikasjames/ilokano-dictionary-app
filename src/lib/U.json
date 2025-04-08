@@ -1,5 +1,15 @@
-
-{"UBAN": [
+{
+  "-UM-": [
+    {
+      "definition": "a verbalizing affix placed immediately before the first vowel of the stem with meanings: (a) to do the action expressed by the stem. (b) to assume the state or condition described by the stem."
+    }
+  ],
+  "-US": [
+    {
+      "definition": "see under PANG-US."
+    }
+  ],
+  "UBAN": [
     {
       "part_of_speech": "n.",
       "definition": "gray hair."
@@ -125,6 +135,13 @@
       "conjugation": "/AG-, MANG-:-EN/"
     }
   ],
+  "UD-UD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to ask for repeatedly, beg for.",
+      "conjugation": "/-UM-:-AN/"
+    }
+  ],
   "UDANG": [
     {
       "part_of_speech": "n.",
@@ -165,11 +182,11 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "UD-UD": [
+  "UG-UG": [
     {
       "part_of_speech": "v.",
-      "definition": "to ask for repeatedly, beg for.",
-      "conjugation": "/-UM-:-AN/"
+      "definition": "to weep with closed mouth.",
+      "conjugation": "/AG-/"
     }
   ],
   "UGA": [
@@ -292,13 +309,6 @@
     {
       "part_of_speech": "n.",
       "definition": "1. deer. 2. venison."
-    }
-  ],
-  "UG-UG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to weep with closed mouth.",
-      "conjugation": "/AG-/"
     }
   ],
   "UGUT": [
@@ -785,9 +795,16 @@
       "conjugation": "/MA-/"
     }
   ],
-  "-UM-": [
+  "UM-": [
     {
-      "definition": "a verbalizing affix placed immediately before the first vowel of the stem with meanings: (a) to do the action expressed by the stem. (b) to assume the state or condition described by the stem."
+      "definition": "to become this.",
+      "conjugation": "/ to be stepped on by flies. Kitaem ta madap-awan. Watch it for it may be stepped on by flies. /",
+      "common_forms": [
+        ":-ANMA--AN"
+      ]
+    },
+    {
+      "definition": "/ to brush against, touch."
     }
   ],
   "UMA": [
@@ -850,6 +867,12 @@
       "part_of_speech": "adj.",
       "definition": "dumb, mute.",
       "conjugation": "/NAG-/"
+    }
+  ],
+  "UMILI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pl. the inhabitants of a town or country; townspeople. see under ILI."
     }
   ],
   "UMIT": [
@@ -932,12 +955,6 @@
       "definition": "first."
     }
   ],
-  "PAKAUNA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "presage."
-    }
-  ],
   "UNAS": [
     {
       "part_of_speech": "n.",
@@ -1001,6 +1018,111 @@
       "part_of_speech": "v.",
       "definition": "to take inside; to make (it) deep.",
       "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "UNG-UNG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "foolish, crazy.",
+      "conjugation": "/NAG-/"
+    }
+  ],
+  "UNGAB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to notch, dent, chip.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be dented, notched, chipped.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "UNGAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to revive, recover, recuperate; to get better.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNGAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to open by prying.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "UNGET": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "hot-tempered, quick-tempered, strict, severe, irritable; fierce, ferocious.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to get angry, to scold.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNGIB": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to bite a part of in order to taste.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "UNGIK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "grunt of a pig."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce this sound.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNGKAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stem or stalk of flowers, fruits, etc.; handle."
+    }
+  ],
+  "UNGNGO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to kiss, buss.",
+      "conjugation": "/-UM-, MANG-:-EN, -AN/"
+    }
+  ],
+  "UNGNGOB": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "having cleft palate."
+    }
+  ],
+  "UNGOR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "roaring sound."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to roar, growl.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "UNGOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "coconut shell used as scoop. --cf.",
+      "ilok_example": "BUYUBUY."
+    }
+  ],
+  "UNGTO": [
+    {
+      "definition": "n, end; tip, apex."
     }
   ],
   "UNI": [
@@ -1108,111 +1230,6 @@
       "part_of_speech": "v.",
       "definition": "to produce a sound like that produced by the contents of a coconut, an egg, etc. when shaken.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "UNGAB": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to notch, dent, chip.",
-      "conjugation": "/MANG-:-AN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be dented, notched, chipped.",
-      "conjugation": "/MA--AN/"
-    }
-  ],
-  "UNGAR": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to revive, recover, recuperate; to get better.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "UNGAT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to open by prying.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "UNGET": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "hot-tempered, quick-tempered, strict, severe, irritable; fierce, ferocious.",
-      "conjugation": "/NA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to get angry, to scold.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "UNGIB": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to bite a part of in order to taste.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "UNGIK": [
-    {
-      "part_of_speech": "n.",
-      "definition": "grunt of a pig."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to produce this sound.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "UNGKAY": [
-    {
-      "part_of_speech": "n.",
-      "definition": "stem or stalk of flowers, fruits, etc.; handle."
-    }
-  ],
-  "UNGNGO": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to kiss, buss.",
-      "conjugation": "/-UM-, MANG-:-EN, -AN/"
-    }
-  ],
-  "UNGNGOB": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "having cleft palate."
-    }
-  ],
-  "UNGOR": [
-    {
-      "part_of_speech": "n.",
-      "definition": "roaring sound."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to roar, growl.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "UNGOT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "coconut shell used as scoop. --cf.",
-      "ilok_example": "BUYUBUY."
-    }
-  ],
-  "UNGTO": [
-    {
-      "definition": "n, end; tip, apex."
-    }
-  ],
-  "UNG-UNG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "foolish, crazy.",
-      "conjugation": "/NAG-/"
     }
   ],
   "UPA": [
@@ -1352,6 +1369,30 @@
       "conjugation": "/NA-/"
     }
   ],
+  "URAY": [
+    {
+      "definition": "KASANO, KASANO MAN, howsoever."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wait.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wait for.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "adv.",
+      "definition": "no matter, even so.",
+      "conjugation": "/MANGI-:"
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "though, although."
+    }
+  ],
   "URBUN": [
     {
       "part_of_speech": "n.",
@@ -1448,6 +1489,13 @@
       ]
     }
   ],
+  "URO-URO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cleanse with water.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
   "UROK": [
     {
       "part_of_speech": "v.",
@@ -1465,18 +1513,6 @@
       "part_of_speech": "v.",
       "definition": "to pull (the hair) when delousing.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "URO-URO": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to cleanse with water.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "-US": [
-    {
-      "definition": "see under PANG-US."
     }
   ],
   "USANG": [
@@ -1580,6 +1616,18 @@
       "conjugation": "/-UM-/"
     }
   ],
+  "UT-UT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "sore, painful, aching.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to ache, feel sore, feel painful.",
+      "conjugation": "/AG-/"
+    }
+  ],
   "UTANG": [
     {
       "part_of_speech": "n.",
@@ -1589,13 +1637,6 @@
       "part_of_speech": "v.",
       "definition": "to borrow.",
       "conjugation": "/-UM-, MANG-:-EN/"
-    }
-  ],
-  "PAUTANG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to lend, loan.",
-      "conjugation": "/AG-:-EN/"
     }
   ],
   "UTEK": [
@@ -1674,18 +1715,6 @@
       "part_of_speech": "v.",
       "definition": "to fart, to release air from the anus.",
       "conjugation": "/-UM-/"
-    }
-  ],
-  "UT-UT": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "sore, painful, aching.",
-      "conjugation": "/NA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to ache, feel sore, feel painful.",
-      "conjugation": "/AG-/"
     }
   ],
   "UUNG": [
@@ -1771,4 +1800,5 @@
     {
       "definition": "var. of UYAUY."
     }
-  ]}
+  ]
+}

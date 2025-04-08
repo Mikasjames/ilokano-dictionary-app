@@ -71,6 +71,6 @@ export function getPartsOfSpeech(pos: Definition["part_of_speech"]) {
 	}
 }
 
-export function processSynonyms(syn: string) {
+export function processCommasAndDots(syn: string) {
 	return syn.split(/[,.]/);
 }

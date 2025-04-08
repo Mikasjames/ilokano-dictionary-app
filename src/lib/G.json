@@ -1,4 +1,5 @@
-{"GAAS": [
+{
+  "GAAS": [
     {
       "definition": "var. of GAS."
     }
@@ -128,6 +129,12 @@
       "ilok_example": "Dagiti nailanad nga sarsarita ditoy nga libro, dagitay gagangay nga aramiden dagiti ubbing iti inaldaw."
     }
   ],
+  "GAGANTINGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "any weighing machine. see under GANTING."
+    }
+  ],
   "GAGAR": [
     {
       "part_of_speech": "v.",
@@ -202,6 +209,11 @@
       "conjugation": "/AG-/"
     }
   ],
+  "GALAS": [
+    {
+      "definition": "var. (dial.) of 1ALAS."
+    }
+  ],
   "GALASUGAS": [
     {
       "part_of_speech": "adj.",
@@ -218,16 +230,6 @@
       "origin": "f. Sp.",
       "synonyms": [
         "YERO, SIM"
-      ]
-    }
-  ],
-  "GALYERA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "cockpit, the place where cockfighting is held.",
-      "origin": "galyεra; f. Sp.",
-      "synonyms": [
-        "BULANGAN, SABUNGAN"
       ]
     }
   ],
@@ -272,11 +274,42 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "GALYERA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cockpit, the place where cockfighting is held.",
+      "origin": "galyεra; f. Sp.",
+      "synonyms": [
+        "BULANGAN, SABUNGAN"
+      ]
+    }
+  ],
   "GALYETAS": [
     {
       "part_of_speech": "n.",
       "definition": "a kind of flat round bread.",
       "origin": "f. Sp."
+    }
+  ],
+  "GAM-UD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to obtain, get.",
+      "eng_example": "It is hard to obtain what I am asking from him.",
+      "ilok_example": "Narigat nga gamuden ti dawdawatek kenkuana.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "often",
+      "conjugation": "/-UM-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "1. to catch up with, to arrive early for.",
+      "eng_example": "I did not arrive early for the beginning of the show. 2. to reach, go as far as.",
+      "ilok_example": "Diak nga nagam-udan ti rugi ti pabuya.",
+      "conjugation": "/MAKA-: MA--AN/"
     }
   ],
   "GAMAT": [
@@ -343,17 +376,6 @@
       "definition": "var. (dial.) of GAMMAL."
     }
   ],
-  "GAMPANG": [
-    {
-      "definition": "var. of AMPANG."
-    }
-  ],
-  "MARAGAMPANG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "frivolous, silly."
-    }
-  ],
   "GAMOLO": [
     {
       "part_of_speech": "v.",
@@ -370,6 +392,11 @@
       "conjugation": "/AG-:-EN/"
     }
   ],
+  "GAMPANG": [
+    {
+      "definition": "var. of AMPANG."
+    }
+  ],
   "GAMUD": [
     {
       "part_of_speech": "v.",
@@ -382,33 +409,6 @@
       "part_of_speech": "v.",
       "definition": "to be bewitched.",
       "conjugation": "/MA-/"
-    }
-  ],
-  "MANGGAGAMUD": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a person who practices or is familiar with witchcraft."
-    }
-  ],
-  "GAM-UD": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to obtain, get.",
-      "eng_example": "It is hard to obtain what I am asking from him.",
-      "ilok_example": "Narigat nga gamuden ti dawdawatek kenkuana.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "often",
-      "conjugation": "/-UM-:-AN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "1. to catch up with, to arrive early for.",
-      "eng_example": "I did not arrive early for the beginning of the show. 2. to reach, go as far as.",
-      "ilok_example": "Diak nga nagam-udan ti rugi ti pabuya.",
-      "conjugation": "/MAKA-: MA--AN/"
     }
   ],
   "GAMUT": [
@@ -430,6 +430,16 @@
       "part_of_speech": "adj.",
       "definition": "poisonous.",
       "conjugation": "/MAKA-/"
+    }
+  ],
+  "GAN-AY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to fix fibers ready f weaving.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
     }
   ],
   "GANA": [
@@ -514,16 +524,6 @@
       "conjugation": "/AG-, -UM-/"
     }
   ],
-  "GAN-AY": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to fix fibers ready f weaving.",
-      "conjugation": "/MANGI-: I-/",
-      "common_forms": [
-        "or"
-      ]
-    }
-  ],
   "GANAYGAY": [
     {
       "part_of_speech": "n.",
@@ -565,6 +565,28 @@
       ]
     }
   ],
+  "GANGAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to light, set fire to, kindle.",
+      "eng_example": "He does not want to light the lamp.",
+      "ilok_example": "Saan na kayat nga gangtan diay silaw.",
+      "conjugation": "/AG-, MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to light or kindle (a lamp, candle, etc.) with another light.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "GANGO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to become dry: said of leaves. --cf.",
+      "ilok_example": "MAGA.",
+      "conjugation": "/MA-/"
+    }
+  ],
   "GANNA": [
     {
       "part_of_speech": "n.",
@@ -575,6 +597,15 @@
     {
       "part_of_speech": "n.",
       "definition": "alien, foreigner, stranger."
+    }
+  ],
+  "GANOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pull off forcibly.",
+      "eng_example": "Pull off forcibly all those climbing on the fence.",
+      "ilok_example": "Ganotem amin nga kumalkalatkat dita alad.",
+      "conjugation": "/MANG-:-EN/"
     }
   ],
   "GANSA": [
@@ -613,53 +644,11 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
-  "GAGANTINGAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "any weighing machine. see under GANTING."
-    }
-  ],
-  "GALAS": [
-    {
-      "definition": "var. (dial.) of 1ALAS."
-    }
-  ],
   "GANUS": [
     {
       "part_of_speech": "adj.",
       "definition": "1. immature, unripe, green: said of fruits. 2. young, immature: said of persons.",
       "conjugation": "/NA-/"
-    }
-  ],
-  "GANOT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to pull off forcibly.",
-      "eng_example": "Pull off forcibly all those climbing on the fence.",
-      "ilok_example": "Ganotem amin nga kumalkalatkat dita alad.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "GANGAT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to light, set fire to, kindle.",
-      "eng_example": "He does not want to light the lamp.",
-      "ilok_example": "Saan na kayat nga gangtan diay silaw.",
-      "conjugation": "/AG-, MANG-:-AN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to light or kindle (a lamp, candle, etc.) with another light.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "GANGO": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to become dry: said of leaves. --cf.",
-      "ilok_example": "MAGA.",
-      "conjugation": "/MA-/"
     }
   ],
   "GAO": [
@@ -726,14 +715,12 @@
     {
       "part_of_speech": "v.",
       "definition": "to be done because of, for the sake of, on account of.",
-      "ilok_example": "TA, conj. because, since, inasmuch as, for, as.",
+      "ilok_example": "TA,",
       "conjugation": "/MAI-/"
-    }
-  ],
-  "NAGGAPPOAM": [
+    },
     {
-      "definition": "?",
-      "ilok_example": "Where have you been? or; Where did you come from? -a usual greeting equivalent to: How are you?"
+      "part_of_speech": "conj.",
+      "definition": "because, since, inasmuch as, for, as."
     }
   ],
   "GARADGAD": [
@@ -804,6 +791,20 @@
       ]
     }
   ],
+  "GARANGOGONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to slide down into a pit, hole, etc.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to slide (something) down into a pit, hole, etc.",
+      "eng_example": "You slide down the garbage into the hole.",
+      "ilok_example": "Igarangogong mo dayta basura dita abut.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
   "GARANTIA": [
     {
       "part_of_speech": "n.",
@@ -820,20 +821,6 @@
     {
       "part_of_speech": "adj.",
       "definition": "guaranteed."
-    }
-  ],
-  "GARANGOGONG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to slide down into a pit, hole, etc.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to slide (something) down into a pit, hole, etc.",
-      "eng_example": "You slide down the garbage into the hole.",
-      "ilok_example": "Igarangogong mo dayta basura dita abut.",
-      "conjugation": "/MANGI-: I-/"
     }
   ],
   "GARAPON": [
@@ -885,13 +872,6 @@
       "definition": "see GARGARET."
     }
   ],
-  "GARISON": [
-    {
-      "part_of_speech": "n.",
-      "definition": "garrison.",
-      "origin": "f. Eng."
-    }
-  ],
   "GARGARET": [
     {
       "part_of_speech": "n.",
@@ -910,6 +890,13 @@
   "GARI": [
     {
       "definition": "see GARGARI."
+    }
+  ],
+  "GARISON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "garrison.",
+      "origin": "f. Eng."
     }
   ],
   "GARIT": [
@@ -984,6 +971,15 @@
       "conjugation": "/NA-/"
     }
   ],
+  "GASANG-GASAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to take chances, take the risk, go on an adventure.",
+      "eng_example": "I will go take my chances in Manila.",
+      "ilok_example": "Mapanak makigasang-gasat diay Manila.",
+      "conjugation": "/MAKI-/"
+    }
+  ],
   "GASAT": [
     {
       "part_of_speech": "n.",
@@ -993,24 +989,6 @@
       "part_of_speech": "adj.",
       "definition": "lucky, fortunate.",
       "conjugation": "/NA-/"
-    }
-  ],
-  "NAIGASATAN": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "blessed with good luck or fortune.",
-      "common_forms": [
-        "or NAPAGASATAN"
-      ]
-    }
-  ],
-  "GASANG-GASAT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to take chances, take the risk, go on an adventure.",
-      "eng_example": "I will go take my chances in Manila.",
-      "ilok_example": "Mapanak makigasang-gasat diay Manila.",
-      "conjugation": "/MAKI-/"
     }
   ],
   "GASGAS": [
@@ -1097,12 +1075,6 @@
       "conjugation": "/AG-, MANG-:-AN/"
     }
   ],
-  "MARAGATAS": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "resembling milk."
-    }
-  ],
   "GATEL": [
     {
       "part_of_speech": "adj.",
@@ -1137,6 +1109,20 @@
       "definition": "oar, paddle."
     }
   ],
+  "GAW-AT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to reach for; to thrust out or extend the hand to get (something).",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "GAW-IS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to reach for and cut or hit with a glancing blow.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "GAWANG": [
     {
       "part_of_speech": "v.",
@@ -1159,13 +1145,6 @@
     {
       "part_of_speech": "n.",
       "definition": "any period during which food is scarce; a period of drought."
-    }
-  ],
-  "GAW-AT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to reach for; to thrust out or extend the hand to get (something).",
-      "conjugation": "/-UM-, MANG-:-EN/"
     }
   ],
   "GAWAWA": [
@@ -1214,13 +1193,6 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "GAW-IS": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to reach for and cut or hit with a glancing blow.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
   "GAWWED": [
     {
       "part_of_speech": "n.",
@@ -1237,6 +1209,28 @@
       "eng_example": "He ripped his clothes.",
       "ilok_example": "Ginay-ab na diay bado na.",
       "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "GAY-AT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to reach for to grasp, to thrust out or extend the hand to grasp (something).",
+      "eng_example": "When he reached for my hand to grasp it, I ran away at once.",
+      "ilok_example": "Idi gay-aten na ti imak, nagtarayak a dagus.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "GAW-AT"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to try to do, start to do.",
+      "eng_example": "I started to go home but there were still many people.",
+      "ilok_example": "Igay-at ko kuma ti agawiden ngem adu pay la ti tao.",
+      "conjugation": "/MANGI-: I - /",
+      "common_forms": [
+        "or"
+      ]
     }
   ],
   "GAYABANG": [
@@ -1296,28 +1290,6 @@
       ]
     }
   ],
-  "GAY-AT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to reach for to grasp, to thrust out or extend the hand to grasp (something).",
-      "eng_example": "When he reached for my hand to grasp it, I ran away at once.",
-      "ilok_example": "Idi gay-aten na ti imak, nagtarayak a dagus.",
-      "conjugation": "/MANG-:-EN/",
-      "synonyms": [
-        "GAW-AT"
-      ]
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to try to do, start to do.",
-      "eng_example": "I started to go home but there were still many people.",
-      "ilok_example": "Igay-at ko kuma ti agawiden ngem adu pay la ti tao.",
-      "conjugation": "/MANGI-: I - /",
-      "common_forms": [
-        "or"
-      ]
-    }
-  ],
   "GAYYEM": [
     {
       "part_of_speech": "n.",
@@ -1330,15 +1302,6 @@
       "eng_example": "I want to be your friend.",
       "ilok_example": "Kayat ko ti makigayyem kenka.",
       "conjugation": "/MAKI-/"
-    }
-  ],
-  "AGGAYYEM": [
-    {
-      "part_of_speech": "n.",
-      "definition": "mutual friends.",
-      "eng_example": "We are only mutual friends.",
-      "ilok_example": "Aggayyem kami laeng.",
-      "plural_form": "pl. AGGAGAYYEM"
     }
   ],
   "GEBGEB": [
@@ -1464,11 +1427,6 @@
       "conjugation": "/MA-/"
     }
   ],
-  "MAGSAT": [
-    {
-      "definition": "TI ANGES or MAGSAT TI BIAG, to die, expire."
-    }
-  ],
   "GETGET": [
     {
       "definition": "var. of GERGER."
@@ -1478,14 +1436,6 @@
     {
       "part_of_speech": "n.",
       "definition": "coconut milk obtained by pressing the grated coconut meat."
-    }
-  ],
-  "GINETTAAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a native cake usually eaten for mid-afternoon snacks.",
-      "eng_example": "This preparation is boiled until the coconut milk thickens on top.",
-      "ilok_example": "It is made of sliced GABI, bananas, sweet potatoes with coconut milk (GETTA) and sugar."
     }
   ],
   "GETTEB": [
@@ -1552,6 +1502,15 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "GIDDATO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to do instantly or immediately.",
+      "eng_example": "He will go home instantly.",
+      "ilok_example": "Igiddato na ti agawid.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
   "GIDDIAT": [
     {
       "part_of_speech": "n.",
@@ -1564,15 +1523,6 @@
       "variations": [
         "GIDIAT"
       ]
-    }
-  ],
-  "GIDDATO": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to do instantly or immediately.",
-      "eng_example": "He will go home instantly.",
-      "ilok_example": "Igiddato na ti agawid.",
-      "conjugation": "/MANGI-: I-/"
     }
   ],
   "GIDGID": [
@@ -1610,12 +1560,6 @@
       "ilok_example": "Matay giem dayta immulam."
     }
   ],
-  "GILAB": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "having an eye defect in which the lower eyelid is pulled down."
-    }
-  ],
   "GIL-AYAB": [
     {
       "part_of_speech": "v.",
@@ -1623,6 +1567,12 @@
       "eng_example": "The fire burst into flame when the wind blew into it.",
       "ilok_example": "Gimmilayab diay apoy itay naanginan.",
       "conjugation": "/-UM-/"
+    }
+  ],
+  "GILAB": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "having an eye defect in which the lower eyelid is pulled down."
     }
   ],
   "GILING": [
@@ -1644,15 +1594,6 @@
       "definition": "community, society, group, crowd; any gathering of people."
     }
   ],
-  "GINA": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to mind, bother about, pay attention to, attend to, take care of.",
-      "eng_example": "He did not attend to his sickness, that’s why it became worse.",
-      "ilok_example": "Saan na nga ingginggina ti nasakit na isu nga kimmaro.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
   "GIN-AWA": [
     {
       "part_of_speech": "n.",
@@ -1669,6 +1610,23 @@
       "eng_example": "I hope our life will become comfortable. 2. to improve or feel better: said of a sick person.",
       "ilok_example": "Sapay kuma ta gumin-awa met ti biag tayo.",
       "conjugation": "/-UM-/"
+    }
+  ],
+  "GINA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to mind, bother about, pay attention to, attend to, take care of.",
+      "eng_example": "He did not attend to his sickness, that’s why it became worse.",
+      "ilok_example": "Saan na nga ingginggina ti nasakit na isu nga kimmaro.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "GINETTAAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a native cake usually eaten for mid-afternoon snacks.",
+      "eng_example": "This preparation is boiled until the coconut milk thickens on top.",
+      "ilok_example": "It is made of sliced GABI, bananas, sweet potatoes with coconut milk (GETTA) and sugar."
     }
   ],
   "GINGINED": [
@@ -1988,12 +1946,6 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
-  "KAGUDDUA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "one-half."
-    }
-  ],
   "GUDDUAGUDDUA": [
     {
       "part_of_speech": "v.",
@@ -2127,6 +2079,15 @@
       "origin": "-UM- + GULLUONG."
     }
   ],
+  "GUN-OD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to obtain, get acquire; to earn, win.",
+      "eng_example": "It is necessary that you obtain the highest grade.",
+      "ilok_example": "Masapul nga gun-odem ti kangatoan nga grado.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "GUNAM": [
     {
       "part_of_speech": "v.",
@@ -2169,34 +2130,6 @@
       "conjugation": "/MA--AN/"
     }
   ],
-  "GUNNOT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "fiber."
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "fibrous, full of fibers.",
-      "conjugation": "/-AN/",
-      "common_forms": [
-        "or"
-      ]
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to pull by combing through with the fingers.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "GUN-OD": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to obtain, get acquire; to earn, win.",
-      "eng_example": "It is necessary that you obtain the highest grade.",
-      "ilok_example": "Masapul nga gun-odem ti kangatoan nga grado.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
   "GUNGGON": [
     {
       "part_of_speech": "v.",
@@ -2204,6 +2137,13 @@
       "eng_example": "Don’t rock our house lest it collapse.",
       "ilok_example": "Saan mo nga gunggonen toy balay mi ta dinto marba.",
       "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "GUNGGONG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "stupid, ignorant, silly.",
+      "conjugation": "/NAG-/"
     }
   ],
   "GUNGGUNA": [
@@ -2222,13 +2162,6 @@
       ]
     }
   ],
-  "GUNGGONG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "stupid, ignorant, silly.",
-      "conjugation": "/NAG-/"
-    }
-  ],
   "GUNGLO": [
     {
       "part_of_speech": "n.",
@@ -2236,6 +2169,25 @@
       "synonyms": [
         "ASOSASION"
       ]
+    }
+  ],
+  "GUNNOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fiber."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "fibrous, full of fibers.",
+      "conjugation": "/-AN/",
+      "common_forms": [
+        "or"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pull by combing through with the fingers.",
+      "conjugation": "/MANG-:-EN/"
     }
   ],
   "GUPED": [
@@ -2499,4 +2451,5 @@
       "definition": "inviting, attractive, enticing, alluring.",
       "conjugation": "/MAKA-/"
     }
-  ]}
+  ]
+}

@@ -1,5 +1,24 @@
-
-{"RAAY": [
+{
+  "R": [
+    {
+      "definition": "2"
+    },
+    {
+      "definition": "to hold hands. ÁMAN,",
+      "conjugation": "/ to feel weak, exhausted. --syn. KAPUY. 2/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to include, take in, allow to participate.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to participate with in an activity.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "RAAY": [
     {
       "part_of_speech": "n.",
       "definition": "a cluster (of fruits or rice)."
@@ -54,20 +73,6 @@
       "conjugation": "/-UM-:-AN/"
     }
   ],
-  "PARABAW": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to go on top of.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to put on top of.",
-      "eng_example": "Put this on top of that table.",
-      "ilok_example": "Iparabaw mo daytoy dita lamisaan.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
   "RABER": [
     {
       "part_of_speech": "adj.",
@@ -93,6 +98,15 @@
       "conjugation": "/MA--AN/"
     }
   ],
+  "RABNGIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to address familiarly, to treat with disrespect.",
+      "eng_example": "Why are you treating me with disrespect?",
+      "ilok_example": "Apay nga rabrabngisen nak?",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "RABNIS": [
     {
       "part_of_speech": "v.",
@@ -113,15 +127,6 @@
       "synonyms": [
         "RABNIS"
       ]
-    }
-  ],
-  "RABNGIS": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to address familiarly, to treat with disrespect.",
-      "eng_example": "Why are you treating me with disrespect?",
-      "ilok_example": "Apay nga rabrabngisen nak?",
-      "conjugation": "/MANG-:-EN/"
     }
   ],
   "RABOK": [
@@ -219,6 +224,19 @@
       "conjugation": "/MAKI-/"
     }
   ],
+  "RAG-O": [
+    {
+      "part_of_speech": "n.",
+      "definition": "joy, happiness, delight, exultation."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to rejoice, exult.",
+      "eng_example": "The people are rejoicing for their candidate won.",
+      "ilok_example": "Agrag-o dagiti tattao ta nangabak ti kandidato da.",
+      "conjugation": "/AG-/"
+    }
+  ],
   "RAGADI": [
     {
       "part_of_speech": "n.",
@@ -240,19 +258,6 @@
       "part_of_speech": "v.",
       "definition": "to cut (a garment).",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "RAG-O": [
-    {
-      "part_of_speech": "n.",
-      "definition": "joy, happiness, delight, exultation."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to rejoice, exult.",
-      "eng_example": "The people are rejoicing for their candidate won.",
-      "ilok_example": "Agrag-o dagiti tattao ta nangabak ti kandidato da.",
-      "conjugation": "/AG-/"
     }
   ],
   "RAGPAT": [
@@ -405,15 +410,6 @@
       "conjugation": "/MAI-/"
     }
   ],
-  "AGRAMAN": [
-    {
-      "part_of_speech": "adv.",
-      "definition": "with, including, in addition.",
-      "synonyms": [
-        "PATI"
-      ]
-    }
-  ],
   "RAM": [
     {
       "part_of_speech": "n.",
@@ -435,6 +431,13 @@
       "eng_example": "He experienced not eating for one day.",
       "ilok_example": "Naramanan na ti di nga mangan ti maysa nga aldaw.",
       "conjugation": "/MAKA-: MA--AN/"
+    }
+  ],
+  "RAM-OY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to buy at less than the real value.",
+      "conjugation": "/MANG-:-EN/"
     }
   ],
   "RAMARAM": [
@@ -503,13 +506,6 @@
       "conjugation": "/AG-/"
     }
   ],
-  "RAM-OY": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to buy at less than the real value.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
   "RANA": [
     {
       "part_of_speech": "v.",
@@ -528,27 +524,6 @@
       "part_of_speech": "v.",
       "definition": "to meet or see each other by prearrangement.",
       "conjugation": "/AG-/ with pl. subject"
-    }
-  ],
-  "RANSO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "ranch.",
-      "origin": "f. Sp."
-    }
-  ],
-  "RANUD": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to share.",
-      "conjugation": "/AG- + R2: PAG- + R2/ with pl. subject"
-    }
-  ],
-  "RANYAG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "very bright, brilliant, lustrous.",
-      "conjugation": "/NA-/"
     }
   ],
   "RANG-AY": [
@@ -653,6 +628,27 @@
       "synonyms": [
         "KALANTAY"
       ]
+    }
+  ],
+  "RANSO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "ranch.",
+      "origin": "f. Sp."
+    }
+  ],
+  "RANUD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to share.",
+      "conjugation": "/AG- + R2: PAG- + R2/ with pl. subject"
+    }
+  ],
+  "RANYAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "very bright, brilliant, lustrous.",
+      "conjugation": "/NA-/"
     }
   ],
   "RAOT": [
@@ -1133,4 +1129,5 @@
       "definition": "rum.",
       "origin": "f. Sp.?"
     }
-  ]}
+  ]
+}

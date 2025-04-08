@@ -1,18 +1,22 @@
-
-{"SA": [
+{
+  "-SAN": [
+    {
+      "definition": "var. of MAYSA, one: used with MAMIN-or NAMIN-."
+    }
+  ],
+  "SA": [
     {
       "part_of_speech": "adv.",
-      "definition": "probably, very likely. conj. then, after which: introduces a clause that refers to an action subsequent to the previous one. var. of MAYSA, one: used only with a following NGA interchangeably with MAYSA.",
+      "definition": "probably, very likely."
+    },
+    {
+      "part_of_speech": "conj.",
+      "definition": "then, after which: introduces a clause that refers to an action subsequent to the previous one. var. of MAYSA, one: used only with a following NGA interchangeably with MAYSA.",
       "ilok_example": "MAYSA NGA BULAN or SANGA"
     },
     {
       "part_of_speech": "interj.",
       "definition": "an expression used to call or drive away a cat."
-    }
-  ],
-  "BULAN": [
-    {
-      "definition": "one month."
     }
   ],
   "SAAD": [
@@ -22,10 +26,17 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "SAANMAN": [
+  "SAAN": [
+    {
+      "definition": "NGA BALE, it does not matter, it is of no importance, never mind.",
+      "ilok_example": "MAN, an answer affirming a negative question, the positive answer to a negative question."
+    },
     {
       "part_of_speech": "adv.",
-      "definition": "of course I will (in answer to a negative question)."
+      "definition": "no.",
+      "variations": [
+        "HAAN"
+      ]
     }
   ],
   "SAANG": [
@@ -33,6 +44,48 @@
       "part_of_speech": "v.",
       "definition": "to put on the stove over a fire in order to cook or heat.",
       "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "SAANMAN": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "of course I will (in answer to a negative question)."
+    }
+  ],
+  "SAB-IT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hook on which to hang things."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hang, suspend on a hook.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "SAB-UK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to carry In one’s lap, skirt, apron, etc.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put In one’s lap, skirt, apron, etc.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "SAB-UNG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to give a dowry.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to give (someone a dowry).",
+      "conjugation": "/MANG-:-AN/",
+      "cross_reference": "PANAB-UNG"
     }
   ],
   "SABA": [
@@ -135,17 +188,6 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "SAB-IT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "hook on which to hang things."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to hang, suspend on a hook.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
   "SABLE": [
     {
       "part_of_speech": "n.",
@@ -163,18 +205,6 @@
       "part_of_speech": "v.",
       "definition": "1. to eat or chew noisily and voraciously. 2. to bite by snapping the jaw, as a Pig.",
       "conjugation": "/AG-, MANG-:-EN/"
-    }
-  ],
-  "SAB-UK": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to carry In one’s lap, skirt, apron, etc.",
-      "conjugation": "/AG-, MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to put In one’s lap, skirt, apron, etc.",
-      "conjugation": "/MANGI-: I-/"
     }
   ],
   "SABUN": [
@@ -205,19 +235,6 @@
       "eng_example": "Your mango tree is now blossoming.",
       "ilok_example": "Agsabungen ta mangga yon.",
       "conjugation": "/AG-, MANGI-: I-/"
-    }
-  ],
-  "SAB-UNG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to give a dowry.",
-      "conjugation": "/MANGI-: I-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to give (someone a dowry).",
-      "conjugation": "/MANG-:-AN/",
-      "cross_reference": "PANAB-UNG"
     }
   ],
   "SABUNGANAY": [
@@ -256,7 +273,8 @@
   ],
   "SADI": [
     {
-      "definition": "prep. in, at, to (a geographical place)."
+      "part_of_speech": "prep.",
+      "definition": "in, at, to (a geographical place)."
     }
   ],
   "SADIAY": [
@@ -285,7 +303,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -327,12 +344,6 @@
       "conjugation": "/-EN/"
     }
   ],
-  "AGSASADUT": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "spiritless, listless, sluggish."
-    }
-  ],
   "SADYA": [
     {
       "part_of_speech": "adj.",
@@ -357,6 +368,12 @@
   "SAG-": [
     {
       "definition": "a numerical prefix used to form distributive numerals. sagdudua, two each."
+    }
+  ],
+  "SAG-UT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "thread, cotton yarn used in weaving."
     }
   ],
   "SAGA": [
@@ -433,6 +450,11 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "SAGNENEM": [
+    {
+      "definition": "six each."
+    }
+  ],
   "SAGANG": [
     {
       "part_of_speech": "v.",
@@ -448,7 +470,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -514,6 +535,11 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
+  "SAGGAPAT": [
+    {
+      "definition": "four each."
+    }
+  ],
   "SAGGAYSA": [
     {
       "definition": "num. one each."
@@ -571,7 +597,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -610,6 +635,27 @@
       "definition": "see under MANO."
     }
   ],
+  "SAGO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "watery secretion in wounds."
+    }
+  ],
+  "SAGPAMIN-ANO": [
+    {
+      "definition": "inter."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "at how many times each? how often each?"
+    }
+  ],
+  "SAGPAMINSAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "now and then, occasionally."
+    }
+  ],
   "SAGPAT": [
     {
       "part_of_speech": "v.",
@@ -645,12 +691,6 @@
       "part_of_speech": "v.",
       "definition": "to wear out, destroy by beating or shaking.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "SAGO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "watery secretion in wounds."
     }
   ],
   "SAGU": [
@@ -710,12 +750,6 @@
       "part_of_speech": "v.",
       "definition": "to give (someone) a present, to give an offering to.",
       "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "SAG-UT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "thread, cotton yarn used in weaving."
     }
   ],
   "SAIBBEK": [
@@ -1053,6 +1087,23 @@
       "conjugation": "/-UM-, MANG-:-EN/"
     }
   ],
+  "SAL-AT": [
+    {
+      "part_of_speech": "interj.",
+      "definition": "an expression used to express displeasure, impatience, anger, etc."
+    }
+  ],
+  "SAL-IT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lightning, flash of lightning. --cf.",
+      "ilok_example": "KIMAT."
+    },
+    {
+      "part_of_speech": "interj.",
+      "definition": "expresses displeasure, disappointment, irritation, etc."
+    }
+  ],
   "SALA": [
     {
       "part_of_speech": "n.",
@@ -1226,12 +1277,6 @@
       "origin": "f. Sp."
     }
   ],
-  "SAL-AT": [
-    {
-      "part_of_speech": "interj.",
-      "definition": "an expression used to express displeasure, impatience, anger, etc."
-    }
-  ],
   "SALAWASAW": [
     {
       "part_of_speech": "adj.",
@@ -1295,7 +1340,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -1394,17 +1438,6 @@
       "conjugation": "/AG-/ with pl. subject"
     }
   ],
-  "SAL-IT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "lightning, flash of lightning. --cf.",
-      "ilok_example": "KIMAT."
-    },
-    {
-      "part_of_speech": "interj.",
-      "definition": "expresses displeasure, disappointment, irritation, etc."
-    }
-  ],
   "SALIWANWAN": [
     {
       "part_of_speech": "adj.",
@@ -1413,7 +1446,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -1427,6 +1459,11 @@
       "part_of_speech": "v.",
       "definition": "to separate and meet again as in country dances.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "SALLABAWAN": [
+    {
+      "definition": "and the PAKABAYO."
     }
   ],
   "SALLABAY": [
@@ -1681,15 +1718,7 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
-    }
-  ],
-  "SALUNSUN": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to put one over the other, to stack up.",
-      "conjugation": "/MANG-:-EN/"
     }
   ],
   "SALUNGASING": [
@@ -1729,6 +1758,13 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
+  "SALUNSUN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put one over the other, to stack up.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "SALUP": [
     {
       "part_of_speech": "n.",
@@ -1760,6 +1796,17 @@
       "definition": "the jute or Jew’s mallow whose leaves are eaten."
     }
   ],
+  "SAM-IT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "sweet.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/-UM-/"
+    }
+  ],
   "SAMAK": [
     {
       "part_of_speech": "n.",
@@ -1785,18 +1832,6 @@
       "part_of_speech": "v.",
       "definition": "to insert, add another job to one’s job.",
       "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "SAM-IT": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "sweet.",
-      "conjugation": "/NA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": ".",
-      "conjugation": "/-UM-/"
     }
   ],
   "SAMPA": [
@@ -1853,12 +1888,6 @@
       "conjugation": "/NA-/"
     }
   ],
-  "SAMUTSAMUT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "floss on stems, fruits, etc."
-    }
-  ],
   "SAMUT-SAMUT": [
     {
       "part_of_speech": "n.",
@@ -1866,6 +1895,12 @@
       "synonyms": [
         "SAPUT"
       ]
+    }
+  ],
+  "SAMUTSAMUT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "floss on stems, fruits, etc."
     }
   ],
   "SAMYENTO": [
@@ -1888,16 +1923,6 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
-  "-SAN": [
-    {
-      "definition": "var. of MAYSA, one: used with MAMIN-or NAMIN-."
-    }
-  ],
-  "MAMINSAN": [
-    {
-      "definition": "once."
-    }
-  ],
   "SANAANG": [
     {
       "part_of_speech": "adj.",
@@ -1906,7 +1931,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -1926,152 +1950,6 @@
     {
       "part_of_speech": "n.",
       "definition": "water-melon."
-    }
-  ],
-  "SANIATA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "jewel, precious stone, gem."
-    }
-  ],
-  "SANIGKI": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to start up from sleep breathing deeply and laboriously.",
-      "conjugation": "/-UM-/"
-    }
-  ],
-  "SANIKUA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "properties, possessions, assets."
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "rich, wealthy, affluent.",
-      "conjugation": "/NA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to have or own properties.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to claim as one’s property.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "SANSAN": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "often, frequently, many times.",
-      "conjugation": "/MA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to do frequently.",
-      "conjugation": "/-EN/"
-    }
-  ],
-  "SANTANG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a kind of shrub with terminal cymes of pink, reddish or whitish flowers."
-    }
-  ],
-  "SANTO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "saint.",
-      "origin": "f. Sp."
-    }
-  ],
-  "SANTOL": [
-    {
-      "part_of_speech": "n.",
-      "definition": "1. a kind of fruit-bearing tree. 2. its fruit."
-    }
-  ],
-  "SANUD": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to move backwards.",
-      "conjugation": "/AG-, -UM-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to hit while walking backwards.",
-      "conjugation": "/MAKA-: MA--AN/"
-    }
-  ],
-  "SANUT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to whip, flog, thrash.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "SANYATA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "muse.",
-      "synonyms": [
-        "IMNAS"
-      ]
-    }
-  ],
-  "SANGA-": [
-    {
-      "origin": "(MAY)SA NGA."
-    }
-  ],
-  "SANGA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "branch."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to have or develop this.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to break off (a branch).",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "SANGAILI": [
-    {
-      "part_of_speech": "n.",
-      "definition": "guest, visitor."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to entertain as guest.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to entertain guests.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "n.",
-      "definition": "menses."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to menstruate.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "SANGAT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to inspect a trap, snare, the like.",
-      "conjugation": "/AG-, MANG-:-EN/"
     }
   ],
   "SANG-AT": [
@@ -2105,6 +1983,88 @@
       "part_of_speech": "v.",
       "definition": "to breathe upon.",
       "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "SANG-IL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to strike with the horn sideways, butt sideways.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to strike each other with the horns sideways.",
+      "conjugation": "/AG-/ with pl. subject"
+    }
+  ],
+  "SANGA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "branch."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have or develop this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to break off (a branch).",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "SANGA-": [
+    {
+      "origin": "(MAY)SA NGA."
+    }
+  ],
+  "SANGAILI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "guest, visitor."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to entertain as guest.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to entertain guests.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "menses."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to menstruate.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "SANGALAKSA": [
+    {
+      "definition": "ten thousand."
+    }
+  ],
+  "SANGALUBONGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the whole world or universe. see under LUBONG."
+    }
+  ],
+  "SANGAPUTOTAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "one generation, one family."
+    }
+  ],
+  "SANGAT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to inspect a trap, snare, the like.",
+      "conjugation": "/AG-, MANG-:-EN/"
     }
   ],
   "SANGBAY": [
@@ -2165,18 +2125,6 @@
       "definition": "molar tooth."
     }
   ],
-  "SANG-IL": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to strike with the horn sideways, butt sideways.",
-      "conjugation": "/-UM-, MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to strike each other with the horns sideways.",
-      "conjugation": "/AG-/ with pl. subject"
-    }
-  ],
   "SANGIT": [
     {
       "part_of_speech": "v.",
@@ -2189,9 +2137,33 @@
       "definition": "a prefix added to verbal stems indicating frequent or continuous doing of the action expressed by the stem."
     }
   ],
+  "SANGKAAB-AB": [
+    {
+      "part_of_speech": "n.",
+      "definition": "one draught or draft."
+    }
+  ],
+  "SANGKABASSIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "little, few."
+    }
+  ],
   "SANGKAI-": [
     {
       "definition": "var. of SANGKA-."
+    }
+  ],
+  "SANGKAIDOS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "one spoonful."
+    }
+  ],
+  "SANGKAIWA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "one slice."
     }
   ],
   "SANGKAP": [
@@ -2285,6 +2257,99 @@
       "part_of_speech": "n.",
       "definition": "front. --cf.",
       "ilok_example": "SANGO."
+    }
+  ],
+  "SANIATA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "jewel, precious stone, gem."
+    }
+  ],
+  "SANIGKI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to start up from sleep breathing deeply and laboriously.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "SANIKUA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "properties, possessions, assets."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "rich, wealthy, affluent.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have or own properties.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to claim as one’s property.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "SANSAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "often, frequently, many times.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to do frequently.",
+      "conjugation": "/-EN/"
+    }
+  ],
+  "SANTANG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of shrub with terminal cymes of pink, reddish or whitish flowers."
+    }
+  ],
+  "SANTO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "saint.",
+      "origin": "f. Sp."
+    }
+  ],
+  "SANTOL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a kind of fruit-bearing tree. 2. its fruit."
+    }
+  ],
+  "SANUD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to move backwards.",
+      "conjugation": "/AG-, -UM-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit while walking backwards.",
+      "conjugation": "/MAKA-: MA--AN/"
+    }
+  ],
+  "SANUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to whip, flog, thrash.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "SANYATA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "muse.",
+      "synonyms": [
+        "IMNAS"
+      ]
     }
   ],
   "SAPA": [
@@ -2387,7 +2452,8 @@
   ],
   "SAPAY": [
     {
-      "definition": "conj. indicates the optative.",
+      "part_of_speech": "conj.",
+      "definition": "indicates the optative.",
       "eng_example": "KUMA TA MAYAT, I wish he were willing.",
       "ilok_example": "SAPAY KUMA, I hope it happens so. var. of APAY."
     }
@@ -2408,11 +2474,6 @@
     {
       "part_of_speech": "n.",
       "definition": "undergarments; trousers, panties, drawers."
-    }
-  ],
-  "KARSUNSILYO": [
-    {
-      "definition": "."
     },
     {
       "part_of_speech": "v.",
@@ -2577,7 +2638,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/AG-/"
     }
   ],
@@ -2646,18 +2706,6 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "SARANTA": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "often, many times.",
-      "conjugation": "/NA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": ".",
-      "conjugation": "/-UM-/"
-    }
-  ],
   "SARANG": [
     {
       "part_of_speech": "v.",
@@ -2673,7 +2721,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -2681,6 +2728,17 @@
     {
       "part_of_speech": "n.",
       "definition": "coconut shell."
+    }
+  ],
+  "SARANTA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "often, many times.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/-UM-/"
     }
   ],
   "SARAPA": [
@@ -2817,7 +2875,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -2949,6 +3006,13 @@
       "conjugation": "/MANG-:-AN/"
     }
   ],
+  "SARUNGKAR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to call upon, visit.",
+      "conjugation": "/-UM-, MANG-:-AN/"
+    }
+  ],
   "SARUNU": [
     {
       "part_of_speech": "v.",
@@ -2964,13 +3028,6 @@
       "part_of_speech": "v.",
       "definition": "to do next.",
       "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "SARUNGKAR": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to call upon, visit.",
-      "conjugation": "/-UM-, MANG-:-AN/"
     }
   ],
   "SARUSAR": [
@@ -3084,6 +3141,17 @@
       "conjugation": "/MANG-: -EN/"
     }
   ],
+  "SAW-ING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the tusk of the wild boar."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to gore, to wound with the tusk or horn.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "SAWALI": [
     {
       "part_of_speech": "n.",
@@ -3112,17 +3180,6 @@
       "definition": "a kind of hawk."
     }
   ],
-  "SAW-ING": [
-    {
-      "part_of_speech": "n.",
-      "definition": "the tusk of the wild boar."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to gore, to wound with the tusk or horn.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
   "SAWIT": [
     {
       "part_of_speech": "n.",
@@ -3136,18 +3193,25 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "SAYA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "skirt.",
-      "origin": "f. Sp."
-    }
-  ],
   "SAY-A": [
     {
       "part_of_speech": "v.",
       "definition": "to clear one’s throat.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "SAY-UP": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to smell, sniff at.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "SAYA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "skirt.",
+      "origin": "f. Sp."
     }
   ],
   "SAYAAT": [
@@ -3175,7 +3239,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -3200,7 +3263,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -3241,13 +3303,6 @@
       "part_of_speech": "adj.",
       "definition": "adroit, quick, skillful.",
       "conjugation": "/NA-/"
-    }
-  ],
-  "SAY-UP": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to smell, sniff at.",
-      "conjugation": "/MANG-:-EN/"
     }
   ],
   "SEBBA": [
@@ -3519,17 +3574,6 @@
       "origin": "f. Sp."
     }
   ],
-  "SENNAAY": [
-    {
-      "part_of_speech": "n.",
-      "definition": "sigh."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to sigh.",
-      "conjugation": "/AG-/"
-    }
-  ],
   "SENGNGAW": [
     {
       "part_of_speech": "n.",
@@ -3554,6 +3598,17 @@
       "definition": "to be born.",
       "conjugation": "/-UM-/",
       "origin": "SUMNGAY"
+    }
+  ],
+  "SENNAAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sigh."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to sigh.",
+      "conjugation": "/AG-/"
     }
   ],
   "SENTIMOS": [
@@ -3771,9 +3826,7 @@
   ],
   "SIAK": [
     {
-      "definition": "pron."
-    },
-    {
+      "part_of_speech": "pron.",
       "definition": "I, me: the person speaking or writing.",
       "plural_form": "pl. DAKAMI"
     }
@@ -3788,6 +3841,17 @@
       ]
     }
   ],
+  "SIAM": [
+    {
+      "definition": "PULLO, eight, nine, ten.",
+      "synonyms": [
+        "DIES. num. nine; 9. --syn, NUEBE"
+      ],
+      "variations": [
+        "SANGAPULO"
+      ]
+    }
+  ],
   "SIASI": [
     {
       "part_of_speech": "v.",
@@ -3797,7 +3861,8 @@
   ],
   "SIASINU": [
     {
-      "definition": "pron. who?"
+      "part_of_speech": "pron.",
+      "definition": "who?"
     }
   ],
   "SIBBARUT": [
@@ -3874,12 +3939,6 @@
       "definition": "to be amazed or astonished, to be struck with admiration, wonder or fear.",
       "conjugation": "/MA-/",
       "origin": "MASDAAW"
-    }
-  ],
-  "NAKASKASDAAW": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "amazing, astonishing, marvelous."
     }
   ],
   "SIDDUKER": [
@@ -4108,19 +4167,14 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": "to have this, to be afflicted with this. pron.",
+      "definition": "to have this, to be afflicted with this.",
       "conjugation": "/AG-/"
     },
     {
-      "part_of_speech": "v.",
+      "part_of_speech": "pron.",
       "definition": "you singular: the person to whom one is speaking or writing.",
-      "ilok_example": "SIKA is the full nominative case form, KA the enclitic nominative, KUKUAM the full possessive,",
+      "ilok_example": "SIKA is the full nominative case form, KA the enclitic nominative, KUKUAM the full possessive, MO the enclitic possessive and the agent, and KANYAM or KENKA the oblique.",
       "plural_form": "pl. DAKAYU"
-    }
-  ],
-  "SIKSIKA": [
-    {
-      "definition": "you (singular) only, you (singular) alone."
     }
   ],
   "SIKAL": [
@@ -4141,11 +4195,6 @@
       "variations": [
         "SIKAM"
       ]
-    }
-  ],
-  "SIKSIKAMI": [
-    {
-      "definition": "var. of DAKDAKAMI."
     }
   ],
   "SIKAP": [
@@ -4170,22 +4219,12 @@
       "definition": "num. half of a SIKAPAT and one-fourth of a"
     }
   ],
-  "BINTING": [
-    {
-      "definition": "six and one-fourth centavos."
-    }
-  ],
   "SIKAYU": [
     {
       "definition": "var. of DAKAYU.",
       "variations": [
         "SIKAY"
       ]
-    }
-  ],
-  "SIKSIKAYU": [
-    {
-      "definition": "var. of DAKDAKAYU."
     }
   ],
   "SIKET": [
@@ -4280,7 +4319,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -4310,6 +4348,21 @@
       "part_of_speech": "v.",
       "definition": "to remove the scales of.",
       "conjugation": "/AG-, MANG-:-AN/"
+    }
+  ],
+  "SIKSIKA": [
+    {
+      "definition": "you (singular) only, you (singular) alone."
+    }
+  ],
+  "SIKSIKAMI": [
+    {
+      "definition": "var. of DAKDAKAMI."
+    }
+  ],
+  "SIKSIKAYU": [
+    {
+      "definition": "var. of DAKDAKAYU."
     }
   ],
   "SIKUG": [
@@ -4350,7 +4403,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -4398,7 +4450,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     },
     {
@@ -4588,6 +4639,13 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "SINAM-IT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "sweets, candy.",
+      "origin": "rt. SAM-IT"
+    }
+  ],
   "SINAMAR": [
     {
       "part_of_speech": "n.",
@@ -4598,13 +4656,6 @@
     {
       "part_of_speech": "n.",
       "definition": "a coarse cloth woven from abaca fiber."
-    }
-  ],
-  "SINAM-IT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "sweets, candy.",
-      "origin": "rt. SAM-IT"
     }
   ],
   "SINDAYAG": [
@@ -4651,102 +4702,6 @@
       "part_of_speech": "v.",
       "definition": "to hit with a slipper.",
       "conjugation": "/AG-, MANG-:-EN/"
-    }
-  ],
-  "SINIGUELAS": [
-    {
-      "part_of_speech": "n.",
-      "definition": "plum.",
-      "origin": "f. Sp.",
-      "variations": [
-        "SARGUELAS, SIRGUELAS"
-      ]
-    }
-  ],
-  "SINIT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to scorch, singe, burn.",
-      "conjugation": "/AG-, MANG-:-EN/"
-    }
-  ],
-  "SINNU": [
-    {
-      "definition": "var. of SINU."
-    }
-  ],
-  "SINSILYU": [
-    {
-      "part_of_speech": "n.",
-      "definition": "small change of money."
-    }
-  ],
-  "SINTAS": [
-    {
-      "part_of_speech": "n.",
-      "definition": "leather strap, tassel.",
-      "origin": "f. Sp."
-    }
-  ],
-  "SINTUK": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to hit with the fist, to knock on the head.",
-      "conjugation": "/-UM-, MANG-:-EN/"
-    }
-  ],
-  "SINTURUN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "belt.",
-      "origin": "f. Sp."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to use this.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to hit or whip with a belt.",
-      "conjugation": "/-UM-, MANG-:-EN/"
-    }
-  ],
-  "SINU": [
-    {
-      "definition": "inter. who?",
-      "variations": [
-        "SINNU, SIASINU"
-      ]
-    }
-  ],
-  "SINUBLAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a very large kettel or pot, bigger than the"
-    }
-  ],
-  "SINULID": [
-    {
-      "part_of_speech": "n.",
-      "definition": "thread, esp. sewing thread."
-    }
-  ],
-  "SINYAS": [
-    {
-      "part_of_speech": "n.",
-      "definition": "signal, sign.",
-      "origin": "f. Sp."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to make a sign or signal.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to make a sign to, to signal.",
-      "conjugation": "/-UM-, MANG-: -AN/"
     }
   ],
   "SINGASING": [
@@ -4884,7 +4839,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     },
     {
@@ -4897,6 +4851,119 @@
     {
       "part_of_speech": "n.",
       "definition": "ring."
+    }
+  ],
+  "SINIGANG": [
+    {
+      "definition": "in your rice."
+    }
+  ],
+  "SINIGUELAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "plum.",
+      "origin": "f. Sp.",
+      "variations": [
+        "SARGUELAS, SIRGUELAS"
+      ]
+    }
+  ],
+  "SINIT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to scorch, singe, burn.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "SINNU": [
+    {
+      "definition": "var. of SINU."
+    }
+  ],
+  "SINSILYU": [
+    {
+      "part_of_speech": "n.",
+      "definition": "small change of money."
+    }
+  ],
+  "SINTAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "leather strap, tassel.",
+      "origin": "f. Sp."
+    }
+  ],
+  "SINTUK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit with the fist, to knock on the head.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "SINTURUN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "belt.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to use this.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to hit or whip with a belt.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "SINU": [
+    {
+      "definition": "inter. who?",
+      "variations": [
+        "SINNU, SIASINU"
+      ]
+    }
+  ],
+  "SINUBLAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a very large kettel or pot, bigger than the"
+    }
+  ],
+  "SINULID": [
+    {
+      "part_of_speech": "n.",
+      "definition": "thread, esp. sewing thread."
+    }
+  ],
+  "SINYAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "signal, sign.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a sign or signal.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to make a sign to, to signal.",
+      "conjugation": "/-UM-, MANG-: -AN/"
+    }
+  ],
+  "SIP-AK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to break as a branch of a tree.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be broken, esp. a branch of a tree.",
+      "conjugation": "/MA-/"
     }
   ],
   "SIPA": [
@@ -4913,18 +4980,6 @@
       "part_of_speech": "v.",
       "definition": "to kick.",
       "conjugation": "/-UM-, MANG-:-EN/"
-    }
-  ],
-  "SIP-AK": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to break as a branch of a tree.",
-      "conjugation": "/-UM-, MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be broken, esp. a branch of a tree.",
-      "conjugation": "/MA-/"
     }
   ],
   "SIPAT": [
@@ -4996,15 +5051,6 @@
       "part_of_speech": "adj.",
       "definition": "dark, obscure.",
       "conjugation": "/NA-/"
-    }
-  ],
-  "SUMIPNGET": [
-    {
-      "part_of_speech": "n.",
-      "definition": "twilight, dusk, sunset.",
-      "synonyms": [
-        "SARSARDAM"
-      ]
     }
   ],
   "SIPPADUNG": [
@@ -5089,7 +5135,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -5150,18 +5195,18 @@
       "conjugation": "/-UM-, MANG-:-EN/"
     }
   ],
-  "SIRUHANO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "surgeon.",
-      "origin": "f. Sp."
-    }
-  ],
   "SIRPAT": [
     {
       "part_of_speech": "v.",
       "definition": "to be able to see from afar, to see accidentally from afar.",
       "conjugation": "/MAKA-: MA-/"
+    }
+  ],
+  "SIRUHANO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "surgeon.",
+      "origin": "f. Sp."
     }
   ],
   "SIRUK": [
@@ -5213,11 +5258,6 @@
       "definition": "var. of DATA."
     }
   ],
-  "SITSITA": [
-    {
-      "definition": "var. of DATDATA."
-    }
-  ],
   "SITAY": [
     {
       "definition": "var. of SITAYU."
@@ -5231,11 +5271,6 @@
       ]
     }
   ],
-  "SITSITAYU": [
-    {
-      "definition": "var. of DATDATAYU."
-    }
-  ],
   "SITIO": [
     {
       "part_of_speech": "n.",
@@ -5247,6 +5282,16 @@
     {
       "part_of_speech": "n.",
       "definition": "bacon rind."
+    }
+  ],
+  "SITSITA": [
+    {
+      "definition": "var. of DATDATA."
+    }
+  ],
+  "SITSITAYU": [
+    {
+      "definition": "var. of DATDATAYU."
     }
   ],
   "SITSITBUNG": [
@@ -5294,6 +5339,18 @@
       "part_of_speech": "v.",
       "definition": "to tear wide apart.",
       "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "SIWAWAYAWYA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "free."
+    }
+  ],
+  "SIWIWIDAWID": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "empty-handed."
     }
   ],
   "SUA": [
@@ -5365,7 +5422,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/AG-/"
     }
   ],
@@ -5410,11 +5466,6 @@
       "conjugation": "/MANG-:-AN/"
     }
   ],
-  "SURRI": [
-    {
-      "definition": "var. of SOBRE."
-    }
-  ],
   "SUBSUB": [
     {
       "part_of_speech": "n.",
@@ -5451,7 +5502,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -5568,7 +5618,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -5710,7 +5759,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/AG-/"
     }
   ],
@@ -5862,7 +5910,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -5931,6 +5978,15 @@
       "definition": "var. of SUNGBAT."
     }
   ],
+  "SUMIPNGET": [
+    {
+      "part_of_speech": "n.",
+      "definition": "twilight, dusk, sunset.",
+      "synonyms": [
+        "SARSARDAM"
+      ]
+    }
+  ],
   "SUMPIT": [
     {
       "part_of_speech": "n.",
@@ -5958,51 +6014,6 @@
       "part_of_speech": "v.",
       "definition": "to spin a top.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "SUNI": [
-    {
-      "part_of_speech": "n.",
-      "definition": "breech baby, a child born with the legs coming out first."
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "contrary, going the opposite direction."
-    }
-  ],
-  "SUNO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "representative, substitute."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to come after, follow.",
-      "conjugation": "/-UM-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to substitute for, to put in place of.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "SUNSUN": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to gather close to each other.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "SUNU": [
-    {
-      "definition": "see KASUNO."
-    }
-  ],
-  "SUNUT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to do again, repeat.",
-      "conjugation": "/MANG-:-AN/"
     }
   ],
   "SUNGAD": [
@@ -6095,6 +6106,51 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "SUNI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "breech baby, a child born with the legs coming out first."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "contrary, going the opposite direction."
+    }
+  ],
+  "SUNO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "representative, substitute."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to come after, follow.",
+      "conjugation": "/-UM-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to substitute for, to put in place of.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "SUNSUN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to gather close to each other.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "SUNU": [
+    {
+      "definition": "see KASUNO."
+    }
+  ],
+  "SUNUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to do again, repeat.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
   "SUPA": [
     {
       "part_of_speech": "n.",
@@ -6174,7 +6230,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/"
     }
   ],
@@ -6283,6 +6338,11 @@
       "part_of_speech": "v.",
       "definition": "to surprise.",
       "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "SURRI": [
+    {
+      "definition": "var. of SOBRE."
     }
   ],
   "SURRU": [
@@ -6484,4 +6544,5 @@
       "definition": "to spout, squirt out.",
       "conjugation": "/-UM-/"
     }
-  ]}
+  ]
+}

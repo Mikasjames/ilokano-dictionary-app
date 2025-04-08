@@ -1,5 +1,46 @@
-
-{"PAANO": [
+{
+  "-PAT": [
+    {
+      "definition": "var. of UPPAT, four: used only with certain prefixes."
+    }
+  ],
+  "P": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a line in the palm of the hand, the finger, or the sole of the foot. ÍKON,",
+      "common_forms": [
+        "ÁLAD"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wind around the arm, as a string.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be wound around the arm. ÚNO,",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "worn out, dulled, blunted (e.g. a knife).",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "PA-": [
+    {
+      "definition": "(to use or put as): the goal of the verb is placed in focus or subject position."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to head toward, to go to.",
+      "eng_example": "Head toward the south.",
+      "ilok_example": "Agpabagatan ka.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "PAANO": [
     {
       "part_of_speech": "v.",
       "definition": "an interrogative verb asking direction of movement. see under PA-.",
@@ -8,7 +49,11 @@
   ],
   "PAARUYOT": [
     {
-      "definition": "see under ARUYOT."
+      "part_of_speech": "v.",
+      "definition": "to drain.",
+      "eng_example": "He said he will drain the plates. see under ARUYOT.",
+      "ilok_example": "Paaruyutan na na kano dagiti pinggan.",
+      "conjugation": "/MANG-:-AN/"
     }
   ],
   "PAATIAN": [
@@ -61,9 +106,46 @@
       "conjugation": "/NA-/"
     }
   ],
+  "PABAIN": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to refuse to do or give what one has requested; hence, to disgrace or embarrass (someone).",
+      "eng_example": "Don’t refuse to do or give what I shall request of you.",
+      "ilok_example": "Saan nak nga pabainan.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be refused; hence, to be disgraced.",
+      "conjugation": "/MA--AN/"
+    }
+  ],
+  "PABALOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause a price or value to be put on (by someone), to cause (someone) to appraise.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
   "PABANGLO": [
     {
       "definition": "see under BANGLO."
+    }
+  ],
+  "PABARATO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to give a small portion of one’s winnings.",
+      "eng_example": "Give me also a small portion of your winnings.",
+      "ilok_example": "Pabaratoan nak met.",
+      "conjugation": "/AG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to give (a small portion of one’s winnings).",
+      "eng_example": "How much of his winnings did he give you?",
+      "ilok_example": "Mano ti impabarato na kenka?",
+      "conjugation": "/MANGI-: I-/"
     }
   ],
   "PABARENG": [
@@ -82,6 +164,11 @@
   "PABASOL": [
     {
       "part_of_speech": "v.",
+      "definition": "to blame, put the blame on.",
+      "conjugation": "/AG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
       "definition": "to blame for an error, accuse of making an error.",
       "conjugation": "/MANG-:-EN/",
       "origin": "caus. of BASOL"
@@ -95,12 +182,28 @@
   ],
   "PABLAAK": [
     {
-      "definition": "see under BELLAAK."
+      "part_of_speech": "n.",
+      "definition": "notice, announcement, proclamation."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to announce, proclaim, give notice of. see under BELLAAK.",
+      "conjugation": "/MANGI-: I-/"
     }
   ],
   "PABLAD": [
     {
-      "definition": "see under BELLAD."
+      "part_of_speech": "v.",
+      "definition": "to boil some kernels of corn for PINABLAD preparation.",
+      "conjugation": "/AG-/",
+      "origin": "= PA-+ BELLAD"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to boil (kernels of corn) for PINABLAD preparation.",
+      "eng_example": "Boil one cupful of corn kernels. see under BELLAD.",
+      "ilok_example": "Mangipablad ka ti sanga kap nga mais.",
+      "conjugation": "/MANGI-: I-/"
     }
   ],
   "PABOR": [
@@ -120,6 +223,15 @@
       "part_of_speech": "adj.",
       "definition": "favorite.",
       "origin": "f. Sp."
+    }
+  ],
+  "PABPABARENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to hope, suppose.",
+      "eng_example": "Don’t suppose that I will lend you money.",
+      "ilok_example": "Saan mo nga ipabpabareng nga pabulodan ka ti kuarta.",
+      "conjugation": "/MANGI-: I-/"
     }
   ],
   "PABRIKA": [
@@ -162,6 +274,10 @@
   "PABUYA": [
     {
       "part_of_speech": "n.",
+      "definition": "show; stage show."
+    },
+    {
+      "part_of_speech": "n.",
       "definition": "live show for public entertainment.",
       "eng_example": "There’s a live show in the plaza.",
       "ilok_example": "Adda pabuya idiay plasa.",
@@ -171,6 +287,28 @@
       "part_of_speech": "v.",
       "definition": "to show to the public.",
       "conjugation": "/AGI-, MANGI-: I-/"
+    }
+  ],
+  "PABUYON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to ask someone to find the location or situation (of a lost object or missing person or animal) by divination.",
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "PASILAW (under SILAW)"
+      ]
+    }
+  ],
+  "PAD-ENG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stop or put off temporarily, suspend, delay, postpone.",
+      "eng_example": "Stop that for a while until their arrival.",
+      "ilok_example": "Ipadpad-eng mo bassit dayta inggana ti isasangpet da.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "PADPAD-ENG"
+      ]
     }
   ],
   "PADA": [
@@ -206,20 +344,42 @@
   ],
   "PADANUM": [
     {
-      "definition": "see under DANUM."
+      "part_of_speech": "n.",
+      "definition": "irrigation.",
+      "synonyms": [
+        "PALAYAS"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "MANG-:- see under DANUM.",
+      "conjugation": "/AG-,"
     }
   ],
   "PADAPAN": [
     {
-      "definition": "see under DAPAN."
+      "part_of_speech": "n.",
+      "definition": "1. runner of a sledge. 2. presser foot of a sewing machine. see under DAPAN."
     }
   ],
   "PADARA": [
     {
       "part_of_speech": "v.",
+      "definition": "to have a hemorrhage.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
       "definition": "to hemorrhage; to vomit blood; to expectorate blood.",
       "conjugation": "/AG-/",
       "origin": "caus. of DARA"
+    }
+  ],
+  "PADARISDIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put in a horizontal position.",
+      "conjugation": "/MANGI-: I-/"
     }
   ],
   "PADAS": [
@@ -258,18 +418,6 @@
       "definition": "sole of the foot of swine."
     }
   ],
-  "PAD-ENG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to stop or put off temporarily, suspend, delay, postpone.",
-      "eng_example": "Stop that for a while until their arrival.",
-      "ilok_example": "Ipadpad-eng mo bassit dayta inggana ti isasangpet da.",
-      "conjugation": "/MANGI-: I-/",
-      "common_forms": [
-        "PADPAD-ENG"
-      ]
-    }
-  ],
   "PADER": [
     {
       "part_of_speech": "n.",
@@ -291,7 +439,19 @@
   ],
   "PADIGO": [
     {
-      "definition": "see under DIGO."
+      "part_of_speech": "v.",
+      "definition": "to share one’s food (with another).",
+      "eng_example": "It was he who shared us some of his food.",
+      "ilok_example": "Isu ti namadigo kadakami.",
+      "conjugation": "/MANG-:-AN/",
+      "origin": "= MAMADIGO, MANGPADIGO"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to share (a portion of one’s food) (with another).",
+      "eng_example": "He shared with me much of his food. see under DIGO.",
+      "ilok_example": "Adu ti impadigo na kanyak.",
+      "conjugation": "/MANGI-: I-/"
     }
   ],
   "PADING": [
@@ -318,7 +478,10 @@
   ],
   "PADLAW": [
     {
-      "definition": "see under DILLAW."
+      "part_of_speech": "v.",
+      "definition": "to cause someone to notice or perceive; to show, reveal, display. see under DILLAW.",
+      "conjugation": "/MANGI-: I-/",
+      "origin": "= PA- + DILLAW"
     }
   ],
   "PADLES": [
@@ -397,6 +560,21 @@
       "conjugation": "/MANG-:-AN/"
     }
   ],
+  "PAG-ONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "turtle."
+    }
+  ],
+  "PAG-UT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to uproot, pull out.",
+      "eng_example": "Who uprooted the plants here?",
+      "ilok_example": "Sino ti nangpagut kadagiti mula ditoy?",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "PAGA": [
     {
       "part_of_speech": "adj.",
@@ -406,12 +584,14 @@
   ],
   "PAGABLAN": [
     {
-      "definition": "see under ABEL."
+      "part_of_speech": "n.",
+      "definition": "native loom. see under ABEL."
     }
   ],
   "PAGALSEM": [
     {
-      "definition": "see under ALSEM."
+      "part_of_speech": "n.",
+      "definition": "fruit, vegetable or leaves used in making a dish sour. see under ALSEM."
     }
   ],
   "PAGAMMOAN": [
@@ -517,6 +697,15 @@
       "origin": "cf. BAGAS"
     }
   ],
+  "PAGBALUDAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "prison, jail.",
+      "synonyms": [
+        "PRESO, KALABUS"
+      ]
+    }
+  ],
   "PAGBUNUBONAN": [
     {
       "part_of_speech": "n.",
@@ -558,11 +747,35 @@
       "conjugation": "/AG-/"
     }
   ],
+  "PAGILIAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. town, township. 2. country. see under ILI."
+    }
+  ],
   "PAGINUMAN": [
     {
       "part_of_speech": "n.",
       "definition": "1. drinking vessel, drinking jar. 2. place where the drinking vessel is located.",
       "origin": "cf. INUM"
+    }
+  ],
+  "PAGKARAMBAAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a stand or support for this jar. 2. the place where this jar is located."
+    }
+  ],
+  "PAGKILOAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a weighing machine."
+    }
+  ],
+  "PAGLANDAGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "anything on which something is placed to be cut, chopped, etc."
     }
   ],
   "PAGNA": [
@@ -588,34 +801,11 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "PANNAGNA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "manner or act of walking. see under PAGNA.",
-      "common_forms": [
-        "or PAGNA"
-      ]
-    }
-  ],
-  "AGPAGNA": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "current, present.",
-      "eng_example": "My wife will deliver this current month.",
-      "ilok_example": "Aganak ni baket ko ti daytoy agpagna nga bulan."
-    }
-  ],
   "PAGOD": [
     {
       "part_of_speech": "v.",
       "definition": "to tie (an animal, a vessel), to moor.",
       "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "PAG-ONG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "turtle."
     }
   ],
   "PAGPAG": [
@@ -632,6 +822,12 @@
       "eng_example": "Shake off the dirt of your blanket.",
       "ilok_example": "Ipagpag mo ta rugit ti ules mo.",
       "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "PAGPALPALIWAAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "something that serves to console. see under LIWLIWA."
     }
   ],
   "PAGSALAPAYAN": [
@@ -685,15 +881,6 @@
       "part_of_speech": "v.",
       "definition": "to happen.",
       "conjugation": "/MA-/"
-    }
-  ],
-  "PAG-UT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to uproot, pull out.",
-      "eng_example": "Who uprooted the plants here?",
-      "ilok_example": "Sino ti nangpagut kadagiti mula ditoy?",
-      "conjugation": "/MANG-:-EN/"
     }
   ],
   "PAGWADAN": [
@@ -758,6 +945,13 @@
       "conjugation": "/NA-/"
     }
   ],
+  "PAK-UL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to knock on the head.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
   "PAKA-": [
     {
       "definition": "the form of MAKA-which is used with a verbalizing affix or as a nominalizer."
@@ -765,7 +959,23 @@
   ],
   "PAKAAMMO": [
     {
-      "definition": "see under AMMO."
+      "part_of_speech": "v.",
+      "definition": "to make known, give notice of, inform.",
+      "eng_example": "Inform them that we are going to have a feast tomorrow. see under AMMO.",
+      "ilok_example": "Ipakaammom kanyada nga agponsion tayo no bigat.",
+      "conjugation": "/AG-: I-/"
+    }
+  ],
+  "PAKABAYO": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to put astride (something).",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be put astride (something).",
+      "conjugation": "/MAI-/"
     }
   ],
   "PAKADA": [
@@ -782,6 +992,12 @@
       "part_of_speech": "v.",
       "definition": "to ask permission for (someone to leave or do something).",
       "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "PAKALAGLAGIPAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "remembrance, reminder, souvenir."
     }
   ],
   "PAKAN": [
@@ -826,6 +1042,12 @@
       "ilok_example": "Apay nga dika agpakatao?",
       "conjugation": "/AG-/",
       "origin": "cf. TAO"
+    }
+  ],
+  "PAKAUNA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "presage."
     }
   ],
   "PAKAWAN": [
@@ -1007,34 +1229,16 @@
       "conjugation": "/AG-/"
     }
   ],
-  "I": [
-    {
-      "definition": "am going to have a haircut.",
-      "synonyms": [
-        "PAPUKIS"
-      ]
-    }
-  ],
   "PAKPAK": [
     {
       "part_of_speech": "v.",
       "definition": "1. to slap with the open hand. 2. to beat (clothes) with a wooden club when washing them.",
-      "conjugation": "/MANG-:-EN/"
+      "conjugation": "/MANG-:-EN/",
+      "cross_reference": "PANAKPAK"
     },
     {
       "part_of_speech": "n.",
       "definition": "a kind of bamboo rattle."
-    }
-  ],
-  "PANAKPAK": [
-    {
-      "definition": "."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to produce a succession of clapping or slapping sounds like that produced by a wooden club beating on wet clothes.",
-      "conjugation": "/AG-/",
-      "origin": "cf. PAKPAK"
     }
   ],
   "PAKSET": [
@@ -1075,13 +1279,6 @@
       "conjugation": "/AG-/"
     }
   ],
-  "PAK-UL": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to knock on the head.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
   "PAKULOT": [
     {
       "part_of_speech": "v.",
@@ -1116,6 +1313,15 @@
       "conjugation": "/AG-/"
     }
   ],
+  "PAL-ID": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to flap with a piece of cloth, as in dusting furniture.",
+      "eng_example": "Let us flap the dust off the dusty chairs.",
+      "ilok_example": "Pal-idan tayo dagiti tugaw nga natapok.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
   "PALA": [
     {
       "part_of_speech": "n.",
@@ -1145,30 +1351,6 @@
     {
       "part_of_speech": "n.",
       "definition": "a trap for birds."
-    }
-  ],
-  "P": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a line in the palm of the hand, the finger, or the sole of the foot. ÍKON,",
-      "common_forms": [
-        "ÁLAD"
-      ]
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to wind around the arm, as a string.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be wound around the arm. ÚNO,",
-      "conjugation": "/MA-/"
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "worn out, dulled, blunted (e.g. a knife).",
-      "conjugation": "/NA-/"
     }
   ],
   "PALADPAD": [
@@ -1213,16 +1395,13 @@
       ]
     }
   ],
-  "AGPALPALAMA": [
+  "PALAMLAM": [
     {
-      "part_of_speech": "n.",
-      "definition": "beggar, pauper, indigent.",
-      "synonyms": [
-        "AGPALPALIMOS, MAKILIMLIMOS, MAKILKILIMOS"
-      ],
-      "common_forms": [
-        "or MAKIPALPALAMA"
-      ]
+      "part_of_speech": "v.",
+      "definition": "to give a bit of (something).",
+      "eng_example": "He did not give us even a bit of the fruits of their mango tree. see under LAMLAM.",
+      "ilok_example": "Saan na kami nga pulos pinalamlaman ti mangga da.",
+      "conjugation": "/MANG-:-AN/"
     }
   ],
   "PALANAS": [
@@ -1249,13 +1428,6 @@
       "conjugation": "/NA-/"
     }
   ],
-  "PALPALANGGUAD": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to be boastful, proud, haughty; to boast.",
-      "conjugation": "/AG-/"
-    }
-  ],
   "PALANGKA": [
     {
       "part_of_speech": "n.",
@@ -1278,15 +1450,15 @@
       "origin": "f. Sp."
     }
   ],
+  "PALAT-ANGAN": [
+    {
+      "definition": "form of PALATANG which occurs after a numeral."
+    }
+  ],
   "PALATANG": [
     {
       "part_of_speech": "n.",
       "definition": "a whole leaf of a palm tree."
-    }
-  ],
-  "PALAT-ANGAN": [
-    {
-      "definition": "form of PALATANG which occurs after a numeral."
     }
   ],
   "PALATIPUT": [
@@ -1304,6 +1476,18 @@
   "PALAUS": [
     {
       "definition": "var. of LAUS."
+    }
+  ],
+  "PALAWAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to explain, give an explanation.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "see under LAWAG.",
+      "conjugation": "/MANGI-:"
     }
   ],
   "PALAWAPAW": [
@@ -1383,15 +1567,6 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "PAL-ID": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to flap with a piece of cloth, as in dusting furniture.",
-      "eng_example": "Let us flap the dust off the dusty chairs.",
-      "ilok_example": "Pal-idan tayo dagiti tugaw nga natapok.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
   "PALIG": [
     {
       "part_of_speech": "v.",
@@ -1419,6 +1594,12 @@
       "eng_example": "Let us observe the movement of those people.",
       "ilok_example": "Paliiwen tayo ti gunay dagidiay nga tao.",
       "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "PALIKAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "circumference, surrounding. see under LIKAW."
     }
   ],
   "PALIKPIK": [
@@ -1601,6 +1782,13 @@
       "eng_example": "Reduce the soil where the eggplants will be planted to fine particles and level it.",
       "ilok_example": "Palpalem dayta daga nga pagmulaan ti tarong.",
       "conjugation": "/AG-, MANG-:-EN/"
+    }
+  ],
+  "PALPALANGGUAD": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be boastful, proud, haughty; to boast.",
+      "conjugation": "/AG-/"
     }
   ],
   "PALPALIWA": [
@@ -1853,15 +2041,6 @@
       "conjugation": "/-EN/"
     }
   ],
-  "SAGPAMIN-ANO": [
-    {
-      "definition": "inter."
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "at how many times each? how often each?"
-    }
-  ],
   "PAMINSAN": [
     {
       "part_of_speech": "v.",
@@ -1876,12 +2055,6 @@
       "eng_example": "He will launder all those at one time.",
       "ilok_example": "Paminsanen na nga labaan amin dagita.",
       "conjugation": "/-EN/"
-    }
-  ],
-  "SAGPAMINSAN": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "now and then, occasionally."
     }
   ],
   "PAMISA": [
@@ -1907,6 +2080,12 @@
       "part_of_speech": "n.",
       "definition": "accusation, charge.",
       "origin": "cf. BASOL"
+    }
+  ],
+  "PAMMADAYAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "acknowledgments."
     }
   ],
   "PAMMAGBAGA": [
@@ -2006,6 +2185,12 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "PAN-AW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the cogon (Imperata cylindrica)."
+    }
+  ],
   "PANA": [
     {
       "part_of_speech": "n.",
@@ -2057,6 +2242,14 @@
       ]
     }
   ],
+  "PANAKPAK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to produce a succession of clapping or slapping sounds like that produced by a wooden club beating on wet clothes.",
+      "conjugation": "/AG-/",
+      "origin": "cf. PAKPAK"
+    }
+  ],
   "PANAL": [
     {
       "part_of_speech": "n.",
@@ -2083,17 +2276,23 @@
       "conjugation": "/-UM-/"
     }
   ],
-  "PAN-AW": [
-    {
-      "part_of_speech": "n.",
-      "definition": "the cogon (Imperata cylindrica)."
-    }
-  ],
   "PANAWEN": [
     {
       "part_of_speech": "n.",
       "definition": "opportune, designated, or expected year, time, or season.",
       "origin": "cf, TAWEN"
+    }
+  ],
+  "PAND": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "dwarfish.",
+      "synonyms": [
+        "PANDEK"
+      ],
+      "common_forms": [
+        "ÁKA"
+      ]
     }
   ],
   "PANDA": [
@@ -2113,18 +2312,6 @@
       "part_of_speech": "v.",
       "definition": "to put or place on something as weight, to use to press down something.",
       "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "PAND": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "dwarfish.",
-      "synonyms": [
-        "PANDEK"
-      ],
-      "common_forms": [
-        "ÁKA"
-      ]
     }
   ],
   "PANDAN": [
@@ -2215,159 +2402,20 @@
       ]
     }
   ],
-  "PANIANG": [
-    {
-      "definition": "see PANNIANG."
-    }
-  ],
-  "PANID": [
+  "PANG-OR": [
     {
       "part_of_speech": "n.",
-      "definition": "a unit of leaflike objects.",
-      "common_forms": [
-        "SANGKAPANID"
-      ]
-    }
-  ],
-  "PANNAKALEN": [
-    {
-      "definition": "var. of PANNAKALENG."
-    }
-  ],
-  "PANNAKALENG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "inflammatory swelling of the lymph gland, usually at the groin.",
-      "variations": [
-        "PANNAKALEN"
-      ]
+      "definition": "club, cudgel."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to have this.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "PANNAKAYANAK": [
-    {
-      "part_of_speech": "n.",
-      "definition": "birthday.",
-      "origin": "cf. ANAK",
-      "synonyms": [
-        "PANNAKASANGAY"
-      ]
-    }
-  ],
-  "PANNAKKEL": [
-    {
-      "definition": "var. of PANAKKEL."
-    }
-  ],
-  "PANNAYAG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "open, free of trees and other plants to block the view.",
-      "eng_example": "The place where their house is is open.",
-      "ilok_example": "Napannayag ti ayan ti balay da.",
-      "conjugation": "/NA-/"
-    }
-  ],
-  "PANNIKI": [
-    {
-      "part_of_speech": "n.",
-      "definition": "fruit bat."
-    }
-  ],
-  "PANSIT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "rice noodle."
-    }
-  ],
-  "PANTALON": [
-    {
-      "part_of_speech": "n.",
-      "definition": "long pants.",
-      "origin": "f. Sp."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to wear this.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "PANTEON": [
-    {
-      "definition": "var. of PANTEONG."
-    }
-  ],
-  "PANTEONG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "tomb.",
-      "synonyms": [
-        "NITSO"
-      ],
-      "variations": [
-        "PANTEON"
-      ]
-    }
-  ],
-  "PANTI": [
-    {
-      "part_of_speech": "n.",
-      "definition": "lady’s pants.",
-      "origin": "f. Eng."
-    }
-  ],
-  "PANTOK": [
-    {
-      "part_of_speech": "n.",
-      "definition": "top, peak, tip."
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "long and pointed: said of the nose.",
-      "conjugation": "/NA-/"
-    }
-  ],
-  "PANUNOT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "mind, thought, thinking."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to think, reflect on something.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to think of, recall.",
-      "eng_example": "Recall the name of the person who borrowed money from you.",
-      "ilok_example": "Panunutem ti nagan diay immutang kenka.",
+      "definition": "to beat with a club, to cudgel, club.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "PANUOS": [
+    },
     {
-      "part_of_speech": "adj.",
-      "definition": "smelling like that of slightly burned substances, especially rice or food.",
-      "conjugation": "/NA-/"
-    }
-  ],
-  "PANYO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "handkerchief, neckerchief.",
-      "origin": "f. Sp."
-    }
-  ],
-  "PANYOLITO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a small handkerchief.",
-      "origin": "f. Sp."
+      "part_of_speech": "v.",
+      "definition": "to use as or like a club to beat (someone).",
+      "conjugation": "/MANGI- : I-/"
     }
   ],
   "PANGAG": [
@@ -2522,6 +2570,12 @@
       "conjugation": "/AG-/"
     }
   ],
+  "PANGLAKAYEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "an elder, an old headman. see under LAKAY."
+    }
+  ],
   "PANGLAW": [
     {
       "part_of_speech": "adj.",
@@ -2555,22 +2609,6 @@
       "part_of_speech": "v.",
       "definition": "to lead or coax into doing something. --SUNGSUNG.",
       "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "PANG-OR": [
-    {
-      "part_of_speech": "n.",
-      "definition": "club, cudgel."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to beat with a club, to cudgel, club.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to use as or like a club to beat (someone).",
-      "conjugation": "/MANGI- : I-/"
     }
   ],
   "PANGPANG": [
@@ -2621,6 +2659,176 @@
   "PANGUARTAAN": [
     {
       "origin": "PANG-AN + KUARTA."
+    }
+  ],
+  "PANIANG": [
+    {
+      "definition": "see PANNIANG."
+    }
+  ],
+  "PANID": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a unit of leaflike objects.",
+      "common_forms": [
+        "SANGKAPANID"
+      ]
+    }
+  ],
+  "PANNAGNA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "manner or act of walking. see under PAGNA.",
+      "common_forms": [
+        "or PAGNA"
+      ]
+    }
+  ],
+  "PANNAKAAMA": [
+    {
+      "part_of_speech": "n.",
+      "definition": "foster father, one who acts as father of."
+    }
+  ],
+  "PANNAKALEN": [
+    {
+      "definition": "var. of PANNAKALENG."
+    }
+  ],
+  "PANNAKALENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "inflammatory swelling of the lymph gland, usually at the groin.",
+      "variations": [
+        "PANNAKALEN"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have this.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "PANNAKAYANAK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "birthday.",
+      "origin": "cf. ANAK",
+      "synonyms": [
+        "PANNAKASANGAY"
+      ]
+    }
+  ],
+  "PANNAKKEL": [
+    {
+      "definition": "var. of PANAKKEL."
+    }
+  ],
+  "PANNAYAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "open, free of trees and other plants to block the view.",
+      "eng_example": "The place where their house is is open.",
+      "ilok_example": "Napannayag ti ayan ti balay da.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "PANNIKI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fruit bat."
+    }
+  ],
+  "PANSIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "rice noodle."
+    }
+  ],
+  "PANTALON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "long pants.",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to wear this.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "PANTEON": [
+    {
+      "definition": "var. of PANTEONG."
+    }
+  ],
+  "PANTEONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "tomb.",
+      "synonyms": [
+        "NITSO"
+      ],
+      "variations": [
+        "PANTEON"
+      ]
+    }
+  ],
+  "PANTI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lady’s pants.",
+      "origin": "f. Eng."
+    }
+  ],
+  "PANTOK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "top, peak, tip."
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "long and pointed: said of the nose.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "PANUNOT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mind, thought, thinking."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to think, reflect on something.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to think of, recall.",
+      "eng_example": "Recall the name of the person who borrowed money from you.",
+      "ilok_example": "Panunutem ti nagan diay immutang kenka.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "PANUOS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "smelling like that of slightly burned substances, especially rice or food.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "PANYO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "handkerchief, neckerchief.",
+      "origin": "f. Sp."
+    }
+  ],
+  "PANYOLITO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a small handkerchief.",
+      "origin": "f. Sp."
     }
   ],
   "PAO": [
@@ -2729,6 +2937,13 @@
       "origin": "papεlεs; f. Sp."
     }
   ],
+  "PAPUKIS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to have a haircut.",
+      "conjugation": "/AG-/"
+    }
+  ],
   "PARA": [
     {
       "part_of_speech": "n.",
@@ -2753,6 +2968,20 @@
     {
       "part_of_speech": "n.",
       "definition": "the entrance to the house, the area in front of the house especially where the ladder is, the front yard."
+    }
+  ],
+  "PARABAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to go on top of.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put on top of.",
+      "eng_example": "Put this on top of that table.",
+      "ilok_example": "Iparabaw mo daytoy dita lamisaan.",
+      "conjugation": "/MANGI-: I-/"
     }
   ],
   "PARABUR": [
@@ -3009,15 +3238,6 @@
       ]
     }
   ],
-  "KAPAREHO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "that to which the subject is similar, equivalent, identical.",
-      "synonyms": [
-        "KAPADA"
-      ]
-    }
-  ],
   "PARI": [
     {
       "part_of_speech": "n.",
@@ -3175,12 +3395,6 @@
       "part_of_speech": "v.",
       "definition": "to be created.",
       "conjugation": "/MA-/"
-    }
-  ],
-  "MAMARSUA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "the Creator, God."
     }
   ],
   "PARTAAN": [
@@ -3409,11 +3623,6 @@
       "ilok_example": "Madadael it adobo no awan ti pasarunson."
     }
   ],
-  "ADOBO": [
-    {
-      "definition": "won’t be good unless something is taken after it."
-    }
-  ],
   "PASAS": [
     {
       "part_of_speech": "n.",
@@ -3426,13 +3635,6 @@
       "part_of_speech": "adj.",
       "definition": "presumptuous, vain, boastful.",
       "conjugation": "/(NA-)/"
-    }
-  ],
-  "PASPASAW": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to boast, brag.",
-      "conjugation": "/AG-/"
     }
   ],
   "PASAYAK": [
@@ -3496,13 +3698,6 @@
     {
       "part_of_speech": "adj.",
       "definition": "all, purely, exclusively."
-    }
-  ],
-  "PASPASIG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to be importunate, obstinate.",
-      "conjugation": "/AG-/"
     }
   ],
   "PASIKAL": [
@@ -3609,13 +3804,6 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "PASNIIR": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to air.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
   "PASNGAY": [
     {
       "part_of_speech": "v.",
@@ -3626,6 +3814,13 @@
       "part_of_speech": "v.",
       "definition": "to be born.",
       "conjugation": "/MAI-/"
+    }
+  ],
+  "PASNIIR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to air.",
+      "conjugation": "/MANGI-: I-/"
     }
   ],
   "PASO": [
@@ -3653,6 +3848,20 @@
       "synonyms": [
         "PARDAS, PARTAK"
       ]
+    }
+  ],
+  "PASPASAW": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to boast, brag.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "PASPASIG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be importunate, obstinate.",
+      "conjugation": "/AG-/"
     }
   ],
   "PASPASIKAL": [
@@ -3726,17 +3935,6 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "-PAT": [
-    {
-      "definition": "var. of UPPAT, four: used only with certain prefixes."
-    }
-  ],
-  "MAIKAPAT": [],
-  "SAGGAPAT": [
-    {
-      "definition": "four each."
-    }
-  ],
   "PAT": [
     {
       "part_of_speech": "n.",
@@ -3774,12 +3972,6 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "PATANI": [
-    {
-      "part_of_speech": "n.",
-      "definition": "lima bean (Phaseolus lunatus)."
-    }
-  ],
   "PATANG": [
     {
       "part_of_speech": "v.",
@@ -3802,6 +3994,12 @@
       "part_of_speech": "v.",
       "definition": "to be guessed, conjectured, supposed.",
       "conjugation": "/MA--AN/"
+    }
+  ],
+  "PATANI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "lima bean (Phaseolus lunatus)."
     }
   ],
   "PATAS": [
@@ -3895,15 +4093,19 @@
       "eng_example": "Will you please estimate the value of my ring.",
       "ilok_example": "Patgem man daytoy singsing ko.",
       "conjugation": "/MANG-:-AN/",
-      "origin": "= PATGAN"
+      "common_forms": [
+        "PATGAN"
+      ]
     },
     {
       "part_of_speech": "v.",
-      "definition": "[=",
-      "conjugation": "/MANG-:-EN/",
+      "definition": "to value highly; to prize, esteem.",
+      "conjugation": "/MANGI-: I-/ or /MANG-:-EN/",
       "common_forms": [
-        "or"
-      ]
+        "PATGEN"
+      ],
+      "eng_example": "She is my wife whom I value highly.",
+      "ilok_example": "Isu ti patpatgek nga asawak."
     }
   ],
   "PATGEN": [
@@ -3924,8 +4126,12 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": "to do seriously. prep. including, together with, and also, as well as.",
+      "definition": "to do seriously.",
       "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "prep.",
+      "definition": "including, together with, and also, as well as."
     }
   ],
   "PATIAN": [
@@ -3965,20 +4171,6 @@
       ]
     }
   ],
-  "PATINUYNOY": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to yield to the wishes of.",
-      "eng_example": "Don’t yield to all his wishes.",
-      "ilok_example": "Saan mo nga patinuynoyan amin nga kayat na.",
-      "conjugation": "/MANG-:-AN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be given all the wishes of.",
-      "conjugation": "/MA--AN/"
-    }
-  ],
   "PATING": [
     {
       "part_of_speech": "n.",
@@ -3996,6 +4188,20 @@
       "eng_example": "His mocking of me does not end.",
       "ilok_example": "Saan nga agpatingga ti panaglalais na kaniak.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "PATINUYNOY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to yield to the wishes of.",
+      "eng_example": "Don’t yield to all his wishes.",
+      "ilok_example": "Saan mo nga patinuynoyan amin nga kayat na.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be given all the wishes of.",
+      "conjugation": "/MA--AN/"
     }
   ],
   "PATIS": [
@@ -4169,11 +4375,27 @@
       "conjugation": "/AG-/"
     }
   ],
+  "PAUTANG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to lend, loan.",
+      "conjugation": "/AG-:-EN/"
+    }
+  ],
   "PAUYO": [
     {
       "part_of_speech": "v.",
       "definition": "to sulk, to feel peeved.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "PAW-IT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to send to through someone.",
+      "eng_example": "I will send you some money through someone on Monday.",
+      "ilok_example": "Ipaw-itan ka ti kuarta intono Lunes.",
+      "conjugation": "/AG-, MANGI-: I-/"
     }
   ],
   "PAWAD": [
@@ -4196,15 +4418,6 @@
       "common_forms": [
         "or"
       ]
-    }
-  ],
-  "PAW-IT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to send to through someone.",
-      "eng_example": "I will send you some money through someone on Monday.",
-      "ilok_example": "Ipaw-itan ka ti kuarta intono Lunes.",
-      "conjugation": "/AG-, MANGI-: I-/"
     }
   ],
   "PAWPAW": [
@@ -4437,12 +4650,6 @@
       "definition": "small particle of rice."
     }
   ],
-  "MARAPEGPEG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "young, newly formed (as guava, rice, corn, etc.)."
-    }
-  ],
   "PEKAS": [
     {
       "part_of_speech": "n.",
@@ -4545,6 +4752,33 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
+  "PENGED": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to control, restrain, check, moderate.",
+      "eng_example": "Moderate your drinking.",
+      "ilok_example": "Pengdam ta panaginom mo.",
+      "conjugation": "/MANG-:-AN/",
+      "origin": "= PENGDAN"
+    }
+  ],
+  "PENGNGET": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to grapple with.",
+      "conjugation": "/MAKI-: KA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to grapple each other.",
+      "conjugation": "/AG-/ with pl. subject"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to grapple, seize.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "PENN": [
     {
       "part_of_speech": "n.",
@@ -4620,42 +4854,15 @@
       "conjugation": "/MANG-:-AN/"
     }
   ],
-  "PENSIONADO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "male pensioner."
-    }
-  ],
   "PENSIONADA": [
     {
       "definition": "n, female pensioner."
     }
   ],
-  "PENGED": [
+  "PENSIONADO": [
     {
-      "part_of_speech": "v.",
-      "definition": "to control, restrain, check, moderate.",
-      "eng_example": "Moderate your drinking.",
-      "ilok_example": "Pengdam ta panaginom mo.",
-      "conjugation": "/MANG-:-AN/",
-      "origin": "= PENGDAN"
-    }
-  ],
-  "PENGNGET": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to grapple with.",
-      "conjugation": "/MAKI-: KA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to grapple each other.",
-      "conjugation": "/AG-/ with pl. subject"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to grapple, seize.",
-      "conjugation": "/MANG-:-EN/"
+      "part_of_speech": "n.",
+      "definition": "male pensioner."
     }
   ],
   "PEON": [
@@ -5007,13 +5214,6 @@
       "definition": "chick, a young chicken."
     }
   ],
-  "PIPIEK": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to cry: said of a chick; to imitate the cry of a chick.",
-      "conjugation": "/AG-/"
-    }
-  ],
   "PIESTA": [
     {
       "part_of_speech": "n.",
@@ -5352,7 +5552,9 @@
   ],
   "PINABLAD": [
     {
-      "definition": "see under BELLAD."
+      "part_of_speech": "n.",
+      "definition": "a preparation consisting of boiled kernels of corn which is salted to taste and to which grated coconut is mixed. see under BELLAD.",
+      "origin": "= PA-+ -IN-+ BELLAD"
     }
   ],
   "PINAKBET": [
@@ -5363,15 +5565,6 @@
   "PINANGABAKAN": [
     {
       "definition": "[cf."
-    }
-  ],
-  "ABAK": [
-    {
-      "definition": "],"
-    },
-    {
-      "part_of_speech": "n.",
-      "definition": "winnings; anything gained or won in gambling, a contest, etc."
     }
   ],
   "PINAS": [
@@ -5410,6 +5603,116 @@
       "part_of_speech": "v.",
       "definition": "to be dried by the heat of the sun.",
       "conjugation": "/MA-/"
+    }
+  ],
+  "PING-O": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to twist (the arm or finger), to sprain.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be sprained.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "PINGAS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut off the ears or comb of.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have the ears or comb cut off.",
+      "conjugation": "/MA--AN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "with ears or comb cut off."
+    }
+  ],
+  "PINGGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "plate.",
+      "synonyms": [
+        "PLATO"
+      ]
+    }
+  ],
+  "PINGGI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shake.",
+      "eng_example": "Don’t shake my chair.",
+      "ilok_example": "Saan mo nga pinggien toy tugaw ko.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "PINGGI-PINGGI": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to shake continuously, to rock.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to shake repeatedly, to rock.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "PINGGOL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "chignon."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to knot one’s hair.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to knot or coil (the hair).",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be gathered into a knot: said of the hair.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "PINGIL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "corner, edge."
+    }
+  ],
+  "PINGKI": [
+    {
+      "part_of_speech": "n.",
+      "definition": "flint and steel used for striking a fire."
+    }
+  ],
+  "PINGOD": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "having but one or no ear."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to pinch or twist the ear of, to tweak the ear of.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "PINGPING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "cheek TI UBET, buttock.",
+      "eng_example": "TI SABANGAN, the sides of a bar at the mouth of a river or harbor.",
+      "ilok_example": "TI UKI, labia majora, the outer folds of skin of the vulva, the outer lip of the vulva."
     }
   ],
   "PINIPIN": [
@@ -5488,105 +5791,11 @@
       "origin": "f. Sp."
     }
   ],
-  "PINGAS": [
+  "PIPIEK": [
     {
       "part_of_speech": "v.",
-      "definition": "to cut off the ears or comb of.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "PINGGAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "plate.",
-      "synonyms": [
-        "PLATO"
-      ]
-    }
-  ],
-  "PINGGI": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to shake.",
-      "eng_example": "Don’t shake my chair.",
-      "ilok_example": "Saan mo nga pinggien toy tugaw ko.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "PINGGI-PINGGI": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to shake continuously, to rock.",
+      "definition": "to cry: said of a chick; to imitate the cry of a chick.",
       "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to shake repeatedly, to rock.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "PINGGOL": [
-    {
-      "part_of_speech": "n.",
-      "definition": "chignon."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to knot one’s hair.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to knot or coil (the hair).",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be gathered into a knot: said of the hair.",
-      "conjugation": "/MA-/"
-    }
-  ],
-  "PINGIL": [
-    {
-      "part_of_speech": "n.",
-      "definition": "corner, edge."
-    }
-  ],
-  "PINGKI": [
-    {
-      "part_of_speech": "n.",
-      "definition": "flint and steel used for striking a fire."
-    }
-  ],
-  "PING-O": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to twist (the arm or finger), to sprain.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be sprained.",
-      "conjugation": "/MA-/"
-    }
-  ],
-  "PINGOD": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "having but one or no ear."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to pinch or twist the ear of, to tweak the ear of.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "PINGPING": [
-    {
-      "part_of_speech": "n.",
-      "definition": "cheek TI UBET, buttock.",
-      "eng_example": "TI SABANGAN, the sides of a bar at the mouth of a river or harbor.",
-      "ilok_example": "TI UKI, labia majora, the outer folds of skin of the vulva, the outer lip of the vulva."
     }
   ],
   "PIPIIT": [
@@ -5606,6 +5815,24 @@
       "definition": "cucumber."
     }
   ],
+  "PIR-AK": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to break into pieces.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be broken into pieces.",
+      "conjugation": "/MA-/",
+      "synonyms": [
+        "BURAK"
+      ]
+    }
+  ],
   "PIRAK": [
     {
       "part_of_speech": "n.",
@@ -5623,24 +5850,6 @@
       "part_of_speech": "v.",
       "definition": "1. to bribe. 2. to finance.",
       "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "PIR-AK": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to break into pieces.",
-      "conjugation": "/MANGI-: I-/",
-      "common_forms": [
-        "or"
-      ]
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be broken into pieces.",
-      "conjugation": "/MA-/",
-      "synonyms": [
-        "BURAK"
-      ]
     }
   ],
   "PIRGIS": [
@@ -5693,6 +5902,20 @@
       "common_forms": [
         "PIRPIR-PIRPIR"
       ]
+    }
+  ],
+  "PIS-IT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to crush, squeeze between two opposing bodies.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be crushed.",
+      "eng_example": "I crushed the ant that I stood on.",
+      "ilok_example": "Napis-it diay kuton nga binaddekak.",
+      "conjugation": "/MA-/"
     }
   ],
   "PISANG": [
@@ -5766,20 +5989,6 @@
       "synonyms": [
         "KONSTABULARIA"
       ]
-    }
-  ],
-  "PIS-IT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to crush, squeeze between two opposing bodies.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be crushed.",
-      "eng_example": "I crushed the ant that I stood on.",
-      "ilok_example": "Napis-it diay kuton nga binaddekak.",
-      "conjugation": "/MA-/"
     }
   ],
   "PISKAL": [
@@ -5868,6 +6077,22 @@
       "definition": "var. of PESTE."
     }
   ],
+  "PIT-ING": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to break a piece from, to chip.",
+      "eng_example": "Don’t break a piece from that sugar bar.",
+      "ilok_example": "Saan mo nga pit-ingan dayta tinipay.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to break into pieces.",
+      "eng_example": "Please break that sugar bar into several pieces.",
+      "ilok_example": "Pit-ingem man dayta tinipay.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "PITAK": [
     {
       "part_of_speech": "n.",
@@ -5898,22 +6123,6 @@
       "definition": "to flick with the fingers.",
       "eng_example": "Don’t flick that flower with your fingers.",
       "ilok_example": "Saan mo nga pitingen dayta sabong.",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "PIT-ING": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to break a piece from, to chip.",
-      "eng_example": "Don’t break a piece from that sugar bar.",
-      "ilok_example": "Saan mo nga pit-ingan dayta tinipay.",
-      "conjugation": "/MANG-:-AN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to break into pieces.",
-      "eng_example": "Please break that sugar bar into several pieces.",
-      "ilok_example": "Pit-ingem man dayta tinipay.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
@@ -5996,6 +6205,11 @@
       "origin": "f. Sp."
     }
   ],
+  "PLANGGANA": [
+    {
+      "definition": "var. of PALANGGANA."
+    }
+  ],
   "PLANO": [
     {
       "part_of_speech": "n.",
@@ -6048,11 +6262,6 @@
   "PLANTYA": [
     {
       "definition": "var. of PLANSA."
-    }
-  ],
-  "PLANGGANA": [
-    {
-      "definition": "var. of PALANGGANA."
     }
   ],
   "PLASA": [
@@ -6249,7 +6458,10 @@
     {
       "part_of_speech": "n.",
       "definition": "pump, well.",
-      "origin": "f. Sp."
+      "origin": "f. Sp.",
+      "common_forms": [
+        "or POSO ARTESIANO"
+      ]
     }
   ],
   "POSPORO": [
@@ -6676,11 +6888,6 @@
       "conjugation": "/AG-/"
     }
   ],
-  "NAPUDOT": [
-    {
-      "definition": "TI ULO (NA). (He) is hot-tempered, or (He) is irritable."
-    }
-  ],
   "PUDTO": [
     {
       "part_of_speech": "v.",
@@ -6768,6 +6975,22 @@
       "conjugation": "/MA--AN/"
     }
   ],
+  "PUG-ONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bundle."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to bundle, tie in a bundle.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be bundled.",
+      "conjugation": "/MA-/"
+    }
+  ],
   "PUGIIT": [
     {
       "part_of_speech": "adj.",
@@ -6799,22 +7022,6 @@
       "part_of_speech": "n.",
       "definition": "oven.",
       "origin": "f. Sp."
-    }
-  ],
-  "PUG-ONG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "bundle."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to bundle, tie in a bundle.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be bundled.",
-      "conjugation": "/MA-/"
     }
   ],
   "PUGOT": [
@@ -6919,6 +7126,13 @@
       "definition": "var. of PUDTO."
     }
   ],
+  "PUHGGOS": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to tie together into a bundle, to draw together and tie (as the mouth of a sack).",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "PUKAL": [
     {
       "part_of_speech": "n.",
@@ -6974,13 +7188,6 @@
       "conjugation": "/MA--AN/"
     }
   ],
-  "PAPUKIS": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to have a haircut.",
-      "conjugation": "/AG-/"
-    }
-  ],
   "PUKKAW": [
     {
       "part_of_speech": "n.",
@@ -7028,6 +7235,17 @@
       "part_of_speech": "adj.",
       "definition": "crumbly, friable.",
       "conjugation": "/NA-/"
+    }
+  ],
+  "PUL-OY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "breeze, a light gentle wind; a gentle blow (of wind)."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be hit by a breeze or a gentle blow of wind.",
+      "conjugation": "/MA--AN/"
     }
   ],
   "PULAGID": [
@@ -7210,17 +7428,6 @@
       "conjugation": "/AG-/"
     }
   ],
-  "SIAM": [
-    {
-      "definition": "PULLO, eight, nine, ten.",
-      "synonyms": [
-        "DIES. num. nine; 9. --syn, NUEBE"
-      ],
-      "variations": [
-        "SANGAPULO"
-      ]
-    }
-  ],
   "PULO": [
     {
       "definition": "num. tens, times ten.",
@@ -7251,17 +7458,6 @@
       "eng_example": "The priest administered the last sacrament to the dying person.",
       "ilok_example": "Pinulotan diay padi daydiay agbugbugsot.",
       "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "PUL-OY": [
-    {
-      "part_of_speech": "n.",
-      "definition": "breeze, a light gentle wind; a gentle blow (of wind)."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be hit by a breeze or a gentle blow of wind.",
-      "conjugation": "/MA--AN/"
     }
   ],
   "PULPOG": [
@@ -7374,6 +7570,125 @@
       "conjugation": "/NA-/"
     }
   ],
+  "PUNGAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "pillow."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to put one’s head on the pillow of (another).",
+      "conjugation": "/MAKI-/"
+    }
+  ],
+  "PUNGANAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "beginning, start."
+    }
+  ],
+  "PUNGDOL": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stump, stub of tree."
+    }
+  ],
+  "PUNGET": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to cut close to the bottom or root.",
+      "eng_example": "Don’t cut his hair close.",
+      "ilok_example": "Saan mo nga ipunget dayta buok na.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "PUNGO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "bundle."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tie together the four limbs of an animal.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have the four limbs bound together.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "PUNGOPUNGOAN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "wrist."
+    }
+  ],
+  "PUNGOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pull the hair of.",
+      "conjugation": "/AG-, MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have one’s hair pulled.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "PUNGPONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "stub of bamboo.",
+      "synonyms": [
+        "PUTEK"
+      ]
+    }
+  ],
+  "PUNGSAY": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove by cutting, tearing, breaking, etc., to sever.",
+      "eng_example": "He will sever that branch of the tree which is hanging low.",
+      "ilok_example": "Pungsayen na dayta sanga ti mangga nga nababa.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    }
+  ],
+  "PUNGTIL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to remove  sever top of.",
+      "eng_example": "Don’t cut off the top of the young leaf of the banana.",
+      "ilok_example": "Saan mo nga puntilen dayta uggot ti saba.",
+      "conjugation": "/MANGI-: I-/",
+      "common_forms": [
+        "or"
+      ]
+    }
+  ],
+  "PUNGTO": [
+    {
+      "definition": "see SIPUNGTO."
+    }
+  ],
+  "PUNGTOT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to get angry.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be angry.",
+      "conjugation": "/MAKA-/",
+      "synonyms": [
+        "UNGET"
+      ]
+    }
+  ],
   "PUNI": [
     {
       "part_of_speech": "v.",
@@ -7467,132 +7782,6 @@
       "origin": "f. Sp."
     }
   ],
-  "PUNGAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "pillow."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to put one’s head on the pillow of (another).",
-      "conjugation": "/MAKI-/"
-    }
-  ],
-  "PUNGANAY": [
-    {
-      "part_of_speech": "n.",
-      "definition": "beginning, start."
-    }
-  ],
-  "PUNGDOL": [
-    {
-      "part_of_speech": "n.",
-      "definition": "stump, stub of tree."
-    }
-  ],
-  "PUNGET": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to cut close to the bottom or root.",
-      "eng_example": "Don’t cut his hair close.",
-      "ilok_example": "Saan mo nga ipunget dayta buok na.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "PUHGGOS": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to tie together into a bundle, to draw together and tie (as the mouth of a sack).",
-      "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "PUNGO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "bundle."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to tie together the four limbs of an animal.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to have the four limbs bound together.",
-      "conjugation": "/MA-/"
-    }
-  ],
-  "PUNGOPUNGOAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "wrist."
-    }
-  ],
-  "PUNGOT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to pull the hair of.",
-      "conjugation": "/AG-, MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to have one’s hair pulled.",
-      "conjugation": "/MA-/"
-    }
-  ],
-  "PUNGPONG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "stub of bamboo.",
-      "synonyms": [
-        "PUTEK"
-      ]
-    }
-  ],
-  "PUNGSAY": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to remove by cutting, tearing, breaking, etc., to sever.",
-      "eng_example": "He will sever that branch of the tree which is hanging low.",
-      "ilok_example": "Pungsayen na dayta sanga ti mangga nga nababa.",
-      "conjugation": "/MANGI-: I-/",
-      "common_forms": [
-        "or"
-      ]
-    }
-  ],
-  "PUNGTIL": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to remove  sever top of.",
-      "eng_example": "Don’t cut off the top of the young leaf of the banana.",
-      "ilok_example": "Saan mo nga puntilen dayta uggot ti saba.",
-      "conjugation": "/MANGI-: I-/",
-      "common_forms": [
-        "or"
-      ]
-    }
-  ],
-  "PUNGTO": [
-    {
-      "definition": "see SIPUNGTO."
-    }
-  ],
-  "PUNGTOT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to get angry.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be angry.",
-      "conjugation": "/MAKA-/",
-      "synonyms": [
-        "UNGET"
-      ]
-    }
-  ],
   "PUON": [
     {
       "part_of_speech": "n.",
@@ -7642,6 +7831,12 @@
       "part_of_speech": "adj.",
       "definition": "popular.",
       "origin": "f. Eng."
+    }
+  ],
+  "PUR-IS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "excrement, feces."
     }
   ],
   "PURAR": [
@@ -7727,12 +7922,6 @@
       "part_of_speech": "v.",
       "definition": "to be pricked by a sliver or thorn.",
       "conjugation": "/MA--AN/"
-    }
-  ],
-  "PUR-IS": [
-    {
-      "part_of_speech": "n.",
-      "definition": "excrement, feces."
     }
   ],
   "PURNGI": [
@@ -7837,6 +8026,12 @@
       "part_of_speech": "v.",
       "definition": "to be thrown something, to have something thrown to.",
       "conjugation": "/MA--AN/"
+    }
+  ],
+  "PUS-ONG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "abdomen."
     }
   ],
   "PUSA": [
@@ -7991,12 +8186,6 @@
     {
       "part_of_speech": "n.",
       "definition": "heart."
-    }
-  ],
-  "PUS-ONG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "abdomen."
     }
   ],
   "PUSOT": [
@@ -8154,12 +8343,6 @@
       "definition": "shorts."
     }
   ],
-  "SANGAPUTOTAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "one generation, one family."
-    }
-  ],
   "PUTPUT": [
     {
       "part_of_speech": "v.",
@@ -8228,4 +8411,5 @@
       "definition": "breezy.",
       "conjugation": "/NA-/"
     }
-  ]}
+  ]
+}

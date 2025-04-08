@@ -1,5 +1,5 @@
-
-{"OBISPO": [
+{
+  "OBISPO": [
     {
       "part_of_speech": "n.",
       "definition": "bishop.",
@@ -157,4 +157,5 @@
       "part_of_speech": "interj.",
       "definition": "hey: an exclamation used to attract attention, express surprise, etc., or in asking a question."
     }
-  ]}
+  ]
+}

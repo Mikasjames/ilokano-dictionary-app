@@ -1,5 +1,5 @@
 {
-"BA": [
+  "BA": [
     {
       "part_of_speech": "interj.",
       "definition": "an exclamation used 1. to startle people, or 2. to make a child laugh by pretending to startle him.",
@@ -41,11 +41,6 @@
     {
       "part_of_speech": "n.",
       "definition": "ten bundles (ABTEK) of rice, tenth part of an"
-    }
-  ],
-  "UYON": [
-    {
-      "definition": "."
     }
   ],
   "BAAW": [
@@ -111,7 +106,8 @@
   ],
   "BABAEN": [
     {
-      "definition": "prep. by means of, by the use of, through.",
+      "part_of_speech": "prep.",
+      "definition": "by means of, by the use of, through.",
       "eng_example": "I was able to study in college through your help.",
       "ilok_example": "Nakapagadalak met laeng iti kolehiyo babaen ti tulong mo."
     }
@@ -121,7 +117,7 @@
       "part_of_speech": "n.",
       "definition": "1. a female; woman, girl. 2. mistress, concubine.",
       "synonyms": [
-        "KABBALAY 2, KERIDA"
+        "1. KABBALAY, 2. KERIDA"
       ],
       "plural_form": "pl. BABBAI"
     },
@@ -138,20 +134,25 @@
       "conjugation": "/MANG-:-EN/"
     }
   ],
-  "BINABAI": [
+  "BABAIN": [
     {
-      "part_of_speech": "adj.",
-      "definition": "womanlike, womanish; effeminate.",
-      "synonyms": [
-        "BAIEN"
-      ]
+      "part_of_speech": "v.",
+      "definition": "to shame, disgrace or embarrass.",
+      "eng_example": "Don’t shame me before your friends.",
+      "ilok_example": "Saan nak nga ibabain kadagiti gagayyem mo.",
+      "conjugation": "/MANGI-: I-/"
     },
     {
-      "part_of_speech": "n.",
-      "definition": "a capon, a castrated rooster, especially one fattened for eating.",
-      "synonyms": [
-        "KAPON"
-      ]
+      "part_of_speech": "v.",
+      "definition": "to be shamed, disgraced or embarrassed.",
+      "conjugation": "/MAI-/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "shameful, disgraceful, embarrassing.",
+      "eng_example": "What you did was shameful.",
+      "ilok_example": "Nakababain ti inaramid mo.",
+      "conjugation": "/(NA) KA-/"
     }
   ],
   "BABAK": [
@@ -170,6 +171,13 @@
       "eng_example": "They criticized our tardiness.",
       "ilok_example": "Babalawen da ti kinaladaw mi.",
       "conjugation": "/MANG-:-EN/"
+    }
+  ],
+  "BABARA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to be feverish, hot with fever.",
+      "conjugation": "/AG-, -EN/"
     }
   ],
   "BABASA": [
@@ -193,6 +201,15 @@
       "part_of_speech": "v.",
       "definition": "to have this inflammation: said of a finger.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "BABAUNEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "servant.",
+      "synonyms": [
+        "TAGABU, KATULONG, ADIPEN"
+      ]
     }
   ],
   "BABAWI": [
@@ -219,12 +236,6 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
-  "BABUY": [
-    {
-      "part_of_speech": "n.",
-      "definition": "1. pig, hog, swine. 2. a person regarded as acting or looking like a pig; dirty or filthy person."
-    }
-  ],
   "BABUMBABUY": [
     {
       "part_of_speech": "v.",
@@ -232,6 +243,12 @@
       "eng_example": "Don’t walk on your hands and knees for your hands will get dirty.",
       "ilok_example": "Saan ka nga agbabumbabuy ta marugitan ta imam.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "BABUY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. pig, hog, swine. 2. a person regarded as acting or looking like a pig; dirty or filthy person."
     }
   ],
   "BABUYBABUY": [
@@ -373,14 +390,6 @@
       "conjugation": "/MAKA-/"
     }
   ],
-  "KABAELAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "power, capability, competence, ability.",
-      "eng_example": "It is not yet within his capability to drive a motor vehicle.",
-      "ilok_example": "Saan na pay nga kabaelan ti agmaneho."
-    }
-  ],
   "BAEN": [
     {
       "part_of_speech": "v.",
@@ -423,6 +432,21 @@
       "origin": "f. Eng."
     }
   ],
+  "BAG-UT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pull out, uproot.",
+      "eng_example": "Pull out those bikal.",
+      "ilok_example": "Bag-utem dagita bikal.",
+      "conjugation": "/MANG-:-EN/",
+      "synonyms": [
+        "PARUT"
+      ],
+      "variations": [
+        "PAG-UT"
+      ]
+    }
+  ],
   "BAGA": [
     {
       "part_of_speech": "v.",
@@ -433,19 +457,6 @@
       "synonyms": [
         "KUNA. 2. to tell on, inform against. No dika nga agsardeng, ibaga ka ken ni tatang ko. If you don’t stop, I’ll tell on you to my father",
         "PULONG"
-      ]
-    }
-  ],
-  "BAGBAGA": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to advise, counsel.",
-      "eng_example": "Advise your younger brother (or sister) about good deeds.",
-      "ilok_example": "Bagbagaam dayta adim iti nasayaat nga aramid.",
-      "conjugation": "/MANG-:-AN/",
-      "origin": "= MAMAGBAGA",
-      "synonyms": [
-        "BALAKAD see under BAGA"
       ]
     }
   ],
@@ -483,6 +494,15 @@
       "definition": "prickly heat.",
       "eng_example": "His prickly heat papules are so many.",
       "ilok_example": "Nagadu ti bagas ling-et na."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "prickly heat."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to have prickly heat.",
+      "conjugation": "/AG-/"
     }
   ],
   "BAGAT": [
@@ -507,6 +527,19 @@
     {
       "part_of_speech": "n.",
       "definition": "a leguminous tree with large, bright-red flowers whose leaves are supposed to cure headaches."
+    }
+  ],
+  "BAGBAGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to advise, counsel.",
+      "eng_example": "Advise your younger brother (or sister) about good deeds.",
+      "ilok_example": "Bagbagaam dayta adim iti nasayaat nga aramid.",
+      "conjugation": "/MANG-:-AN/",
+      "origin": "= MAMAGBAGA",
+      "synonyms": [
+        "BALAKAD see under BAGA"
+      ]
     }
   ],
   "BAGBAGUTOT": [
@@ -549,12 +582,6 @@
       "eng_example": "He was the one who represented us.",
       "ilok_example": "Isu ti nangibagi kadakami.",
       "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "KABAGIAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "relative, relation, kinsman, kinswoman."
     }
   ],
   "BAGINGET": [
@@ -688,21 +715,6 @@
       "definition": "see BAGBAGUTOT."
     }
   ],
-  "BAG-UT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to pull out, uproot.",
-      "eng_example": "Pull out those bikal.",
-      "ilok_example": "Bag-utem dagita bikal.",
-      "conjugation": "/MANG-:-EN/",
-      "synonyms": [
-        "PARUT"
-      ],
-      "variations": [
-        "PAG-UT"
-      ]
-    }
-  ],
   "BAGYO": [
     {
       "part_of_speech": "n.",
@@ -771,52 +783,17 @@
       "conjugation": "/MA-: KA-/"
     }
   ],
-  "BABAIN": [
+  "BAIN-BAIN": [
     {
-      "part_of_speech": "v.",
-      "definition": "to shame, disgrace or embarrass.",
-      "eng_example": "Don’t shame me before your friends.",
-      "ilok_example": "Saan nak nga ibabain kadagiti gagayyem mo.",
-      "conjugation": "/MANGI-: I-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be shamed, disgraced or embarrassed.",
-      "conjugation": "/MAI-/"
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "shameful, disgraceful, embarrassing.",
-      "eng_example": "What you did was shameful.",
-      "ilok_example": "Nakababain ti inaramid mo.",
-      "conjugation": "/(NA) KA-/"
-    }
-  ],
-  "PABAIN": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to refuse to do or give what one has requested; hence, to disgrace or embarrass (someone).",
-      "eng_example": "Don’t refuse to do or give what I shall request of you.",
-      "ilok_example": "Saan nak nga pabainan.",
-      "conjugation": "/MANG-:-AN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be refused; hence, to be disgraced.",
-      "conjugation": "/MA--AN/"
+      "part_of_speech": "n.",
+      "definition": "Mimosa pudica.",
+      "ilok_example": "A thorny, creeping weed whose leaves are sensitive to touch."
     }
   ],
   "BAINA": [
     {
       "part_of_speech": "n.",
       "definition": "scabbard, sheath (of knives, swords, etc.)."
-    }
-  ],
-  "BAIN-BAIN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "Mimosa pudica.",
-      "ilok_example": "A thorny, creeping weed whose leaves are sensitive to touch."
     }
   ],
   "BAIS": [
@@ -899,6 +876,12 @@
       "eng_example": "The past typhoon stripped off some parts of our house.",
       "ilok_example": "Daytay napalabas a bagyo ti nangbakas iti balay mi.",
       "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "conjugation": "/MA-AN/",
+      "definition": "to be unroofed",
+      "ilok_example": "Nabakasan daydiay tienda ni Rosa.",
+      "eng_example": " The store of Rose was unroofed."
     }
   ],
   "BAKASYON": [
@@ -934,6 +917,14 @@
       "eng_example": "The iron left a mark because of its heat.",
       "ilok_example": "Uray la nga nagbakat diay plantsa ti pudot na.",
       "conjugation": "/AG-/"
+    }
+  ],
+  "BAKBAKETAN": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "very old, extremely old: said of the female.",
+      "eng_example": "The one he married was extremely old.",
+      "ilok_example": "Bakbaketan daydiay naasawa na."
     }
   ],
   "BAKED": [
@@ -972,20 +963,6 @@
       "conjugation": "/-UM-/"
     }
   ],
-  "BAKBAKETAN": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "very old, extremely old: said of the female.",
-      "eng_example": "The one he married was extremely old.",
-      "ilok_example": "Bakbaketan daydiay naasawa na."
-    }
-  ],
-  "AGBABAKET": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "fond of old women -used derisively."
-    }
-  ],
   "BAKI": [
     {
       "part_of_speech": "n.",
@@ -1019,12 +996,6 @@
     {
       "part_of_speech": "n.",
       "definition": "1. a large, shallow earthen basin, used especially for washing and cleaning rice, fish, vegetables, etc. 2. figuratively, a very large vulva."
-    }
-  ],
-  "BIMMAKKA": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "of the size and shape of a BAKKA: said especially of the vulva."
     }
   ],
   "BAKKUAR": [
@@ -1409,12 +1380,10 @@
       "definition": "to hang (usually articles of clothing) in order to dry, air or screen off something.",
       "eng_example": "Will you please hang my clothes which I just changed on the clothesline for they are wet with perspiration. ~syn.",
       "ilok_example": "Inka man ibalaybay daytoy nagsukatak idiay pagsalapayan ta nabasa ti ling-et.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "SALAPAY": [
-    {
-      "definition": "."
+      "conjugation": "/MANGI-: I-/",
+      "synonyms": [
+        "SALAPAY"
+      ]
     }
   ],
   "BALBAL": [
@@ -1475,11 +1444,6 @@
       "eng_example": "He says he wants to buy on credit two packs of cigarettes.",
       "ilok_example": "Kayat na kano ti bumale iti dua nga kaha ti sigarilyo.",
       "conjugation": "/-UM-:-EN/"
-    }
-  ],
-  "SAAN": [
-    {
-      "definition": "NGA BALE, it does not matter, it is of no importance, never mind."
     }
   ],
   "BALEDIKTORIAN": [
@@ -1660,26 +1624,6 @@
       "eng_example": "My son turned into a lazy person.",
       "ilok_example": "Nagbalin nga sadut diay barok.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "KABABALIN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "habit, custom; nature.",
-      "eng_example": "Your habit is very bad.",
-      "ilok_example": "Nagdakes ti kababalin mon.",
-      "synonyms": [
-        "UGALI, KUSTUMBRE"
-      ]
-    }
-  ],
-  "KABALINAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "ability, capability, competence.",
-      "synonyms": [
-        "KABAELAN"
-      ]
     }
   ],
   "BALINO": [
@@ -2133,13 +2077,6 @@
       "conjugation": "/NA-/"
     }
   ],
-  "PABALOR": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to cause a price or value to be put on (by someone), to cause (someone) to appraise.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
   "BALOT": [
     {
       "part_of_speech": "n.",
@@ -2223,15 +2160,6 @@
       "eng_example": "Why did they confine you in prison?",
       "ilok_example": "Apay nga binalud da ka?",
       "conjugation": "/MANG-:-EN/",
-      "synonyms": [
-        "PRESO, KALABUS"
-      ]
-    }
-  ],
-  "PAGBALUDAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "prison, jail.",
       "synonyms": [
         "PRESO, KALABUS"
       ]
@@ -2327,6 +2255,14 @@
       "conjugation": "/AG-/"
     }
   ],
+  "BANBANNOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "futile, useless or fruitless effort.",
+      "eng_example": "That will be a useless effort of yours.",
+      "ilok_example": "Banbannog monto la dayta."
+    }
+  ],
   "BANDERA": [
     {
       "part_of_speech": "n.",
@@ -2401,276 +2337,27 @@
       "conjugation": "/-UM-/"
     }
   ],
-  "BANIAGA": [
+  "BANG-AR": [
     {
       "part_of_speech": "v.",
-      "definition": "to travel to foreign lands.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "BANIAS": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a large lizard, a kind of iguana whose eggs and meat are eaten by some people.",
-      "variations": [
-        "BANYAS"
-      ]
-    }
-  ],
-  "BANIIT": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "having the odor of burned food.",
-      "conjugation": "/NA-/"
-    }
-  ],
-  "BANINGRUT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to suck in air through the nose, to inhale breath as a sign of displeasure, especially when crying or sulking; to sniff, sniffle.",
-      "conjugation": "/AG-, -UM-/"
-    }
-  ],
-  "BANNAWAG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "the period before sunrise, dawn.",
-      "synonyms": [
-        "PARBANGON"
-      ]
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to approach this period, to be at the beginning of this period.",
-      "eng_example": "We will go there at the approach of dawn.",
-      "ilok_example": "Umay kaminto dita no agbannawag.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "BANNAYAT": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "slow, sluggish, gentle.",
-      "conjugation": "/NA-/",
-      "synonyms": [
-        "INAYAD"
-      ]
-    }
-  ],
-  "BANNIEKES": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to stand with one or both hands akimbo.",
-      "eng_example": "Why are you standing with hands akimbo?",
-      "ilok_example": "Apay nga agbanniekes ka?",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to fall or confront a person with hands akimbo.",
-      "eng_example": "Do not confront me with your hands akimbo.",
-      "ilok_example": "Saan nak nga banniekesan.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "BANNIIT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "fishing tackle."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to catch fish with a fishing tackle.",
-      "eng_example": "I’ll go fishing with a fishing tackle.",
-      "ilok_example": "Mapanak agbanniit.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to catch with a fishing tackle.",
-      "eng_example": "He was the one who caught these with a fishing tackle.",
-      "ilok_example": "Isu ti nangbanniit kadagitoy.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "BANNOG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to tire oneself.",
-      "eng_example": "Don’t tire yourself, my son.",
-      "ilok_example": "Dika nga agbanbannog, barok ko.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be tired, weary, fatigued.",
-      "eng_example": "I am already tired.",
-      "ilok_example": "Nabannogakon.",
-      "conjugation": "/MA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to tire, to make tired, weary or exhausted.",
-      "eng_example": "Don’t tire my horse.",
-      "ilok_example": "Diyo nga banbannogen dayta kabayok.",
-      "conjugation": "/MANG-:-EN/"
+      "definition": "to be relieved, comforted, cheered.",
+      "eng_example": "I am cheered to see you.",
+      "ilok_example": "Mabang-aranak nga makakita kenka.",
+      "conjugation": "/MA--AN/"
     },
     {
       "part_of_speech": "adj.",
-      "definition": "tiresome, tiring, wearisome, fatiguing, boring.",
-      "eng_example": "You are a tiresome child.",
-      "ilok_example": "Makabannog ka nga anak.",
+      "definition": "relieving, comforting, cheering, refreshing.",
+      "eng_example": "The wind here is refreshing.",
+      "ilok_example": "Makabang-ar tin angin ditoy.",
       "conjugation": "/MAKA-/"
     }
   ],
-  "BANBANNOG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "futile, useless or fruitless effort.",
-      "eng_example": "That will be a useless effort of yours.",
-      "ilok_example": "Banbannog monto la dayta."
-    }
-  ],
-  "BANNUAG": [
+  "BANG-I": [
     {
       "part_of_speech": "adj.",
-      "definition": "in the prime of youth, youthful.",
-      "common_forms": [
-        "AGKABANNUAG"
-      ]
-    }
-  ],
-  "BANNUAR": [
-    {
-      "part_of_speech": "n.",
-      "definition": "hero, idol.",
-      "eng_example": "The rich became their heroes.",
-      "ilok_example": "Dagiti nabaknang ti nagbalinen nga bannuar da."
-    }
-  ],
-  "BANSAG": [
-    {
-      "definition": "syn. of BANGSAL."
-    }
-  ],
-  "BANTAY": [
-    {
-      "part_of_speech": "n.",
-      "definition": "mountain."
-    },
-    {
-      "part_of_speech": "n.",
-      "definition": "guard, watch.",
-      "synonyms": [
-        "GUARDIA"
-      ]
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be the guard or watch, to guard or watch something, to stand as guard or watch.",
-      "eng_example": "You will be the guard in our house.",
-      "ilok_example": "Sika ti agbantay ditoy balay mi.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to guard, watch, protect.",
-      "eng_example": "He does not want to watch our merchandise.",
-      "ilok_example": "Dina kayat nga bantayan daytoy lako tayo.",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "BANTENG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "line, clothesline; a rope, wire and the like stretched between two fixed objects."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to tie the ends of to two fixed objects in order to make this.",
-      "eng_example": "Tie the ends of that wire to two fixed objects.",
-      "ilok_example": "Ibanteng mo dayta barot.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "BANTIL": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to pinch, slap, squeeze, etc. (a sick person who is near death) in order to revive.",
-      "conjugation": "/-UM-, MANG-:-EN/"
-    }
-  ],
-  "BANTOT": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "heavy, ponderous.",
-      "conjugation": "/NA-/",
-      "synonyms": [
-        "DAGSEN"
-      ],
-      "antonyms": [
-        "LAG-AN"
-      ]
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "having a strong offensive odor.",
-      "conjugation": "/NA-/",
-      "synonyms": [
-        "BANGSIT ; BABANTOT"
-      ]
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to feel indisposed, sluggish, lazy.",
-      "eng_example": "He cannot come for he is feeling indisposed.",
-      "ilok_example": "Saan nga makaumay ta agbabantot.",
-      "conjugation": "/AG-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to cause to feel indisposed, sluggish, lazy.",
-      "eng_example": "What caused him to feel indisposed?",
-      "ilok_example": "Ania ti namagbabantot kanyana?",
-      "conjugation": "/MAMAG-/",
-      "synonyms": [
-        "LALADUT"
-      ]
-    }
-  ],
-  "BANTULAY": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "unstable, unbalanced.",
-      "eng_example": "That table is unstable.",
-      "ilok_example": "Bantulay ta lamisaan.",
-      "conjugation": "/NAG-/",
-      "synonyms": [
-        "BATTUAG"
-      ]
-    }
-  ],
-  "BANURBUR": [
-    {
-      "definition": "to make a roaring sound: said of a strong wind or a swollen river.",
-      "eng_example": "I could not sleep because the wind was roaring.",
-      "ilok_example": "Saanak nga nakaturog ta bumanurbur ti angin.",
-      "conjugation": "/AG-, -UM-/"
-    }
-  ],
-  "BANWAR": [
-    {
-      "definition": "see BANNUAR."
-    }
-  ],
-  "BANYAGA": [
-    {
-      "definition": "see BANIAGA."
-    }
-  ],
-  "BANYAS": [
-    {
-      "definition": "var. of BANIAS."
+      "definition": "having the smell of toast or broiled fish.",
+      "conjugation": "/NA-/"
     }
   ],
   "BANGA": [
@@ -2716,22 +2403,6 @@
   "BANGAR": [
     {
       "definition": "a spreading tree with rank-smelling flowers (Sterculia foetida, L.)."
-    }
-  ],
-  "BANG-AR": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to be relieved, comforted, cheered.",
-      "eng_example": "I am cheered to see you.",
-      "ilok_example": "Mabang-aranak nga makakita kenka.",
-      "conjugation": "/MA--AN/"
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "relieving, comforting, cheering, refreshing.",
-      "eng_example": "The wind here is refreshing.",
-      "ilok_example": "Makabang-ar tin angin ditoy.",
-      "conjugation": "/MAKA-/"
     }
   ],
   "BANGBANGIR": [
@@ -2822,13 +2493,6 @@
       "variations": [
         "BANGKERA"
       ]
-    }
-  ],
-  "BANG-I": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "having the smell of toast or broiled fish.",
-      "conjugation": "/NA-/"
     }
   ],
   "BANGIBANG": [
@@ -2998,7 +2662,6 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": ".",
       "conjugation": "/-UM-/",
       "antonyms": [
         "BANGSIT"
@@ -3052,6 +2715,270 @@
       "definition": "a coarse, labiate herb (Hyptis suaveolus (L.) Poir.) with blue flowers."
     }
   ],
+  "BANIAGA": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to travel to foreign lands.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "BANIAS": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a large lizard, a kind of iguana whose eggs and meat are eaten by some people.",
+      "variations": [
+        "BANYAS"
+      ]
+    }
+  ],
+  "BANIIT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "having the odor of burned food.",
+      "conjugation": "/NA-/"
+    }
+  ],
+  "BANINGRUT": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to suck in air through the nose, to inhale breath as a sign of displeasure, especially when crying or sulking; to sniff, sniffle.",
+      "conjugation": "/AG-, -UM-/"
+    }
+  ],
+  "BANNAWAG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the period before sunrise, dawn.",
+      "synonyms": [
+        "PARBANGON"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to approach this period, to be at the beginning of this period.",
+      "eng_example": "We will go there at the approach of dawn.",
+      "ilok_example": "Umay kaminto dita no agbannawag.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "BANNAYAT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "slow, sluggish, gentle.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "INAYAD"
+      ]
+    }
+  ],
+  "BANNIEKES": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to stand with one or both hands akimbo.",
+      "eng_example": "Why are you standing with hands akimbo?",
+      "ilok_example": "Apay nga agbanniekes ka?",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to fall or confront a person with hands akimbo.",
+      "eng_example": "Do not confront me with your hands akimbo.",
+      "ilok_example": "Saan nak nga banniekesan.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "BANNIIT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fishing tackle."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to catch fish with a fishing tackle.",
+      "eng_example": "I’ll go fishing with a fishing tackle.",
+      "ilok_example": "Mapanak agbanniit.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to catch with a fishing tackle.",
+      "eng_example": "He was the one who caught these with a fishing tackle. .",
+      "ilok_example": "Isu ti nangbanniit kadagitoy.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "BANNOG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to tire oneself.",
+      "eng_example": "Don’t tire yourself, my son.",
+      "ilok_example": "Dika nga agbanbannog, barok ko.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be tired, weary, fatigued.",
+      "eng_example": "I am already tired.",
+      "ilok_example": "Nabannogakon.",
+      "conjugation": "/MA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tire, to make tired, weary or exhausted.",
+      "eng_example": "Don’t tire my horse.",
+      "ilok_example": "Diyo nga banbannogen dayta kabayok.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "tiresome, tiring, wearisome, fatiguing, boring.",
+      "eng_example": "You are a tiresome child.",
+      "ilok_example": "Makabannog ka nga anak.",
+      "conjugation": "/MAKA-/"
+    }
+  ],
+  "BANNUAG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "in the prime of youth, youthful.",
+      "common_forms": [
+        "AGKABANNUAG"
+      ]
+    }
+  ],
+  "BANNUAR": [
+    {
+      "part_of_speech": "n.",
+      "definition": "hero, idol.",
+      "eng_example": "The rich became their heroes.",
+      "ilok_example": "Dagiti nabaknang ti nagbalinen nga bannuar da."
+    }
+  ],
+  "BANSAG": [
+    {
+      "definition": "syn. of BANGSAL."
+    }
+  ],
+  "BANTAY": [
+    {
+      "part_of_speech": "n.",
+      "definition": "mountain."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "guard, watch.",
+      "synonyms": [
+        "GUARDIA"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be the guard or watch, to guard or watch something, to stand as guard or watch.",
+      "eng_example": "You will be the guard in our house.",
+      "ilok_example": "Sika ti agbantay ditoy balay mi.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to guard, watch, protect.",
+      "eng_example": "He does not want to watch our merchandise.",
+      "ilok_example": "Dina kayat nga bantayan daytoy lako tayo.",
+      "conjugation": "/MANG-:-AN/"
+    }
+  ],
+  "BANTENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "line, clothesline; a rope, wire and the like stretched between two fixed objects."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to tie the ends of to two fixed objects in order to make this.",
+      "eng_example": "Tie the ends of that wire to two fixed objects.",
+      "ilok_example": "Ibanteng mo dayta barot.",
+      "conjugation": "/MANGI-: I-/"
+    }
+  ],
+  "BANTIL": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to pinch, slap, squeeze, etc. (a sick person who is near death) in order to revive.",
+      "conjugation": "/-UM-, MANG-:-EN/"
+    }
+  ],
+  "BANTOT": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "heavy, ponderous.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "DAGSEN"
+      ],
+      "antonyms": [
+        "LAG-AN"
+      ]
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "having a strong offensive odor.",
+      "conjugation": "/NA-/",
+      "synonyms": [
+        "BANGSIT ; BABANTOT"
+      ]
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to feel indisposed, sluggish, lazy.",
+      "eng_example": "He cannot come for he is feeling indisposed.",
+      "ilok_example": "Saan nga makaumay ta agbabantot.",
+      "conjugation": "/AG-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to cause to feel indisposed, sluggish, lazy.",
+      "eng_example": "What caused him to feel indisposed?",
+      "ilok_example": "Ania ti namagbabantot kanyana?",
+      "conjugation": "/MAMAG-/",
+      "synonyms": [
+        "LALADUT"
+      ]
+    }
+  ],
+  "BANTULAY": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "unstable, unbalanced.",
+      "eng_example": "That table is unstable.",
+      "ilok_example": "Bantulay ta lamisaan.",
+      "conjugation": "/NAG-/",
+      "synonyms": [
+        "BATTUAG"
+      ]
+    }
+  ],
+  "BANURBUR": [
+    {
+      "definition": "to make a roaring sound: said of a strong wind or a swollen river.",
+      "eng_example": "I could not sleep because the wind was roaring.",
+      "ilok_example": "Saanak nga nakaturog ta bumanurbur ti angin.",
+      "conjugation": "/AG-, -UM-/"
+    }
+  ],
+  "BANWAR": [
+    {
+      "definition": "see BANNUAR."
+    }
+  ],
+  "BANYAGA": [
+    {
+      "definition": "see BANIAGA."
+    }
+  ],
+  "BANYAS": [
+    {
+      "definition": "var. of BANIAS."
+    }
+  ],
   "BAO": [
     {
       "part_of_speech": "n.",
@@ -3078,22 +3005,6 @@
       "eng_example": "Your wife is good in giving orders.",
       "ilok_example": "Nalaing nga agbaon dayta baket mo.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "MANGI-": [
-    {
-      "definition": ": I-/ to order, send.",
-      "eng_example": "Will you please send someone to come pick the mangoes.",
-      "ilok_example": "Agibaon ka man ti umay agburas ti mangga."
-    }
-  ],
-  "BABAUNEN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "servant.",
-      "synonyms": [
-        "TAGABU, KATULONG, ADIPEN"
-      ]
     }
   ],
   "BAOR": [
@@ -3146,13 +3057,6 @@
     {
       "part_of_speech": "n.",
       "definition": "lung."
-    }
-  ],
-  "BABARA": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to be feverish, hot with fever.",
-      "conjugation": "/AG-, -EN/"
     }
   ],
   "BARABAD": [
@@ -3295,22 +3199,6 @@
       "conjugation": "/-UM-:-EN/"
     }
   ],
-  "PABARATO": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to give a small portion of one’s winnings.",
-      "eng_example": "Give me also a small portion of your winnings.",
-      "ilok_example": "Pabaratoan nak met.",
-      "conjugation": "/AG-:-AN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to give (a small portion of one’s winnings).",
-      "eng_example": "How much of his winnings did he give you?",
-      "ilok_example": "Mano ti impabarato na kenka?",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
   "BARAWID": [
     {
       "part_of_speech": "v.",
@@ -3350,6 +3238,12 @@
       "common_forms": [
         "or"
       ]
+    }
+  ],
+  "BARBARRIO": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "characteristic of a BARRIO, or of one coming from a BARRIO: used derisively."
     }
   ],
   "BARBAS": [
@@ -3419,15 +3313,6 @@
       "ilok_example": "Barengbareng diay sakit na."
     }
   ],
-  "PABPABARENG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to hope, suppose.",
-      "eng_example": "Don’t suppose that I will lend you money.",
-      "ilok_example": "Saan mo nga ipabpabareng nga pabulodan ka ti kuarta.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
   "BARESBES": [
     {
       "part_of_speech": "n.",
@@ -3471,13 +3356,11 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": "[=",
-      "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "BARIKSAN": [
-    {
-      "definition": "] to tie a string and the like around the waist or midsection of.",
+      "definition": "to tie a string and the like around the waist or midsection of.",
+      "conjugation": "/MANG-:-AN/",
+      "common_forms": [
+        "BARIKSAN"
+      ],
       "eng_example": "Tie something around the waist of that child.",
       "ilok_example": "Bariksam dayta ubing."
     },
@@ -3498,6 +3381,13 @@
       "origin": "f. Sp."
     }
   ],
+  "BARINGRING": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to invert or reverse the position of.",
+      "conjugation": "/MANG-:-EN/"
+    }
+  ],
   "BARINSAWAY": [
     {
       "part_of_speech": "adj.",
@@ -3513,13 +3403,6 @@
       "eng_example": "Don’t be fidgety.",
       "ilok_example": "Saan ka nga agbarinsaway.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "BARINGRING": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to invert or reverse the position of.",
-      "conjugation": "/MANG-:-EN/"
     }
   ],
   "BARIW-AS": [
@@ -3638,12 +3521,6 @@
       ]
     }
   ],
-  "BARBARRIO": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "characteristic of a BARRIO, or of one coming from a BARRIO: used derisively."
-    }
-  ],
   "BARRUGA": [
     {
       "part_of_speech": "v.",
@@ -3684,6 +3561,11 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "BARTEKERO": [
+    {
+      "definition": "see under BARTEK."
+    }
+  ],
   "BARTER": [
     {
       "part_of_speech": "v.",
@@ -3705,11 +3587,6 @@
       "eng_example": "I will become drunk if I drink liquor.",
       "ilok_example": "Mabartekak no uminomak ti arak.",
       "conjugation": "/MA-/"
-    }
-  ],
-  "BARTEKERO": [
-    {
-      "definition": "see under BARTEK."
     }
   ],
   "BARTILIA": [
@@ -3815,12 +3692,6 @@
       ]
     }
   ],
-  "BASISAW": [
-    {
-      "part_of_speech": "n.",
-      "definition": "urinary bladder or the like."
-    }
-  ],
   "BASAR": [
     {
       "part_of_speech": "n.",
@@ -3864,6 +3735,12 @@
       "eng_example": "You were even tottering because of your drunkenness.",
       "ilok_example": "Uray ka la nga maibasbasing ti bartek mon.",
       "conjugation": "/MAI-/"
+    }
+  ],
+  "BASISAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "urinary bladder or the like."
     }
   ],
   "BASKAG": [
@@ -3927,13 +3804,6 @@
       ]
     }
   ],
-  "PABASOL": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to blame, put the blame on.",
-      "conjugation": "/AG-:-EN/"
-    }
-  ],
   "BASSAWANG": [
     {
       "part_of_speech": "v.",
@@ -3974,21 +3844,6 @@
       "variations": [
         "BATTIT-USIT see under BASSIT"
       ]
-    }
-  ],
-  "SANGKABASSIT": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "little, few."
-    }
-  ],
-  "TAGIBASSIT": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to belittle, depreciate, deprecate.",
-      "eng_example": "He has given much to his district but he still belittles this.",
-      "ilok_example": "Adu ti naipaay na iti distrito na ngem tagibassiten na pay laeng.",
-      "conjugation": "/MANG-:-EN/"
     }
   ],
   "BASTA": [
@@ -4055,6 +3910,15 @@
       "part_of_speech": "n.",
       "definition": "garbage.",
       "origin": "f. Sp."
+    }
+  ],
+  "BAT-UG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a big-bellied toad that croaks at night.",
+      "synonyms": [
+        "(dial ) PILAT"
+      ]
     }
   ],
   "BATAD": [
@@ -4335,6 +4199,11 @@
       "conjugation": "/MANGI-: I-/"
     }
   ],
+  "BATTUABATTUAG": [
+    {
+      "definition": "syn. (dial.) of KULUMPIO."
+    }
+  ],
   "BATTUAG": [
     {
       "part_of_speech": "v.",
@@ -4347,11 +4216,6 @@
       "part_of_speech": "adj.",
       "definition": "having the tendency to tilt backward, unstable, unbalanced.",
       "conjugation": "/NAG-/"
-    }
-  ],
-  "BATTUABATTUAG": [
-    {
-      "definition": "syn. (dial.) of KULUMPIO."
     }
   ],
   "BATTUAGAN": [
@@ -4384,35 +4248,6 @@
     {
       "part_of_speech": "n.",
       "definition": "row, file; line of words."
-    }
-  ],
-  "KABATUG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "that which is in front of or opposite to (someone or something)."
-    }
-  ],
-  "KAIBATUGAN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "equivalent, something of equal worth."
-    }
-  ],
-  "BINATOG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "line, passage.",
-      "eng_example": "This line was written in the book.",
-      "ilok_example": "Nailanad daytoy nga binatog iti libro."
-    }
-  ],
-  "BAT-UG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a big-bellied toad that croaks at night.",
-      "synonyms": [
-        "(dial ) PILAT"
-      ]
     }
   ],
   "BATUK": [
@@ -4558,6 +4393,12 @@
       ]
     }
   ],
+  "BAY-ON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a deep bag or sack generally made of strips of the leaves of the buri palm or of the pandanus."
+    }
+  ],
   "BAYABAS": [
     {
       "definition": "var. of BAYYABAS."
@@ -4651,7 +4492,8 @@
   ],
   "BAYAT": [
     {
-      "definition": "prep. during, while, for the duration of.",
+      "part_of_speech": "prep.",
+      "definition": "during, while, for the duration of.",
       "eng_example": "He did not eat anything for two days.",
       "ilok_example": "Awan ti kinnan na bayat ti dua nga aldaw."
     }
@@ -4667,11 +4509,6 @@
         "IPAG"
       ],
       "cross_reference": "BILAS"
-    }
-  ],
-  "AGBAYAW": [
-    {
-      "definition": "two brothers-in-law."
     }
   ],
   "BAYBAY": [
@@ -4740,12 +4577,6 @@
       "eng_example": "Fix your dress so that it won’t bulge.",
       "ilok_example": "Simpaem ta badom tapno saan nga agbayokbok.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "BAY-ON": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a deep bag or sack generally made of strips of the leaves of the buri palm or of the pandanus."
     }
   ],
   "BAYONETA": [
@@ -4948,17 +4779,6 @@
       "definition": "uproar, tumult, turmoil, pandemonium."
     }
   ],
-  "PABLAAK": [
-    {
-      "part_of_speech": "n.",
-      "definition": "notice, announcement, proclamation."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to announce, proclaim, give notice of.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
   "BELLAAY": [
     {
       "part_of_speech": "n.",
@@ -4976,28 +4796,6 @@
       "part_of_speech": "v.",
       "definition": "to be oversated, to be heavy due to overeating.",
       "conjugation": "/AG--AN/"
-    }
-  ],
-  "PABLAD": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to boil some kernels of corn for PINABLAD preparation.",
-      "conjugation": "/AG-/",
-      "origin": "= PA-+ BELLAD"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to boil (kernels of corn) for PINABLAD preparation.",
-      "eng_example": "Boil one cupful of corn kernels.",
-      "ilok_example": "Mangipablad ka ti sanga kap nga mais.",
-      "conjugation": "/MANGI-: I-/"
-    }
-  ],
-  "PINABLAD": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a preparation consisting of boiled kernels of corn which is salted to taste and to which grated coconut is mixed.",
-      "origin": "= PA-+ -IN-+ BELLAD"
     }
   ],
   "BELLENG": [
@@ -5023,18 +4821,6 @@
       "eng_example": "That string which you used in tying cannot last.",
       "ilok_example": "Saan nga makabenben dayta tali nga pinanggalut mo.",
       "conjugation": "/MAKA-/"
-    }
-  ],
-  "AN": [
-    {
-      "definition": "to irrigate.",
-      "conjugation": "/ to be able to cope with (one’s task or duty). Saan ko nga mabenbenan ti trabahok. I cannot cope with my work. /"
-    },
-    {
-      "definition": "/ to be priced or valued, to be appraised.",
-      "synonyms": [
-        "PABALOR"
-      ]
     }
   ],
   "BENDISION": [
@@ -5081,6 +4867,38 @@
       ]
     }
   ],
+  "BENGBENG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "thick: said of boards, tissues, books, etc.",
+      "conjugation": "/NA-/",
+      "antonyms": [
+        "INGPIS"
+      ]
+    }
+  ],
+  "BENGNGAT": [
+    {
+      "part_of_speech": "n.",
+      "definition": "accent, characteristic way of speaking or pronouncing words.",
+      "eng_example": "From Virginia’s accent, old man Andre knew for sure that she was from Tarlac.",
+      "ilok_example": "Iti bengngat ni Virginia, ammo lattan ni Lakay Andres nga taga-Tarlac."
+    }
+  ],
+  "BENGNGEG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "hard of hearing, somewhat deaf.",
+      "conjugation": "/NAG-/"
+    }
+  ],
+  "BENGRAW": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a large, greenish-looking fly.",
+      "cross_reference": "NGILAW"
+    }
+  ],
   "BENNAL": [
     {
       "part_of_speech": "n.",
@@ -5116,38 +4934,6 @@
       "part_of_speech": "n.",
       "definition": "1. twenty. 2. twenty centavos.",
       "origin": "bέntε; f. Sp."
-    }
-  ],
-  "BENGBENG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "thick: said of boards, tissues, books, etc.",
-      "conjugation": "/NA-/",
-      "antonyms": [
-        "INGPIS"
-      ]
-    }
-  ],
-  "BENGNGAT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "accent, characteristic way of speaking or pronouncing words.",
-      "eng_example": "From Virginia’s accent, old man Andre knew for sure that she was from Tarlac.",
-      "ilok_example": "Iti bengngat ni Virginia, ammo lattan ni Lakay Andres nga taga-Tarlac."
-    }
-  ],
-  "BENGNGEG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "hard of hearing, somewhat deaf.",
-      "conjugation": "/NAG-/"
-    }
-  ],
-  "BENGRAW": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a large, greenish-looking fly.",
-      "cross_reference": "NGILAW"
     }
   ],
   "BERBER": [
@@ -5269,16 +5055,6 @@
     {
       "part_of_speech": "n.",
       "definition": "1. a strip of bamboo, vine or the like used for binding especially stalks of rice and leaves of the PAN-AW and"
-    }
-  ],
-  "LIDDA": [
-    {
-      "definition": "used for thatching. 2. a bundle of any of these."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to tie or bundle especially stalks of rice and leaves of the PAN-AW and LIDDA used for thatching.",
-      "conjugation": "/MANG-:-EN/"
     }
   ],
   "BIAG": [
@@ -5447,32 +5223,20 @@
       "definition": "a large, circular or oval, shallow basket made of strips of bamboo which are closely woven; it is used principally as a winnowing basket."
     }
   ],
-  "BIGATEN": [
+  "BIGAT": [
     {
-      "definition": ".",
-      "ilok_example": "It is already morning."
-    }
-  ],
-  "BINIGAN-BIGAT": [
-    {
-      "part_of_speech": "adv.",
-      "definition": "every morning."
-    }
-  ],
-  "INTON": [
-    {
-      "definition": "(O) BIGAT, tomorrow.",
-      "eng_example": "BIGAT TI MALEM or INTON MALEM NO BIGAT, tomorrow afternoon.",
-      "ilok_example": "BIGAT TI AGSAPA or INTON AGSAPA NO BIGAT, tomorrow morning."
-    }
-  ],
-  "KABIGATAN": [
+      "definition": "KASANGAALDAW, any time now."
+    },
     {
       "part_of_speech": "n.",
-      "definition": "the next morning.",
-      "common_forms": [
-        "or KINABIGATAN"
-      ]
+      "definition": "morning, the period of the day between sunrise and noon.",
+      "eng_example": "KASANGAALDAW, someday in the future.",
+      "ilok_example": "KALMAN, yesterday morning."
+    }
+  ],
+  "BIGATEN": [
+    {
+      "ilok_example": "It is already morning."
     }
   ],
   "BIGBIG": [
@@ -5543,20 +5307,6 @@
       "eng_example": "He consumed within a short time the broth.",
       "ilok_example": "Binibiit na nga inibus diay dugo.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "NABIIT": [
-    {
-      "part_of_speech": "n.",
-      "definition": "the recent past, ITAY NABIIT, a while ago, a few moments ago.",
-      "eng_example": "Nora passed by the office a few moments ago.",
-      "ilok_example": "Dimmaw-as ni Nora iti opisina itay nabiit."
-    }
-  ],
-  "APAGBIIT": [
-    {
-      "part_of_speech": "adv.",
-      "definition": "for a short while, for a few moments."
     }
   ],
   "BIKAL": [
@@ -5745,6 +5495,12 @@
       "definition": "pt. of BUMDENG."
     }
   ],
+  "BIMMAKKA": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "of the size and shape of a BAKKA: said especially of the vulva."
+    }
+  ],
   "BIMSAG": [
     {
       "definition": "pt. of BUMSAG."
@@ -5753,15 +5509,6 @@
   "BIMTAK": [
     {
       "definition": "pt. of BUMTAK."
-    }
-  ],
-  "BINAKLAG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to swell or become swollen due to bites or other injuries.",
-      "eng_example": "These ones bitten by mosquitoes became swollen.",
-      "ilok_example": "Nagbinaklag dagitoy kinagat ti lamok.",
-      "conjugation": "/AG-/"
     }
   ],
   "BIN-I": [
@@ -5781,44 +5528,37 @@
       ]
     }
   ],
-  "BINTING": [
+  "BINABAI": [
     {
-      "part_of_speech": "n.",
-      "definition": "twenty-five centavos, a quarter of a peso.",
-      "eng_example": "My money is only twenty-five centavos.",
-      "ilok_example": "Binting laeng ti kuartak.",
-      "cross_reference": "BENTE"
-    }
-  ],
-  "BINTOR": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to roam around, wander about, rove.",
-      "eng_example": "He was the one who wandered about looking for him.",
-      "ilok_example": "Isu ti nagbintor nga agsapul kenkuana.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "BINUBUDAN": [
-    {
-      "definition": "see under BUBUD."
+      "part_of_speech": "adj.",
+      "definition": "womanlike, womanish; effeminate.",
+      "synonyms": [
+        "BAIEN"
+      ]
     },
     {
       "part_of_speech": "n.",
-      "definition": "cooked (non-glutinous) rice sprinkled with yeast (BUBUD) and left in a cool place to ferment for one or two days; fermented rice."
+      "definition": "a capon, a castrated rooster, especially one fattened for eating.",
+      "synonyms": [
+        "KAPON"
+      ]
     }
   ],
-  "BINUGBOG": [
+  "BINAKLAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to swell or become swollen due to bites or other injuries.",
+      "eng_example": "These ones bitten by mosquitoes became swollen.",
+      "ilok_example": "Nagbinaklag dagitoy kinagat ti lamok.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "BINATOG": [
     {
       "part_of_speech": "n.",
-      "definition": "leftovers kept to feed the pigs.",
-      "eng_example": "He will feed his pig with tasty leftovers.",
-      "ilok_example": "Naimas nga binugbog ti ipakan na iti baboy na."
-    }
-  ],
-  "BINULLALO": [
-    {
-      "definition": "see BULLALO."
+      "definition": "line, passage.",
+      "eng_example": "This line was written in the book.",
+      "ilok_example": "Nailanad daytoy nga binatog iti libro."
     }
   ],
   "BINGALO": [
@@ -5899,6 +5639,73 @@
       "definition": "var. of BENGRAW."
     }
   ],
+  "BINIGAN-BIGAT": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "every morning."
+    }
+  ],
+  "BINOKBOK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a tooth with a cavity, a tooth with caries.",
+      "synonyms": [
+        "(dial.) BOKBOK"
+      ]
+    }
+  ],
+  "BINTING": [
+    {
+      "part_of_speech": "n.",
+      "definition": "twenty-five centavos, a quarter of a peso.",
+      "eng_example": "My money is only twenty-five centavos.",
+      "ilok_example": "Binting laeng ti kuartak.",
+      "cross_reference": "BENTE. six and one-fourth centavos"
+    }
+  ],
+  "BINTOR": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to roam around, wander about, rove.",
+      "eng_example": "He was the one who wandered about looking for him.",
+      "ilok_example": "Isu ti nagbintor nga agsapul kenkuana.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "BINUBUDAN": [
+    {
+      "definition": "see under BUBUD."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "cooked (non-glutinous) rice sprinkled with yeast (BUBUD) and left in a cool place to ferment for one or two days; fermented rice."
+    }
+  ],
+  "BINUGBOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "leftovers kept to feed the pigs.",
+      "eng_example": "He will feed his pig with tasty leftovers.",
+      "ilok_example": "Naimas nga binugbog ti ipakan na iti baboy na."
+    }
+  ],
+  "BINULAN": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "monthly, every month."
+    }
+  ],
+  "BINULAN-BULAN": [
+    {
+      "part_of_speech": "adv.",
+      "definition": "by the month."
+    }
+  ],
+  "BINULLALO": [
+    {
+      "definition": "see BULLALO."
+    }
+  ],
   "BIOGRAPIA": [
     {
       "part_of_speech": "n.",
@@ -5937,6 +5744,22 @@
       ]
     }
   ],
+  "BIR-I": [
+    {
+      "part_of_speech": "n.",
+      "definition": "crack."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to develop or have a crack.",
+      "eng_example": "The plate which was dropped developed a crack.",
+      "ilok_example": "Nagbir-i daydiay pinggan nga naytupak.",
+      "conjugation": "/AG-/",
+      "variations": [
+        "BIRRI"
+      ]
+    }
+  ],
   "BIRABID": [
     {
       "part_of_speech": "n.",
@@ -5961,22 +5784,6 @@
       "part_of_speech": "n.",
       "definition": "Virginia tobacco.",
       "origin": "f. Eng."
-    }
-  ],
-  "BIR-I": [
-    {
-      "part_of_speech": "n.",
-      "definition": "crack."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to develop or have a crack.",
-      "eng_example": "The plate which was dropped developed a crack.",
-      "ilok_example": "Nagbir-i daydiay pinggan nga naytupak.",
-      "conjugation": "/AG-/",
-      "variations": [
-        "BIRRI"
-      ]
     }
   ],
   "BIRIA": [
@@ -6425,18 +6232,18 @@
       ]
     }
   ],
+  "BITTAUG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "1. a tall tree which yields timber. 2. a fruit of this."
+    }
+  ],
   "BITTAYON": [
     {
       "part_of_speech": "v.",
       "definition": "to hang or dangle downwards (out of an opening).",
       "ilok_example": "Adda makitak nga agbittayon nga ima dita tawa.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "BITTAUG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "1. a tall tree which yields timber. 2. a fruit of this."
     }
   ],
   "BITUKA": [
@@ -6476,11 +6283,6 @@
     {
       "part_of_speech": "n.",
       "definition": "the two beams at the ridge of the roof: the"
-    }
-  ],
-  "SALLABAWAN": [
-    {
-      "definition": "and the PAKABAYO."
     }
   ],
   "BODEGA": [
@@ -6561,15 +6363,6 @@
       "definition": "a tooth with a cavity.",
       "synonyms": [
         "(dial.) of BINOKBOK n"
-      ]
-    }
-  ],
-  "BINOKBOK": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a tooth with a cavity, a tooth with caries.",
-      "synonyms": [
-        "(dial.) BOKBOK"
       ]
     }
   ],
@@ -6898,6 +6691,15 @@
       "definition": "well, a hole sunk into the earth to reach a supply of water."
     }
   ],
+  "BUBUBUDO": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a kind of large, soft, black or dark-brown, hairy, stinging caterpillar.",
+      "variations": [
+        "BUDUBUDOAN"
+      ]
+    }
+  ],
   "BUBUD": [
     {
       "part_of_speech": "n.",
@@ -6936,15 +6738,6 @@
       "conjugation": "/MAKA-/",
       "synonyms": [
         "GATEL"
-      ]
-    }
-  ],
-  "BUBUBUDO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a kind of large, soft, black or dark-brown, hairy, stinging caterpillar.",
-      "variations": [
-        "BUDUBUDOAN"
       ]
     }
   ],
@@ -7274,7 +7067,11 @@
       "ilok_example": "Bukkualem dayta daga ta ibunubon mo dagitoy bukel ti tarong."
     }
   ],
-  "BUKLAN": [],
+  "BUKLAN": [
+    {
+      "origin": "BUKEL + -AN"
+    }
+  ],
   "BUKLAW": [
     {
       "part_of_speech": "adj.",
@@ -7331,14 +7128,6 @@
       "eng_example": "He did all the work by himself excluding the others from it.",
       "ilok_example": "Binukudan na amin nga trabaho.",
       "conjugation": "/MANG-:-AN/"
-    }
-  ],
-  "KABUKBUKODAN": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "exclusively owned.",
-      "eng_example": "The Ilokano has his own exclusive language.",
-      "ilok_example": "Adda met kabukbukodan nga balikas ti Iloko."
     }
   ],
   "BUKOL": [
@@ -7405,40 +7194,13 @@
   "BULAN": [
     {
       "part_of_speech": "n.",
-      "definition": "1. moon. 2. month."
-    }
-  ],
-  "BINULAN": [
-    {
-      "part_of_speech": "adv.",
-      "definition": "monthly, every month."
-    }
-  ],
-  "BINULAN-BULAN": [
-    {
-      "part_of_speech": "adv.",
-      "definition": "by the month."
+      "definition": "1. moon. 2. month. one month."
     }
   ],
   "BULAN-BULANEN": [
     {
       "part_of_speech": "adj.",
       "definition": "lunatic, moonstruck."
-    }
-  ],
-  "MAKABULAN": [
-    {
-      "part_of_speech": "adv.",
-      "definition": "one month."
-    }
-  ],
-  "BULANOS": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "voluntary, spontaneous.",
-      "eng_example": "I am disappointed to know about the lack of spontaneous help from the other towns.",
-      "ilok_example": "Maupayak nga makaammo iti kaawan ti nabulanos nga tulong dagiti dadduma nga ili.",
-      "conjugation": "/NA-/"
     }
   ],
   "BULANG": [
@@ -7465,6 +7227,15 @@
       "synonyms": [
         "GALYERA"
       ]
+    }
+  ],
+  "BULANOS": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "voluntary, spontaneous.",
+      "eng_example": "I am disappointed to know about the lack of spontaneous help from the other towns.",
+      "ilok_example": "Maupayak nga makaammo iti kaawan ti nabulanos nga tulong dagiti dadduma nga ili.",
+      "conjugation": "/NA-/"
     }
   ],
   "BULBULLAGAW": [
@@ -7538,12 +7309,7 @@
     },
     {
       "part_of_speech": "n.",
-      "definition": "one whole stem or cluster of banana fruits; this consists of several rows or hands of bananas each one called"
-    }
-  ],
-  "SAPAD": [
-    {
-      "definition": "."
+      "definition": "one whole stem or cluster of banana fruits; this consists of several rows or hands of bananas each one called SAPAD"
     }
   ],
   "BULILISING": [
@@ -7613,13 +7379,6 @@
       "eng_example": "He crippled our dog.",
       "ilok_example": "Binullo na diay aso mi.",
       "conjugation": "/MANG-:-EN/"
-    }
-  ],
-  "MAMMULLO": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a bone-setter, one who treats cases of broken bones, dislocated joints or sprains.",
-      "cross_reference": "ILOT"
     }
   ],
   "BULO": [
@@ -7813,104 +7572,11 @@
       "origin": "f. Sp."
     }
   ],
-  "BUNIAG": [
-    {
-      "definition": "see BUNYAG."
-    }
-  ],
-  "BUNOG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "the BUKTO fish when at its largest size."
-    }
-  ],
-  "BUNONG": [
+  "BUNG-OR": [
     {
       "part_of_speech": "v.",
-      "definition": "to apportion, distribute, allot.",
-      "eng_example": "Distribute these to the children.",
-      "ilok_example": "Ibunong mo dagitoy kadagiti ubbing.",
-      "conjugation": "/AGI-, MANGI-: I-/"
-    }
-  ],
-  "BUNOT": [
-    {
-      "definition": "the outer husk of the coconut; coir."
-    }
-  ],
-  "BUNTIEK": [
-    {
-      "part_of_speech": "n.",
-      "definition": "the young of the fish called DALAG."
-    }
-  ],
-  "BUNTOG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "slow, sluggish.",
-      "conjugation": "/NA-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be like this.",
+      "definition": "to become swollen and tender due to an injury or infection.",
       "conjugation": "/-UM-/"
-    }
-  ],
-  "BUNTON": [
-    {
-      "part_of_speech": "n.",
-      "definition": "a small hill, hillock; a small hill built by termites."
-    },
-    {
-      "part_of_speech": "n.",
-      "definition": "pile, heap, stack."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to lay or place in a pile, pile up, heap in abundance.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be placed in a pile; to pile up.",
-      "eng_example": "My work has piled up.",
-      "ilok_example": "Nabunton ti trabahok.",
-      "conjugation": "/MA-/"
-    }
-  ],
-  "BUNUBON": [
-    {
-      "part_of_speech": "n.",
-      "definition": "seedling, a plant grown from a seed for transplanting."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to grow plants from seeds for transplanting; to sow seeds for seedlings.",
-      "eng_example": "We can sow seeds for seedlings now.",
-      "ilok_example": "Mabalin tayo ti agbunubonen.",
-      "conjugation": "/AG-/"
-    }
-  ],
-  "BUNYAG": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to baptize someone especially in church.",
-      "conjugation": "/AG-/",
-      "origin": "f. Sp."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to baptize.",
-      "eng_example": "It is the old priest who will baptize my child.",
-      "ilok_example": "Daydiay lakay nga padi ti mangbunyag ti anak ko.",
-      "conjugation": "/MANG-:-AN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to give or bestow on as name or alias.",
-      "eng_example": "This is what he bestowed on me as an alias.",
-      "ilok_example": "Daytoy ti imbunyag na kanyak.",
-      "conjugation": "/AGI-, MANGI-: I-/"
     }
   ],
   "BUNGA": [
@@ -8036,13 +7702,6 @@
       "conjugation": "/AG-, MANG-:-EN/"
     }
   ],
-  "BUNG-OR": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to become swollen and tender due to an injury or infection.",
-      "conjugation": "/-UM-/"
-    }
-  ],
   "BUNGRO": [
     {
       "part_of_speech": "n.",
@@ -8078,6 +7737,106 @@
       "definition": "a kind of yellow, spotted, fragrant banana."
     }
   ],
+  "BUNIAG": [
+    {
+      "definition": "see BUNYAG."
+    }
+  ],
+  "BUNOG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the BUKTO fish when at its largest size."
+    }
+  ],
+  "BUNONG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to apportion, distribute, allot.",
+      "eng_example": "Distribute these to the children.",
+      "ilok_example": "Ibunong mo dagitoy kadagiti ubbing.",
+      "conjugation": "/AGI-, MANGI-: I-/"
+    }
+  ],
+  "BUNOT": [
+    {
+      "definition": "the outer husk of the coconut; coir."
+    }
+  ],
+  "BUNTIEK": [
+    {
+      "part_of_speech": "n.",
+      "definition": "the young of the fish called DALAG."
+    }
+  ],
+  "BUNTOG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "slow, sluggish.",
+      "conjugation": "/NA-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be like this.",
+      "conjugation": "/-UM-/"
+    }
+  ],
+  "BUNTON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "a small hill, hillock; a small hill built by termites."
+    },
+    {
+      "part_of_speech": "n.",
+      "definition": "pile, heap, stack."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to lay or place in a pile, pile up, heap in abundance.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be placed in a pile; to pile up.",
+      "eng_example": "My work has piled up.",
+      "ilok_example": "Nabunton ti trabahok.",
+      "conjugation": "/MA-/"
+    }
+  ],
+  "BUNUBON": [
+    {
+      "part_of_speech": "n.",
+      "definition": "seedling, a plant grown from a seed for transplanting."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to grow plants from seeds for transplanting; to sow seeds for seedlings.",
+      "eng_example": "We can sow seeds for seedlings now.",
+      "ilok_example": "Mabalin tayo ti agbunubonen.",
+      "conjugation": "/AG-/"
+    }
+  ],
+  "BUNYAG": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to baptize someone especially in church.",
+      "conjugation": "/AG-/",
+      "origin": "f. Sp."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to baptize.",
+      "eng_example": "It is the old priest who will baptize my child.",
+      "ilok_example": "Daydiay lakay nga padi ti mangbunyag ti anak ko.",
+      "conjugation": "/MANG-:-AN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to give or bestow on as name or alias.",
+      "eng_example": "This is what he bestowed on me as an alias.",
+      "ilok_example": "Daytoy ti imbunyag na kanyak.",
+      "conjugation": "/AGI-, MANGI-: I-/"
+    }
+  ],
   "BURAK": [
     {
       "part_of_speech": "v.",
@@ -8102,12 +7861,6 @@
       ]
     }
   ],
-  "BURANGEN": [
-    {
-      "part_of_speech": "n.",
-      "definition": "old male monkey."
-    }
-  ],
   "BURANG-IT": [
     {
       "part_of_speech": "v.",
@@ -8128,6 +7881,12 @@
       "common_forms": [
         "or"
       ]
+    }
+  ],
+  "BURANGEN": [
+    {
+      "part_of_speech": "n.",
+      "definition": "old male monkey."
     }
   ],
   "BURARAWIT": [
@@ -8505,6 +8264,26 @@
       "conjugation": "/MANG-:-AN/"
     }
   ],
+  "BUTBUTENG": [
+    {
+      "part_of_speech": "n.",
+      "definition": "fear, alarm.",
+      "eng_example": "He went to the cementery without fear.",
+      "ilok_example": "Awan ti butbuteng na nga napan idiay sementerio."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to frighten, scare, alarm.",
+      "eng_example": "Don’t scare me for I may have a heart attack.",
+      "ilok_example": "Saan nak nga butbutengen ta dinto atakien nak ti sakit ti puso.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "adj.",
+      "definition": "frightening, scary, alarming; causing fear or fright.",
+      "conjugation": "/NAKA-/"
+    }
+  ],
   "BUTEG": [
     {
       "part_of_speech": "n.",
@@ -8535,26 +8314,6 @@
       "eng_example": "I am afraid of you.",
       "ilok_example": "Mabutengak kenka.",
       "conjugation": "/MA-: KA-/"
-    }
-  ],
-  "BUTBUTENG": [
-    {
-      "part_of_speech": "n.",
-      "definition": "fear, alarm.",
-      "eng_example": "He went to the cementery without fear.",
-      "ilok_example": "Awan ti butbuteng na nga napan idiay sementerio."
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to frighten, scare, alarm.",
-      "eng_example": "Don’t scare me for I may have a heart attack.",
-      "ilok_example": "Saan nak nga butbutengen ta dinto atakien nak ti sakit ti puso.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "frightening, scary, alarming; causing fear or fright.",
-      "conjugation": "/NAKA-/"
     }
   ],
   "BUTILAW": [
@@ -8700,6 +8459,16 @@
       "definition": "var. of BUTTIOG."
     }
   ],
+  "BUY-ONG": [
+    {
+      "part_of_speech": "adj.",
+      "definition": "big-bellied.",
+      "conjugation": "/-AN/",
+      "synonyms": [
+        "BUTTIOG"
+      ]
+    }
+  ],
   "BUYA": [
     {
       "part_of_speech": "v.",
@@ -8707,12 +8476,6 @@
       "eng_example": "Let’s see a show.",
       "ilok_example": "Agbuya tayo ti sine.",
       "conjugation": "/AG-, MANG-:-EN/"
-    }
-  ],
-  "PABUYA": [
-    {
-      "part_of_speech": "n.",
-      "definition": "show; stage show."
     }
   ],
   "BUYAT": [
@@ -8771,26 +8534,6 @@
       "part_of_speech": "v.",
       "definition": "to practice divination.",
       "conjugation": "/AG-/"
-    }
-  ],
-  "PABUYON": [
-    {
-      "part_of_speech": "v.",
-      "definition": "to ask someone to find the location or situation (of a lost object or missing person or animal) by divination.",
-      "conjugation": "/MANGI-: I-/",
-      "synonyms": [
-        "PASILAW (under SILAW)"
-      ]
-    }
-  ],
-  "BUY-ONG": [
-    {
-      "part_of_speech": "adj.",
-      "definition": "big-bellied.",
-      "conjugation": "/-AN/",
-      "synonyms": [
-        "BUTTIOG"
-      ]
     }
   ],
   "BUYOT": [
