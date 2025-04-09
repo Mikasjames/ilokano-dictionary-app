@@ -17,11 +17,29 @@
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
 
+	const dictCache: Record<string, Record<string, Definition[]>> = {};
+
 	let searchTerm = $state("");
 	let results: [string, Definition[]][] = $state([]);
 	let isLoading = $state(false);
 	let noResultsFound = $state(false);
 	let error: string | null = $state(null);
+
+	async function loadDictionary(letter: string): Promise<Record<string, Definition[]>> {
+		try {
+			if (dictCache[letter]) {
+				return dictCache[letter];
+			}
+
+			const dict = await import(`$lib/${letter}.json`);
+			dictCache[letter] = dict.default;
+			return dict.default;
+		} catch (err) {
+			console.error(`Failed to load dictionary for letter ${letter}:`, err);
+			toast.error(`Failed to load dictionary for letter ${letter}. Please try again.`);
+			throw new Error(`Dictionary for '${letter}' not found`);
+		}
+	}
 
 	async function search() {
 		if (!browser || !searchTerm.trim()) return;
@@ -29,33 +47,74 @@
 		isLoading = true;
 		error = null;
 		noResultsFound = false;
+		results = [];
 
 		try {
-			const letter = searchTerm.charAt(0).toUpperCase();
+			const term = searchTerm.toLowerCase().trim();
 
-			if (!/[A-Z]/.test(letter)) {
+			const primaryLetter = term.charAt(0).toUpperCase();
+
+			if (!/[A-Z]/.test(primaryLetter)) {
 				error = "Please enter a word that starts with a letter";
-				results = [];
 				isLoading = false;
 				return;
 			}
 
-			const dict = await import(`$lib/${letter}.json`);
-			const def: Record<string, Definition[]> = dict.default;
+			const primaryDict = await loadDictionary(primaryLetter);
 
-			results = Object.entries(def).filter(([word]) => {
-				if (word.startsWith("-")) {
-					word = word.slice(1);
-				}
-				return word.toLowerCase().startsWith(searchTerm.toLowerCase());
+			const exactMatches = Object.entries(primaryDict).filter(([word]) => {
+				const normalizedWord = word.startsWith("-")
+					? word.slice(1).toLowerCase()
+					: word.toLowerCase();
+				return normalizedWord.startsWith(term);
 			});
 
+			results.push(...exactMatches);
+
+			if (exactMatches.length < 5 && term.length >= 3) {
+				const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+				for (const letter of alphabet) {
+					if (letter === primaryLetter) continue;
+
+					try {
+						const dict = await loadDictionary(letter);
+
+						const containsMatches = Object.entries(dict).filter(([word]) => {
+							const normalizedWord = word.startsWith("-")
+								? word.slice(1).toLowerCase()
+								: word.toLowerCase();
+							return normalizedWord.includes(term) && !normalizedWord.startsWith(term);
+						});
+
+						results.push(...containsMatches.slice(0, 3)); // Limit to 3 results per letter
+
+						if (results.length >= 20) break;
+					} catch (err) {
+						continue;
+					}
+				}
+			}
+
+			results.sort((a, b) => {
+				const wordA = a[0].startsWith("-") ? a[0].slice(1).toLowerCase() : a[0].toLowerCase();
+				const wordB = b[0].startsWith("-") ? b[0].slice(1).toLowerCase() : b[0].toLowerCase();
+
+				const aStartsWithTerm = wordA.startsWith(term);
+				const bStartsWithTerm = wordB.startsWith(term);
+
+				if (aStartsWithTerm && !bStartsWithTerm) return -1;
+				if (!aStartsWithTerm && bStartsWithTerm) return 1;
+
+				return wordA.length - wordB.length;
+			});
+
+			results = results.slice(0, 20);
 			noResultsFound = results.length === 0;
-		} catch (error) {
-			console.error("Error loading dictionary:", error);
-			toast.error("Error loading data. Please try again.");
-			results = [];
-			error = "Error loading dictionary. Please try again.";
+		} catch (err) {
+			console.error("Search error:", err);
+			error = err instanceof Error ? err.message : "Search failed";
+			toast.error(error);
 		} finally {
 			isLoading = false;
 		}

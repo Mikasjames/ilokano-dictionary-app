@@ -2139,7 +2139,11 @@
   ],
   "TI": [
     {
-      "definition": "art. the. var. of ITI."
+      "part_of_speech": "art.",
+      "definition": "the."
+    },
+    {
+      "variations": ["ITI"]
     }
   ],
   "TIA": [
