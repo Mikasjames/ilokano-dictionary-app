@@ -37,7 +37,7 @@
 </script>
 
 <div class="space-y-4">
-	{#if definitions.length === 0}
+	{#if definitions.length === 0 && word !== ""}
 		<Card class="w-full">
 			<CardContent class="text-center">
 				No entry for the word "{word}" found.
