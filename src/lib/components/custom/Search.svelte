@@ -148,8 +148,8 @@
 
 <Card class="w-full">
 	<CardHeader>
-		<CardTitle class="text-2xl font-bold text-center">Word Wise</CardTitle>
-		<CardDescription class="text-center">Your comprehensive digital dictionary</CardDescription>
+		<CardTitle class="text-2xl font-bold text-center">IloCo.</CardTitle>
+		<CardDescription class="text-center">Your comprehensive digital Ilokano dictionary</CardDescription>
 		<div class="absolute top-6 right-6 flex items-center space-x-2">
 			<Button on:click={toggleMode} variant="outline" size="icon">
 				<Sun
