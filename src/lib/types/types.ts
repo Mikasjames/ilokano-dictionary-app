@@ -9,6 +9,6 @@ export interface Definition {
 	antonyms?: string[];
 	variations?: string[];
 	cross_reference?: "";
-	common_forms?: [];
+	common_forms?: string[];
 	plural_form?: string;
 }
