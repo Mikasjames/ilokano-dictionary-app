@@ -1,8 +1,8 @@
 <script lang="ts">
 	import { goto } from "$app/navigation";
-    import { Badge } from "$lib/components/ui/badge";
+    import { Badge } from "$lib/components/ui/badge/index";
 
-    let { title, wordEntries, clickBadge = null }: { title: string, wordEntries: string[], clickBadge: ((entry: string) => void) | null } = $props();
+    let { title, wordEntries, clickBadge = null }: { title: string, wordEntries: string[], clickBadge?: ((entry: string) => void) | null } = $props();
 
     function badgeClicked(word: string) {
         if (clickBadge) {
