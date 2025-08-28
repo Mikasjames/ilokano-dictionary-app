@@ -17,8 +17,11 @@
     {
       "part_of_speech": "adv.",
       "definition": "indeed, of course; then: a confirmatory particle that is used at the end of a word, phrase or sentence.",
-      "eng_example": "Yes, indeed. var. of NGA.",
+      "eng_example": "Yes, indeed.",
       "ilok_example": "Wen a."
+    },
+    {
+      "variations": ["NGA"]
     }
   ],
   "AAK": [
@@ -916,8 +919,11 @@
       "ilok_example": "Agaddayo da.",
       "conjugation": "/AG-/ with pl. subject",
       "antonyms": [
-        "ASSIDEG see under ADAYO"
+        "ASSIDEG"
       ]
+    },
+    {
+      "definition": "see under ADAYO."
     }
   ],
   "ADDAYTA": [
@@ -932,8 +938,10 @@
   "ADDAYTOY": [
     {
       "definition": "here is, here are.",
+      "eng_example": "Here we are, the whole household.",
+      "ilok_example": "Adtoy kami nga agkakabbalay.",
       "variations": [
-        "ADDADTOY, ADTOY, ARIDTOY, ARTOY. Adtoy kami nga agkakabbalay. Here we are, the whole household"
+        "ADDADTOY, ADTOY, ARIDTOY, ARTOY"
       ],
       "plural_form": "pl. ADDAGITOY"
     }
@@ -959,9 +967,12 @@
     {
       "part_of_speech": "v.",
       "definition": "to treat a younger brother or sister or anyone younger than oneself as such.",
-      "eng_example": "He knows how to treat a younger brother or sister. var. of MADI, usually used with AG- or NAG-.",
+      "eng_example": "He knows how to treat a younger brother or sister.",
       "ilok_example": "Ammo na ti agadi.",
       "conjugation": "/AG-/"
+    },
+    {
+      "definition": "var. of MADI, usually used with AG- or NAG-."
     }
   ],
   "ADIAY": [
@@ -995,9 +1006,9 @@
   "ADING": [
     {
       "part_of_speech": "n.",
-      "definition": "affectionate or endearing form of ADI.",
+      "definition": "affectionate or endearing form of ADI. This is also used as term of reference or address (sometimes with the name of the person following it).",
       "eng_example": "Umaykan, Ading.",
-      "ilok_example": "This is also used as term of reference or address (sometimes with the name of the person following it)."
+      "ilok_example": "Come now, younger brother (or sister)."
     }
   ],
   "ADIPEN": [
@@ -1124,9 +1135,12 @@
   "AGABALAYAN": [
     {
       "definition": "the term used to designate two parents whose children are married to each other, or the mutual relationship between such parents.",
-      "eng_example": "Ann’s child and my child are married to each other. see under ABALAYAN.",
+      "eng_example": "Ann’s child and my child are married to each other.",
       "ilok_example": "Agabalayan kami ken Ana.",
       "plural_form": "pl. AGAABALAYAN"
+    },
+    {
+      "definition": "see under ABALAYAN."
     }
   ],
   "AGABIRAT": [
