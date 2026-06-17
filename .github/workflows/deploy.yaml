@@ -2,7 +2,19 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: "deploy"
+    branches:
+      - main
+      - deploy
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build_site:
@@ -23,7 +35,7 @@ jobs:
           cache: pnpm
 
       - name: Install dependencies
-        run: pnpm install
+        run: pnpm install --frozen-lockfile
 
       - name: Debug environment
         run: |
@@ -37,6 +49,7 @@ jobs:
         run: |
           echo "Starting build with base path: $BASE_PATH"
           pnpm run build || { echo "Build failed"; exit 1; }
+          cp static/CNAME build/CNAME
           echo "Build complete, checking output directory:"
           ls -la build/
           echo "Contents of build directory:"
@@ -64,10 +77,6 @@ jobs:
   deploy:
     needs: build_site
     runs-on: ubuntu-latest
-
-    permissions:
-      pages: write
-      id-token: write
 
     environment:
       name: github-pages
