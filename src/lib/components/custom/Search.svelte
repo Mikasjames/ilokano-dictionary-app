@@ -43,30 +43,46 @@
 			const index = await loadSearchIndex();
 			const term = searchTerm.toLowerCase().trim();
 
-			const matches = Object.entries(index).filter(([word]) => {
+			// Search both fields: Ilokano headword OR English definition preview
+			const matches = Object.entries(index).filter(([word, [, preview]]) => {
 				const normalizedWord = word.startsWith("-")
 					? word.slice(1).toLowerCase()
 					: word.toLowerCase();
-				return normalizedWord.includes(term);
+
+				return normalizedWord.includes(term) || preview.toLowerCase().includes(term);
 			});
 
+			// Sort based on match quality
 			matches.sort((a, b) => {
-				const wordA = a[0].startsWith("-") ? a[0].slice(1).toLowerCase() : a[0].toLowerCase();
-				const wordB = b[0].startsWith("-") ? b[0].slice(1).toLowerCase() : b[0].toLowerCase();
+				const [wordA, [, previewA]] = a;
+				const [wordB, [, previewB]] = b;
 
-				const aStartsWithTerm = wordA.startsWith(term);
-				const bStartsWithTerm = wordB.startsWith(term);
+				const normA = wordA.startsWith("-") ? wordA.slice(1).toLowerCase() : wordA.toLowerCase();
+				const normB = wordB.startsWith("-") ? wordB.slice(1).toLowerCase() : wordB.toLowerCase();
 
-				if (aStartsWithTerm && !bStartsWithTerm) return -1;
-				if (!aStartsWithTerm && bStartsWithTerm) return 1;
+				const previewALower = previewA.toLowerCase();
+				const previewBLower = previewB.toLowerCase();
 
-				if (wordA.length !== wordB.length) {
-					return wordA.length - wordB.length;
+				// Assign relevancy scores to prioritize direct matches
+				const getScore = (word: string, preview: string) => {
+					if (word === term) return 4; // Exact Ilokano match
+					if (word.startsWith(term)) return 3; // Ilokano starts with term
+					if (word.includes(term)) return 2; // Ilokano contains term
+					if (preview.includes(term)) return 1; // Matches only English definition
+					return 0;
+				};
+
+				const scoreA = getScore(normA, previewALower);
+				const scoreB = getScore(normB, previewBLower);
+
+				if (scoreA !== scoreB) {
+					return scoreB - scoreA; // Higher score comes first
 				}
-				return wordA.localeCompare(wordB);
+
+				return normA.localeCompare(normB); // Fallback to alphabetical sorting
 			});
 
-			results = matches.slice(0, 20).map(([word, [_, preview]]) => {
+			results = matches.slice(0, 20).map(([word, [, preview]]) => {
 				return [word, [{ definition: preview }]] as [string, Definition[]];
 			});
 
