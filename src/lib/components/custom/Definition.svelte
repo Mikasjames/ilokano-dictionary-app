@@ -11,29 +11,10 @@
 	import type { Definition } from "$lib/types/types";
 	import BadgeWords from "./BadgeWords.svelte";
 
-	let { word }: { word: string | null | undefined } = $props();
+	let { word, definitions = [] }: { word: string | null | undefined; definitions?: Definition[] } =
+		$props();
 
-	let definitions: Definition[] = $state([]);
-
-	async function loadWord(word: string | null | undefined) {
-		if (!word) {
-			definitions = [];
-			return;
-		}
-
-		let letter = word.charAt(0).toUpperCase();
-		if (letter === "-") {
-			letter = word.charAt(1).toUpperCase();
-		}
-		const dict = await import(`$lib/${letter}.json`);
-		const def: Record<string, Definition[]> = dict.default;
-
-		definitions = def[word];
-	}
-
-	$effect(() => {
-		loadWord(word);
-	});
+	// We no longer need to load definitions here as they are provided by the page load function
 </script>
 
 <div class="space-y-4">

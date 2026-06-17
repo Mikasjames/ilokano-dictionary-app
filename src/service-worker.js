@@ -10,13 +10,9 @@ const ASSETS = [
 ];
 
 self.addEventListener("install", (event) => {
-	// Create a new cache and add all files to it
-	async function addFilesToCache() {
-		const cache = await caches.open(CACHE);
-		await cache.addAll(ASSETS);
-	}
-
-	event.waitUntil(addFilesToCache());
+	// Skip the aggressive pre-caching to speed up initial load.
+	// The fetch handler will cache assets on-demand as they are requested.
+	self.skipWaiting();
 });
 
 self.addEventListener("activate", (event) => {

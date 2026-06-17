@@ -17,28 +17,18 @@
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
 
-	const dictCache: Record<string, Record<string, Definition[]>> = {};
-
+	let searchIndex: Record<string, [string, string]> | null = $state(null);
 	let searchTerm = $state("");
 	let results: [string, Definition[]][] = $state([]);
 	let isLoading = $state(false);
 	let noResultsFound = $state(false);
 	let error: string | null = $state(null);
 
-	async function loadDictionary(letter: string): Promise<Record<string, Definition[]>> {
-		try {
-			if (dictCache[letter]) {
-				return dictCache[letter];
-			}
-
-			const dict = await import(`$lib/${letter}.json`);
-			dictCache[letter] = dict.default;
-			return dict.default;
-		} catch (err) {
-			console.error(`Failed to load dictionary for letter ${letter}:`, err);
-			toast.error(`Failed to load dictionary for letter ${letter}. Please try again.`);
-			throw new Error(`Dictionary for '${letter}' not found`);
-		}
+	async function loadSearchIndex(): Promise<Record<string, [string, string]>> {
+		if (searchIndex) return searchIndex;
+		const module = await import("$lib/search-index.json");
+		searchIndex = module.default as unknown as Record<string, [string, string]>;
+		return searchIndex || {};
 	}
 
 	async function search() {
@@ -50,53 +40,17 @@
 		results = [];
 
 		try {
+			const index = await loadSearchIndex();
 			const term = searchTerm.toLowerCase().trim();
 
-			const primaryLetter = term.charAt(0).toUpperCase();
-
-			if (!/[A-Z]/.test(primaryLetter)) {
-				error = "Please enter a word that starts with a letter";
-				isLoading = false;
-				return;
-			}
-
-			const primaryDict = await loadDictionary(primaryLetter);
-
-			const exactMatches = Object.entries(primaryDict).filter(([word]) => {
+			const matches = Object.entries(index).filter(([word]) => {
 				const normalizedWord = word.startsWith("-")
 					? word.slice(1).toLowerCase()
 					: word.toLowerCase();
-				return normalizedWord.startsWith(term);
+				return normalizedWord.includes(term);
 			});
 
-			results.push(...exactMatches);
-
-			if (exactMatches.length < 5 && term.length >= 3) {
-				const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-
-				for (const letter of alphabet) {
-					if (letter === primaryLetter) continue;
-
-					try {
-						const dict = await loadDictionary(letter);
-
-						const containsMatches = Object.entries(dict).filter(([word]) => {
-							const normalizedWord = word.startsWith("-")
-								? word.slice(1).toLowerCase()
-								: word.toLowerCase();
-							return normalizedWord.includes(term) && !normalizedWord.startsWith(term);
-						});
-
-						results.push(...containsMatches.slice(0, 3)); // Limit to 3 results per letter
-
-						if (results.length >= 20) break;
-					} catch (err) {
-						continue;
-					}
-				}
-			}
-
-			results.sort((a, b) => {
+			matches.sort((a, b) => {
 				const wordA = a[0].startsWith("-") ? a[0].slice(1).toLowerCase() : a[0].toLowerCase();
 				const wordB = b[0].startsWith("-") ? b[0].slice(1).toLowerCase() : b[0].toLowerCase();
 
@@ -106,10 +60,16 @@
 				if (aStartsWithTerm && !bStartsWithTerm) return -1;
 				if (!aStartsWithTerm && bStartsWithTerm) return 1;
 
-				return wordA.length - wordB.length;
+				if (wordA.length !== wordB.length) {
+					return wordA.length - wordB.length;
+				}
+				return wordA.localeCompare(wordB);
 			});
 
-			results = results.slice(0, 20);
+			results = matches.slice(0, 20).map(([word, [_, preview]]) => {
+				return [word, [{ definition: preview }]] as [string, Definition[]];
+			});
+
 			noResultsFound = results.length === 0;
 		} catch (err) {
 			console.error("Search error:", err);
@@ -149,7 +109,9 @@
 <Card class="w-full">
 	<CardHeader>
 		<CardTitle class="text-2xl font-bold text-center">IloCo.</CardTitle>
-		<CardDescription class="text-center">Your comprehensive digital Ilokano dictionary</CardDescription>
+		<CardDescription class="text-center"
+			>Your comprehensive digital Ilokano dictionary</CardDescription
+		>
 		<div class="absolute top-6 right-6 flex items-center space-x-2">
 			<Button on:click={toggleMode} variant="outline" size="icon">
 				<Sun

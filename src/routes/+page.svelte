@@ -23,7 +23,7 @@
 				duration: duration
 			}}
 		>
-			<Definition word={data.word} />
+			<Definition word={data.word} definitions={data.definitions} />
 		</div>
 	{/key}
 </div>
