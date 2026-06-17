@@ -1,128 +1,109 @@
 {
-  "R": [
-    {
-      "definition": "2"
-    },
-    {
-      "definition": "to hold hands. ÁMAN,",
-      "conjugation": "/ to feel weak, exhausted. --syn. KAPUY. 2/ with pl. subject"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to include, take in, allow to participate.",
-      "conjugation": "/MANGI-: I-/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to participate with in an activity.",
-      "conjugation": "/-UM-/"
-    }
-  ],
   "RAAY": [
     {
       "part_of_speech": "n.",
-      "definition": "a cluster (of fruits or rice)."
+      "definition": "A cluster (of fruits or rice)."
     }
   ],
   "RABA": [
     {
       "part_of_speech": "v.",
-      "definition": "to increase, worsen.",
-      "eng_example": "Rose’s sickness worsened.",
+      "definition": "To increase, worsen.",
+      "conjugation": "/-UM-/",
       "ilok_example": "Rimmaba ti sakit ni Rosa.",
-      "conjugation": "/-UM-/"
+      "eng_example": "Rose’s sickness worsened."
     }
   ],
   "RABAK": [
     {
       "part_of_speech": "n.",
-      "definition": "joke, jest, banter."
+      "definition": "Joke, jest, banter."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to joke with, banter, make fun of.",
+      "definition": "To joke with, banter, make fun of.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "RABANOS": [
     {
       "part_of_speech": "n.",
-      "definition": "radish.",
+      "definition": "Radish.",
       "origin": "f. Sp."
     }
   ],
   "RABARAB": [
     {
       "part_of_speech": "v.",
-      "definition": "to trim at the ends.",
-      "eng_example": "Trim the hair of that child.",
+      "definition": "To trim at the ends.",
+      "conjugation": "/MANG-:-AN/",
       "ilok_example": "Rabarabam dayta buok ti ubing.",
-      "conjugation": "/MANG-:-AN/"
+      "eng_example": "Trim the hair of that child."
     }
   ],
   "RABAW": [
     {
       "part_of_speech": "n.",
-      "definition": "top (of)."
+      "definition": "Top (of)."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to go on top of.",
-      "eng_example": "Go on top of that table.",
+      "definition": "To go on top of.",
+      "conjugation": "/-UM-:-AN/",
       "ilok_example": "Rumabaw ka dita lamisaan.",
-      "conjugation": "/-UM-:-AN/"
+      "eng_example": "Go on top of that table."
     }
   ],
   "RABER": [
     {
       "part_of_speech": "adj.",
-      "definition": "thick, lush.",
+      "definition": "Thick, lush.",
       "conjugation": "/NA-/"
     }
   ],
   "RABII": [
     {
       "part_of_speech": "n.",
-      "definition": "night, evening.",
-      "eng_example": "It is already night.",
-      "ilok_example": "Rabiin."
+      "definition": "Night, evening.",
+      "ilok_example": "Rabiin.",
+      "eng_example": "It is already night."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to turn to night.",
+      "definition": "To turn to night.",
       "conjugation": "/-UM-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be caught by darkness or night.",
+      "definition": "To be caught by darkness or night.",
       "conjugation": "/MA--AN/"
     }
   ],
   "RABNGIS": [
     {
       "part_of_speech": "v.",
-      "definition": "to address familiarly, to treat with disrespect.",
-      "eng_example": "Why are you treating me with disrespect?",
+      "definition": "To address familiarly, to treat with disrespect.",
+      "conjugation": "/MANG-:-EN/",
       "ilok_example": "Apay nga rabrabngisen nak?",
-      "conjugation": "/MANG-:-EN/"
+      "eng_example": "Why are you treating me with disrespect?"
     }
   ],
   "RABNIS": [
     {
       "part_of_speech": "v.",
-      "definition": "to snatch away, grab away.",
-      "eng_example": "Don’t snatch away the big knife that the child is holding.",
-      "ilok_example": "Saan mo nga rabnisen dayta buneng nga igiggaman ta ubing.",
+      "definition": "To snatch away, grab away.",
       "conjugation": "/MANG-:-EN/",
+      "ilok_example": "Saan mo nga rabnisen dayta buneng nga igiggaman ta ubing.",
+      "eng_example": "Don’t snatch away the big knife that the child is holding.",
       "synonyms": [
-        "RABNOTA"
+        "RABNOT"
       ]
     }
   ],
   "RABNOT": [
     {
       "part_of_speech": "v.",
-      "definition": "to snatch away, grab away.",
+      "definition": "To snatch away, grab away.",
       "conjugation": "/MANG-:-EN/",
       "synonyms": [
         "RABNIS"
@@ -132,34 +113,34 @@
   "RABOK": [
     {
       "part_of_speech": "v.",
-      "definition": "to come upon by chance, to stumble at, to join or be invited to join by chance.",
-      "eng_example": "We joined their party by chance.",
+      "definition": "To come upon by chance, to stumble at, to join or be invited to join by chance.",
+      "conjugation": "/MAI-/",
       "ilok_example": "Nairabok kami ti pension da.",
-      "conjugation": "/MAI-/"
+      "eng_example": "We joined their party by chance."
     }
   ],
   "RABONG": [
     {
       "part_of_speech": "n.",
-      "definition": "bamboo shoot."
+      "definition": "Bamboo shoot."
     }
   ],
   "RABOY": [
     {
       "part_of_speech": "adj.",
-      "definition": "frail, delicate, easily injured.",
+      "definition": "Frail, delicate, easily injured.",
       "conjugation": "/NA-/"
     }
   ],
   "RABRAB": [
     {
       "part_of_speech": "adj.",
-      "definition": "talkative.",
+      "definition": "Talkative.",
       "conjugation": "/NAG-/"
     },
     {
       "part_of_speech": "adj.",
-      "definition": "greedy, voracious, avaricious.",
+      "definition": "Greedy, voracious, avaricious.",
       "conjugation": "/NAG-/",
       "synonyms": [
         "RAWET"
@@ -169,168 +150,168 @@
   "RADIO": [
     {
       "part_of_speech": "n.",
-      "definition": "radio.",
+      "definition": "Radio.",
       "origin": "f. Eng."
     }
   ],
   "RADRAD": [
     {
       "part_of_speech": "v.",
-      "definition": "to rub vigorously on something.",
-      "eng_example": "Rub the salt vigorously on that meat.",
+      "definition": "To rub vigorously on something.",
+      "conjugation": "/MANGI-: I-/",
       "ilok_example": "Iradrad mo ta asin dita karne.",
-      "conjugation": "/MANGI-: I-/"
+      "eng_example": "Rub the salt vigorously on that meat."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to rub vigorously with something.",
-      "eng_example": "Rub that meat vigorously with salt.",
+      "definition": "To rub vigorously with something.",
+      "conjugation": "/MANG-:-AN/",
       "ilok_example": "Radradam ti asin dayta karne.",
-      "conjugation": "/MANG-:-AN/"
+      "eng_example": "Rub that meat vigorously with salt."
     }
   ],
   "RAEB": [
     {
       "part_of_speech": "v.",
-      "definition": "to go deep inside, to go to the interior of.",
-      "eng_example": "Don’t go deep inside the forest.",
+      "definition": "To go deep inside, to go to the interior of.",
+      "conjugation": "/-UM-/",
       "ilok_example": "Saan kay nga rumaeb dita kabakbakiran.",
-      "conjugation": "/-UM-/"
+      "eng_example": "Don’t go deep inside the forest."
     }
   ],
   "RAEM": [
     {
       "part_of_speech": "v.",
-      "definition": "to treat with respect, to show deference to, to be polite or courteous to, to honor.",
-      "eng_example": "Treat your parents with respect.",
-      "ilok_example": "Raemem daigit naganak kenka.",
-      "conjugation": "/AG-/"
+      "definition": "To treat with respect, to show deference to, to be polite or courteous to, to honor.",
+      "conjugation": "/AG-, MANG-:-EN/",
+      "ilok_example": "Raemem dagiti naganak kenka.",
+      "eng_example": "Treat your parents with respect."
     }
   ],
   "RAEP": [
     {
       "part_of_speech": "v.",
-      "definition": "to transplant rice seedlings.",
+      "definition": "To transplant rice seedlings.",
       "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to transplant (rice seedlings).",
+      "definition": "To transplant (rice seedlings).",
       "conjugation": "/MANGI-: I-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to transplant rice seedlings for someone.",
+      "definition": "To transplant rice seedlings for someone.",
       "conjugation": "/MAKI-/"
     }
   ],
   "RAG-O": [
     {
       "part_of_speech": "n.",
-      "definition": "joy, happiness, delight, exultation."
+      "definition": "Joy, happiness, delight, exultation."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to rejoice, exult.",
-      "eng_example": "The people are rejoicing for their candidate won.",
+      "definition": "To rejoice, exult.",
+      "conjugation": "/AG-/",
       "ilok_example": "Agrag-o dagiti tattao ta nangabak ti kandidato da.",
-      "conjugation": "/AG-/"
+      "eng_example": "The people are rejoicing for their candidate won."
     }
   ],
   "RAGADI": [
     {
       "part_of_speech": "n.",
-      "definition": "carpenter’s saw."
+      "definition": "Carpenter’s saw."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to saw, to cut or wound with a saw.",
+      "definition": "To saw, to cut or wound with a saw.",
       "conjugation": "/AG-, MANG-:-EN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to use to saw something, to saw with.",
+      "definition": "To use to saw something, to saw with.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "RAGAS": [
     {
       "part_of_speech": "v.",
-      "definition": "to cut (a garment).",
+      "definition": "To cut (a garment).",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "RAGPAT": [
     {
       "part_of_speech": "v.",
-      "definition": "to obtain, attain, achieve.",
-      "eng_example": "It is necessary that you attain the highest level of learning.",
+      "definition": "To obtain, attain, achieve.",
+      "conjugation": "/MANG-:-EN/",
       "ilok_example": "Masapul nga ragpatem ti kangatoan nga adal.",
-      "conjugation": "/MANG-:-EN/"
+      "eng_example": "It is necessary that you attain the highest level of learning."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to elevate, raise, advance, lead.",
-      "eng_example": "Lead us to a good life.",
+      "definition": "To elevate, raise, advance, lead.",
+      "conjugation": "/MANGI-: I-/",
       "ilok_example": "Iragpat na kami iti nasayaat nga biag.",
-      "conjugation": "/MANGI-: I-/"
+      "eng_example": "Lead us to a good life."
     }
   ],
   "RAGSAK": [
     {
       "part_of_speech": "n.",
-      "definition": "joy, happiness, merriment."
+      "definition": "Joy, happiness, merriment."
     },
     {
       "part_of_speech": "adj.",
-      "definition": "joyful, happy, merry.",
+      "definition": "Joyful, happy, merry.",
       "conjugation": "/NA-/"
     }
   ],
   "RAGUP": [
     {
       "part_of_speech": "n.",
-      "definition": "assembly, gathering."
+      "definition": "Assembly, gathering."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to join, connect, put together.",
+      "definition": "To join, connect, put together.",
       "conjugation": "/MANGI-: I-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be together, stay together, unite.",
-      "eng_example": "You go to town together.",
+      "definition": "To be together, stay together, unite.",
+      "conjugation": "/AG- + R2/",
       "ilok_example": "Agraragup kayo nga mapan idiay ili.",
-      "conjugation": "/AG-+ R2/"
+      "eng_example": "You go to town together."
     }
   ],
   "RAGUT": [
     {
       "part_of_speech": "v.",
-      "definition": "crave, desire strongly, yearn for.",
-      "eng_example": "Rose yearns to go to America (i.e. the United States).",
+      "definition": "Crave, desire strongly, yearn for.",
+      "conjugation": "/AG-/",
       "ilok_example": "Agragut nga mapan diay Amerika ni Rosa.",
-      "conjugation": "/AG-/"
+      "eng_example": "Rose yearns to go to America (i.e. the United States)."
     }
   ],
   "RAGUTOK": [
     {
       "part_of_speech": "v.",
-      "definition": "to make a cracking sound as burning reeds.",
+      "definition": "To make a cracking sound as burning reeds.",
       "conjugation": "/AG-/"
     }
   ],
   "RAHA": [
     {
       "part_of_speech": "n.",
-      "definition": "rajah."
+      "definition": "Rajah."
     }
   ],
   "RAIT": [
     {
       "part_of_speech": "v.",
-      "definition": "to put alongside of.",
+      "definition": "To put alongside of.",
       "conjugation": "/MANGI-: I-/",
       "synonyms": [
         "DINNA"
@@ -340,10 +321,10 @@
   "RAKAB": [
     {
       "part_of_speech": "v.",
-      "definition": "to fasten, tie.",
-      "eng_example": "Tie the chicken to that post.",
-      "ilok_example": "Irakab mo dayta manok dita adigi.",
+      "definition": "To fasten, tie.",
       "conjugation": "/MANGI-: I-/",
+      "ilok_example": "Irakab mo dayta manok dita adigi.",
+      "eng_example": "Tie the chicken to that post.",
       "synonyms": [
         "RAKED"
       ]
@@ -352,10 +333,10 @@
   "RAKED": [
     {
       "part_of_speech": "v.",
-      "definition": "to fasten, tie.",
-      "eng_example": "Tie the cat to that post.",
-      "ilok_example": "Iraked mo dayta pusa dita poste.",
+      "definition": "To fasten, tie.",
       "conjugation": "/MANGI-: I-/",
+      "ilok_example": "Iraked mo dayta pusa dita poste.",
+      "eng_example": "Tie the cat to that post.",
       "synonyms": [
         "RAKAB"
       ]
@@ -364,95 +345,108 @@
   "RAKEM": [
     {
       "part_of_speech": "n.",
-      "definition": "a reaper’s knife used to cut rice below the ear."
+      "definition": "A reaper’s knife used to cut rice below the ear."
     },
     {
       "part_of_speech": "n.",
-      "definition": "fistful; SANGARAKEM, one fistful."
+      "definition": "Fistful.",
+      "phrases": [
+        {
+          "phrase": "sangarakem",
+          "translation": "one fistful"
+        }
+      ]
     },
     {
       "part_of_speech": "v.",
-      "definition": "to scoop a handful of.",
+      "definition": "To scoop a handful of.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "RAKEP": [
     {
       "part_of_speech": "v.",
-      "definition": "to embrace, hug, clasp to the body.",
+      "definition": "To embrace, hug, clasp to the body.",
       "conjugation": "/AG-, MANG-:-EN/"
     }
   ],
   "RAKIT": [
     {
       "part_of_speech": "n.",
-      "definition": "raft."
+      "definition": "Raft."
     }
   ],
   "RAKRAK": [
     {
       "part_of_speech": "v.",
-      "definition": "to demolish, tear down, tear apart, destroy.",
+      "definition": "To demolish, tear down, tear apart, destroy.",
       "conjugation": "/MANG-:-EN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be demolished.",
+      "definition": "To be demolished.",
       "conjugation": "/MA-/"
     }
   ],
   "RAKURAK": [
     {
       "part_of_speech": "v.",
-      "definition": "to spread, disseminate, broadcast.",
-      "eng_example": "Bad news easily spreads.",
+      "definition": "To spread, disseminate, broadcast.",
+      "conjugation": "/MAI-/",
       "ilok_example": "Nadaras nga mairakurak ti dakes nga damag.",
-      "conjugation": "/MAI-/"
+      "eng_example": "Bad news easily spreads."
     }
   ],
-  "RAM": [
+  "RAMAN": [
     {
       "part_of_speech": "n.",
-      "definition": "taste, flavor.",
-      "common_forms": [
-        "ÁN"
-      ]
+      "definition": "Taste, flavor."
     },
     {
       "part_of_speech": "v.",
-      "definition": "1. to taste, flavor.",
-      "eng_example": "Do you want to taste what I am cooking? 2. usually with",
+      "definition": "To taste, flavor.",
+      "conjugation": "/-UM-:-AN/",
       "ilok_example": "Kayat mo nga ramanan daytoy lutlutoek?",
-      "conjugation": "/-UM-:-AN/"
+      "eng_example": "Do you want to taste what I am cooking?"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be able to experience or undergo.",
-      "eng_example": "He experienced not eating for one day.",
+      "definition": "To be able to experience or undergo.",
+      "conjugation": "/MAKA-: MA--AN/",
       "ilok_example": "Naramanan na ti di nga mangan ti maysa nga aldaw.",
-      "conjugation": "/MAKA-: MA--AN/"
+      "eng_example": "He experienced not eating for one day."
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "To include, take in, allow to participate.",
+      "conjugation": "/MANGI-: I-/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "To participate with in an activity.",
+      "conjugation": "/-UM-/"
     }
   ],
   "RAM-OY": [
     {
       "part_of_speech": "v.",
-      "definition": "to buy at less than the real value.",
+      "definition": "To buy at less than the real value.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "RAMARAM": [
     {
       "part_of_speech": "v.",
-      "definition": "to spread to, extend to, affect.",
-      "eng_example": "Take that cloth far from the fire lest it spreads to it.",
+      "definition": "To spread to, extend to, affect.",
+      "conjugation": "/MANG-:-EN/",
       "ilok_example": "Iyadayom dayta lupot dita apoy ta dinanto ket ramaramen.",
-      "conjugation": "/MANG-:-EN/"
+      "eng_example": "Take that cloth far from the fire lest it spreads to it."
     }
   ],
   "RAMAS": [
     {
       "part_of_speech": "v.",
-      "definition": "to squeeze, crush, or knead with the hand while turning over.",
+      "definition": "To squeeze, crush, or knead with the hand while turning over.",
       "conjugation": "/MANG-:-EN/",
       "synonyms": [
         "GAMAY"
@@ -462,142 +456,140 @@
   "RAMAY": [
     {
       "part_of_speech": "n.",
-      "definition": "finger, toe."
+      "definition": "Finger, toe."
     }
   ],
   "RAMBAK": [
     {
       "part_of_speech": "n.",
-      "definition": "feast, festival, festivity, celebration."
+      "definition": "Feast, festival, festivity, celebration."
     },
     {
       "part_of_speech": "adj.",
-      "definition": "joyous, pompous, gala.",
+      "definition": "Joyous, pompous, gala.",
       "conjugation": "/NA-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to celebrate, rejoice, be happy.",
-      "eng_example": "Let’s celebrate for our candidate won.",
+      "definition": "To celebrate, rejoice, be happy.",
+      "conjugation": "/AG-/",
       "ilok_example": "Agrambak tayo ta nangabak ti kandidato tayo.",
-      "conjugation": "/AG-/"
+      "eng_example": "Let’s celebrate for our candidate won."
     }
   ],
   "RAMIT": [
     {
       "part_of_speech": "n.",
-      "definition": "implement, tool, appliance."
+      "definition": "Implement, tool, appliance."
     }
   ],
   "RAMOK": [
     {
       "part_of_speech": "adj.",
-      "definition": "abundant, copious, plentiful.",
+      "definition": "Abundant, copious, plentiful.",
       "conjugation": "/NA-/"
     }
   ],
   "RAMOT": [
     {
-      "definition": "n, root."
+      "part_of_speech": "n.",
+      "definition": "Root."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to develop or grow roots.",
+      "definition": "To develop or grow roots.",
       "conjugation": "/AG-/"
     }
   ],
   "RANA": [
     {
       "part_of_speech": "v.",
-      "definition": "to do (an action) at approximately the same time as another.",
-      "conjugation": "/MANGI-: I-/",
-      "common_forms": [
-        "or"
-      ]
+      "definition": "To do (an action) at approximately the same time as another.",
+      "conjugation": "/MANGI-: I-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to happen or occur at approximately the same time as another action or event.",
+      "definition": "To happen or occur at approximately the same time as another action or event.",
       "conjugation": "/MAI-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to meet or see each other by prearrangement.",
-      "conjugation": "/AG-/ with pl. subject"
+      "definition": "To meet or see each other by prearrangement.",
+      "conjugation": "/AG-/"
     }
   ],
   "RANG-AY": [
     {
       "part_of_speech": "adj.",
-      "definition": "prosperous, affluent, well-off, wealthy.",
+      "definition": "Prosperous, affluent, well-off, wealthy.",
       "conjugation": "/NA-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to become this.",
-      "eng_example": "Our town became prosperous.",
+      "definition": "To become prosperous, affluent, well-off, wealthy.",
+      "conjugation": "/-UM-/",
       "ilok_example": "Rimmang-ay ti ili mi.",
-      "conjugation": "/-UM-/"
+      "eng_example": "Our town became prosperous."
     }
   ],
   "RANGEN": [
     {
       "part_of_speech": "v.",
-      "definition": "to flare up, blaze up; to be aroused, inflamed.",
-      "eng_example": "The fire blazed up.",
+      "definition": "To flare up, blaze up; to be aroused, inflamed.",
+      "conjugation": "/-UM-/",
       "ilok_example": "Rimmangen ti apoy.",
-      "conjugation": "/-UM-/"
+      "eng_example": "The fire blazed up."
     }
   ],
   "RANGET": [
     {
       "part_of_speech": "n.",
-      "definition": "fight, battle, combat."
+      "definition": "Fight, battle, combat."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to fight, to engage in a combat or battle.",
-      "eng_example": "The soldiers of America and Japan engaged in a combat.",
-      "ilok_example": "Nagrangep dagiti soldado ti Amerika ken Hapon.",
-      "conjugation": "/AG-/ with pl. subject"
+      "definition": "To fight, to engage in combat or battle.",
+      "conjugation": "/AG-/",
+      "ilok_example": "Nagranget dagiti soldado ti Amerika ken Hapon.",
+      "eng_example": "The soldiers of America and Japan engaged in combat."
     }
   ],
   "RANGGAS": [
     {
       "part_of_speech": "adj.",
-      "definition": "cruel, injurious, destructive, harmful.",
+      "definition": "Cruel, injurious, destructive, harmful.",
       "conjugation": "/NA-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to harm, injure, hurt.",
-      "eng_example": "Don’t harm that child.",
+      "definition": "To harm, injure, hurt.",
+      "conjugation": "/MANG-:-AN/",
       "ilok_example": "Saan mo nga ranggasan dayta ubing.",
-      "conjugation": "/MANG-:-AN/"
+      "eng_example": "Don’t harm that child."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be harmed or injured by someone through black magic.",
+      "definition": "To be harmed or injured by someone through black magic.",
       "conjugation": "/MA--AN/"
     }
   ],
   "RANGKAP": [
     {
       "part_of_speech": "v.",
-      "definition": "to gain, profit.",
-      "eng_example": "An industrious person will gain many things.",
+      "definition": "To gain, profit.",
+      "conjugation": "/AG-:-EN/",
       "ilok_example": "Adu ti rangkapen ti tao nga nagaget.",
-      "conjugation": "/AG-:-EN/"
+      "eng_example": "An industrious person will gain many things."
     }
   ],
   "RANGKAY": [
     {
       "part_of_speech": "v.",
-      "definition": "to cut up, to cut into pieces, to chop or carve.",
-      "eng_example": "Cut that chicken into several pieces.",
-      "ilok_example": "Rangrangkayem dayta manok.",
+      "definition": "To cut up, to cut into pieces, to chop or carve.",
       "conjugation": "/MANG-:-EN/",
-      "common_forms": [
+      "ilok_example": "Rangrangkayem dayta manok.",
+      "eng_example": "Cut that chicken into several pieces.",
+      "variations": [
         "RANGRANGKAY"
       ]
     }
@@ -605,26 +597,26 @@
   "RANGPAYA": [
     {
       "part_of_speech": "adj.",
-      "definition": "branchy, full of branches.",
+      "definition": "Branchy, full of branches.",
       "conjugation": "/NA-/"
     }
   ],
   "RANGRANG": [
     {
       "part_of_speech": "adj.",
-      "definition": "blazing, flaring, glaring, dazzling.",
+      "definition": "Blazing, flaring, glaring, dazzling.",
       "conjugation": "/NA-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to become this.",
+      "definition": "To become blazing, flaring, glaring, dazzling.",
       "conjugation": "/-UM-/"
     }
   ],
   "RANGTAY": [
     {
       "part_of_speech": "n.",
-      "definition": "bridge.",
+      "definition": "Bridge.",
       "synonyms": [
         "KALANTAY"
       ]
@@ -633,195 +625,202 @@
   "RANSO": [
     {
       "part_of_speech": "n.",
-      "definition": "ranch.",
+      "definition": "Ranch.",
       "origin": "f. Sp."
     }
   ],
   "RANUD": [
     {
       "part_of_speech": "v.",
-      "definition": "to share.",
-      "conjugation": "/AG- + R2: PAG- + R2/ with pl. subject"
+      "definition": "To share.",
+      "conjugation": "/AG- + R2: PAG- + R2/"
     }
   ],
   "RANYAG": [
     {
       "part_of_speech": "adj.",
-      "definition": "very bright, brilliant, lustrous.",
+      "definition": "Very bright, brilliant, lustrous.",
       "conjugation": "/NA-/"
     }
   ],
   "RAOT": [
     {
       "part_of_speech": "v.",
-      "definition": "to attack, invade.",
-      "eng_example": "We go attack the robbers.",
+      "definition": "To attack, invade.",
+      "conjugation": "/MANG-:-EN/",
       "ilok_example": "Mapan mi raoten dagiti tulisan.",
-      "conjugation": "/MANG-:-EN/"
+      "eng_example": "We go attack the robbers."
     }
   ],
   "RAPAS": [
     {
       "part_of_speech": "adj.",
-      "definition": "being a person whose palm is traversed by a straight and continuous line."
+      "definition": "Being a person whose palm is traversed by a straight and continuous line."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to cut at one stroke.",
+      "definition": "To cut at one stroke.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "RAPIN": [
     {
       "part_of_speech": "v.",
-      "definition": "to be stuck together, to be side by side each other.",
-      "eng_example": "The money you gave me is stuck together.",
+      "definition": "To be stuck together, to be side by side each other.",
+      "conjugation": "/AG-/",
       "ilok_example": "Nagrapin toy kuarta nga inted mo kaniak.",
-      "conjugation": "/AG-/ with pl. subject"
+      "eng_example": "The money you gave me is stuck together."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to insert, put between, enclose.",
-      "eng_example": "I inserted the one peso in my letter.",
+      "definition": "To insert, put between, enclose.",
+      "conjugation": "/MANGI-: I-/",
       "ilok_example": "Inrapin ko tay pisos idiay surat ko.",
-      "conjugation": "/MANGI-: I-/"
+      "eng_example": "I inserted the one peso in my letter."
     }
   ],
   "RAPIS": [
     {
       "part_of_speech": "adj.",
-      "definition": "slender, slim, thin.",
+      "definition": "Slender, slim, thin.",
       "conjugation": "/NA-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to become this.",
+      "definition": "To become slender, slim, thin.",
       "conjugation": "/-UM-/"
     }
   ],
   "RAPIT": [
     {
       "part_of_speech": "v.",
-      "definition": "to take two or more with one hand.",
+      "definition": "To take two or more with one hand.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "RAPOK": [
     {
       "part_of_speech": "n.",
-      "definition": "commotion."
+      "definition": "Commotion."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to do something with another or others, to join another or others in an activity.",
+      "definition": "To do something with another or others, to join another or others in an activity.",
       "conjugation": "/MAKI-: KA-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to do something jointly or together.",
-      "conjugation": "/AG-/ with pl. subject"
+      "definition": "To do something jointly or together.",
+      "conjugation": "/AG-/"
     }
   ],
   "RARASA": [
     {
-      "definition": "see RASA."
+      "part_of_speech": "n.",
+      "definition": "A kind of large edible crab.",
+      "cross_references": [
+        "RASA"
+      ]
     }
   ],
   "RAREK": [
     {
       "part_of_speech": "n.",
-      "definition": "rhonchus, rattle, rale."
+      "definition": "Rhonchus, rattle, rale."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to have rhonchus, rale, or rattle.",
+      "definition": "To have rhonchus, rale, or rattle.",
       "conjugation": "/AG-/"
     }
   ],
   "RAREM": [
     {
       "part_of_speech": "v.",
-      "definition": "to immerse, dip (into water).",
-      "eng_example": "Dip your head into the water.",
+      "definition": "To immerse, dip (into water).",
+      "conjugation": "/MANGI-: I-/",
       "ilok_example": "Irarem mo dayta ulom dita danum.",
-      "conjugation": "/MANGI-: I-/"
+      "eng_example": "Dip your head into the water."
     }
   ],
   "RARIT": [
     {
       "part_of_speech": "v.",
-      "definition": "to devastate, ravage, destroy, ruin.",
+      "definition": "To devastate, ravage, destroy, ruin.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "RASA": [
     {
       "part_of_speech": "n.",
-      "definition": "a kind of large edible crab. ; RARASA,"
+      "definition": "A kind of large edible crab.",
+      "variations": [
+        "RARASA"
+      ]
     },
     {
       "part_of_speech": "n.",
-      "definition": "a cutaneous eruption caused by sitting on a carabao or constant walking through tall grasses and rice plants."
+      "definition": "A cutaneous eruption caused by sitting on a carabao or constant walking through tall grasses and rice plants."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be afflicted with this.",
+      "definition": "To be afflicted with a cutaneous eruption caused by sitting on a carabao or constant walking through tall grasses and rice plants.",
       "conjugation": "/AG-/"
     }
   ],
   "RASAY": [
     {
       "part_of_speech": "adj.",
-      "definition": "1. scarce, very few. 2. rare, infrequent. 3. sparse, thin."
+      "definition": "1. Scarce, very few. 2. Rare, infrequent. 3. Sparse, thin."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to become any of these.",
+      "definition": "To become scarce, rare, or sparse.",
       "conjugation": "/-UM-/"
     }
   ],
   "RASI": [
     {
       "part_of_speech": "adj.",
-      "definition": "delicate, fragile, frangible.",
+      "definition": "Delicate, fragile, frangible.",
       "conjugation": "/NA-/"
     }
   ],
   "RASOK": [
     {
       "part_of_speech": "v.",
-      "definition": "to flare up, blaze.",
-      "eng_example": "The fire flared up due to the much wind.",
+      "definition": "To flare up, blaze.",
+      "conjugation": "/-UM-/",
       "ilok_example": "Rimmasok ti apoy gapo ti kinaangin na.",
-      "conjugation": "/-UM-/"
+      "eng_example": "The fire flared up due to the strong wind."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to produce steam, steam up.",
+      "definition": "To produce steam, steam up.",
       "conjugation": "/AG-/"
     }
   ],
   "RASYON": [
     {
       "part_of_speech": "n.",
-      "definition": "ration.",
+      "definition": "Ration.",
       "origin": "f. Sp."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to ration to.",
+      "definition": "To ration to.",
       "conjugation": "/AG-, MANG-:-AN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to distribute as ration, to ration.",
+      "definition": "To distribute as ration, to ration.",
       "conjugation": "/AGI-, MANGI-: I-/"
     }
   ],
   "RATA": [
     {
       "part_of_speech": "n.",
-      "definition": "chink, crack; a small cleft or fissure.",
+      "definition": "Chink, crack; a small cleft or fissure.",
       "synonyms": [
         "RIKKI"
       ]
@@ -830,18 +829,18 @@
   "RATIW": [
     {
       "part_of_speech": "adj.",
-      "definition": "very slim or slender, very thin.",
+      "definition": "Very slim or slender, very thin.",
       "conjugation": "/NA-/"
     }
   ],
   "RAWAY": [
     {
       "part_of_speech": "adj.",
-      "definition": "branchy, full of branches.",
+      "definition": "Branchy, full of branches.",
       "synonyms": [
         "RANGPAYA"
       ],
-      "common_forms": [
+      "variations": [
         "RAWAYRAWAYAN"
       ]
     }
@@ -849,285 +848,297 @@
   "RAWET": [
     {
       "part_of_speech": "adj.",
-      "definition": "voracious, gluttonous, ravenous.",
-      "conjugation": "/(NA-)/"
+      "definition": "Voracious, gluttonous, ravenous.",
+      "conjugation": "/NA-/"
     }
   ],
   "RAY-AW": [
     {
       "part_of_speech": "v.",
-      "definition": "to make laugh, to amuse, entertain.",
+      "definition": "To make laugh, to amuse, entertain.",
       "conjugation": "/MANG-:-AN/"
     }
   ],
   "RAYO": [
     {
       "part_of_speech": "v.",
-      "definition": "to be attracted to, to be pleased with, to like, be fond of.",
-      "eng_example": "Many are attracted to her.",
-      "ilok_example": "Adu to agrayo kenkuana.",
-      "conjugation": "/AG-: PAG--AN/"
+      "definition": "To be attracted to, to be pleased with, to like, be fond of.",
+      "conjugation": "/AG-: PAG--AN/",
+      "ilok_example": "Adu ti agrayo kenkuana.",
+      "eng_example": "Many are attracted to her."
     }
   ],
   "RAYOS": [
     {
       "part_of_speech": "n.",
-      "definition": "spoke of a wheel.",
+      "definition": "Spoke of a wheel.",
       "origin": "f. Sp."
     }
   ],
   "RAYRAY": [
     {
       "part_of_speech": "v.",
-      "definition": "to light up brightly, to flash, flare up.",
-      "eng_example": "Their lamp lit up brightly.",
+      "definition": "To light up brightly, to flash, flare up.",
+      "conjugation": "/-UM-/",
       "ilok_example": "Rimmayray diay silaw da.",
-      "conjugation": "/-UM-/"
+      "eng_example": "Their lamp lit up brightly."
     }
   ],
   "RAYUMA": [
     {
       "part_of_speech": "n.",
-      "definition": "rheumatism.",
+      "definition": "Rheumatism.",
       "origin": "f. Sp."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be afflicted with this.",
+      "definition": "To be afflicted with rheumatism.",
       "conjugation": "/AG-/"
     }
   ],
   "REBBA": [
     {
       "part_of_speech": "v.",
-      "definition": "to tear down, demolish, destroy.",
-      "eng_example": "Don’t demolish our house.",
+      "definition": "To tear down, demolish, destroy.",
+      "conjugation": "/MANG-:-EN/",
       "ilok_example": "Saan mo nga rebbaen dayta balay mi.",
-      "conjugation": "/MANG-:-EN/"
+      "eng_example": "Don’t demolish our house."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to collapse, to be wrecked.",
-      "eng_example": "Their fence collapsed.",
-      "ilok_example": "Narba diay alad da.",
+      "definition": "To collapse, to be wrecked.",
       "conjugation": "/MA-/",
-      "origin": "= MARBA"
+      "ilok_example": "Narba diay alad da.",
+      "eng_example": "Their fence collapsed.",
+      "variations": [
+        "MARBA"
+      ]
     }
   ],
   "REBBEK": [
     {
       "part_of_speech": "v.",
-      "definition": "to raze, ravage, devastate, ruin.",
+      "definition": "To raze, ravage, devastate, ruin.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "REBBENG": [
     {
       "part_of_speech": "n.",
-      "definition": "duty, obligation, responsibility."
+      "definition": "Duty, obligation, responsibility."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be proper, just, reasonable, fit, becoming.",
-      "eng_example": "That act of yours is not becoming.",
-      "ilok_example": "Saan nga rumbeng dayta nga aramid mo.",
+      "definition": "To be proper, just, reasonable, fit, becoming.",
       "conjugation": "/-UM-/",
-      "origin": "= RUMBENG"
+      "ilok_example": "Saan nga rumbeng dayta nga aramid mo.",
+      "eng_example": "That act of yours is not becoming.",
+      "variations": [
+        "RUMBENG"
+      ]
     }
   ],
   "REBOLBER": [
     {
       "part_of_speech": "n.",
-      "definition": "revolver (a pistol).",
-      "origin": "rεbolbεr; f. Eng."
+      "definition": "Revolver (a pistol).",
+      "origin": "f. Eng."
     }
   ],
   "REBOLUSION": [
     {
       "part_of_speech": "n.",
-      "definition": "revolution.",
+      "definition": "Revolution.",
       "origin": "f. Sp."
     }
   ],
   "REBOLUSIONARIO": [
     {
       "part_of_speech": "adj.",
-      "definition": "revolutionary.",
-      "origin": "rεbolusionario; f. Sp."
+      "definition": "Revolutionary.",
+      "origin": "f. Sp."
     }
   ],
   "REBREB": [
     {
       "part_of_speech": "v.",
-      "definition": "to plunge into, immerse, sink in.",
-      "eng_example": "Don’t plunge yourself into evil.",
+      "definition": "To plunge into, immerse, sink in.",
+      "conjugation": "/MANGI-: I-/",
       "ilok_example": "Saan mo nga irebreb ta bagim ti kinadakes.",
-      "conjugation": "/MANGI-: I-/"
+      "eng_example": "Don’t plunge yourself into evil."
     }
   ],
   "REBULTO": [
     {
-      "definition": "var. of BULTO.",
-      "origin": "rεbulto"
+      "part_of_speech": "n.",
+      "definition": "Statue, image.",
+      "cross_references": [
+        "BULTO"
+      ],
+      "variations": [
+        "BULTO"
+      ]
     }
   ],
   "REDDEK": [
     {
       "part_of_speech": "n.",
-      "definition": "sparerib."
+      "definition": "Sparerib."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to cut into (smaller) parts or pieces, to cut up.",
-      "eng_example": "Cut those bones into smaller pieces.",
+      "definition": "To cut into (smaller) parts or pieces, to cut up.",
+      "conjugation": "/MANG-:-EN/",
       "ilok_example": "Reddekem dagita tultulang.",
-      "conjugation": "/MANG-:-EN/"
+      "eng_example": "Cut those bones into smaller pieces."
     }
   ],
   "REELEKSIONISTA": [
     {
       "part_of_speech": "n.",
-      "definition": "reelectionist.",
-      "origin": "rεεlεksionista; f. Sp."
+      "definition": "Reelectionist.",
+      "origin": "f. Sp."
     }
   ],
   "REGGAAY": [
     {
       "part_of_speech": "v.",
-      "definition": "to cause to collapse, crumble down.",
+      "definition": "To cause to collapse, crumble down.",
       "conjugation": "/MANG-:-EN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to collapse, crumble down.",
-      "eng_example": "The bridge in our town collapsed.",
-      "ilok_example": "Nargaay ti rangtay idiay ili mi.",
+      "definition": "To collapse, crumble down.",
       "conjugation": "/MA-/",
-      "origin": "= MARGAAY"
+      "ilok_example": "Nargaay ti rangtay idiay ili mi.",
+      "eng_example": "The bridge in our town collapsed.",
+      "variations": [
+        "MARGAAY"
+      ]
     }
   ],
   "REGGES": [
     {
       "part_of_speech": "v.",
-      "definition": "to tear off or detach by twisting or pulling.",
+      "definition": "To tear off or detach by twisting or pulling.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "REGGET": [
     {
       "part_of_speech": "adj.",
-      "definition": "diligent, earnest, assiduous (in doing something).",
-      "eng_example": "Peter is diligent in searching for something.",
+      "definition": "Diligent, earnest, assiduous (in doing something).",
+      "conjugation": "/NA-/",
       "ilok_example": "Naregget nga agsapul ni Pedro.",
-      "conjugation": "/NA-/"
+      "eng_example": "Peter is diligent in searching for something."
     }
   ],
   "REGKANG": [
     {
       "part_of_speech": "n.",
-      "definition": "interstice, crevice, crack.",
-      "eng_example": "The young man peeped through the crack in the wall.",
-      "ilok_example": "Simmirip diay baro iti regkang ti diding."
+      "definition": "Interstice, crevice, crack.",
+      "ilok_example": "Simmirip diay baro iti regkang ti diding.",
+      "eng_example": "The young man peeped through the crack in the wall."
     }
   ],
   "REGREG": [
     {
       "part_of_speech": "v.",
-      "definition": "to drop, cause to fall down.",
+      "definition": "To drop, cause to fall down.",
       "conjugation": "/MANG-:-EN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to drop down, fall down.",
-      "eng_example": "The fruit of the tree dropped down.",
+      "definition": "To drop down, fall down.",
+      "conjugation": "/MA-/",
       "ilok_example": "Naregreg diay bunga ti kayo.",
-      "conjugation": "/MA- /"
+      "eng_example": "The fruit of the tree dropped down."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to become sick due according to folk belief to having “dropped” or lost part of his soul or spirit.",
+      "definition": "To become sick due (according to folk belief) to having “dropped” or lost part of his soul or spirit.",
       "conjugation": "/MAKA-/"
     }
   ],
   "REGTA": [
     {
       "part_of_speech": "adj.",
-      "definition": "upright, virtuous, just.",
+      "definition": "Upright, virtuous, just.",
       "conjugation": "/NA-/"
     }
   ],
   "REHION": [
     {
       "part_of_speech": "n.",
-      "definition": "region.",
+      "definition": "Region.",
       "origin": "f. Sp."
     }
   ],
   "REHISTRADO": [
     {
       "part_of_speech": "adj.",
-      "definition": "registered.",
+      "definition": "Registered.",
       "origin": "f. Sp."
     }
   ],
   "REKADO": [
     {
       "part_of_speech": "n.",
-      "definition": "spice, condiment, seasoning.",
-      "origin": "rεkado; f. Sp."
+      "definition": "Spice, condiment, seasoning.",
+      "origin": "f. Sp."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to add spice, condiment or seasoning to.",
+      "definition": "To add spice, condiment, or seasoning to.",
       "conjugation": "/MANG-:-AN/"
     }
   ],
   "REKKET": [
     {
       "part_of_speech": "v.",
-      "definition": "to stick together.",
-      "eng_example": "My papers stuck together.",
+      "definition": "To stick together.",
+      "conjugation": "/AG-/",
       "ilok_example": "Nagrekket dagiti papel ko.",
-      "conjugation": "/AG-/ with pl. subject"
+      "eng_example": "My papers stuck together."
     }
   ],
   "REKOMENDA": [
     {
       "part_of_speech": "v.",
-      "definition": "to recommend.",
+      "definition": "To recommend.",
       "conjugation": "/MANGI-: I-/",
-      "origin": "rεkomεnda; f. Sp."
+      "origin": "f. Sp."
     }
   ],
   "REKOMENDASION": [
     {
       "part_of_speech": "n.",
-      "definition": "recommendation.",
-      "origin": "rεkomεndasion; f. Sp."
+      "definition": "Recommendation.",
+      "origin": "f. Sp."
     }
   ],
   "REKORD": [
     {
       "part_of_speech": "n.",
-      "definition": "record.",
-      "origin": "rεkord; f. Eng."
+      "definition": "Record.",
+      "origin": "f. Eng."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to record.",
+      "definition": "To record.",
       "conjugation": "/MANGI-: I-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be recorded.",
+      "definition": "To be recorded.",
       "conjugation": "/MAI-/"
     }
   ],
   "RUM": [
     {
       "part_of_speech": "n.",
-      "definition": "rum.",
-      "origin": "f. Sp.?"
+      "definition": "Rum.",
+      "origin": "f. Sp."
     }
   ]
 }

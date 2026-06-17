@@ -2,7 +2,7 @@
   "WAB": [
     {
       "part_of_speech": "v.",
-      "definition": "to yawn.",
+      "definition": "To yawn.",
       "conjugation": "/AG-/",
       "synonyms": [
         "SUYAAB"
@@ -12,55 +12,62 @@
   "WADAG": [
     {
       "part_of_speech": "v.",
-      "definition": "to fling aside with the extended arm, to push or throw aside.",
+      "definition": "To fling aside with the extended arm, to push or throw aside.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WADAN": [
     {
-      "definition": "var. of PAGWADAN."
+      "part_of_speech": "n.",
+      "definition": "Pattern, model, example.",
+      "variations": [
+        "PAGWADAN"
+      ],
+      "cross_references": [
+        "PAGWADAN"
+      ]
     }
   ],
   "WADAWAD": [
     {
       "part_of_speech": "v.",
-      "definition": "to fling one’s arms left and right.",
+      "definition": "To fling one’s arms left and right.",
       "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to strike with the arms flinging left and right.",
+      "definition": "To strike with the arms flinging left and right.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WADWAD": [
     {
       "part_of_speech": "adj.",
-      "definition": "abundant, much, many, plentiful, ample.",
-      "eng_example": "Ample patience is needed.",
+      "definition": "Abundant, much, many, plentiful, ample.",
+      "conjugation": "/NA-/",
       "ilok_example": "Masapul ti nawadwad nga anus.",
-      "conjugation": "/NA-/"
+      "eng_example": "Ample patience is needed."
     }
   ],
   "WAGAS": [
     {
       "part_of_speech": "n.",
-      "definition": "method, way.",
-      "eng_example": "Don’t you think of the more convenient method of fishing?",
-      "ilok_example": "Diyo kadi mapampanunot no ania dagiti nanamnam-ay nga wagas ti panagkalap?"
+      "definition": "Method, way, manner, technique.",
+      "ilok_example": "Diyo kadi mapampanunot no ania dagiti nanamnam-ay nga wagas ti panagkalap?",
+      "eng_example": "Don’t you think of the more convenient method of fishing?"
     }
   ],
   "WAGAT": [
     {
       "part_of_speech": "v.",
-      "definition": "to mislay or misplace.",
+      "definition": "To mislay or misplace.",
       "conjugation": "/MAKAI-: MAI-/"
     }
   ],
   "WAGAYWAY": [
     {
       "part_of_speech": "n.",
-      "definition": "flag, banner, streamer.",
+      "definition": "Flag, banner, streamer.",
       "synonyms": [
         "BANDERA"
       ]
@@ -69,162 +76,160 @@
   "WAGSAK": [
     {
       "part_of_speech": "v.",
-      "definition": "to shake strongly, as a heavy piece of cloth, by holding it at two corners.",
+      "definition": "To shake strongly, as a heavy piece of cloth, by holding it at two corners.",
       "conjugation": "/AGI-, MANGI-: I-/"
     }
   ],
   "WAGWAG": [
     {
       "part_of_speech": "n.",
-      "definition": "a variety of awned early rice with lightcolored hull, few awns and white kernel."
+      "definition": "A variety of awned early rice with light-colored hull, few awns, and white kernel."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to shake someone or something.",
+      "definition": "To shake someone or something.",
       "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to shake.",
-      "conjugation": "/MANG- :-EN/"
+      "definition": "To shake.",
+      "conjugation": "/MANG-:-EN/"
     }
   ],
   "WAIG": [
     {
       "part_of_speech": "n.",
-      "definition": "brook, creek, rivulet."
+      "definition": "Brook, creek, rivulet."
     }
   ],
   "WAK": [
     {
       "part_of_speech": "n.",
-      "definition": "crow.",
+      "definition": "Crow.",
       "variations": [
-        "(dial.) UWWAK"
+        "UWWAK"
       ]
     }
   ],
   "WAKAS": [
     {
       "part_of_speech": "v.",
-      "definition": "to get rid of, free oneself of, finish off satisfactily.",
-      "eng_example": "I would like if possible to get rid of all my debts befe our departure.",
+      "definition": "To get rid of, free oneself of, finish off satisfactorily.",
+      "conjugation": "/MANGI-: I-, MANG-:-EN/",
       "ilok_example": "Kayat ko kuma nga iwakas amin nga utang ko sakbay ti ipapanaw mi.",
-      "conjugation": "/MANG-:-EN/",
-      "common_forms": [
-        "or"
-      ]
+      "eng_example": "I would like if possible to get rid of all my debts before our departure."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to clear up as the weather after a storm.",
-      "eng_example": "The sky finally cleared up.",
+      "definition": "To clear up as the weather after a storm.",
+      "conjugation": "/MANG-/",
       "ilok_example": "Nangwakas met laeng ti langit.",
-      "conjugation": "/MANG-/"
+      "eng_example": "The sky finally cleared up."
     }
   ],
   "WAKAWAK": [
     {
       "part_of_speech": "v.",
-      "definition": "to sprinkle with dust or powder.",
+      "definition": "To sprinkle with dust or powder.",
       "conjugation": "/MANG-:-AN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to sprinkle (dust or powder) on something.",
+      "definition": "To sprinkle (dust or powder) on something.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WAKRAY": [
     {
       "part_of_speech": "v.",
-      "definition": "to let loose, dishevel (hair).",
+      "definition": "To let loose, dishevel (hair).",
       "conjugation": "/MANG-:-EN/"
     },
     {
       "part_of_speech": "adj.",
-      "definition": "loose, disheveled: said of hair."
+      "definition": "Loose, disheveled: said of hair."
     }
   ],
   "WAKSI": [
     {
       "part_of_speech": "v.",
-      "definition": "to stop wearing one’s clothes for mourning.",
+      "definition": "To stop wearing one’s clothes for mourning.",
       "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to rid oneself of (sorrow, worries, etc.).",
+      "definition": "To rid oneself of (sorrow, worries, etc.).",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WALANG": [
     {
       "part_of_speech": "adj.",
-      "definition": "loose, astray.",
-      "eng_example": "Their neighbors have many loose pigs and dogs.",
-      "ilok_example": "Adu ti walang nga baboy ken aso dagiti karruba da."
+      "definition": "Loose, astray.",
+      "ilok_example": "Adu ti walang nga baboy ken aso dagiti karruba da.",
+      "eng_example": "Their neighbors have many loose pigs and dogs."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to wander, be wayward, be loose.",
+      "definition": "To wander, be wayward, be loose.",
       "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be abandoned, forsaken.",
+      "definition": "To be abandoned, forsaken.",
       "conjugation": "/MAI-/"
     }
   ],
   "WALANGWALANG": [
     {
       "part_of_speech": "adj.",
-      "definition": "wandering."
+      "definition": "Wandering."
     }
   ],
   "WALAWAL": [
     {
       "part_of_speech": "n.",
-      "definition": "a kind of dibble used to make holes in the ground especially for fences."
+      "definition": "A kind of dibble used to make holes in the ground especially for fences."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to use to make a hole in the ground.",
+      "definition": "To use to make a hole in the ground.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WALI": [
     {
       "part_of_speech": "v.",
-      "definition": "to wobble: said of a tooth or a post.",
+      "definition": "To wobble: said of a tooth or a post.",
       "conjugation": "/AG-/",
-      "common_forms": [
+      "variations": [
         "WALIWALI"
       ]
     },
     {
       "part_of_speech": "v.",
-      "definition": "to cause (a tooth or a post) to wobble.",
+      "definition": "To cause (a tooth or a post) to wobble.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "WALIN": [
     {
       "part_of_speech": "v.",
-      "definition": "to push aside or out of one’s way.",
+      "definition": "To push aside or out of one’s way.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WALLAGES": [
     {
       "part_of_speech": "v.",
-      "definition": "to throw aside.",
+      "definition": "To throw aside.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WALO": [
     {
-      "definition": "num. eight; 8.",
+      "part_of_speech": "num.",
+      "definition": "Eight; 8.",
       "synonyms": [
         "OTSO"
       ]
@@ -233,132 +238,132 @@
   "WANAS": [
     {
       "part_of_speech": "v.",
-      "definition": "to do from the beginning to the end.",
+      "definition": "To do from the beginning to the end.",
       "conjugation": "/MANG-:-EN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to finish doing from the beginning to the end.",
+      "definition": "To finish doing from the beginning to the end.",
       "conjugation": "/MA-/"
     }
   ],
   "WANAWAN": [
     {
       "part_of_speech": "v.",
-      "definition": "to watch for, focus one’s attention upon.",
+      "definition": "To watch for, focus one’s attention upon.",
       "conjugation": "/MANG-:-AN/"
     }
   ],
   "WANG-IL": [
     {
       "part_of_speech": "v.",
-      "definition": "to shake one’s head: said of animals.",
+      "definition": "To shake one’s head: said of animals.",
       "conjugation": "/AG-/"
     }
   ],
   "WANGAWANGAN": [
     {
       "part_of_speech": "n.",
-      "definition": "mouth of a river, a cave, a hole, etc."
+      "definition": "Mouth of a river, a cave, a hole, etc."
     }
   ],
   "WANGWANG": [
     {
       "part_of_speech": "n.",
-      "definition": "abyss, chasm, gulf."
+      "definition": "Abyss, chasm, gulf."
     }
   ],
   "WARA": [
     {
       "part_of_speech": "v.",
-      "definition": "to scatter, strew.",
-      "eng_example": "Who strewed these clothes here?",
-      "ilok_example": "Sino ti nangiwawa kadagitoy luplupot ditoy?",
-      "conjugation": "/AGI-, MANGI-: I-/"
+      "definition": "To scatter, strew.",
+      "conjugation": "/AGI-, MANGI-: I-/",
+      "ilok_example": "Sino ti nangiwara kadagitoy luplupot ditoy?",
+      "eng_example": "Who strewed these clothes here?"
     },
     {
       "part_of_speech": "v.",
-      "definition": "1. to loosen, untie.",
-      "eng_example": "Don’t loosen your hair. 2. to disassemble, dismantle, take apart.",
+      "definition": "1. To loosen, untie. 2. To disassemble, dismantle, take apart.",
+      "conjugation": "/MANG-:-EN/",
       "ilok_example": "Saan mo nga waraen dayta buok mo.",
-      "conjugation": "/MANG-:-EN/"
+      "eng_example": "Don’t loosen your hair."
     }
   ],
   "WARAGWAG": [
     {
       "part_of_speech": "v.",
-      "definition": "to sprinkle with salt, powder, etc.",
+      "definition": "To sprinkle with salt, powder, etc.",
       "conjugation": "/MANG-:-AN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to sprinkle on.",
+      "definition": "To sprinkle on.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WARAKIWAK": [
     {
       "part_of_speech": "v.",
-      "definition": "to strew (on something).",
+      "definition": "To strew (on something).",
       "conjugation": "/AGI-, MANGI-: I-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to strew (something) on.",
+      "definition": "To strew (something) on.",
       "conjugation": "/MANG-:-AN/"
     }
   ],
   "WARAKWAK": [
     {
       "part_of_speech": "adj.",
-      "definition": "spongy, elastic and porous.",
+      "definition": "Spongy, elastic and porous.",
       "conjugation": "/NA-/"
     }
   ],
   "WARAS": [
     {
       "part_of_speech": "v.",
-      "definition": "to distribute, spread out, allot (some things, one’s eyes, mind, etc.).",
+      "definition": "To distribute, spread out, allot (some things, one’s eyes, mind, etc.).",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WARASIWIS": [
     {
       "part_of_speech": "v.",
-      "definition": "to sprinkle as water.",
+      "definition": "To sprinkle as water.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WARAWARA": [
     {
       "part_of_speech": "adj.",
-      "definition": "dishevelled, tousled: said of the hair.",
+      "definition": "Disheveled, tousled: said of the hair.",
       "conjugation": "/NA-/"
     }
   ],
   "WARIS": [
     {
       "part_of_speech": "v.",
-      "definition": "to be scattered around.",
+      "definition": "To be scattered around.",
       "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to scatter around, strew.",
+      "definition": "To scatter around, strew.",
       "conjugation": "/AGI-, MANGI-: I-/"
     }
   ],
   "WARNAK": [
     {
       "part_of_speech": "v.",
-      "definition": "to publish, divulge, make known.",
+      "definition": "To publish, divulge, make known.",
       "conjugation": "/AGI-, MANGI-: I-/"
     }
   ],
   "WARNAKAN": [
     {
       "part_of_speech": "n.",
-      "definition": "newspaper.",
+      "definition": "Newspaper.",
       "synonyms": [
         "DIARYO"
       ]
@@ -367,178 +372,180 @@
   "WARRAGAWAG": [
     {
       "part_of_speech": "v.",
-      "definition": "to disseminate, proclaim, publish.",
+      "definition": "To disseminate, proclaim, publish.",
       "conjugation": "/MANGI-: I-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be disseminated, proclaimed, published.",
+      "definition": "To be disseminated, proclaimed, published.",
       "conjugation": "/MAI-/"
     }
   ],
   "WARSI": [
     {
       "part_of_speech": "v.",
-      "definition": "to sprinkle (with water or any other liquid).",
+      "definition": "To sprinkle (with water or any other liquid).",
       "conjugation": "/AG-:-AN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to shake off with force.",
+      "definition": "To shake off with force.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WARWAR": [
     {
       "part_of_speech": "v.",
-      "definition": "to unbind, untie, unfasten.",
+      "definition": "To unbind, untie, unfasten.",
       "conjugation": "/MANG-:-EN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be unbound, untied, unfastened.",
-      "eng_example": "The lace of my shoes was unfastened.",
+      "definition": "To be unbound, untied, unfastened.",
+      "conjugation": "/MA-/",
       "ilok_example": "Nawarwar ti tali ti sapatos ko.",
-      "conjugation": "/MA-/"
+      "eng_example": "The lace of my shoes was unfastened."
     }
   ],
   "WAS": [
     {
       "part_of_speech": "v.",
-      "definition": "to withdraw from, back out of, retract.",
+      "definition": "To withdraw from, back out of, retract.",
       "conjugation": "/MA-/"
     }
   ],
   "WASANG": [
     {
       "part_of_speech": "v.",
-      "definition": "to writhe as when in pain, to squirm as when uneasy, worried, impatient, etc.",
+      "definition": "To writhe as when in pain, to squirm as when uneasy, worried, impatient, etc.",
       "conjugation": "/AG-/"
     }
   ],
   "WASAWAS": [
     {
       "part_of_speech": "v.",
-      "definition": "to brandish, to wave or shake around, as a sword.",
+      "definition": "To brandish, to wave or shake around, as a sword.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WASAY": [
     {
       "part_of_speech": "n.",
-      "definition": "ax."
+      "definition": "Ax."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to hit someone with an ax.",
+      "definition": "To hit someone with an ax.",
       "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to hit (someone) with an ax.",
+      "definition": "To hit (someone) with an ax.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "WASAYWASAY": [
     {
       "part_of_speech": "n.",
-      "definition": "praying mantis."
+      "definition": "Praying mantis."
     }
   ],
   "WASNAY": [
     {
       "part_of_speech": "adj.",
-      "definition": "straight-grained.",
+      "definition": "Straight-grained.",
       "conjugation": "/NA-/"
     }
   ],
   "WASWAS": [
     {
       "part_of_speech": "v.",
-      "definition": "to undo what has been done, to terminate or nullify an agreement.",
+      "definition": "To undo what has been done, to terminate or nullify an agreement.",
       "conjugation": "/MANG-:-EN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be undone, to be terminated or discontinued as an agreement.",
+      "definition": "To be undone, to be terminated or discontinued as an agreement.",
       "conjugation": "/MA-/"
     }
   ],
   "WATIWAT": [
     {
       "part_of_speech": "adj.",
-      "definition": "extended, prolonged, very long.",
+      "definition": "Extended, prolonged, very long.",
       "conjugation": "/NA-/"
     }
   ],
   "WATWAT": [
     {
       "part_of_speech": "v.",
-      "definition": "to exercise, train, practice, teach.",
+      "definition": "To exercise, train, practice, teach.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "WAW": [
     {
       "part_of_speech": "v.",
-      "definition": "to be thirsty, to thirst.",
+      "definition": "To be thirsty, to thirst.",
       "conjugation": "/MA-/"
     }
   ],
   "WAWA": [
     {
       "part_of_speech": "v.",
-      "definition": "to lead someone astray.",
-      "conjugation": "/MANG-: I-/"
+      "definition": "To lead someone astray.",
+      "conjugation": "/MANGI-: I-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be led astray.",
+      "definition": "To be led astray.",
       "conjugation": "/MAI-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to blow a rice culm or stem that has been crushed slightly to have a few small slits so as to produce a shrill sound.",
+      "definition": "To blow a rice culm or stem that has been crushed slightly to have a few small slits so as to produce a shrill sound.",
       "conjugation": "/AG-/",
-      "cross_reference": "UWAO"
+      "cross_references": [
+        "UWAO"
+      ]
     }
   ],
   "WAWAK": [
     {
       "part_of_speech": "n.",
-      "definition": "supernatural used to frighten children (bogeyman)."
+      "definition": "Supernatural being used to frighten children (bogeyman)."
     }
   ],
   "WAY": [
     {
       "part_of_speech": "n.",
-      "definition": "rattan."
+      "definition": "Rattan."
     }
   ],
   "WAYA": [
     {
       "part_of_speech": "n.",
-      "definition": "time, chance, opportunity.",
-      "eng_example": "I have no time to go to your wedding.",
-      "ilok_example": "Awan ti wayak nga mapan idiay kasar yo."
+      "definition": "Time, chance, opportunity.",
+      "ilok_example": "Awan ti wayak nga mapan idiay kasar yo.",
+      "eng_example": "I have no time to go to your wedding."
     },
     {
       "part_of_speech": "adj.",
-      "definition": "wide, spacious, roomy.",
+      "definition": "Wide, spacious, roomy.",
       "conjugation": "/NA-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be able to have the time, chance or opportunity (for doing something): usually used in the negative.",
-      "eng_example": "I cannot have the time to play with you.",
+      "definition": "To be able to have the time, chance, or opportunity (for doing something): usually used in the negative.",
+      "conjugation": "/MAKA-: MA--AN/",
       "ilok_example": "Indiak nga mawayaan ti makiay-ayam kenka.",
-      "conjugation": "/MAKA-: MA--AN/"
+      "eng_example": "I cannot have the time to play with you."
     }
   ],
   "WAYANG": [
     {
       "part_of_speech": "adj.",
-      "definition": "spacious, roomy.",
+      "definition": "Spacious, roomy.",
       "conjugation": "/NA-/",
       "synonyms": [
         "LAWA"
@@ -548,131 +555,130 @@
   "WAYAS": [
     {
       "part_of_speech": "v.",
-      "definition": "to stay alone.",
+      "definition": "To stay alone.",
       "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be able to do alone or by one’s self.",
-      "eng_example": "Can you go to Manila by yourself now?",
-      "ilok_example": "Makawayas ka met las nga mapan idiay Manilan?",
-      "conjugation": "/MAKA-: MA-/"
+      "definition": "To be able to do alone or by oneself.",
+      "conjugation": "/MAKA-: MA-/",
+      "ilok_example": "Makawayas ka met la nga mapan idiay Manilan?",
+      "eng_example": "Can you go to Manila by yourself now?"
     }
   ],
   "WAYAT": [
     {
       "part_of_speech": "v.",
-      "definition": "to begin, set about.",
+      "definition": "To begin, set about.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WAYAWAYA": [
     {
       "part_of_speech": "n.",
-      "definition": "freedom, independence, liberty."
+      "definition": "Freedom, independence, liberty."
     }
   ],
   "WAYWAY": [
     {
       "part_of_speech": "n.",
-      "definition": "a long rope usually fastened to a stake at one end and to whose other end an animal may be tied.",
-      "ilok_example": "This rope is normally used to pasture animals."
+      "definition": "A long rope usually fastened to a stake at one end and to whose other end an animal may be tied (normally used to pasture animals)."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to pasture (as an animal) by tying to a long rope (WAYWAY) which is tied to a stake, a tree, etc.",
+      "definition": "To pasture (as an animal) by tying to a long rope (WAYWAY) which is tied to a stake, a tree, etc.",
       "conjugation": "/AGI-, MANGI-: I-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to slacken, let out, give more (rope).",
+      "definition": "To slacken, let out, give more (rope).",
       "conjugation": "/MANG-:-AN/"
     }
   ],
   "WEGWEG": [
     {
       "part_of_speech": "v.",
-      "definition": "to jolt.",
+      "definition": "To jolt.",
       "conjugation": "/MANG-:-EN/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to be jolted.",
+      "definition": "To be jolted.",
       "conjugation": "/MA-/"
     }
   ],
   "WELWEL": [
     {
       "part_of_speech": "v.",
-      "definition": "to drive (a stake) into the ground and wriggle (it) in order to make a hole.",
+      "definition": "To drive (a stake) into the ground and wriggle (it) in order to make a hole.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WEN": [
     {
       "part_of_speech": "adv.",
-      "definition": "1. yes.",
-      "eng_example": "Yes, I’m going. 2. indeed.",
-      "ilok_example": "Wen, mapanak."
+      "definition": "1. Yes. 2. Indeed.",
+      "ilok_example": "Wen, mapanak.",
+      "eng_example": "Yes, I’m going."
     }
   ],
   "WENGWENG": [
     {
       "part_of_speech": "v.",
-      "definition": "to have a buzzing sound: said of the ear.",
+      "definition": "To have a buzzing sound: said of the ear.",
       "conjugation": "/AG-/"
     }
   ],
   "WENNO": [
     {
       "part_of_speech": "conj.",
-      "definition": "or."
+      "definition": "Or."
     }
   ],
   "WERWER": [
     {
       "part_of_speech": "v.",
-      "definition": "to produce a sound like that of a sewing machine.",
+      "definition": "To produce a sound like that of a sewing machine.",
       "conjugation": "/AG-/"
     }
   ],
   "WESWES": [
     {
       "part_of_speech": "v.",
-      "definition": "to produce a sound like that of bats flying around, or of people passing or running along.",
+      "definition": "To produce a sound like that of bats flying around, or of people passing or running along.",
       "conjugation": "/-UM-/"
     }
   ],
   "WETWET": [
     {
       "part_of_speech": "adj.",
-      "definition": "tight as a door, drawer, etc.",
+      "definition": "Tight as a door, drawer, etc.",
       "conjugation": "/NA-/"
     }
   ],
   "WIDAWID": [
     {
       "part_of_speech": "v.",
-      "definition": "to swing the arms as when walking.",
+      "definition": "To swing the arms as when walking.",
       "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to swing (the arms).",
+      "definition": "To swing (the arms).",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "WINGIWING": [
     {
       "part_of_speech": "v.",
-      "definition": "to shake one’s head as a sign of dissent.",
+      "definition": "To shake one’s head as a sign of dissent.",
       "conjugation": "/AG-/"
     }
   ],
   "WITIWIT": [
     {
       "part_of_speech": "n.",
-      "definition": "the handle of a plow."
+      "definition": "The handle of a plow."
     }
   ]
 }

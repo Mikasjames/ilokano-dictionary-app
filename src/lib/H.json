@@ -1,62 +1,75 @@
 {
   "HAAN": [
     {
-      "definition": "var. of SAAN."
+      "part_of_speech": "adv.",
+      "definition": "No, not.",
+      "cross_references": [
+        "SAAN"
+      ],
+      "variations": [
+        "SAAN"
+      ]
     }
   ],
   "HAISKUL": [
     {
       "part_of_speech": "n.",
-      "definition": "high school.",
+      "definition": "High school.",
       "origin": "f. Eng."
     }
   ],
   "HAMON": [
     {
       "part_of_speech": "n.",
-      "definition": "ham.",
+      "definition": "Ham.",
       "origin": "f. Sp."
     }
   ],
   "HANMAN": [
     {
-      "definition": "var. of SANMAN."
+      "part_of_speech": "adv.",
+      "definition": "Neither, nor; not also.",
+      "cross_references": [
+        "SANMAN"
+      ],
+      "variations": [
+        "SANMAN"
+      ]
     }
   ],
   "HAPON": [
     {
       "part_of_speech": "n.",
-      "definition": "1, Japan. 2.",
-      "ilok_example": "Japanese.",
+      "definition": "1. Japan. 2. Japanese.",
       "origin": "f. Sp."
     }
   ],
   "HAPONESA": [
     {
       "part_of_speech": "n.",
-      "definition": "a female Japanese.",
-      "origin": "haponεsa; f. Sp."
+      "definition": "A female Japanese.",
+      "origin": "f. Sp."
     }
   ],
   "HARDIN": [
     {
       "part_of_speech": "n.",
-      "definition": "garden.",
+      "definition": "Garden.",
       "origin": "f. Sp."
     }
   ],
   "HENERAL": [
     {
       "part_of_speech": "n.",
-      "definition": "general.",
-      "origin": "hεnεral; f. Sp."
+      "definition": "General.",
+      "origin": "f. Sp."
     }
   ],
   "HEPE": [
     {
       "part_of_speech": "n.",
-      "definition": "chief, chief of police.",
-      "origin": "hεpε; f. Sp.",
+      "definition": "Chief, chief of police.",
+      "origin": "f. Sp.",
       "synonyms": [
         "TSIP"
       ]
@@ -65,8 +78,8 @@
   "HERPIN": [
     {
       "part_of_speech": "n.",
-      "definition": "hairpin.",
-      "origin": "hεrpin; f. Eng.",
+      "definition": "Hairpin.",
+      "origin": "f. Eng.",
       "synonyms": [
         "ARIPIT"
       ]
@@ -76,41 +89,46 @@
     {
       "part_of_speech": "n.",
       "definition": "Jesus Christ.",
-      "origin": "hεsukristo; f. Sp."
+      "origin": "f. Sp."
     }
   ],
   "HIGANTE": [
     {
       "part_of_speech": "n.",
-      "definition": "a giant.",
-      "origin": "higantε; f. Sp."
+      "definition": "A giant.",
+      "origin": "f. Sp."
     }
   ],
   "HIMNO": [
     {
       "part_of_speech": "n.",
-      "definition": "hymn, anthem.",
-      "ilok_example": "FILIPINO, Philippine (National) Anthem.",
-      "origin": "f. Sp."
+      "definition": "Hymn, anthem.",
+      "origin": "f. Sp.",
+      "phrases": [
+        {
+          "phrase": "Himno Filipino",
+          "translation": "Philippine National Anthem"
+        }
+      ]
     }
   ],
   "HOLEN": [
     {
       "part_of_speech": "n.",
-      "definition": "1. a marble, a little ball made of a hard substance (usually glass) used in various games. 2. a children’s game played with marbles.",
-      "origin": "holεn; f. Eng.",
+      "definition": "1. A marble, a little ball made of a hard substance (usually glass) used in various games. 2. A children’s game played with marbles.",
+      "origin": "f. Eng.",
       "synonyms": [
         "BULINTIK"
       ]
     },
     {
       "part_of_speech": "v.",
-      "definition": "to play marbles.",
-      "conjugation": "/AG-/ with pl. subject"
+      "definition": "To play marbles.",
+      "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to play marbles with.",
+      "definition": "To play marbles with.",
       "conjugation": "/MAKI-: KA-/",
       "synonyms": [
         "BULINTIK"
@@ -118,28 +136,29 @@
     },
     {
       "part_of_speech": "v.",
-      "definition": "in a game of marbles, to roll or toss a marble into a hole.",
+      "definition": "In a game of marbles, to roll or toss a marble into a hole.",
       "conjugation": "/MANGI-: I-/"
     }
   ],
   "HUDIO": [
     {
       "part_of_speech": "n.",
-      "definition": "a Jew.",
+      "definition": "A Jew.",
       "origin": "f. Sp."
     }
   ],
   "HUEBES": [
     {
-      "definition": "n, Thursday.",
-      "origin": "huεbεs; f. Sp."
+      "part_of_speech": "n.",
+      "definition": "Thursday.",
+      "origin": "f. Sp."
     }
   ],
   "HUES": [
     {
       "part_of_speech": "n.",
-      "definition": "judge.",
-      "origin": "huεs; f. Sp.",
+      "definition": "Judge.",
+      "origin": "f. Sp.",
       "synonyms": [
         "UKOM"
       ]
@@ -148,14 +167,14 @@
   "HUISIO": [
     {
       "part_of_speech": "n.",
-      "definition": "arraignment.",
+      "definition": "Arraignment, trial, judgment.",
       "origin": "f. Sp."
     }
   ],
   "HUK": [
     {
       "part_of_speech": "n.",
-      "definition": "an outlawed organization operating principally in Central Luzon.",
+      "definition": "An outlawed organization operating principally in Central Luzon.",
       "origin": "f. Tag."
     }
   ],
@@ -169,7 +188,7 @@
   "HUNTA": [
     {
       "part_of_speech": "n.",
-      "definition": "board.",
+      "definition": "Board, council.",
       "origin": "f. Sp."
     }
   ],
@@ -183,34 +202,41 @@
   "HURADO": [
     {
       "part_of_speech": "n.",
-      "definition": "1. jury. 2. board of judges.",
+      "definition": "1. Jury. 2. Board of judges.",
       "origin": "f. Sp."
     }
   ],
   "HURNO": [
     {
       "part_of_speech": "n.",
-      "definition": "any of several kinds of containers in which cake is baked.",
+      "definition": "Oven; any of several kinds of containers in which cake is baked.",
       "origin": "f. Sp."
     }
   ],
   "HUSGADO": [
     {
       "part_of_speech": "n.",
-      "definition": "court of justice.",
+      "definition": "Court of justice.",
       "origin": "f. Sp."
     }
   ],
   "HUSTISIA": [
     {
       "part_of_speech": "n.",
-      "definition": "justice.",
+      "definition": "Justice.",
       "origin": "f. Sp."
     }
   ],
   "HUSTO": [
     {
-      "definition": "var. of KUSTO."
+      "part_of_speech": "adj.",
+      "definition": "Right, exact, sufficient, fit.",
+      "cross_references": [
+        "KUSTO"
+      ],
+      "variations": [
+        "KUSTO"
+      ]
     }
   ]
 }

@@ -1,38 +1,55 @@
 {
   "-YSA": [
     {
-      "definition": "var. of MAYSA, one: used only with certain prefixes."
+      "part_of_speech": "suf.",
+      "definition": "Combining form representing 'maysa' (one), used only with certain prefixes.",
+      "cross_references": [
+        "maysa"
+      ],
+      "variations": [
+        "maysa"
+      ]
     }
   ],
   "Y-": [
     {
-      "definition": "var. of 1,2I- before a vowel.",
-      "cross_reference": "1 (+ R2), var. of 3"
+      "part_of_speech": "pref.",
+      "definition": "Variant of the prefix i- before a vowel.",
+      "cross_references": [
+        "i-"
+      ]
     }
   ],
   "YAAY": [
     {
-      "definition": "var. of IYAAY."
+      "part_of_speech": "n.",
+      "definition": "Variant of iyaay (arrival).",
+      "cross_references": [
+        "iyaay"
+      ],
+      "variations": [
+        "iyaay"
+      ]
     }
   ],
   "YABYAB": [
     {
       "part_of_speech": "v.",
-      "definition": "to fan (a fire, wheat, rice, etc.).",
+      "definition": "To fan (a fire, wheat, rice, etc.).",
       "conjugation": "/MANG-:-AN/"
     }
   ],
   "YADI": [
     {
       "part_of_speech": "adj.",
-      "definition": "1. grown (as rice). 2. seasoned (as BUGGOONG).",
+      "definition": "1. Grown (said of rice). 2. Seasoned (said of buggoong).",
       "conjugation": "/NA-/"
     }
   ],
   "YAGYAG": [
     {
       "part_of_speech": "v.",
-      "definition": "to shout at, yell at.",
+      "definition": "To shout at, yell at.",
       "conjugation": "/MANG-:-AN/",
       "synonyms": [
         "BUGKAW"
@@ -42,210 +59,247 @@
   "YAKAYAK": [
     {
       "part_of_speech": "n.",
-      "definition": "a shallow basket with meshes through which rice bran and small particles of rice are passed to separate them from the polished rice; a basket used as a seive.",
+      "definition": "A shallow basket with meshes through which rice bran and small particles of rice are passed to separate them from the polished rice; a basket used as a sieve.",
       "variations": [
         "YUKUYOK"
       ]
     },
     {
       "part_of_speech": "v.",
-      "definition": "to seive, sift.",
+      "definition": "To sieve, sift.",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "YAMAN": [
     {
       "part_of_speech": "v.",
-      "definition": "to be thankful, grateful; to give thanks.",
-      "eng_example": "I am thankful.",
+      "definition": "To be thankful, grateful; to give thanks.",
+      "conjugation": "/AG-/",
       "ilok_example": "Agyamanak.",
-      "conjugation": "/AG-/"
+      "eng_example": "I am thankful."
     }
   ],
   "YAMYAM": [
     {
       "part_of_speech": "v.",
-      "definition": "to spread: said of fire.",
+      "definition": "To spread: said of fire.",
       "conjugation": "/-UM-/"
     }
   ],
   "YAN": [
     {
       "part_of_speech": "n.",
-      "definition": "place, location, position."
+      "definition": "Place, location, position."
     },
     {
       "part_of_speech": "v.",
-      "definition": "1. to stay or remain (in a place).",
-      "eng_example": "Stay there.",
-      "ilok_example": "Agyan ka dita.",
+      "definition": "To stay or remain (in a place).",
       "conjugation": "/AG-/",
-      "origin": "= prp. AGGIGYAN, ptp. NAGGIGYAN"
+      "ilok_example": "Agyan ka dita.",
+      "eng_example": "Stay there.",
+      "variations": [
+        "AGGIGYAN",
+        "NAGGIGYAN"
+      ]
     },
     {
       "part_of_speech": "v.",
-      "definition": "to spend the night or lodge temporarily (in a place).",
-      "eng_example": "You spend the night at our house during the feast.",
+      "definition": "To spend the night or lodge temporarily (in a place).",
+      "conjugation": "/-UM-/",
       "ilok_example": "Umyan ka idiay balay mi intono piesta.",
-      "conjugation": "/-UM-/"
+      "eng_example": "You spend the night at our house during the feast."
     }
   ],
   "YANGYANG": [
     {
       "part_of_speech": "adj.",
-      "definition": "clear, bright.",
+      "definition": "Clear, bright.",
       "conjugation": "/NA-/"
     }
   ],
   "YANTA": [
     {
-      "definition": "var. of YANTANGAY."
+      "part_of_speech": "conj.",
+      "definition": "Variant of yantangay (whereas, while).",
+      "cross_references": [
+        "yantangay"
+      ],
+      "variations": [
+        "yantangay"
+      ]
     }
   ],
   "YANTANGAY": [
     {
       "part_of_speech": "conj.",
-      "definition": "whereas, while.",
+      "definition": "Whereas, while.",
       "variations": [
-        "YANTA, ANTA"
+        "yanta",
+        "anta"
       ]
     }
   ],
   "YARDA": [
     {
       "part_of_speech": "n.",
-      "definition": "yard.",
+      "definition": "Yard.",
       "origin": "f. Sp."
     }
   ],
   "YAWYAW": [
     {
       "part_of_speech": "v.",
-      "definition": "1. to be frustrated. 2. to be lost due to constant borrowing by many people.",
+      "definition": "1. To be frustrated. 2. To be lost due to constant borrowing by many people.",
       "conjugation": "/MA-/"
     }
   ],
   "YEG": [
     {
       "part_of_speech": "v.",
-      "definition": "to take or bring to, to give to (someone).",
+      "definition": "To take or bring to, to give to (someone).",
       "conjugation": "/MANGI-: I-/",
-      "common_forms": [
-        "MANGIYEG, MANGYEG: IYEG, YEG] "
+      "variations": [
+        "MANGIYEG",
+        "MANGYEG",
+        "IYEG",
+        "YEG"
       ]
     }
   ],
   "YEGYEG": [
     {
       "part_of_speech": "v.",
-      "definition": "to tremble, shiver, shudder.",
+      "definition": "To tremble, shiver, shudder.",
       "conjugation": "/AG-/"
     },
     {
       "part_of_speech": "v.",
-      "definition": "to shake.",
-      "conjugation": "/MANG-: -EN/"
+      "definition": "To shake.",
+      "conjugation": "/MANG-:-EN/"
     }
   ],
   "YEKYEK": [
     {
       "part_of_speech": "v.",
-      "definition": "to cough constantly.",
+      "definition": "To cough constantly.",
       "conjugation": "/-EN/"
     }
   ],
   "YELO": [
     {
       "part_of_speech": "n.",
-      "definition": "ice.",
-      "origin": "yεlo; f. Sp."
+      "definition": "Ice.",
+      "origin": "f. Sp."
     }
   ],
   "YENGYENG": [
     {
       "part_of_speech": "v.",
-      "definition": "to be troubled, disturbed, bothered, confused.",
+      "definition": "To be troubled, disturbed, bothered, confused.",
       "conjugation": "/MA-/"
     }
   ],
   "YERO": [
     {
       "part_of_speech": "n.",
-      "definition": "galvanized iron sheet.",
-      "origin": "yεro; f. Sp.",
+      "definition": "Galvanized iron sheet.",
+      "origin": "f. Sp.",
       "synonyms": [
-        "SIM. Yero ti atep ti balay da. The roof of their house is made of galvanized iron sheets"
+        "SIM"
+      ],
+      "phrases": [
+        {
+          "phrase": "Yero ti atep ti balay da.",
+          "translation": "The roof of their house is made of galvanized iron sheets."
+        }
       ]
     }
   ],
   "YO": [
     {
       "part_of_speech": "pron.",
-      "definition": "by you (pl.), you (pl.) (as actor): the agent of"
+      "definition": "By you (plural), you (plural) (as actor): the agent of passive verbs."
     },
     {
       "part_of_speech": "pron.",
-      "definition": "your (pl.): the enclitic possessive of DAKAYO."
+      "definition": "Your (plural): the enclitic possessive of dakayo.",
+      "cross_references": [
+        "dakayo"
+      ]
     },
     {
       "part_of_speech": "n.",
-      "definition": "shark."
+      "definition": "Shark."
     }
   ],
   "YOT": [
     {
-      "definition": "var. of IYOT."
+      "part_of_speech": "v.",
+      "definition": "Variant of iyot (to copulate).",
+      "cross_references": [
+        "iyot"
+      ],
+      "variations": [
+        "iyot"
+      ]
     }
   ],
   "YOYO": [
     {
       "part_of_speech": "n.",
-      "definition": "yoyo.",
+      "definition": "Yoyo.",
       "origin": "f. Sp."
     },
     {
       "part_of_speech": "v.",
-      "definition": "to play with a yoyo.",
+      "definition": "To play with a yoyo.",
       "conjugation": "/AG-/"
     }
   ],
   "YUBYUB": [
     {
       "part_of_speech": "v.",
-      "definition": "to produce a sound like that of the bellows.",
+      "definition": "To produce a sound like that of the bellows.",
       "conjugation": "/-UM-/"
     }
   ],
   "YUDYUD": [
     {
       "part_of_speech": "v.",
-      "definition": "to sag, droop.",
+      "definition": "To sag, droop.",
       "conjugation": "/AG-/"
     }
   ],
   "YUGYUG": [
     {
       "part_of_speech": "v.",
-      "definition": "to beat (an egg or any mixture).",
+      "definition": "To beat (an egg or any mixture).",
       "conjugation": "/MANG-:-EN/"
     }
   ],
   "YUKUYOK": [
     {
-      "definition": "var. of YAKAYAK."
+      "part_of_speech": "n.",
+      "definition": "Variant of yakayak.",
+      "cross_references": [
+        "yakayak"
+      ],
+      "variations": [
+        "yakayak"
+      ]
     }
   ],
   "YUNGAYONG": [
     {
       "part_of_speech": "v.",
-      "definition": "to jut out, protrude.",
+      "definition": "To jut out, protrude.",
       "conjugation": "/AG-/"
     }
   ],
   "YUYEM": [
     {
       "part_of_speech": "adj.",
-      "definition": "overcast, cloudy, gloomy.",
+      "definition": "Overcast, cloudy, gloomy.",
       "conjugation": "/NA-/",
       "synonyms": [
         "KUYEMYEM"
@@ -255,7 +309,7 @@
   "YUYENG": [
     {
       "part_of_speech": "n.",
-      "definition": "abyss, chasm, gulf."
+      "definition": "Abyss, chasm, gulf."
     }
   ]
 }
