@@ -34,8 +34,6 @@ jobs:
           ls -la
 
       - name: build
-        env:
-          BASE_PATH: "/${{ github.event.repository.name }}"
         run: |
           echo "Starting build with base path: $BASE_PATH"
           pnpm run build || { echo "Build failed"; exit 1; }
