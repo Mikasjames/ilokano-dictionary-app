@@ -16,6 +16,7 @@
 	import { Loader2 } from "lucide-svelte";
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
+	import { version } from "$lib/../../package.json";
 
 	let searchIndex: Record<string, [string, string]> | null = $state(null);
 	let searchTerm = $state("");
@@ -128,7 +129,10 @@
 
 <Card class="w-full">
 	<CardHeader>
-		<CardTitle class="text-2xl font-bold text-center">IloCo.</CardTitle>
+		<CardTitle class="text-2xl font-bold text-center flex items-center justify-center gap-2">
+			IloCo.
+			<span class="text-xs font-normal text-muted-foreground align-super">v{version}</span>
+		</CardTitle>
 		<CardDescription class="text-center"
 			>Your comprehensive digital Ilokano dictionary</CardDescription
 		>
