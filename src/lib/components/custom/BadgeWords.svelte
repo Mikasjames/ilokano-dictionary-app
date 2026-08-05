@@ -9,7 +9,7 @@
             clickBadge(word);
         } else {
             const basePath = import.meta.env.BASE_URL;
-            goto(`${basePath}?word=${word}`);
+            goto(`${basePath}?word=${encodeURIComponent(word)}`);
         }
     }
 </script>			
