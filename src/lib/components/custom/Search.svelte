@@ -17,11 +17,22 @@
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
 
+	const version = __APP_VERSION__;
+
+	let searchIndex: Record<string, [string, string]> | null = $state(null);
 	let searchTerm = $state("");
 	let results: [string, Definition[]][] = $state([]);
+	let totalResults = $state(0);
 	let isLoading = $state(false);
 	let noResultsFound = $state(false);
 	let error: string | null = $state(null);
+
+	async function loadSearchIndex(): Promise<Record<string, [string, string]>> {
+		if (searchIndex) return searchIndex;
+		const module = await import("$lib/search-index.json");
+		searchIndex = module.default as unknown as Record<string, [string, string]>;
+		return searchIndex || {};
+	}
 
 	async function search() {
 		if (!browser || !searchTerm.trim()) return;
@@ -29,33 +40,62 @@
 		isLoading = true;
 		error = null;
 		noResultsFound = false;
+		results = [];
+		totalResults = 0;
 
 		try {
-			const letter = searchTerm.charAt(0).toUpperCase();
+			const index = await loadSearchIndex();
+			const term = searchTerm.toLowerCase().trim();
 
-			if (!/[A-Z]/.test(letter)) {
-				error = "Please enter a word that starts with a letter";
-				results = [];
-				isLoading = false;
-				return;
-			}
+			// Search both fields: Ilokano headword OR English definition preview
+			const matches = Object.entries(index).filter(([word, [, preview]]) => {
+				const normalizedWord = word.startsWith("-")
+					? word.slice(1).toLowerCase()
+					: word.toLowerCase();
 
-			const dict = await import(`$lib/${letter}.json`);
-			const def: Record<string, Definition[]> = dict.default;
+				return normalizedWord.includes(term) || preview.toLowerCase().includes(term);
+			});
 
-			results = Object.entries(def).filter(([word]) => {
-				if (word.startsWith("-")) {
-					word = word.slice(1);
+			// Sort based on match quality
+			matches.sort((a, b) => {
+				const [wordA, [, previewA]] = a;
+				const [wordB, [, previewB]] = b;
+
+				const normA = wordA.startsWith("-") ? wordA.slice(1).toLowerCase() : wordA.toLowerCase();
+				const normB = wordB.startsWith("-") ? wordB.slice(1).toLowerCase() : wordB.toLowerCase();
+
+				const previewALower = previewA.toLowerCase();
+				const previewBLower = previewB.toLowerCase();
+
+				// Assign relevancy scores to prioritize direct matches
+				const getScore = (word: string, preview: string) => {
+					if (word === term) return 4; // Exact Ilokano match
+					if (word.startsWith(term)) return 3; // Ilokano starts with term
+					if (word.includes(term)) return 2; // Ilokano contains term
+					if (preview.includes(term)) return 1; // Matches only English definition
+					return 0;
+				};
+
+				const scoreA = getScore(normA, previewALower);
+				const scoreB = getScore(normB, previewBLower);
+
+				if (scoreA !== scoreB) {
+					return scoreB - scoreA; // Higher score comes first
 				}
-				return word.toLowerCase().startsWith(searchTerm.toLowerCase());
+
+				return normA.localeCompare(normB); // Fallback to alphabetical sorting
+			});
+
+			totalResults = matches.length;
+			results = matches.slice(0, 20).map(([word, [, preview]]) => {
+				return [word, [{ definition: preview }]] as [string, Definition[]];
 			});
 
 			noResultsFound = results.length === 0;
-		} catch (error) {
-			console.error("Error loading dictionary:", error);
-			toast.error("Error loading data. Please try again.");
-			results = [];
-			error = "Error loading dictionary. Please try again.";
+		} catch (err) {
+			console.error("Search error:", err);
+			error = err instanceof Error ? err.message : "Search failed";
+			toast.error(error);
 		} finally {
 			isLoading = false;
 		}
@@ -73,6 +113,7 @@
 			}, 300);
 		} else {
 			results = [];
+			totalResults = 0;
 			isLoading = false;
 			noResultsFound = false;
 			error = null;
@@ -81,7 +122,7 @@
 
 	function handleItemClick(word: string) {
 		const basePath = import.meta.env.BASE_URL;
-		goto(`${basePath}?word=${word}`);
+		goto(`${basePath}?word=${encodeURIComponent(word)}`);
 		searchTerm = "";
 		results = [];
 	}
@@ -89,8 +130,13 @@
 
 <Card class="w-full">
 	<CardHeader>
-		<CardTitle class="text-2xl font-bold text-center">Word Wise</CardTitle>
-		<CardDescription class="text-center">Your comprehensive digital dictionary</CardDescription>
+		<CardTitle class="text-2xl font-bold text-center flex items-center justify-center gap-2">
+			IloCo.
+			<span class="text-xs font-normal text-muted-foreground align-super">v{version}</span>
+		</CardTitle>
+		<CardDescription class="text-center"
+			>Your comprehensive digital Ilokano dictionary</CardDescription
+		>
 		<div class="absolute top-6 right-6 flex items-center space-x-2">
 			<Button on:click={toggleMode} variant="outline" size="icon">
 				<Sun
@@ -148,7 +194,12 @@
 
 		<div class="text-center text-sm text-muted-foreground">
 			{#if results.length > 0}
-				<p>Found {results.length} result{results.length !== 1 ? "s" : ""}</p>
+				<p>
+					Found {totalResults} result{totalResults !== 1 ? "s" : ""}
+					{#if totalResults > results.length}
+						(showing first {results.length})
+					{/if}
+				</p>
 			{/if}
 		</div>
 	</CardContent>
