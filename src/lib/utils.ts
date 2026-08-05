@@ -64,13 +64,28 @@ export function getPartsOfSpeech(pos: Definition["part_of_speech"]) {
 			return "verb";
 		case "adj.":
 			return "adjective";
+		case "adv.":
+			return "adverb";
 		case "interj.":
 			return "interjection";
+		case "conj.":
+			return "conjunction";
+		case "prep.":
+			return "preposition";
+		case "pron.":
+			return "pronoun";
+		case "pref.":
+			return "prefix";
+		case "suf.":
+			return "suffix";
 		default:
 			return undefined;
 	}
 }
 
 export function processCommasAndDots(syn: string) {
-	return syn.split(/[,.]/);
+	return syn
+		.split(/[,.]/)
+		.map((s) => s.trim())
+		.filter(Boolean);
 }

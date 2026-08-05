@@ -5,6 +5,8 @@
 	import Definition from "$lib/components/custom/Definition.svelte";
 	import { fly } from "svelte/transition";
 
+	const dicts = import.meta.glob<{ default: Record<string, DefinitionType[]> }>("../lib/*.json");
+
 	let selectedWord = $state<string | null>(null);
 	let definitions = $state<DefinitionType[]>([]);
 	const duration = 400;
@@ -20,15 +22,23 @@
 		}
 	});
 
+	function findCaseInsensitive(dict: Record<string, DefinitionType[]>, word: string) {
+		const lower = word.toLowerCase();
+		const key = Object.keys(dict).find((k) => k.toLowerCase() === lower);
+		return key ? dict[key] : null;
+	}
+
 	async function loadDefinitions(wordToLoad: string) {
 		try {
-			let letter = wordToLoad.charAt(0).toUpperCase();
-			if (letter === "-") {
-				letter = wordToLoad.charAt(1).toUpperCase();
+			const letter = (wordToLoad.startsWith("-") ? wordToLoad[1] : wordToLoad[0]).toUpperCase();
+			const loader = dicts[`../lib/${letter}.json`];
+			if (!loader) {
+				definitions = [];
+				return;
 			}
 
-			const dict = await import(`../lib/${letter}.json`);
-			definitions = dict.default[wordToLoad] || [];
+			const dict = (await loader()).default;
+			definitions = dict[wordToLoad] ?? findCaseInsensitive(dict, wordToLoad) ?? [];
 		} catch (err) {
 			console.error("Failed to load word definition:", err);
 			definitions = [];

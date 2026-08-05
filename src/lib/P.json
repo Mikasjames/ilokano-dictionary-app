@@ -4,28 +4,10 @@
       "definition": "var. of UPPAT, four: used only with certain prefixes."
     }
   ],
-  "P": [
+  "PALAD": [
     {
       "part_of_speech": "n.",
-      "definition": "a line in the palm of the hand, the finger, or the sole of the foot. ÍKON,",
-      "common_forms": [
-        "ÁLAD"
-      ]
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to wind around the arm, as a string.",
-      "conjugation": "/MANG-:-EN/"
-    },
-    {
-      "part_of_speech": "v.",
-      "definition": "to be wound around the arm. ÚNO,",
-      "conjugation": "/MA-/"
-    },
-    {
-      "part_of_speech": "adj.",
-      "definition": "worn out, dulled, blunted (e.g. a knife).",
-      "conjugation": "/NA-/"
+      "definition": "a line in the palm of the hand, the finger, or the sole of the foot."
     }
   ],
   "PA-": [
@@ -351,9 +333,7 @@
       ]
     },
     {
-      "part_of_speech": "v.",
-      "definition": "MANG-:- see under DANUM.",
-      "conjugation": "/AG-,"
+      "definition": "see under DANUM."
     }
   ],
   "PADAPAN": [
@@ -5383,6 +5363,18 @@
       "origin": "f. Sp."
     }
   ],
+  "PIKON": [
+    {
+      "part_of_speech": "v.",
+      "definition": "to wind around the arm, as a string.",
+      "conjugation": "/MANG-:-EN/"
+    },
+    {
+      "part_of_speech": "v.",
+      "definition": "to be wound around the arm.",
+      "conjugation": "/MA-/"
+    }
+  ],
   "PIKPIK": [
     {
       "part_of_speech": "v.",
@@ -6305,7 +6297,7 @@
   "PLEGES": [
     {
       "part_of_speech": "n.",
-      "definition": "pleat,",
+      "definition": "pleat",
       "origin": "plεgεs; f. Sp.",
       "variations": [
         "PILEGES"
@@ -7420,7 +7412,14 @@
   "PULLO": [
     {
       "definition": "num. ten; 10: used especially in counting.",
-      "ilok_example": "WALO,"
+      "ilok_example": "WALO, SIAM, PULLO",
+      "english_example": "Eight, nine, ten.",
+      "variations": [
+        "SANGAPULO"
+      ],
+      "synonyms": [
+        "DIES"
+      ]
     },
     {
       "part_of_speech": "v.",
@@ -7746,6 +7745,11 @@
   "PUNO": [
     {
       "definition": "see MAKAPUNO."
+    },
+    {
+      "part_of_speech": "adj.",
+      "conjugation": "/NA-/",
+      "definition": "worn out, dulled, blunted (e.g. a knife)."
     }
   ],
   "PUNPON": [

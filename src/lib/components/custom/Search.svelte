@@ -17,9 +17,12 @@
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
 
+	const version = __APP_VERSION__;
+
 	let searchIndex: Record<string, [string, string]> | null = $state(null);
 	let searchTerm = $state("");
 	let results: [string, Definition[]][] = $state([]);
+	let totalResults = $state(0);
 	let isLoading = $state(false);
 	let noResultsFound = $state(false);
 	let error: string | null = $state(null);
@@ -38,6 +41,7 @@
 		error = null;
 		noResultsFound = false;
 		results = [];
+		totalResults = 0;
 
 		try {
 			const index = await loadSearchIndex();
@@ -82,6 +86,7 @@
 				return normA.localeCompare(normB); // Fallback to alphabetical sorting
 			});
 
+			totalResults = matches.length;
 			results = matches.slice(0, 20).map(([word, [, preview]]) => {
 				return [word, [{ definition: preview }]] as [string, Definition[]];
 			});
@@ -108,6 +113,7 @@
 			}, 300);
 		} else {
 			results = [];
+			totalResults = 0;
 			isLoading = false;
 			noResultsFound = false;
 			error = null;
@@ -116,7 +122,7 @@
 
 	function handleItemClick(word: string) {
 		const basePath = import.meta.env.BASE_URL;
-		goto(`${basePath}?word=${word}`);
+		goto(`${basePath}?word=${encodeURIComponent(word)}`);
 		searchTerm = "";
 		results = [];
 	}
@@ -124,7 +130,10 @@
 
 <Card class="w-full">
 	<CardHeader>
-		<CardTitle class="text-2xl font-bold text-center">IloCo.</CardTitle>
+		<CardTitle class="text-2xl font-bold text-center flex items-center justify-center gap-2">
+			IloCo.
+			<span class="text-xs font-normal text-muted-foreground align-super">v{version}</span>
+		</CardTitle>
 		<CardDescription class="text-center"
 			>Your comprehensive digital Ilokano dictionary</CardDescription
 		>
@@ -185,7 +194,12 @@
 
 		<div class="text-center text-sm text-muted-foreground">
 			{#if results.length > 0}
-				<p>Found {results.length} result{results.length !== 1 ? "s" : ""}</p>
+				<p>
+					Found {totalResults} result{totalResults !== 1 ? "s" : ""}
+					{#if totalResults > results.length}
+						(showing first {results.length})
+					{/if}
+				</p>
 			{/if}
 		</div>
 	</CardContent>
