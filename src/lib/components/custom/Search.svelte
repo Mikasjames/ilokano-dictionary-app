@@ -16,7 +16,8 @@
 	import { Loader2 } from "lucide-svelte";
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
-	import { version } from "$lib/../../package.json";
+
+	const version = __APP_VERSION__;
 
 	let searchIndex: Record<string, [string, string]> | null = $state(null);
 	let searchTerm = $state("");
