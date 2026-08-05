@@ -3010,7 +3010,7 @@
       ]
     }
   ],
-  "DETBETAY": [
+  "DETDETAY": [
     {
       "part_of_speech": "pron.",
       "definition": "That only, nothing but that: extant but not seen.",
@@ -4995,6 +4995,13 @@
       "part_of_speech": "n.",
       "definition": "Jeep.",
       "origin": "f. Eng."
+    }
+  ],
+  "DISNOG": [
+    {
+      "part_of_speech": "v.",
+      "conjugation": "/MANG-:-EN/",
+      "definition": "to hit with the fists; to punch."
     }
   ]
 }
