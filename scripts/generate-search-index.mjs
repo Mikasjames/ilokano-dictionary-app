@@ -50,13 +50,21 @@ const newWords = new Set(Object.keys(generated));
 
 const added = [...newWords].filter((word) => !oldWords.has(word)).sort();
 const dropped = [...oldWords].filter((word) => !newWords.has(word)).sort();
-const changedPreviews = [...newWords].filter(
-	(word) => oldWords.has(word) && previous[word][1] !== generated[word][1]
-).sort();
+const changedPreviews = [...newWords]
+	.filter((word) => oldWords.has(word) && previous[word][1] !== generated[word][1])
+	.sort();
 
-console.log(`Generated ${newWords.size} search entries from ${exists ? "letter files" : "sources"} (previously ${oldWords.size}).`);
-if (added.length) console.log(`  added:    ${added.length} ${added.slice(0, 10).join(", ")}${added.length > 10 ? ", ..." : ""}`);
-if (dropped.length) console.log(`  dropped:  ${dropped.length} ${dropped.slice(0, 10).join(", ")}${dropped.length > 10 ? ", ..." : ""}`);
+console.log(
+	`Generated ${newWords.size} search entries from ${exists ? "letter files" : "sources"} (previously ${oldWords.size}).`
+);
+if (added.length)
+	console.log(
+		`  added:    ${added.length} ${added.slice(0, 10).join(", ")}${added.length > 10 ? ", ..." : ""}`
+	);
+if (dropped.length)
+	console.log(
+		`  dropped:  ${dropped.length} ${dropped.slice(0, 10).join(", ")}${dropped.length > 10 ? ", ..." : ""}`
+	);
 if (changedPreviews.length) console.log(`  previews: ${changedPreviews.length} previews updated`);
 if (!added.length && !dropped.length && !changedPreviews.length) console.log("  no changes");
 
