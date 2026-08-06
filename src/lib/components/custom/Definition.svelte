@@ -7,12 +7,13 @@
 		CardContent
 	} from "$lib/components/ui/card";
 	import { Separator } from "$lib/components/ui/separator";
-	import { Button } from "$lib/components/ui/button/index.js";
+	import { Button } from "$lib/components/ui/button/index";
 	import { getPartsOfSpeech, processCommasAndDots } from "$lib/utils";
 	import { toast } from "svelte-sonner";
 	import { browser } from "$app/environment";
 	import { Link2, Share2 } from "lucide-svelte";
-	import { wordUrl } from "$lib/dictionary.js";
+	import { wordUrl } from "$lib/dictionary";
+	import { copyText } from "$lib/clipboard";
 	import type { Definition } from "$lib/types/types";
 	import BadgeWords from "./BadgeWords.svelte";
 
@@ -23,21 +24,6 @@
 
 	function currentUrl(): string {
 		return new URL(wordUrl(word ?? ""), window.location.href).href;
-	}
-
-	async function copyText(text: string) {
-		if (navigator.clipboard?.writeText) {
-			await navigator.clipboard.writeText(text);
-		} else {
-			const textarea = document.createElement("textarea");
-			textarea.value = text;
-			textarea.style.position = "fixed";
-			textarea.style.opacity = "0";
-			document.body.appendChild(textarea);
-			textarea.select();
-			document.execCommand("copy");
-			document.body.removeChild(textarea);
-		}
 	}
 
 	async function copyLink() {
