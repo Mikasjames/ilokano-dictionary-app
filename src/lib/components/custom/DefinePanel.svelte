@@ -13,17 +13,19 @@
 	} from "$lib/components/ui/card";
 	import { Separator } from "$lib/components/ui/separator";
 	import { loadDefinitions, wordUrl } from "$lib/dictionary";
-	import { getPartsOfSpeech } from "$lib/utils";
+	import { getPartsOfSpeech, cn } from "$lib/utils";
 	import type { Definition } from "$lib/types/types";
 
 	let {
 		word,
 		onClose,
-		onSearch
+		onSearch,
+		bottomSheet = false
 	}: {
 		word: string;
 		onClose: () => void;
 		onSearch: (word: string) => void;
+		bottomSheet?: boolean;
 	} = $props();
 
 	let definitions = $state<Definition[]>([]);
@@ -42,8 +44,13 @@
 	}
 </script>
 
-<Card class="w-80 sm:w-96 shadow-xl">
-	<CardHeader class="pb-3">
+<Card
+	class={cn(
+		"shadow-xl flex flex-col min-h-0 overflow-hidden",
+		bottomSheet ? "w-full max-w-md max-h-[70vh] rounded-b-none" : "w-80 sm:w-96"
+	)}
+>
+	<CardHeader class="pb-3 shrink-0">
 		<div class="flex items-start justify-between gap-2">
 			<div class="min-w-0">
 				<CardTitle class="text-xl font-bold truncate">{word}</CardTitle>
@@ -61,7 +68,7 @@
 		</div>
 	</CardHeader>
 
-	<CardContent class="pb-3">
+	<CardContent class="pb-3 flex-1 overflow-y-auto">
 		{#if isLoading}
 			<div class="flex items-center justify-center py-8">
 				<Loader2 class="h-5 w-5 animate-spin text-muted-foreground" />
@@ -108,7 +115,7 @@
 	</CardContent>
 
 	{#if definitions.length > 0}
-		<CardFooter class="pt-0 pb-3">
+		<CardFooter class="pt-0 pb-3 shrink-0">
 			<Button
 				variant="ghost"
 				size="sm"

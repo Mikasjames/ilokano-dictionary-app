@@ -23,6 +23,7 @@
 	let menuOpen = $state(false);
 	let panelOpen = $state(false);
 	let panelWord = $state<string | null>(null);
+	let isTouch = $state(false);
 
 	const barReference = $derived(anchorRect ? virtualElementFor(anchorRect) : null);
 
@@ -108,6 +109,17 @@
 		if (event.key === "Escape") closeAll();
 	}
 
+	function onContextMenu(event: MouseEvent) {
+		if (!isTouch) return;
+		if (isEditableTarget(event.target)) return;
+		event.preventDefault();
+	}
+
+	function clearNativeSelection() {
+		if (!browser || !isTouch) return;
+		window.getSelection()?.removeAllRanges();
+	}
+
 	function closeAll() {
 		menuOpen = false;
 		panelOpen = false;
@@ -119,10 +131,12 @@
 		panelWord = selectionText;
 		panelOpen = true;
 		menuOpen = false;
+		clearNativeSelection();
 	}
 
 	async function doCopy() {
 		if (!selectionText) return;
+		clearNativeSelection();
 		try {
 			await copyText(selectionText);
 			toast.success("Copied to clipboard");
@@ -133,12 +147,14 @@
 	}
 
 	function doSearch(term: string) {
+		clearNativeSelection();
 		closeAll();
 		window.dispatchEvent(new CustomEvent<string>("iloko:search", { detail: term }));
 	}
 
 	async function doShare() {
 		if (!selectionText) return;
+		clearNativeSelection();
 		const url = window.location.href;
 		if (navigator.share) {
 			try {
@@ -159,6 +175,7 @@
 
 	$effect(() => {
 		if (!browser) return;
+		isTouch = window.matchMedia("(any-pointer: coarse)").matches;
 		document.addEventListener("selectionchange", scheduleSelectionUpdate);
 		window.addEventListener("mouseup", onMouseUp);
 		window.addEventListener("touchend", onTouchEnd);
@@ -166,6 +183,7 @@
 		window.addEventListener("scroll", onScroll, true);
 		window.addEventListener("pointerdown", onPointerDown, true);
 		window.addEventListener("keydown", onKeyDown);
+		window.addEventListener("contextmenu", onContextMenu);
 		return () => {
 			clearTimeout(selectionTimeout);
 			document.removeEventListener("selectionchange", scheduleSelectionUpdate);
@@ -175,6 +193,7 @@
 			window.removeEventListener("scroll", onScroll, true);
 			window.removeEventListener("pointerdown", onPointerDown, true);
 			window.removeEventListener("keydown", onKeyDown);
+			window.removeEventListener("contextmenu", onContextMenu);
 		};
 	});
 
@@ -184,9 +203,11 @@
 		const reference = barReference;
 		return autoUpdate(reference, element, () => {
 			computePosition(reference, element, {
-				placement: "top",
+				placement: isTouch ? "bottom" : "top",
 				strategy: "fixed",
-				middleware: [offset(8), flip(), shift({ padding: 8 })]
+				middleware: isTouch
+					? [offset(12), shift({ padding: 8 })]
+					: [offset(8), flip(), shift({ padding: 8 })]
 			}).then(({ x, y }) => {
 				element.style.left = `${x}px`;
 				element.style.top = `${y}px`;
@@ -196,8 +217,21 @@
 	});
 
 	$effect(() => {
-		if (!browser || !panelElement || !barReference || !panelOpen) return;
+		if (!browser || !panelElement || !panelOpen) return;
 		const element = panelElement;
+
+		if (isTouch) {
+			element.style.left = "0";
+			element.style.top = "auto";
+			element.style.right = "0";
+			element.style.bottom = "12px";
+			element.style.width = "100%";
+			element.style.maxHeight = "none";
+			element.style.visibility = "visible";
+			return;
+		}
+
+		if (!barReference) return;
 		const reference = barReference;
 		return autoUpdate(reference, element, () => {
 			computePosition(reference, element, {
@@ -274,10 +308,10 @@
 	{#if panelOpen && panelWord}
 		<div
 			bind:this={panelElement}
-			class="pointer-events-auto"
+			class="pointer-events-auto flex flex-col items-center"
 			style="position: fixed; left: 0; top: 0; visibility: hidden;"
 		>
-			<DefinePanel word={panelWord} onClose={closeAll} onSearch={doSearch} />
+			<DefinePanel word={panelWord} onClose={closeAll} onSearch={doSearch} bottomSheet={isTouch} />
 		</div>
 	{/if}
 </div>
