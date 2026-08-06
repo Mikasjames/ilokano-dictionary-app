@@ -10,11 +10,14 @@
 		"sourceMap": true,
 		"strict": true,
 		"moduleResolution": "bundler",
-		"lib": ["ES2022", "DOM", "WebWorker"],
-		"types": ["service-worker"]
+		"lib": ["ES2022", "DOM", "WebWorker"]
 	},
 	"include": [
-		"src/**/*.ts", 
+		".svelte-kit/tsconfig.json",
+		".svelte-kit/ambient.d.ts",
+		".svelte-kit/non-ambient.d.ts",
+		".svelte-kit/types/**/$types.d.ts",
+		"src/**/*.ts",
 		"src/**/*.svelte",
 		"src/service-worker.js"
 	]
