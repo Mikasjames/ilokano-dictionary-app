@@ -9,6 +9,7 @@ A fast, offline-first digital Ilokano (Ilocano) ↔ English dictionary built wit
 - **Browse by letter** — alphabetically explore words, one page per letter
 - **Word of the day** — a deterministic daily pick plus a random-word button
 - **Deep links** — every word has a shareable URL (`/?word=<word>`) and copy/share buttons
+- **Text selection menu** — select any text on the page to get **Define**, **Copy**, **Search**, and **Share**; Define shows the entry in a floating panel (bottom sheet on mobile)
 - **Search shortcuts** — press `/` or `Ctrl/⌘+K` anywhere to focus search
 - **Recent words** — your last 10 viewed words, persisted locally
 - **Offline-ready** — precompressed static output with a service worker that caches assets on demand
@@ -19,6 +20,7 @@ A fast, offline-first digital Ilokano (Ilocano) ↔ English dictionary built wit
 - [SvelteKit](https://svelte.dev/docs/kit) (Svelte 5 runes) with [`@sveltejs/adapter-static`](https://kit.svelte.dev/docs/adapter-static)
 - [Tailwind CSS v4](https://tailwindcss.com) + [shadcn-svelte](https://shadcn-svelte.com) components
 - [bits-ui](https://bits-ui.com) / [cmdk-sv](https://www.cmdk-sv.com) for search
+- [@floating-ui/dom](https://floating-ui.com) for selection-menu and panel positioning
 - [svelte-sonner](https://svelte-sonner.vercel.app) for toasts
 - [vitest](https://vitest.dev), [ESLint](https://eslint.org) + `typescript-eslint` + `eslint-plugin-svelte`, [Prettier](https://prettier.io) + `prettier-plugin-svelte`
 
@@ -66,6 +68,8 @@ pnpm install
 pnpm dev
 ```
 
+To test on a phone: `pnpm dev:tunnel` serves the app on port 5173 and starts a temporary `cloudflared` quick tunnel, printing a public `https://…trycloudflare.com` URL you can open on the device (works over any network).
+
 ## Checks
 
 ```bash
@@ -93,10 +97,12 @@ src/
     *.json            # dictionary data (one file per letter)
     search-index.json # generated search index (do not edit by hand)
     dictionary.ts     # shared helpers (load definitions, word-of-the-day, browse, ...)
+    clipboard.ts      # shared copyText helper
+    selection.ts      # text-selection helpers (normalize, editable targets, anchors)
     utils.ts          # parts-of-speech, text helpers, cn(), transitions
     types/types.ts    # Definition types
     components/
-      custom/         # Search, Definition, WordOfTheDay, BadgeWords
+      custom/         # Search, Definition, WordOfTheDay, BadgeWords, SelectionMenu, DefinePanel
       ui/             # shadcn-svelte UI components
   routes/
     +page.svelte      # home: search + word of the day + definition
