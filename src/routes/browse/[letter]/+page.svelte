@@ -6,7 +6,7 @@
 		CardDescription,
 		CardContent
 	} from "$lib/components/ui/card";
-	import { wordUrl } from "$lib/dictionary.js";
+	import { wordUrl } from "$lib/dictionary";
 
 	const base = import.meta.env.BASE_URL;
 

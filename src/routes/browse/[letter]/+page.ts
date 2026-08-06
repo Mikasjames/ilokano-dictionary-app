@@ -1,5 +1,5 @@
 import { error } from "@sveltejs/kit";
-import { wordsByLetter } from "$lib/dictionary.js";
+import { wordsByLetter } from "$lib/dictionary";
 import searchIndex from "$lib/search-index.json";
 
 export const prerender = true;

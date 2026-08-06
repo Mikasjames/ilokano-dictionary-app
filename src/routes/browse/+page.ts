@@ -1,4 +1,4 @@
-import { letterCounts } from "$lib/dictionary.js";
+import { letterCounts } from "$lib/dictionary";
 
 export const prerender = true;
 

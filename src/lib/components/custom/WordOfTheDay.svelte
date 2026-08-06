@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { Card, CardContent } from "$lib/components/ui/card";
-	import { Button } from "$lib/components/ui/button/index.js";
-	import { wordOfTheDay, randomWord, loadSearchIndex, wordUrl } from "$lib/dictionary.js";
+	import { Button } from "$lib/components/ui/button/index";
+	import { wordOfTheDay, randomWord, loadSearchIndex, wordUrl } from "$lib/dictionary";
 
 	let word = $state<string | null>(null);
 	let preview = $state<string | null>(null);
