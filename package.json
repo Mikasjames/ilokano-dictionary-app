@@ -5,6 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
+		"dev:tunnel": "vite dev --host --port 5173 --strictPort & cloudflared tunnel --protocol http2 --url http://localhost:5173",
 		"build": "vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
