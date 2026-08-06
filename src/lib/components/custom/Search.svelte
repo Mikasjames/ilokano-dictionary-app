@@ -9,16 +9,15 @@
 	import Sun from "lucide-svelte/icons/sun";
 	import Moon from "lucide-svelte/icons/moon";
 	import { toggleMode } from "mode-watcher";
-	import { Button } from "$lib/components/ui/button/index.js";
+	import { Button } from "$lib/components/ui/button/index";
 	import { toast } from "svelte-sonner";
-	import * as Command from "$lib/components/ui/command/index.js";
+	import * as Command from "$lib/components/ui/command/index";
 	import { browser } from "$app/environment";
 	import { Loader2 } from "lucide-svelte";
-	import { onMount } from "svelte";
+	import { onMount, onDestroy } from "svelte";
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
-	import { loadSearchIndex, wordUrl } from "$lib/dictionary.js";
-
+	import { loadSearchIndex, wordUrl } from "$lib/dictionary";
 	const version = __APP_VERSION__;
 
 	const RECENTS_KEY = "iloko-recents";
@@ -34,7 +33,25 @@
 
 	onMount(() => {
 		recents = loadRecents();
+		window.addEventListener("iloko:search", onExternalSearch);
 	});
+
+	onDestroy(() => {
+		if (browser) {
+			window.removeEventListener("iloko:search", onExternalSearch);
+		}
+	});
+
+	function onExternalSearch(event: Event) {
+		const term = (event as CustomEvent<string>).detail;
+		if (!term) return;
+		performSearch(term);
+		requestAnimationFrame(() => {
+			const input = document.getElementById("search-input");
+			input?.scrollIntoView({ behavior: "smooth", block: "center" });
+			input?.focus();
+		});
+	}
 
 	function loadRecents(): string[] {
 		if (!browser) return [];

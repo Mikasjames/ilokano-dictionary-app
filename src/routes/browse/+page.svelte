@@ -6,7 +6,7 @@
 		CardDescription,
 		CardContent
 	} from "$lib/components/ui/card";
-	import { Button } from "$lib/components/ui/button/index.js";
+	import { Button } from "$lib/components/ui/button/index";
 
 	const base = import.meta.env.BASE_URL;
 

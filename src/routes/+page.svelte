@@ -4,7 +4,7 @@
 	import Search from "$lib/components/custom/Search.svelte";
 	import WordOfTheDay from "$lib/components/custom/WordOfTheDay.svelte";
 	import Definition from "$lib/components/custom/Definition.svelte";
-	import { loadDefinitions } from "$lib/dictionary.js";
+	import { loadDefinitions } from "$lib/dictionary";
 	import { fly } from "svelte/transition";
 
 	let selectedWord = $state<string | null>(null);
