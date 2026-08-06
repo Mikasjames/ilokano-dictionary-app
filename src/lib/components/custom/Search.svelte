@@ -14,24 +14,77 @@
 	import * as Command from "$lib/components/ui/command/index.js";
 	import { browser } from "$app/environment";
 	import { Loader2 } from "lucide-svelte";
+	import { onMount } from "svelte";
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
+	import { loadSearchIndex, wordUrl } from "$lib/dictionary.js";
 
 	const version = __APP_VERSION__;
 
-	let searchIndex: Record<string, [string, string]> | null = $state(null);
+	const RECENTS_KEY = "iloko-recents";
+	const RECENTS_MAX = 10;
+
 	let searchTerm = $state("");
 	let results: [string, Definition[]][] = $state([]);
 	let totalResults = $state(0);
 	let isLoading = $state(false);
 	let noResultsFound = $state(false);
 	let error: string | null = $state(null);
+	let recents = $state<string[]>([]);
 
-	async function loadSearchIndex(): Promise<Record<string, [string, string]>> {
-		if (searchIndex) return searchIndex;
-		const module = await import("$lib/search-index.json");
-		searchIndex = module.default as unknown as Record<string, [string, string]>;
-		return searchIndex || {};
+	onMount(() => {
+		recents = loadRecents();
+	});
+
+	function loadRecents(): string[] {
+		if (!browser) return [];
+		try {
+			const raw = localStorage.getItem(RECENTS_KEY);
+			return raw ? (JSON.parse(raw) as string[]) : [];
+		} catch {
+			return [];
+		}
+	}
+
+	function saveRecents(words: string[]) {
+		if (!browser) return;
+		try {
+			localStorage.setItem(RECENTS_KEY, JSON.stringify(words));
+		} catch {
+			// storage unavailable
+		}
+	}
+
+	function addRecent(word: string) {
+		const next = [word, ...recents.filter((w) => w !== word)].slice(0, RECENTS_MAX);
+		recents = next;
+		saveRecents(next);
+	}
+
+	function clearRecents() {
+		recents = [];
+		saveRecents([]);
+	}
+
+	function handleGlobalKeydown(event: KeyboardEvent) {
+		if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "k") {
+			event.preventDefault();
+			document.getElementById("search-input")?.focus();
+			return;
+		}
+		if (event.key !== "/") return;
+		const target = event.target as HTMLElement | null;
+		const tag = target?.tagName;
+		if (tag === "INPUT" || tag === "TEXTAREA" || target?.isContentEditable) return;
+		event.preventDefault();
+		document.getElementById("search-input")?.focus();
+	}
+
+	function openWord(word: string) {
+		addRecent(word);
+		searchTerm = "";
+		results = [];
+		goto(wordUrl(word));
 	}
 
 	async function search() {
@@ -121,12 +174,11 @@
 	}
 
 	function handleItemClick(word: string) {
-		const basePath = import.meta.env.BASE_URL;
-		goto(`${basePath}?word=${encodeURIComponent(word)}`);
-		searchTerm = "";
-		results = [];
+		openWord(word);
 	}
 </script>
+
+<svelte:window onkeydown={handleGlobalKeydown} />
 
 <Card class="w-full">
 	<CardHeader>
@@ -154,6 +206,7 @@
 			<Command.Root shouldFilter={false} class="rounded-lg border shadow-md w-full">
 				<div class="flex items-center px-3">
 					<Command.Input
+						id="search-input"
 						placeholder="Type a word to search..."
 						bind:value={() => searchTerm, performSearch}
 						class="flex-1"
@@ -170,7 +223,7 @@
 						{:else if noResultsFound}
 							<Command.Empty>No words found for "{searchTerm}"</Command.Empty>
 						{:else if results.length > 0}
-							{#each results as [word, definitions]}
+							{#each results as [word, definitions] (word)}
 								<Command.Item
 									value={word}
 									onSelect={() => handleItemClick(word)}
@@ -201,6 +254,29 @@
 					{/if}
 				</p>
 			{/if}
+			<a href={`${import.meta.env.BASE_URL}browse/`} class="hover:underline">Browse by letter</a>
 		</div>
+
+		{#if recents.length > 0}
+			<div class="flex flex-wrap items-center gap-2 mt-4">
+				<span class="text-xs text-muted-foreground">Recent:</span>
+				{#each recents as recent (recent)}
+					<button
+						type="button"
+						onclick={() => openWord(recent)}
+						class="inline-flex items-center rounded-md border px-2.5 py-0.5 text-xs font-medium bg-muted/50 hover:bg-accent transition-colors"
+					>
+						{recent}
+					</button>
+				{/each}
+				<button
+					type="button"
+					onclick={clearRecents}
+					class="text-xs text-muted-foreground hover:underline ml-auto"
+				>
+					Clear
+				</button>
+			</div>
+		{/if}
 	</CardContent>
 </Card>

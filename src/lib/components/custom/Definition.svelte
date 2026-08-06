@@ -7,7 +7,12 @@
 		CardContent
 	} from "$lib/components/ui/card";
 	import { Separator } from "$lib/components/ui/separator";
+	import { Button } from "$lib/components/ui/button/index.js";
 	import { getPartsOfSpeech, processCommasAndDots } from "$lib/utils";
+	import { toast } from "svelte-sonner";
+	import { browser } from "$app/environment";
+	import { Link2, Share2 } from "lucide-svelte";
+	import { wordUrl } from "$lib/dictionary.js";
 	import type { Definition } from "$lib/types/types";
 	import BadgeWords from "./BadgeWords.svelte";
 
@@ -15,6 +20,50 @@
 		$props();
 
 	// We no longer need to load definitions here as they are provided by the page load function
+
+	function currentUrl(): string {
+		return new URL(wordUrl(word ?? ""), window.location.href).href;
+	}
+
+	async function copyText(text: string) {
+		if (navigator.clipboard?.writeText) {
+			await navigator.clipboard.writeText(text);
+		} else {
+			const textarea = document.createElement("textarea");
+			textarea.value = text;
+			textarea.style.position = "fixed";
+			textarea.style.opacity = "0";
+			document.body.appendChild(textarea);
+			textarea.select();
+			document.execCommand("copy");
+			document.body.removeChild(textarea);
+		}
+	}
+
+	async function copyLink() {
+		if (!browser || !word) return;
+		try {
+			await copyText(currentUrl());
+			toast.success("Link copied to clipboard");
+		} catch (err) {
+			console.error("Failed to copy link:", err);
+			toast.error("Could not copy link");
+		}
+	}
+
+	async function shareWord() {
+		if (!browser || !word) return;
+		const url = currentUrl();
+		if (navigator.share) {
+			try {
+				await navigator.share({ title: `${word} — IloCo.`, url });
+			} catch {
+				// user cancelled the share dialog
+			}
+		} else {
+			await copyLink();
+		}
+	}
 </script>
 
 <div class="space-y-4">
@@ -25,10 +74,10 @@
 			</CardContent>
 		</Card>
 	{:else}
-		{#each definitions as def}
+		{#each definitions as def (def.definition)}
 			<Card class="w-full">
 				<CardHeader>
-					<div class="flex justify-between items-center">
+					<div class="flex justify-between items-center gap-4">
 						<div>
 							<CardTitle class="text-3xl font-bold">{word}</CardTitle>
 							<CardDescription class="mt-1">
@@ -38,6 +87,14 @@
 									<span class="text-muted-foreground italic ml-1">({def.origin})</span>
 								{/if}
 							</CardDescription>
+						</div>
+						<div class="flex items-center gap-1 shrink-0">
+							<Button variant="ghost" size="icon" onclick={copyLink} aria-label="Copy link">
+								<Link2 class="h-4 w-4" />
+							</Button>
+							<Button variant="ghost" size="icon" onclick={shareWord} aria-label="Share">
+								<Share2 class="h-4 w-4" />
+							</Button>
 						</div>
 					</div>
 				</CardHeader>
@@ -72,7 +129,7 @@
 						<div>
 							<h3 class="text-lg font-medium mb-3">Phrases & Idioms</h3>
 							<div class="grid gap-3 sm:grid-cols-2">
-								{#each def.phrases as item}
+								{#each def.phrases as item (item.phrase)}
 									<div class="bg-muted/30 p-3 rounded-md border border-border">
 										<p class="font-semibold text-primary">{item.phrase}</p>
 										<p class="text-sm text-muted-foreground mt-1">{item.definition}</p>
@@ -87,7 +144,7 @@
 						<div>
 							<h3 class="text-lg font-medium mb-3">Derivatives & Examples</h3>
 							<div class="space-y-4">
-								{#each def.examples as ex}
+								{#each def.examples as ex (ex.derivative)}
 									<div
 										class="p-4 rounded-lg border bg-card text-card-foreground shadow-sm space-y-2"
 									>

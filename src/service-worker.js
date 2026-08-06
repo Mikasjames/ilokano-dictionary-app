@@ -9,7 +9,7 @@ const ASSETS = [
 	...files // everything in `static`
 ];
 
-self.addEventListener("install", (event) => {
+self.addEventListener("install", (_event) => {
 	// Skip the aggressive pre-caching to speed up initial load.
 	// The fetch handler will cache assets on-demand as they are requested.
 	self.skipWaiting();
