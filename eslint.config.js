@@ -31,6 +31,12 @@ export default tseslint.config(
 		}
 	},
 	{
+		files: ["e2e/**/*.ts", "playwright.config.ts"],
+		languageOptions: {
+			globals: { ...globals.browser, ...globals.node }
+		}
+	},
+	{
 		files: ["src/service-worker.js"],
 		languageOptions: {
 			globals: globals.worker

@@ -17,20 +17,29 @@
 		"format": "prettier --write .",
 		"format:check": "prettier --check .",
 		"test": "vitest run",
-		"test:watch": "vitest"
+		"test:watch": "vitest",
+		"test:unit": "vitest run src/lib/*.test.ts scripts/*.test.mjs",
+		"test:component": "vitest run src/lib/components",
+		"test:coverage": "vitest run --coverage",
+		"test:e2e": "playwright test"
 	},
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",
+		"@playwright/test": "^1.62.1",
 		"@sveltejs/adapter-auto": "^4.0.0",
 		"@sveltejs/adapter-static": "^3.0.8",
 		"@sveltejs/kit": "^2.16.0",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
+		"@testing-library/jest-dom": "^7.0.0",
+		"@testing-library/svelte": "^5.4.2",
+		"@vitest/coverage-v8": "^4.1.10",
 		"bits-ui": "0.22.0",
 		"clsx": "^2.1.1",
 		"cmdk-sv": "^0.0.19",
 		"eslint": "^10.8.0",
 		"eslint-plugin-svelte": "^3.22.0",
 		"globals": "^17.9.0",
+		"jsdom": "^30.0.1",
 		"lucide-svelte": "^0.487.0",
 		"mode-watcher": "^0.5.1",
 		"prettier": "3.5.3",
@@ -42,11 +51,6 @@
 		"typescript-eslint": "^8.66.0",
 		"vite": "^6.0.0",
 		"vitest": "^4.1.10"
-	},
-	"pnpm": {
-		"onlyBuiltDependencies": [
-			"esbuild"
-		]
 	},
 	"dependencies": {
 		"@floating-ui/dom": "^1.6.13",

@@ -6,12 +6,8 @@
 	import { Button } from "$lib/components/ui/button/index";
 	import { Separator } from "$lib/components/ui/separator";
 	import { copyText } from "$lib/clipboard";
-	import {
-		normalizeSelectionText,
-		isEditableTarget,
-		selectionAnchor,
-		virtualElementFor
-	} from "$lib/selection";
+	import { isEditableTarget } from "$lib/utils";
+	import { selectionSnapshot, decideMenuAction, virtualElementFor } from "$lib/selection";
 	import DefinePanel from "./DefinePanel.svelte";
 
 	let selectionRoot = $state<HTMLElement | null>(null);
@@ -27,53 +23,31 @@
 
 	const barReference = $derived(anchorRect ? virtualElementFor(anchorRect) : null);
 
-	function selectionIsEditable(selection: Selection): boolean {
-		const node = selection.anchorNode;
-		if (!node) return true;
-		return isEditableTarget(node instanceof Element ? node : node.parentElement);
-	}
-
-	function selectionInsideRoot(selection: Selection): boolean {
-		const node = selection.anchorNode;
-		if (!node || !selectionRoot) return false;
-		return selectionRoot.contains(node instanceof Element ? node : node.parentElement);
-	}
-
 	function updateFromSelection() {
 		if (!browser) return;
-		const selection = window.getSelection();
-		if (!selection) return;
-		if (selectionIsEditable(selection) || selectionInsideRoot(selection)) return;
-
-		const text = selection.isCollapsed ? "" : normalizeSelectionText(selection.toString());
-		if (panelOpen && panelWord && text === panelWord) return;
-		if (!text) {
-			if (!panelOpen) closeAll();
-			return;
+		const action = decideMenuAction(selectionSnapshot(window.getSelection(), selectionRoot), {
+			panelOpen,
+			panelWord
+		});
+		if (action.action === "show") {
+			panelOpen = false;
+			panelWord = null;
+			selectionText = action.text;
+			anchorRect = action.anchor;
+			menuOpen = true;
+		} else if (action.action === "close") {
+			closeAll();
 		}
-
-		const rect = selectionAnchor(selection);
-		if (!rect) return;
-
-		panelOpen = false;
-		panelWord = null;
-		selectionText = text;
-		anchorRect = rect;
-		menuOpen = true;
 	}
 
 	function refreshAnchor() {
 		if (!browser) return;
-		const selection = window.getSelection();
-		if (!selection || selection.isCollapsed) {
-			if (!panelOpen) closeAll();
-			return;
-		}
-		if (selectionIsEditable(selection) || selectionInsideRoot(selection)) return;
-		const text = normalizeSelectionText(selection.toString());
-		if (!text) return;
-		const rect = selectionAnchor(selection);
-		if (rect) anchorRect = rect;
+		const action = decideMenuAction(
+			selectionSnapshot(window.getSelection(), selectionRoot),
+			{ panelOpen, panelWord },
+			"refresh"
+		);
+		if (action.action === "refresh-anchor") anchorRect = action.anchor;
 	}
 
 	let selectionTimeout: ReturnType<typeof setTimeout>;

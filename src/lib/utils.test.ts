@@ -1,6 +1,6 @@
 import { describe, it, expect } from "vitest";
 import type { Definition } from "./types/types";
-import { getPartsOfSpeech, processCommasAndDots } from "./utils";
+import { getPartsOfSpeech, isEditableTarget, processCommasAndDots } from "./utils";
 
 describe("getPartsOfSpeech", () => {
 	it("maps abbreviations to full names", () => {
@@ -20,6 +20,27 @@ describe("getPartsOfSpeech", () => {
 		const unknown = "x." as Definition["part_of_speech"];
 		expect(getPartsOfSpeech(unknown)).toBeUndefined();
 		expect(getPartsOfSpeech(undefined)).toBeUndefined();
+	});
+});
+
+describe("isEditableTarget", () => {
+	it("flags input, textarea, and contenteditable targets", () => {
+		expect(isEditableTarget({ tagName: "INPUT" })).toBe(true);
+		expect(isEditableTarget({ tagName: "textarea" })).toBe(true);
+		expect(isEditableTarget({ tagName: "DIV", isContentEditable: true })).toBe(true);
+	});
+
+	it("is false for plain elements, nullish values, and non-objects", () => {
+		expect(isEditableTarget({ tagName: "DIV" })).toBe(false);
+		expect(isEditableTarget(null)).toBe(false);
+		expect(isEditableTarget(undefined)).toBe(false);
+		expect(isEditableTarget("INPUT")).toBe(false);
+		expect(isEditableTarget(42)).toBe(false);
+	});
+
+	it("ignores malformed tagName values", () => {
+		expect(isEditableTarget({ tagName: 42 })).toBe(false);
+		expect(isEditableTarget({})).toBe(false);
 	});
 });
 

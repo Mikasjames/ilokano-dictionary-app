@@ -18,10 +18,9 @@
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
 	import { loadSearchIndex, wordUrl } from "$lib/dictionary";
+	import { searchWords, shouldFocusSearchFromKeydown } from "$lib/search";
+	import { loadRecents, saveRecents, addRecent, RECENTS_MAX } from "$lib/recents";
 	const version = __APP_VERSION__;
-
-	const RECENTS_KEY = "iloko-recents";
-	const RECENTS_MAX = 10;
 
 	let searchTerm = $state("");
 	let results: [string, Definition[]][] = $state([]);
@@ -32,7 +31,7 @@
 	let recents = $state<string[]>([]);
 
 	onMount(() => {
-		recents = loadRecents();
+		if (browser) recents = loadRecents(localStorage);
 		window.addEventListener("iloko:search", onExternalSearch);
 	});
 
@@ -53,52 +52,25 @@
 		});
 	}
 
-	function loadRecents(): string[] {
-		if (!browser) return [];
-		try {
-			const raw = localStorage.getItem(RECENTS_KEY);
-			return raw ? (JSON.parse(raw) as string[]) : [];
-		} catch {
-			return [];
-		}
-	}
-
-	function saveRecents(words: string[]) {
-		if (!browser) return;
-		try {
-			localStorage.setItem(RECENTS_KEY, JSON.stringify(words));
-		} catch {
-			// storage unavailable
-		}
-	}
-
-	function addRecent(word: string) {
-		const next = [word, ...recents.filter((w) => w !== word)].slice(0, RECENTS_MAX);
+	function addRecentWord(word: string) {
+		const next = addRecent(recents, word, RECENTS_MAX);
 		recents = next;
-		saveRecents(next);
+		if (browser) saveRecents(next, localStorage);
 	}
 
 	function clearRecents() {
 		recents = [];
-		saveRecents([]);
+		if (browser) saveRecents([], localStorage);
 	}
 
 	function handleGlobalKeydown(event: KeyboardEvent) {
-		if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "k") {
-			event.preventDefault();
-			document.getElementById("search-input")?.focus();
-			return;
-		}
-		if (event.key !== "/") return;
-		const target = event.target as HTMLElement | null;
-		const tag = target?.tagName;
-		if (tag === "INPUT" || tag === "TEXTAREA" || target?.isContentEditable) return;
+		if (!shouldFocusSearchFromKeydown(event)) return;
 		event.preventDefault();
 		document.getElementById("search-input")?.focus();
 	}
 
 	function openWord(word: string) {
-		addRecent(word);
+		addRecentWord(word);
 		searchTerm = "";
 		results = [];
 		goto(wordUrl(word));
@@ -115,49 +87,12 @@
 
 		try {
 			const index = await loadSearchIndex();
-			const term = searchTerm.toLowerCase().trim();
+			const term = searchTerm.trim();
 
-			// Search both fields: Ilokano headword OR English definition preview
-			const matches = Object.entries(index).filter(([word, [, preview]]) => {
-				const normalizedWord = word.startsWith("-")
-					? word.slice(1).toLowerCase()
-					: word.toLowerCase();
-
-				return normalizedWord.includes(term) || preview.toLowerCase().includes(term);
-			});
-
-			// Sort based on match quality
-			matches.sort((a, b) => {
-				const [wordA, [, previewA]] = a;
-				const [wordB, [, previewB]] = b;
-
-				const normA = wordA.startsWith("-") ? wordA.slice(1).toLowerCase() : wordA.toLowerCase();
-				const normB = wordB.startsWith("-") ? wordB.slice(1).toLowerCase() : wordB.toLowerCase();
-
-				const previewALower = previewA.toLowerCase();
-				const previewBLower = previewB.toLowerCase();
-
-				// Assign relevancy scores to prioritize direct matches
-				const getScore = (word: string, preview: string) => {
-					if (word === term) return 4; // Exact Ilokano match
-					if (word.startsWith(term)) return 3; // Ilokano starts with term
-					if (word.includes(term)) return 2; // Ilokano contains term
-					if (preview.includes(term)) return 1; // Matches only English definition
-					return 0;
-				};
-
-				const scoreA = getScore(normA, previewALower);
-				const scoreB = getScore(normB, previewBLower);
-
-				if (scoreA !== scoreB) {
-					return scoreB - scoreA; // Higher score comes first
-				}
-
-				return normA.localeCompare(normB); // Fallback to alphabetical sorting
-			});
+			const matches = searchWords(index, term);
 
 			totalResults = matches.length;
-			results = matches.slice(0, 20).map(([word, [, preview]]) => {
+			results = matches.slice(0, 20).map(([word, preview]) => {
 				return [word, [{ definition: preview }]] as [string, Definition[]];
 			});
 

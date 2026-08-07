@@ -8,6 +8,13 @@ export function cn(...inputs: ClassValue[]) {
 	return twMerge(clsx(inputs));
 }
 
+export function isEditableTarget(target: unknown): boolean {
+	if (!target || typeof target !== "object") return false;
+	const el = target as { tagName?: unknown; isContentEditable?: unknown };
+	const tag = typeof el.tagName === "string" ? el.tagName.toUpperCase() : "";
+	return tag === "INPUT" || tag === "TEXTAREA" || Boolean(el.isContentEditable);
+}
+
 type FlyAndScaleParams = {
 	y?: number;
 	x?: number;
