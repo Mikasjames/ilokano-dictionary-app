@@ -18,6 +18,8 @@
 		"format:check": "prettier --check .",
 		"test": "vitest run",
 		"test:watch": "vitest",
+		"test:unit": "vitest run src/lib/*.test.ts scripts/*.test.mjs",
+		"test:component": "vitest run src/lib/components",
 		"test:coverage": "vitest run --coverage",
 		"test:e2e": "playwright test"
 	},
