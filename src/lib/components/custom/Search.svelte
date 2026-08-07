@@ -19,10 +19,8 @@
 	import { goto } from "$app/navigation";
 	import { loadSearchIndex, wordUrl } from "$lib/dictionary";
 	import { searchWords } from "$lib/search";
+	import { loadRecents, saveRecents, addRecent, RECENTS_MAX } from "$lib/recents";
 	const version = __APP_VERSION__;
-
-	const RECENTS_KEY = "iloko-recents";
-	const RECENTS_MAX = 10;
 
 	let searchTerm = $state("");
 	let results: [string, Definition[]][] = $state([]);
@@ -33,7 +31,7 @@
 	let recents = $state<string[]>([]);
 
 	onMount(() => {
-		recents = loadRecents();
+		if (browser) recents = loadRecents(localStorage);
 		window.addEventListener("iloko:search", onExternalSearch);
 	});
 
@@ -54,34 +52,15 @@
 		});
 	}
 
-	function loadRecents(): string[] {
-		if (!browser) return [];
-		try {
-			const raw = localStorage.getItem(RECENTS_KEY);
-			return raw ? (JSON.parse(raw) as string[]) : [];
-		} catch {
-			return [];
-		}
-	}
-
-	function saveRecents(words: string[]) {
-		if (!browser) return;
-		try {
-			localStorage.setItem(RECENTS_KEY, JSON.stringify(words));
-		} catch {
-			// storage unavailable
-		}
-	}
-
-	function addRecent(word: string) {
-		const next = [word, ...recents.filter((w) => w !== word)].slice(0, RECENTS_MAX);
+	function addRecentWord(word: string) {
+		const next = addRecent(recents, word, RECENTS_MAX);
 		recents = next;
-		saveRecents(next);
+		if (browser) saveRecents(next, localStorage);
 	}
 
 	function clearRecents() {
 		recents = [];
-		saveRecents([]);
+		if (browser) saveRecents([], localStorage);
 	}
 
 	function handleGlobalKeydown(event: KeyboardEvent) {
@@ -99,7 +78,7 @@
 	}
 
 	function openWord(word: string) {
-		addRecent(word);
+		addRecentWord(word);
 		searchTerm = "";
 		results = [];
 		goto(wordUrl(word));
