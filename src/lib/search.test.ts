@@ -1,5 +1,12 @@
 import { describe, it, expect } from "vitest";
-import { normalizeWord, searchWords } from "./search";
+import {
+	normalizeWord,
+	searchWords,
+	isFocusSearchShortcut,
+	isEditableTarget,
+	shouldFocusSearchFromKeydown,
+	type KeydownEventLike
+} from "./search";
 
 const index: Record<string, [string, string]> = {
 	balay: ["B", "house; a dwelling place"],
@@ -76,5 +83,79 @@ describe("searchWords", () => {
 
 	it("returns [] when nothing matches", () => {
 		expect(searchWords(index, "xyzzy")).toEqual([]);
+	});
+});
+
+describe("isFocusSearchShortcut", () => {
+	it("accepts Ctrl+K", () => {
+		expect(isFocusSearchShortcut({ ctrlKey: true, key: "k" })).toBe(true);
+		expect(isFocusSearchShortcut({ ctrlKey: true, key: "K" })).toBe(true);
+	});
+
+	it("accepts Meta+K (Cmd+K)", () => {
+		expect(isFocusSearchShortcut({ metaKey: true, key: "k" })).toBe(true);
+	});
+
+	it("accepts either modifier combined", () => {
+		expect(isFocusSearchShortcut({ ctrlKey: true, metaKey: true, key: "k" })).toBe(true);
+	});
+
+	it("rejects other keys and unmodified K", () => {
+		expect(isFocusSearchShortcut({ key: "k" })).toBe(false);
+		expect(isFocusSearchShortcut({ ctrlKey: true, key: "a" })).toBe(false);
+		expect(isFocusSearchShortcut({ ctrlKey: true, metaKey: true, key: "/" })).toBe(false);
+	});
+});
+
+describe("isEditableTarget", () => {
+	it("flags input, textarea, and contenteditable targets", () => {
+		expect(isEditableTarget({ tagName: "INPUT" })).toBe(true);
+		expect(isEditableTarget({ tagName: "textarea" })).toBe(true);
+		expect(isEditableTarget({ tagName: "DIV", isContentEditable: true })).toBe(true);
+	});
+
+	it("is false for plain elements and null targets", () => {
+		expect(isEditableTarget({ tagName: "DIV" })).toBe(false);
+		expect(isEditableTarget(null)).toBe(false);
+		expect(isEditableTarget(undefined)).toBe(false);
+	});
+});
+
+describe("shouldFocusSearchFromKeydown", () => {
+	const ev = (overrides: Partial<KeydownEventLike>): KeydownEventLike => ({
+		key: "/",
+		target: { tagName: "BODY" },
+		...overrides
+	});
+
+	it("returns true for Ctrl/Cmd+K regardless of target", () => {
+		expect(
+			shouldFocusSearchFromKeydown(ev({ ctrlKey: true, key: "k", target: { tagName: "INPUT" } }))
+		).toBe(true);
+		expect(
+			shouldFocusSearchFromKeydown(ev({ metaKey: true, key: "K", target: { tagName: "BODY" } }))
+		).toBe(true);
+	});
+
+	it("returns true for / on non-editable targets", () => {
+		expect(shouldFocusSearchFromKeydown(ev({ key: "/" }))).toBe(true);
+		expect(shouldFocusSearchFromKeydown(ev({ key: "/", target: null }))).toBe(true);
+	});
+
+	it("returns false for / inside inputs", () => {
+		expect(shouldFocusSearchFromKeydown(ev({ key: "/", target: { tagName: "INPUT" } }))).toBe(
+			false
+		);
+		expect(shouldFocusSearchFromKeydown(ev({ key: "/", target: { tagName: "TEXTAREA" } }))).toBe(
+			false
+		);
+		expect(
+			shouldFocusSearchFromKeydown(ev({ key: "/", target: { isContentEditable: true } }))
+		).toBe(false);
+	});
+
+	it("returns false for unrelated keys", () => {
+		expect(shouldFocusSearchFromKeydown(ev({ key: "a" }))).toBe(false);
+		expect(shouldFocusSearchFromKeydown(ev({ key: "Enter" }))).toBe(false);
 	});
 });

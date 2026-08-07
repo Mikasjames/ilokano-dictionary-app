@@ -71,3 +71,56 @@ describe("Search", () => {
 		});
 	});
 });
+
+describe("Search keyboard shortcuts", () => {
+	it("focuses the search input on Ctrl+K", () => {
+		render(Search);
+		const input = document.getElementById("search-input") as HTMLInputElement;
+
+		window.dispatchEvent(new KeyboardEvent("keydown", { key: "k", ctrlKey: true }));
+
+		expect(document.activeElement).toBe(input);
+	});
+
+	it("focuses the search input on Meta+K", () => {
+		render(Search);
+		const input = document.getElementById("search-input") as HTMLInputElement;
+
+		window.dispatchEvent(new KeyboardEvent("keydown", { key: "K", metaKey: true }));
+
+		expect(document.activeElement).toBe(input);
+	});
+
+	it("focuses the search input when / is pressed on a non-editable target", () => {
+		render(Search);
+		const input = document.getElementById("search-input") as HTMLInputElement;
+		const event = new KeyboardEvent("keydown", { key: "/", cancelable: true });
+
+		window.dispatchEvent(event);
+
+		expect(event.defaultPrevented).toBe(true);
+		expect(document.activeElement).toBe(input);
+	});
+
+	it("does not handle / typed inside the search input", () => {
+		render(Search);
+		const input = document.getElementById("search-input") as HTMLInputElement;
+		input.focus();
+		const event = new KeyboardEvent("keydown", { key: "/", bubbles: true, cancelable: true });
+
+		input.dispatchEvent(event);
+
+		expect(event.defaultPrevented).toBe(false);
+		expect(document.activeElement).toBe(input);
+	});
+
+	it("ignores unrelated keys", () => {
+		render(Search);
+		const event = new KeyboardEvent("keydown", { key: "a", cancelable: true });
+
+		window.dispatchEvent(event);
+
+		expect(event.defaultPrevented).toBe(false);
+		expect(document.activeElement).not.toBe(document.getElementById("search-input"));
+	});
+});

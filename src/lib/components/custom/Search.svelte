@@ -18,7 +18,7 @@
 	import type { Definition } from "$lib/types/types";
 	import { goto } from "$app/navigation";
 	import { loadSearchIndex, wordUrl } from "$lib/dictionary";
-	import { searchWords } from "$lib/search";
+	import { searchWords, shouldFocusSearchFromKeydown } from "$lib/search";
 	import { loadRecents, saveRecents, addRecent, RECENTS_MAX } from "$lib/recents";
 	const version = __APP_VERSION__;
 
@@ -64,15 +64,7 @@
 	}
 
 	function handleGlobalKeydown(event: KeyboardEvent) {
-		if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "k") {
-			event.preventDefault();
-			document.getElementById("search-input")?.focus();
-			return;
-		}
-		if (event.key !== "/") return;
-		const target = event.target as HTMLElement | null;
-		const tag = target?.tagName;
-		if (tag === "INPUT" || tag === "TEXTAREA" || target?.isContentEditable) return;
+		if (!shouldFocusSearchFromKeydown(event)) return;
 		event.preventDefault();
 		document.getElementById("search-input")?.focus();
 	}
