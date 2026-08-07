@@ -3,7 +3,6 @@ import {
 	normalizeWord,
 	searchWords,
 	isFocusSearchShortcut,
-	isEditableTarget,
 	shouldFocusSearchFromKeydown,
 	type KeydownEventLike
 } from "./search";
@@ -104,20 +103,6 @@ describe("isFocusSearchShortcut", () => {
 		expect(isFocusSearchShortcut({ key: "k" })).toBe(false);
 		expect(isFocusSearchShortcut({ ctrlKey: true, key: "a" })).toBe(false);
 		expect(isFocusSearchShortcut({ ctrlKey: true, metaKey: true, key: "/" })).toBe(false);
-	});
-});
-
-describe("isEditableTarget", () => {
-	it("flags input, textarea, and contenteditable targets", () => {
-		expect(isEditableTarget({ tagName: "INPUT" })).toBe(true);
-		expect(isEditableTarget({ tagName: "textarea" })).toBe(true);
-		expect(isEditableTarget({ tagName: "DIV", isContentEditable: true })).toBe(true);
-	});
-
-	it("is false for plain elements and null targets", () => {
-		expect(isEditableTarget({ tagName: "DIV" })).toBe(false);
-		expect(isEditableTarget(null)).toBe(false);
-		expect(isEditableTarget(undefined)).toBe(false);
 	});
 });
 

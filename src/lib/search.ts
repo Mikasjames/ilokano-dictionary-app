@@ -1,3 +1,5 @@
+import { isEditableTarget } from "./utils";
+
 export function normalizeWord(word: string): string {
 	return word.startsWith("-") ? word.slice(1).toLowerCase() : word.toLowerCase();
 }
@@ -11,13 +13,6 @@ export interface KeydownEventLike {
 
 export function isFocusSearchShortcut(event: KeydownEventLike): boolean {
 	return Boolean(event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "k";
-}
-
-export function isEditableTarget(target: KeydownEventLike["target"]): boolean {
-	if (!target || typeof target !== "object") return false;
-	const el = target as { tagName?: unknown; isContentEditable?: unknown };
-	const tag = typeof el.tagName === "string" ? el.tagName.toUpperCase() : "";
-	return tag === "INPUT" || tag === "TEXTAREA" || Boolean(el.isContentEditable);
 }
 
 export function shouldFocusSearchFromKeydown(event: KeydownEventLike): boolean {

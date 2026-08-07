@@ -6,12 +6,8 @@
 	import { Button } from "$lib/components/ui/button/index";
 	import { Separator } from "$lib/components/ui/separator";
 	import { copyText } from "$lib/clipboard";
-	import {
-		isEditableTarget,
-		selectionSnapshot,
-		decideMenuAction,
-		virtualElementFor
-	} from "$lib/selection";
+	import { isEditableTarget } from "$lib/utils";
+	import { selectionSnapshot, decideMenuAction, virtualElementFor } from "$lib/selection";
 	import DefinePanel from "./DefinePanel.svelte";
 
 	let selectionRoot = $state<HTMLElement | null>(null);

@@ -1,11 +1,6 @@
-export const MAX_SELECTION_LENGTH = 120;
+import { isEditableTarget } from "./utils";
 
-export function isEditableTarget(target: EventTarget | null): boolean {
-	if (typeof HTMLElement === "undefined") return false;
-	if (!(target instanceof HTMLElement)) return false;
-	const tag = target.tagName;
-	return tag === "INPUT" || tag === "TEXTAREA" || target.isContentEditable;
-}
+export const MAX_SELECTION_LENGTH = 120;
 
 export function normalizeSelectionText(text: string): string {
 	const trimmed = text.replace(/\s+/g, " ").trim();

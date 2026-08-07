@@ -1,7 +1,6 @@
 import { describe, it, expect, beforeAll } from "vitest";
 import {
 	normalizeSelectionText,
-	isEditableTarget,
 	selectionAnchor,
 	selectionText,
 	selectionIsEditable,
@@ -83,30 +82,24 @@ describe("normalizeSelectionText", () => {
 	});
 });
 
-describe("isEditableTarget", () => {
-	it("rejects non-element targets", () => {
-		expect(isEditableTarget(null)).toBe(false);
-		expect(isEditableTarget(undefined as unknown as EventTarget)).toBe(false);
-	});
-
-	it("detects inputs and textareas", () => {
-		expect(isEditableTarget(fakeElement("INPUT"))).toBe(true);
-		expect(isEditableTarget(fakeElement("TEXTAREA"))).toBe(true);
-	});
-
-	it("detects contenteditable elements", () => {
-		expect(isEditableTarget(fakeElement("DIV", true))).toBe(true);
-	});
-
-	it("allows plain elements", () => {
-		expect(isEditableTarget(fakeElement("P"))).toBe(false);
-	});
-});
-
 describe("selectionAnchor", () => {
 	it("returns null for empty selections", () => {
 		expect(selectionAnchor(null as unknown as Selection)).toBeNull();
 		expect(selectionAnchor({ rangeCount: 0 } as unknown as Selection)).toBeNull();
+	});
+
+	it("prefers the first client rect of the range", () => {
+		const anchor = selectionAnchor(fakeSelection({ hasRects: true }));
+		expect(anchor).not.toBeNull();
+		expect(anchor!.width).toBe(10);
+		expect(anchor!.height).toBe(10);
+	});
+
+	it("falls back to the range bounding rect when there are no client rects", () => {
+		const anchor = selectionAnchor(fakeSelection({ hasRects: false }));
+		expect(anchor).not.toBeNull();
+		expect(anchor!.width).toBe(10);
+		expect(anchor!.height).toBe(10);
 	});
 });
 
