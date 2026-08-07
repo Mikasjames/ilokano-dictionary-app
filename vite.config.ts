@@ -24,6 +24,24 @@ export default defineConfig({
 	test: {
 		include: ["src/**/*.test.ts", "scripts/**/*.test.mjs"],
 		environment: "node",
-		setupFiles: ["src/test/setup.ts"]
+		setupFiles: ["src/test/setup.ts"],
+		coverage: {
+			provider: "v8",
+			include: ["src/lib/**/*.ts", "src/lib/components/**/*.svelte", "scripts/**/*.mjs"],
+			exclude: [
+				"**/*.test.*",
+				"src/lib/components/ui/**",
+				"src/lib/types/**",
+				"src/lib/search-index.json"
+			],
+			reporter: ["text", "html"],
+			reportOnFailure: true,
+			thresholds: {
+				lines: 70,
+				functions: 75,
+				branches: 55,
+				statements: 70
+			}
+		}
 	}
 });
