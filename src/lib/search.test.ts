@@ -48,10 +48,11 @@ describe("searchWords", () => {
 			"-sabong": ["S", "flower"],
 			sabong: ["S", "flower"]
 		};
-		expect(searchWords(affixIndex, "sabong").map(([w]) => w).sort()).toEqual([
-			"-sabong",
-			"sabong"
-		]);
+		expect(
+			searchWords(affixIndex, "sabong")
+				.map(([w]) => w)
+				.sort()
+		).toEqual(["-sabong", "sabong"]);
 	});
 
 	it("does not match when the query itself carries the hyphen", () => {

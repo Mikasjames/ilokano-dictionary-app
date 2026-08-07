@@ -24,4 +24,8 @@ if (typeof window !== "undefined") {
 		disconnect() {}
 	}
 	(globalThis as Record<string, unknown>).ResizeObserver = ResizeObserverStub;
+
+	if (!Element.prototype.scrollIntoView) {
+		Element.prototype.scrollIntoView = () => {};
+	}
 }

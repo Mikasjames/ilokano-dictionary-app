@@ -3,9 +3,7 @@ export const RECENTS_MAX = 10;
 
 type StorageLike = Pick<Storage, "getItem" | "setItem">;
 
-function storageAvailable(
-	storage: StorageLike | null | undefined
-): storage is StorageLike {
+function storageAvailable(storage: StorageLike | null | undefined): storage is StorageLike {
 	return (
 		typeof storage === "object" &&
 		storage !== null &&
@@ -26,10 +24,7 @@ export function loadRecents(storage: StorageLike | null | undefined = null): str
 	}
 }
 
-export function saveRecents(
-	words: string[],
-	storage: StorageLike | null | undefined = null
-): void {
+export function saveRecents(words: string[], storage: StorageLike | null | undefined = null): void {
 	if (!storageAvailable(storage)) return;
 	try {
 		storage.setItem(RECENTS_KEY, JSON.stringify(words));
