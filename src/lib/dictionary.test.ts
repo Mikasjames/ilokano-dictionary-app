@@ -3,10 +3,12 @@ import {
 	letterOf,
 	wordUrl,
 	loadDefinitions,
+	loadDefinitionsFrom,
 	loadSearchIndex,
 	randomWord,
 	wordOfTheDay,
 	letterCounts,
+	lettersWithWords,
 	wordsByLetter
 } from "./dictionary";
 import searchIndex from "./search-index.json";
@@ -65,6 +67,19 @@ describe("letterCounts", () => {
 			total += count;
 		}
 		expect(total).toBe(Object.keys(index).length);
+	});
+});
+
+describe("lettersWithWords", () => {
+	it("returns the present letters sorted", async () => {
+		const counts = await letterCounts();
+		const letters = lettersWithWords(counts);
+		expect(letters).toEqual([...counts.keys()].sort());
+		expect(letters.length).toBeGreaterThan(0);
+	});
+
+	it("returns [] for an empty map", () => {
+		expect(lettersWithWords(new Map())).toEqual([]);
 	});
 });
 
@@ -136,5 +151,20 @@ describe("loadDefinitions", () => {
 
 	it("returns [] instead of throwing on missing letter files", async () => {
 		await expect(loadDefinitions("ñgato")).resolves.toEqual([]);
+	});
+});
+
+describe("loadDefinitionsFrom", () => {
+	it("returns [] and logs when a loader throws", async () => {
+		const errorSpy = vi.spyOn(console, "error").mockImplementation(() => {});
+		const loader = vi.fn().mockRejectedValue(new Error("boom"));
+
+		await expect(
+			loadDefinitionsFrom({ "./A.json": loader }, "abaga")
+		).resolves.toEqual([]);
+		expect(loader).toHaveBeenCalledOnce();
+		expect(errorSpy).toHaveBeenCalledWith(expect.stringContaining("Failed to load word definition"), expect.any(Error));
+
+		errorSpy.mockRestore();
 	});
 });

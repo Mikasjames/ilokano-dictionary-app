@@ -13,8 +13,13 @@ vi.mock("$lib/dictionary", () => ({
 	wordUrl: (word: string) => `/?word=${encodeURIComponent(word)}`
 }));
 
+vi.mock("svelte-sonner", () => ({
+	toast: { success: vi.fn(), error: vi.fn() }
+}));
+
 import { copyText } from "$lib/clipboard";
 import { loadDefinitions } from "$lib/dictionary";
+import { toast } from "svelte-sonner";
 
 const defs: DefinitionType[] = [
 	{
@@ -48,6 +53,20 @@ beforeEach(() => {
 afterEach(() => {
 	selectionSpy.mockRestore();
 });
+
+function setCoarsePointer() {
+	window.matchMedia = (() =>
+		({
+			matches: true,
+			media: "(any-pointer: coarse)",
+			onchange: null,
+			addListener: () => {},
+			removeListener: () => {},
+			addEventListener: () => {},
+			removeEventListener: () => {},
+			dispatchEvent: () => false
+		})) as typeof window.matchMedia;
+}
 
 describe("SelectionMenu", () => {
 	it("is empty on mount", () => {
@@ -169,5 +188,98 @@ describe("SelectionMenu", () => {
 		fireEvent.keyDown(window, { key: "Escape" });
 
 		expect(screen.queryByRole("button", { name: "Define" })).not.toBeInTheDocument();
+	});
+
+	it("shows an error toast when copying fails", async () => {
+		vi.mocked(copyText).mockRejectedValueOnce(new Error("denied"));
+		selectionSpy.mockReturnValue(fakeSelection("abaga") as unknown as Selection);
+		render(SelectionMenu);
+
+		fireEvent.mouseUp(window);
+		fireEvent.click(await screen.findByRole("button", { name: "Copy" }));
+
+		await waitFor(() => {
+			expect(toast.error).toHaveBeenCalledWith("Could not copy text");
+		});
+	});
+
+	it("closes the menu when a share dialog is dismissed", async () => {
+		Object.defineProperty(navigator, "share", {
+			value: vi.fn().mockRejectedValue(new Error("aborted")),
+			configurable: true
+		});
+		selectionSpy.mockReturnValue(fakeSelection("abaga") as unknown as Selection);
+		render(SelectionMenu);
+
+		fireEvent.mouseUp(window);
+		fireEvent.click(await screen.findByRole("button", { name: "Share" }));
+
+		await waitFor(() => {
+			expect(screen.queryByRole("button", { name: "Define" })).not.toBeInTheDocument();
+		});
+		expect(toast.error).not.toHaveBeenCalled();
+		delete (navigator as { share?: unknown }).share;
+	});
+
+	it("closes the menu when clicking outside the selection root", async () => {
+		selectionSpy.mockReturnValue(fakeSelection("abaga") as unknown as Selection);
+		render(SelectionMenu);
+
+		fireEvent.mouseUp(window);
+		expect(await screen.findByRole("button", { name: "Define" })).toBeInTheDocument();
+
+		fireEvent.pointerDown(document.body);
+
+		expect(screen.queryByRole("button", { name: "Define" })).not.toBeInTheDocument();
+	});
+
+	it("refreshes the anchor position on scroll while open", async () => {
+		selectionSpy.mockReturnValue(fakeSelection("abaga") as unknown as Selection);
+		render(SelectionMenu);
+
+		fireEvent.mouseUp(window);
+		expect(await screen.findByRole("button", { name: "Define" })).toBeInTheDocument();
+
+		fireEvent.scroll(window);
+
+		expect(screen.getByRole("button", { name: "Define" })).toBeInTheDocument();
+	});
+
+	it("lays out the define panel as a bottom sheet on coarse pointers", async () => {
+		setCoarsePointer();
+		vi.mocked(loadDefinitions).mockResolvedValue(defs);
+		selectionSpy.mockReturnValue(fakeSelection("abaga") as unknown as Selection);
+		const { container } = render(SelectionMenu);
+
+		fireEvent.mouseUp(window);
+		fireEvent.click(await screen.findByRole("button", { name: "Define" }));
+
+		await screen.findByText("shoulder");
+		const panel = container.querySelector('div[style*="width: 100%"]');
+		expect(panel).not.toBeNull();
+		expect((panel as HTMLElement).style.bottom).toBe("12px");
+	});
+
+	it("prevents the native context menu on touch outside editable targets", async () => {
+		setCoarsePointer();
+		render(SelectionMenu);
+
+		const event = new MouseEvent("contextmenu", { bubbles: true, cancelable: true });
+		window.dispatchEvent(event);
+
+		expect(event.defaultPrevented).toBe(true);
+	});
+
+	it("allows the context menu on touch for editable targets", async () => {
+		setCoarsePointer();
+		render(SelectionMenu);
+
+		const input = document.createElement("input");
+		document.body.appendChild(input);
+		const event = new MouseEvent("contextmenu", { bubbles: true, cancelable: true });
+		input.dispatchEvent(event);
+
+		expect(event.defaultPrevented).toBe(false);
+		input.remove();
 	});
 });
