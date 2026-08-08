@@ -23,6 +23,13 @@ function findCaseInsensitive(
 }
 
 export async function loadDefinitions(word: string): Promise<Definition[]> {
+	return loadDefinitionsFrom(dicts, word);
+}
+
+export async function loadDefinitionsFrom(
+	dicts: Record<string, () => Promise<{ default: Record<string, Definition[]> }>>,
+	word: string
+): Promise<Definition[]> {
 	try {
 		const letter = letterOf(word);
 		const loader = dicts[`./${letter}.json`];

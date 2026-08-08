@@ -33,20 +33,7 @@ export function buildIndex(libDir = LIB_DIR) {
 	return index;
 }
 
-function main() {
-	const checkOnly = process.argv.includes("--check");
-	const generated = buildIndex();
-	const serialized = JSON.stringify(generated, null, 2);
-
-	let previous = {};
-	let exists = false;
-	try {
-		previous = JSON.parse(readFileSync(INDEX_PATH, "utf8"));
-		exists = true;
-	} catch {
-		// no previous index yet
-	}
-
+export function computeChanges(previous, generated) {
 	const oldWords = new Set(Object.keys(previous));
 	const newWords = new Set(Object.keys(generated));
 
@@ -56,34 +43,68 @@ function main() {
 		.filter((word) => oldWords.has(word) && previous[word][1] !== generated[word][1])
 		.sort();
 
-	console.log(
-		`Generated ${newWords.size} search entries from ${exists ? "letter files" : "sources"} (previously ${oldWords.size}).`
+	return { added, dropped, changedPreviews };
+}
+
+export function diffLines({ previous, generated, exists }) {
+	const { added, dropped, changedPreviews } = computeChanges(previous, generated);
+	const lines = [];
+
+	lines.push(
+		`Generated ${Object.keys(generated).length} search entries from ${exists ? "letter files" : "sources"} (previously ${Object.keys(previous).length}).`
 	);
 	if (added.length)
-		console.log(
+		lines.push(
 			`  added:    ${added.length} ${added.slice(0, 10).join(", ")}${added.length > 10 ? ", ..." : ""}`
 		);
 	if (dropped.length)
-		console.log(
+		lines.push(
 			`  dropped:  ${dropped.length} ${dropped.slice(0, 10).join(", ")}${dropped.length > 10 ? ", ..." : ""}`
 		);
-	if (changedPreviews.length) console.log(`  previews: ${changedPreviews.length} previews updated`);
-	if (!added.length && !dropped.length && !changedPreviews.length) console.log("  no changes");
+	if (changedPreviews.length)
+		lines.push(`  previews: ${changedPreviews.length} previews updated`);
+	if (!added.length && !dropped.length && !changedPreviews.length) lines.push("  no changes");
 
-	if (checkOnly) {
-		const current = readFileSync(INDEX_PATH, "utf8");
-		if (current === serialized) {
-			console.log("search-index.json is up to date.");
-			process.exit(0);
-		}
-		console.error("search-index.json is out of date. Run `pnpm generate:index`.");
-		process.exit(1);
+	return lines;
+}
+
+export function main({
+	argv = process.argv,
+	libDir = LIB_DIR,
+	indexPath = INDEX_PATH,
+	log = console.log,
+	error = console.error
+} = {}) {
+	const checkOnly = argv.includes("--check");
+	const generated = buildIndex(libDir);
+	const serialized = JSON.stringify(generated, null, 2);
+
+	let previous = {};
+	let exists = false;
+	try {
+		previous = JSON.parse(readFileSync(indexPath, "utf8"));
+		exists = true;
+	} catch {
+		// no previous index yet
 	}
 
-	writeFileSync(INDEX_PATH, serialized, "utf8");
-	console.log(`Wrote ${INDEX_PATH}`);
+	for (const line of diffLines({ previous, generated, exists })) log(line);
+
+	if (checkOnly) {
+		const current = readFileSync(indexPath, "utf8");
+		if (current === serialized) {
+			log("search-index.json is up to date.");
+			return 0;
+		}
+		error("search-index.json is out of date. Run `pnpm generate:index`.");
+		return 1;
+	}
+
+	writeFileSync(indexPath, serialized, "utf8");
+	log(`Wrote ${indexPath}`);
+	return 0;
 }
 
 if (import.meta.url === pathToFileURL(process.argv[1] ?? "").href) {
-	main();
+	process.exit(main());
 }
